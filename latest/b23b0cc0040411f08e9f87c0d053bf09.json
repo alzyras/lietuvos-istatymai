@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/b23b0cc0040411f08e9f87c0d053bf09.md",
+  "adopted_date": "2025-03-13",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2025-04-01",
+  "etar_id": "b23b0cc0040411f08e9f87c0d053bf09",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/b23b0cc0040411f08e9f87c0d053bf09.md",
+  "latest_revision": "2025-04-01",
+  "latest_sha256": "b1da98123147d3ee7d305545cad9588d50414750593f550b7fbf8678c63ba3cc",
+  "metadata_path": "latest/b23b0cc0040411f08e9f87c0d053bf09.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/b23b0cc0040411f08e9f87c0d053bf09",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 30 ir 34 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

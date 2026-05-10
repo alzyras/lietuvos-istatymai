@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.90D8CF4E3E9F.md",
+  "adopted_date": "2007-06-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2008-01-01",
+  "etar_id": "TAR.90D8CF4E3E9F",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.90D8CF4E3E9F.md",
+  "latest_revision": "2008-01-01",
+  "latest_sha256": "edd96640ca03e1ccfebbbe96fff5a676511ac1512c44a765a1c00563b0c2ebff",
+  "metadata_path": "latest/TAR.90D8CF4E3E9F.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.90D8CF4E3E9F",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

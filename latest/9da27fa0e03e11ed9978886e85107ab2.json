@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/9da27fa0e03e11ed9978886e85107ab2.md",
+  "adopted_date": "2023-04-20",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2023-05-03",
+  "etar_id": "9da27fa0e03e11ed9978886e85107ab2",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/9da27fa0e03e11ed9978886e85107ab2.md",
+  "latest_revision": "2023-05-03",
+  "latest_sha256": "865323d3104cb2a616525134dcf3115af914e3d382d1399c9f79ecbb6b246102",
+  "metadata_path": "latest/9da27fa0e03e11ed9978886e85107ab2.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/9da27fa0e03e11ed9978886e85107ab2",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

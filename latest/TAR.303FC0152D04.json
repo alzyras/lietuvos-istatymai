@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.303FC0152D04.md",
+  "adopted_date": "2000-07-18",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-01-01",
+  "etar_id": "TAR.303FC0152D04",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.303FC0152D04.md",
+  "latest_revision": "2001-01-01",
+  "latest_sha256": "81495ce0d36cf8197a55b82090a78e87e3a8857a1e8baa4bac83b0de401135e5",
+  "metadata_path": "latest/TAR.303FC0152D04.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos reklamos įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

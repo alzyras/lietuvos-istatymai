@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.72C31F8DD98E.md",
+  "adopted_date": "2000-06-27",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-01-01",
+  "etar_id": "TAR.72C31F8DD98E",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.72C31F8DD98E.md",
+  "latest_revision": "2001-01-01",
+  "latest_sha256": "a4021a29e9d60412a20f638b12cf07283e973215ecc438dc68578f3dee1c5135",
+  "metadata_path": "latest/TAR.72C31F8DD98E.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "etar_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "latest_json_path": {
+      "type": "string"
+    },
+    "latest_path": {
+      "type": "string"
+    },
+    "latest_revision": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "latest_revision_path": {
+      "type": "string"
+    },
+    "latest_sha256": {
+      "pattern": "^[a-f0-9]{64}$",
+      "type": "string"
+    },
+    "parser_version": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "path": {
+      "type": "string"
+    },
+    "sha256": {
+      "pattern": "^[a-f0-9]{64}$",
+      "type": "string"
+    },
+    "source_content_hash": {
+      "pattern": "^[a-f0-9]{64}$",
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "status": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "title": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "type": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "year": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "etar_id",
+    "latest_json_path",
+    "latest_path",
+    "latest_revision",
+    "latest_revision_path",
+    "latest_sha256",
+    "parser_version",
+    "path",
+    "sha256",
+    "source_content_hash",
+    "source_url",
+    "status",
+    "title",
+    "type",
+    "year"
+  ],
+  "title": "aktas",
+  "type": "object"
+}

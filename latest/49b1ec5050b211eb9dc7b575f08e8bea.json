@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/49b1ec5050b211eb9dc7b575f08e8bea.md",
+  "adopted_date": "2020-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-07-01",
+  "etar_id": "49b1ec5050b211eb9dc7b575f08e8bea",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/49b1ec5050b211eb9dc7b575f08e8bea.md",
+  "latest_revision": "2021-07-01",
+  "latest_sha256": "6f49b565a3558c071f7fa2282c4417a2fe178ed8b1ac2d61ec8dcba88eb1115b",
+  "metadata_path": "latest/49b1ec5050b211eb9dc7b575f08e8bea.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/49b1ec5050b211eb9dc7b575f08e8bea",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

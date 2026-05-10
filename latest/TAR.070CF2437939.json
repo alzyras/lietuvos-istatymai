@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.070CF2437939.md",
+  "adopted_date": "2003-12-22",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2004-05-01",
+  "etar_id": "TAR.070CF2437939",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.070CF2437939.md",
+  "latest_revision": "2004-05-01",
+  "latest_sha256": "d19397dd388349ec39b683a9bb8edc8cbd819284952dc72f4f5eca405a2ce3ac",
+  "metadata_path": "latest/TAR.070CF2437939.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.070CF2437939",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Europos ekonominių interesų grupių įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

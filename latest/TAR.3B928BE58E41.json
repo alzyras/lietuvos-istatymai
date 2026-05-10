@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.3B928BE58E41.md",
+  "adopted_date": "2001-02-20",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-03-09",
+  "etar_id": "TAR.3B928BE58E41",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.3B928BE58E41.md",
+  "latest_revision": "2001-03-09",
+  "latest_sha256": "10497a6dc5a255197164f96b536902c06bd6e95ad2f01f4e351c9ab49907fb4b",
+  "metadata_path": "latest/TAR.3B928BE58E41.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.3B928BE58E41",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Prezidento įstatymo 18 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

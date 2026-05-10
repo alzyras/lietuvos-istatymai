@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.0C5C33AA865C.md",
+  "adopted_date": "2000-10-10",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-07-01",
+  "etar_id": "TAR.0C5C33AA865C",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.0C5C33AA865C.md",
+  "latest_revision": "2001-07-01",
+  "latest_sha256": "9011f1b077aa434ca973f0c02a5e0e49a8b6530bfeea0b6284902dde7e5d82f2",
+  "metadata_path": "latest/TAR.0C5C33AA865C.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

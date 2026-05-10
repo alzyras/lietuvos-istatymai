@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/0e5e1bd0670711e7b85cfdc787069b42.md",
+  "adopted_date": "2017-06-29",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-07-13",
+  "etar_id": "0e5e1bd0670711e7b85cfdc787069b42",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/0e5e1bd0670711e7b85cfdc787069b42.md",
+  "latest_revision": "2017-07-13",
+  "latest_sha256": "ea61ef8e20d95f74e5ea6bbe922348d89cf94fe090c334aa570d2073d2501217",
+  "metadata_path": "latest/0e5e1bd0670711e7b85cfdc787069b42.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/0e5e1bd0670711e7b85cfdc787069b42",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos antstolių įstatymo Nr. IX-876 11 ir 12 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

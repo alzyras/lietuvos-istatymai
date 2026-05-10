@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/695ae1904cfd11e7846ef01bfffb9b64.md",
+  "adopted_date": "2017-06-01",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-01-01",
+  "etar_id": "695ae1904cfd11e7846ef01bfffb9b64",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/695ae1904cfd11e7846ef01bfffb9b64.md",
+  "latest_revision": "2018-01-01",
+  "latest_sha256": "d12619b365c91d1154d3aaa3ebaefc0c6276587ed0b5ff512230b0a96a7dd026",
+  "metadata_path": "latest/695ae1904cfd11e7846ef01bfffb9b64.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/695ae1904cfd11e7846ef01bfffb9b64",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

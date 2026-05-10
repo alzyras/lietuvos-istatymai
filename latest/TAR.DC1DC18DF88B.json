@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DC1DC18DF88B.md",
+  "adopted_date": "1998-07-16",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1999-01-01",
+  "etar_id": "TAR.DC1DC18DF88B",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DC1DC18DF88B.md",
+  "latest_revision": "1999-01-01",
+  "latest_sha256": "b385e942e25b5a9487897f860b1d76b502726c3d461f8356ee20c30dd42ddb09",
+  "metadata_path": "latest/TAR.DC1DC18DF88B.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DC1DC18DF88B",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

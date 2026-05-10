@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/1aaf2f60664311e7b85cfdc787069b42.md",
+  "adopted_date": "2017-06-30",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-09-01",
+  "etar_id": "1aaf2f60664311e7b85cfdc787069b42",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/1aaf2f60664311e7b85cfdc787069b42.md",
+  "latest_revision": "2017-09-01",
+  "latest_sha256": "7765de0d02320be7079bc33acf2f9731fa5feec23ee2d742c7fd845c36d70640",
+  "metadata_path": "latest/1aaf2f60664311e7b85cfdc787069b42.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/1aaf2f60664311e7b85cfdc787069b42",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 6 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

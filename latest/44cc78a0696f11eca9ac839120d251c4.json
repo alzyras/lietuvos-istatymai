@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/44cc78a0696f11eca9ac839120d251c4.md",
+  "adopted_date": "2021-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-01-02",
+  "etar_id": "44cc78a0696f11eca9ac839120d251c4",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/44cc78a0696f11eca9ac839120d251c4.md",
+  "latest_revision": "2022-01-02",
+  "latest_sha256": "af2d7f728e02291180df63192a6deb63d7847dc99406d63242b3be21272b370d",
+  "metadata_path": "latest/44cc78a0696f11eca9ac839120d251c4.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/44cc78a0696f11eca9ac839120d251c4",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10 ir 73 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

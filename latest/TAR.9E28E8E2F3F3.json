@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.9E28E8E2F3F3.md",
+  "adopted_date": "1999-11-04",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2002-01-01",
+  "etar_id": "TAR.9E28E8E2F3F3",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.9E28E8E2F3F3.md",
+  "latest_revision": "2002-01-01",
+  "latest_sha256": "da68c02d102ecb15110d9b9c8d8f2d3292b947d68e5979a3197b865913a54ed5",
+  "metadata_path": "latest/TAR.9E28E8E2F3F3.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.9E28E8E2F3F3",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos turto arešto aktų registro įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

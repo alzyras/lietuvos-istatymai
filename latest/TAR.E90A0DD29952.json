@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.E90A0DD29952.md",
+  "adopted_date": "2003-07-01",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2004-01-01",
+  "etar_id": "TAR.E90A0DD29952",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.E90A0DD29952.md",
+  "latest_revision": "2004-01-01",
+  "latest_sha256": "c88e80b3c1c29bf6ab529cd368d20c69a05e9f40f63d24d90ddb9ed6f3fae136",
+  "metadata_path": "latest/TAR.E90A0DD29952.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos loterijų įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

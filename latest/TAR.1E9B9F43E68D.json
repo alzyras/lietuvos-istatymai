@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.1E9B9F43E68D.md",
+  "adopted_date": "2003-06-10",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2004-01-01",
+  "etar_id": "TAR.1E9B9F43E68D",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.1E9B9F43E68D.md",
+  "latest_revision": "2004-01-01",
+  "latest_sha256": "173e7c6205a25870020523562e8826e9ae8a53b1b11321d4c16d4627776687a2",
+  "metadata_path": "latest/TAR.1E9B9F43E68D.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.1E9B9F43E68D",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos atliekų tvarkymo įstatymo 33 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

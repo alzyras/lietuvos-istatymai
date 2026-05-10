@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.EC1980CCE0D9.md",
+  "adopted_date": "2000-09-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-10-04",
+  "etar_id": "TAR.EC1980CCE0D9",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.EC1980CCE0D9.md",
+  "latest_revision": "2000-10-04",
+  "latest_sha256": "1a47e849aac2f69dacbdc1acf2187ff88b90bea16c9481596fa7960c1c98f0df",
+  "metadata_path": "latest/TAR.EC1980CCE0D9.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.EC1980CCE0D9",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos viešųjų įstaigų įstatymo 5 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/a6f97200177611efbcbfb318996800a8.md",
+  "adopted_date": "2024-05-14",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2024-06-01",
+  "etar_id": "a6f97200177611efbcbfb318996800a8",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/a6f97200177611efbcbfb318996800a8.md",
+  "latest_revision": "2024-06-01",
+  "latest_sha256": "532655203a52e3180c27b85c472b03b1c04a6b96d3d24dca6e194b33a6fbbd0b",
+  "metadata_path": "latest/a6f97200177611efbcbfb318996800a8.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/a6f97200177611efbcbfb318996800a8",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 58 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

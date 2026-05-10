@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/6424e630ea9411e99681cd81dcdca52c.md",
+  "adopted_date": "2019-09-26",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-01-01",
+  "etar_id": "6424e630ea9411e99681cd81dcdca52c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/6424e630ea9411e99681cd81dcdca52c.md",
+  "latest_revision": "2020-01-01",
+  "latest_sha256": "d2e467f3e85bf5ac06d293a46e506af2798096dc19a9c37378a0adeb586edb05",
+  "metadata_path": "latest/6424e630ea9411e99681cd81dcdca52c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/6424e630ea9411e99681cd81dcdca52c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 3 ir 36 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

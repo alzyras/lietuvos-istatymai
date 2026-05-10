@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/fcfaa4e034f411e99595d005d42b863e.md",
+  "adopted_date": "2019-02-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2019-09-01",
+  "etar_id": "fcfaa4e034f411e99595d005d42b863e",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/fcfaa4e034f411e99595d005d42b863e.md",
+  "latest_revision": "2019-09-01",
+  "latest_sha256": "13ca7a0b813a04a3395ca5203df90a43f2d8605e93aa3918ba500a6e90499327",
+  "metadata_path": "latest/fcfaa4e034f411e99595d005d42b863e.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/fcfaa4e034f411e99595d005d42b863e",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

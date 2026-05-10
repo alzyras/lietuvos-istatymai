@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/ead5dbc0b2ef11e5b12fbb7dc920ee2c.md",
+  "adopted_date": "2015-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2016-03-01",
+  "etar_id": "ead5dbc0b2ef11e5b12fbb7dc920ee2c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/ead5dbc0b2ef11e5b12fbb7dc920ee2c.md",
+  "latest_revision": "2016-03-01",
+  "latest_sha256": "b97c3506ef3db10b0b22b785d6a1fad5a1c84d91846e4e96afe7f9aefa64150e",
+  "metadata_path": "latest/ead5dbc0b2ef11e5b12fbb7dc920ee2c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/ead5dbc0b2ef11e5b12fbb7dc920ee2c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos civilinio proceso kodekso papildymo 62-1 straipsniu ir 154 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.E010091D4F20.md",
+  "adopted_date": "2010-11-16",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2011-04-01",
+  "etar_id": "TAR.E010091D4F20",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.E010091D4F20.md",
+  "latest_revision": "2011-04-01",
+  "latest_sha256": "c253a863ae76f875f84d513b3a5bbc23450d42e6ca9aaaecc50ca8cdfeeddc56",
+  "metadata_path": "latest/TAR.E010091D4F20.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.E010091D4F20",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos sistemos įstatymo 70 straipsnio pripažinimo netekusiu galios ir įstatymo papildymo 70-1 straipsniu įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

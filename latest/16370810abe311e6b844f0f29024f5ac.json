@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/16370810abe311e6b844f0f29024f5ac.md",
+  "adopted_date": "2016-11-10",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-07-01",
+  "etar_id": "16370810abe311e6b844f0f29024f5ac",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/16370810abe311e6b844f0f29024f5ac.md",
+  "latest_revision": "2017-07-01",
+  "latest_sha256": "813fb4cce1a752ee757ca67a38355399601b6daf930bf4f0d35a8ccd622a2deb",
+  "metadata_path": "latest/16370810abe311e6b844f0f29024f5ac.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/16370810abe311e6b844f0f29024f5ac",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 ir 13 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

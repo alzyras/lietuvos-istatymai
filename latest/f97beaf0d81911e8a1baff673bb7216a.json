@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/f97beaf0d81911e8a1baff673bb7216a.md",
+  "adopted_date": "2018-10-18",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-11-01",
+  "etar_id": "f97beaf0d81911e8a1baff673bb7216a",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/f97beaf0d81911e8a1baff673bb7216a.md",
+  "latest_revision": "2018-11-01",
+  "latest_sha256": "bb61ccdfd8a56731a1803eaf48323352ba37bbc7c7100fbc90f112d01e55e4b4",
+  "metadata_path": "latest/f97beaf0d81911e8a1baff673bb7216a.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/f97beaf0d81911e8a1baff673bb7216a",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 345 straipsnio ir priedo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/4deb6b5049e311eb8d9fe110e148c770.md",
+  "adopted_date": "2020-12-22",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-01-01",
+  "etar_id": "4deb6b5049e311eb8d9fe110e148c770",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/4deb6b5049e311eb8d9fe110e148c770.md",
+  "latest_revision": "2021-01-01",
+  "latest_sha256": "f8234651af1eccbca62c114e5950b49af766a34e9dd3cb70bb07391a2a51a577",
+  "metadata_path": "latest/4deb6b5049e311eb8d9fe110e148c770.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/4deb6b5049e311eb8d9fe110e148c770",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 67 ir 73 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

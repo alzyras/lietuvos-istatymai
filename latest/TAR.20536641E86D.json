@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.20536641E86D.md",
+  "adopted_date": "2003-01-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2003-02-24",
+  "etar_id": "TAR.20536641E86D",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.20536641E86D.md",
+  "latest_revision": "2003-02-24",
+  "latest_sha256": "bf3f7688e9b3cc8ca5fed8295b70b26122aa76f081c97d41cb87fc2507082131",
+  "metadata_path": "latest/TAR.20536641E86D.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.20536641E86D",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Konstitucijos 47 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

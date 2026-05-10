@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/4cb3751000ea11ed8fa7d02a65c371ad.md",
+  "adopted_date": "2022-06-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2023-01-01",
+  "etar_id": "4cb3751000ea11ed8fa7d02a65c371ad",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/4cb3751000ea11ed8fa7d02a65c371ad.md",
+  "latest_revision": "2023-01-01",
+  "latest_sha256": "89c082bdd9364cbe4378dcddb6cc029a5e5c0ad802586d54a18f3803f60586b1",
+  "metadata_path": "latest/4cb3751000ea11ed8fa7d02a65c371ad.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/4cb3751000ea11ed8fa7d02a65c371ad",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 8 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.4B490F21DA3A.md",
+  "adopted_date": "2000-02-17",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-03-08",
+  "etar_id": "TAR.4B490F21DA3A",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.4B490F21DA3A.md",
+  "latest_revision": "2000-03-08",
+  "latest_sha256": "4a02b550fd7bdef1e0b922bf25a80103118840ff92acc21e20550cbb5d380530",
+  "metadata_path": "latest/TAR.4B490F21DA3A.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.4B490F21DA3A",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos investicijų įstatymo 8 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

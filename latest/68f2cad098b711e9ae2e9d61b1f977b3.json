@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/68f2cad098b711e9ae2e9d61b1f977b3.md",
+  "adopted_date": "2019-06-13",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-01-01",
+  "etar_id": "68f2cad098b711e9ae2e9d61b1f977b3",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/68f2cad098b711e9ae2e9d61b1f977b3.md",
+  "latest_revision": "2020-01-01",
+  "latest_sha256": "e7ef25d92b79d8403eb6d03f2d17ffeb29da108cc28629921ac151a2fa26e92c",
+  "metadata_path": "latest/68f2cad098b711e9ae2e9d61b1f977b3.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/68f2cad098b711e9ae2e9d61b1f977b3",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos juridinių asmenų nemokumo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.26B563184529.md",
+  "adopted_date": "1995-12-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1996-01-01",
+  "etar_id": "TAR.26B563184529",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.26B563184529.md",
+  "latest_revision": "1996-01-01",
+  "latest_sha256": "cb0343ccddc2bbee8d6e5b73baf2f6e64b8ddebce3e5ef145489c6db9f3e9151",
+  "metadata_path": "latest/TAR.26B563184529.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.26B563184529",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos teritorijų planavimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

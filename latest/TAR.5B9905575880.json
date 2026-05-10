@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.5B9905575880.md",
+  "adopted_date": "1999-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-01-01",
+  "etar_id": "TAR.5B9905575880",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.5B9905575880.md",
+  "latest_revision": "2000-01-01",
+  "latest_sha256": "f334bc1de09f7c5ff0347cdcb8aafda2a0d5d5bbc471efa6f3392783fa23a37d",
+  "metadata_path": "latest/TAR.5B9905575880.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.5B9905575880",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymo 9 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

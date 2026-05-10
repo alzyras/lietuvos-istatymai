@@ -1,0 +1,99 @@
+---
+tipas: "naujausia_redakcija"
+etar_id: "TAR.9BBFFBF8A7B6"
+pavadinimas: "Lietuvos Respublikos sveikatos sistemos įstatymo 75 straipsnio pakeitimo ir 79 straipsnio pripažinimo netekusiu galios įstatymas"
+rusis: "Įstatymas"
+busena: "galioja"
+latest_revision: "2012-11-22"
+latest_path: "latest/TAR.9BBFFBF8A7B6.md"
+latest_sha256: "1a61512511a9f1c0f5af6109cd9346abf0274237f5a97bd190104c9162fc2906"
+parser_version: "0.1.0"
+---
+# Lietuvos Respublikos sveikatos sistemos įstatymo 75 straipsnio pakeitimo ir 79 straipsnio pripažinimo netekusiu galios įstatymas
+
+Šis failas yra stabili `latest` nuoroda pagal TAR dokumento ID. Oficialus šaltinis išlieka TAR.
+
+## Nuorodos
+
+- Latest JSON: `latest/TAR.9BBFFBF8A7B6.json`
+- Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.9BBFFBF8A7B6
+
+## Oficialus tekstas
+
+LIETUVOS RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 75 STRAIPSNIO PAKEITIMO
+IR 79 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+
+
+LIETUVOS RESPUBLIKOS
+SVEIKATOS SISTEMOS ĮSTATYMO 75 STRAIPSNIO PAKEITIMO IR 79 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
+ĮSTATYMAS
+
+2012 m. lapkričio 6 d. Nr. XI-2369
+Vilnius
+
+(Žin., 1994, Nr. 63-1231; 1998, Nr. 112-3099; 2003, Nr. 32-1312)
+
+
+
+### 1 straipsnis. 75 straipsnio pakeitimas
+
+
+Pakeisti 75 straipsnį ir jį išdėstyti taip:
+
+
+„75 straipsnis. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos
+
+
+1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos yra Vyriausybės įsteigta įstaiga. Vyriausybė paveda Sveikatos apsaugos ministerijai įgyvendinti jos, kaip savininkės, teises ir pareigas (išskyrus sprendimo dėl Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos reorganizavimo ir likvidavimo priėmimą, kurį priima Vyriausybė). Tarnyba yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga. ^109bb32f0b85056469bc5dcb
+
+
+2. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos: ^413d08b1b029f7826e798225
+
+
+1) dalyvauja formuojant valstybės politiką asmenų licencijavimo sveikatos priežiūros veiklai, sveikatos priežiūros technologijų atitikties teisės aktų reikalavimams vertinimo, medicinos prietaisų atitikties būtiniesiems reikalavimams vertinimo, sveikatos priežiūros paslaugų kokybės, pacientų saugos srityse ir ją įgyvendina; ^ab8e7ffc369205c8b9186c2f
+
+
+2) akredituoja juridinius asmenis sveikatos priežiūros veiklai; ^2d7f7ef2d7bebf79240db8be
+
+
+3) licencijuoja asmenis sveikatos priežiūros veiklai; ^9f0069dfd427f462811f4b0e
+
+
+4) pagal kompetenciją rengia sveikatos priežiūros veiklą reglamentuojančių teisės aktų projektus; ^078ec5fb268078ec694fde03
+
+
+5) teisės aktų nustatyta tvarka vykdo Sveikatos apsaugos ministerijos įgaliotos institucijos valdymo funkcijas medicinos prietaisų atitikties įvertinimo srityje; ^0cb98fc8245d41d0d8081553
+
+
+6) atlieka asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio efektyvumo priežiūrą; ^b420e7438e024e92fe251617
+
+
+7) prižiūri, kaip fiziniai ir juridiniai asmenys laikosi standartizacijos norminių dokumentų reikalavimų sveikatos priežiūros kokybės klausimais; ^43f008670178e16b6bcf0424
+
+
+8) registruoja teikiamus rinkai medicinos prietaisus, išduoda asmenims teikimus atlikti medicinos prietaisų klinikinius tyrimus, pažymėjimus, suteikiančius asmenims teisę atlikti medicinos prietaisų techninės būklės tikrinimą, taip pat medicinos prietaisų laisvos prekybos pažymėjimus; ^127ae0479989ba92ada53853
+
+
+9) vykdo įstatymuose ir Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos nuostatuose nustatytas kitas funkcijas. ^7e5b3c177def7031f21eaa3e
+
+
+3. Už [[#^127ae0479989ba92ada53853|šio straipsnio 2 dalies 8 punkte]] nurodytus veiksmus imama nustatyto dydžio valstybės rinkliava. Už kitas [[#^413d08b1b029f7826e798225|šio straipsnio 2 dalyje]] vykdomas funkcijas imama nustatyto dydžio valstybės rinkliava, jei tai numato kiti įstatymai.“ ^46cbf239aab0220dbf2e35ca
+
+
+
+
+### 2 straipsnis. 79 straipsnio pripažinimas netekusiu galios
+
+
+79 straipsnį pripažinti netekusiu galios.
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+
+
+_________________

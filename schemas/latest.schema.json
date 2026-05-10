@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "act_path": {
+      "type": "string"
+    },
+    "etar_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "latest_path": {
+      "type": "string"
+    },
+    "latest_revision": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "latest_sha256": {
+      "pattern": "^[a-f0-9]{64}$",
+      "type": "string"
+    },
+    "metadata_path": {
+      "type": "string"
+    },
+    "parser_version": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "revision_count": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "status": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "title": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "type": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "updated_from_source_at": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "act_path",
+    "etar_id",
+    "latest_path",
+    "latest_revision",
+    "latest_sha256",
+    "metadata_path",
+    "parser_version",
+    "revision_count",
+    "source_url",
+    "status",
+    "title",
+    "type",
+    "updated_from_source_at"
+  ],
+  "title": "latest",
+  "type": "object"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/5fe089e0629911e99676cb74c51fe1f4.md",
+  "adopted_date": "2019-04-11",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2019-05-01",
+  "etar_id": "5fe089e0629911e99676cb74c51fe1f4",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/5fe089e0629911e99676cb74c51fe1f4.md",
+  "latest_revision": "2019-05-01",
+  "latest_sha256": "37e67b69b0b7a0bee77191927c85ec201dfb3633f79fa5fcc1ed2e2b4f63a55d",
+  "metadata_path": "latest/5fe089e0629911e99676cb74c51fe1f4.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/5fe089e0629911e99676cb74c51fe1f4",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

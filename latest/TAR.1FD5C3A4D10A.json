@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.1FD5C3A4D10A.md",
+  "adopted_date": "2003-10-14",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2004-01-01",
+  "etar_id": "TAR.1FD5C3A4D10A",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.1FD5C3A4D10A.md",
+  "latest_revision": "2004-01-01",
+  "latest_sha256": "9d0b059837891b1abb7494b4a3e2de8e7e6f1b56cd507a1e1f10a8e96c218c8e",
+  "metadata_path": "latest/TAR.1FD5C3A4D10A.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

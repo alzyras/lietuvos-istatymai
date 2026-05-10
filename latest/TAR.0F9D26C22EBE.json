@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.0F9D26C22EBE.md",
+  "adopted_date": "2010-04-13",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2010-07-01",
+  "etar_id": "TAR.0F9D26C22EBE",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.0F9D26C22EBE.md",
+  "latest_revision": "2010-07-01",
+  "latest_sha256": "8c8c040542c2d4205a4cf80b28e9c3b928e7d71a60fe9349a0efb90e5a7ec9b1",
+  "metadata_path": "latest/TAR.0F9D26C22EBE.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.0F9D26C22EBE",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos baudžiamojo kodekso 46 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

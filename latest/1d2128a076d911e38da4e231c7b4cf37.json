@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/1d2128a076d911e38da4e231c7b4cf37.md",
+  "adopted_date": "2013-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2014-01-07",
+  "etar_id": "1d2128a076d911e38da4e231c7b4cf37",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/1d2128a076d911e38da4e231c7b4cf37.md",
+  "latest_revision": "2014-01-07",
+  "latest_sha256": "24a12e9d1cd1ec79b88df049fafc129ac5836b852ba1dfe00abc0b05f148a316",
+  "metadata_path": "latest/1d2128a076d911e38da4e231c7b4cf37.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/1d2128a076d911e38da4e231c7b4cf37",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vietos savivaldos įstatymo 21 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/a46e6180052e11e588da8908dfa91cac.md",
+  "adopted_date": "2015-05-19",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-05-29",
+  "etar_id": "a46e6180052e11e588da8908dfa91cac",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/a46e6180052e11e588da8908dfa91cac.md",
+  "latest_revision": "2015-05-29",
+  "latest_sha256": "440d1cc7605e560c97f84b425c9f5041e180ff6c0e33f5c3e500962d5a749ed0",
+  "metadata_path": "latest/a46e6180052e11e588da8908dfa91cac.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/a46e6180052e11e588da8908dfa91cac",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 48-1 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

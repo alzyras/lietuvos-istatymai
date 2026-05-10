@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/7f02f5703ee611e7b66ae890e1368363.md",
+  "adopted_date": "2017-05-09",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-01-01",
+  "etar_id": "7f02f5703ee611e7b66ae890e1368363",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/7f02f5703ee611e7b66ae890e1368363.md",
+  "latest_revision": "2018-01-01",
+  "latest_sha256": "7f2453f1462771ee9368a322e8eb4d16676101be555b1c9d2cd7faed59887e04",
+  "metadata_path": "latest/7f02f5703ee611e7b66ae890e1368363.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/7f02f5703ee611e7b66ae890e1368363",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 11 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

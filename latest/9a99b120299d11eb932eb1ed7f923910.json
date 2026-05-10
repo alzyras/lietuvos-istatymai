@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/9a99b120299d11eb932eb1ed7f923910.md",
+  "adopted_date": "2020-11-05",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-11-19",
+  "etar_id": "9a99b120299d11eb932eb1ed7f923910",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/9a99b120299d11eb932eb1ed7f923910.md",
+  "latest_revision": "2020-11-19",
+  "latest_sha256": "e9bdfd7306edbef249ac0872e911a3bb9db58a87e4a7c68ba5205982e7891ae8",
+  "metadata_path": "latest/9a99b120299d11eb932eb1ed7f923910.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/9a99b120299d11eb932eb1ed7f923910",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos valstybių narių ir Australijos bendrojo susitarimo ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

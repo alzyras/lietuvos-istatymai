@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.990F3139C625.md",
+  "adopted_date": "2011-12-01",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2012-07-01",
+  "etar_id": "TAR.990F3139C625",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.990F3139C625.md",
+  "latest_revision": "2012-07-01",
+  "latest_sha256": "11df46357425bd032f48626e670440e8b25320035d224424fe9009b638d2bd28",
+  "metadata_path": "latest/TAR.990F3139C625.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.990F3139C625",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo 12 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

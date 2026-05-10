@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.4A6B5DC1000A.md",
+  "adopted_date": "2000-11-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-12-20",
+  "etar_id": "TAR.4A6B5DC1000A",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.4A6B5DC1000A.md",
+  "latest_revision": "2000-12-20",
+  "latest_sha256": "1dce4c41ffb32ff63ad25ccbc43bfb9e7163ee5723a5d833c920ce6c2237cd08",
+  "metadata_path": "latest/TAR.4A6B5DC1000A.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.4A6B5DC1000A",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos ir Armėnijos Respublikos sutarties dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

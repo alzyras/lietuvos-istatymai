@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/0805ee606b1111e4ac4be294a47d7c1f.md",
+  "adopted_date": "2014-11-06",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-05-01",
+  "etar_id": "0805ee606b1111e4ac4be294a47d7c1f",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/0805ee606b1111e4ac4be294a47d7c1f.md",
+  "latest_revision": "2015-05-01",
+  "latest_sha256": "06960d988fb088d6f3ea414375aecc4bc785504988fb52b68796619a70b670c0",
+  "metadata_path": "latest/0805ee606b1111e4ac4be294a47d7c1f.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/0805ee606b1111e4ac4be294a47d7c1f",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 57 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

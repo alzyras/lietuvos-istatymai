@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/bc536812afcb11f092fda1fd0c194cc5.md",
+  "adopted_date": "2025-10-16",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2025-11-02",
+  "etar_id": "bc536812afcb11f092fda1fd0c194cc5",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/bc536812afcb11f092fda1fd0c194cc5.md",
+  "latest_revision": "2025-11-02",
+  "latest_sha256": "81f133e3308bfc4f798879029d17b73b384047a1177b6fb7c32ba341236b4f70",
+  "metadata_path": "latest/bc536812afcb11f092fda1fd0c194cc5.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/bc536812afcb11f092fda1fd0c194cc5",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3 ir 54 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

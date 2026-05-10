@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/79453090ef0511e4927fda1d051299fb.md",
+  "adopted_date": "2015-04-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-06-01",
+  "etar_id": "79453090ef0511e4927fda1d051299fb",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/79453090ef0511e4927fda1d051299fb.md",
+  "latest_revision": "2015-06-01",
+  "latest_sha256": "6ed9f44c8cf7e9a29b562e008cfa2b9e1a5d15e330fb881cecf761bc23dccb6c",
+  "metadata_path": "latest/79453090ef0511e4927fda1d051299fb.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/79453090ef0511e4927fda1d051299fb",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 8, 9 ir 12 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

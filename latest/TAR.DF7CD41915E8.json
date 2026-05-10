@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DF7CD41915E8.md",
+  "adopted_date": "2000-06-27",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-01-01",
+  "etar_id": "TAR.DF7CD41915E8",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DF7CD41915E8.md",
+  "latest_revision": "2001-01-01",
+  "latest_sha256": "c52a225ae2f43a1f80eb236308b4387fc777a6ef7632c82fd66a61cee13cc1de",
+  "metadata_path": "latest/TAR.DF7CD41915E8.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DF7CD41915E8",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos nekilnojamojo turto registro įstatymo 5, 12, 16, 22, 29, 31, 42 straipsnių pakeitimo ir papildymo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

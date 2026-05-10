@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.2B41414FEF9E.md",
+  "adopted_date": "2012-06-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2012-07-04",
+  "etar_id": "TAR.2B41414FEF9E",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.2B41414FEF9E.md",
+  "latest_revision": "2012-07-04",
+  "latest_sha256": "488dc8ece5d02834867872cceb9c485bc34a3a93de9b3d8582c3f5e8d50de091",
+  "metadata_path": "latest/TAR.2B41414FEF9E.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.2B41414FEF9E",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Europos Tarybos konvencijos dėl veiksmų prieš prekybą žmonėmis ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,59 @@
+---
+tipas: "naujausia_redakcija"
+etar_id: "TAR.E047B04C4DED"
+pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas"
+rusis: "Įstatymas"
+busena: "galioja"
+latest_revision: "2013-12-05"
+latest_path: "latest/TAR.E047B04C4DED.md"
+latest_sha256: "f29930662b208c6063bfab0c291bcd6e3108d229c67f16dee57ba7c0ceffb570"
+parser_version: "0.1.0"
+---
+# Lietuvos Respublikos biudžeto sandaros įstatymo 4 straipsnio pakeitimo įstatymas
+
+Šis failas yra stabili `latest` nuoroda pagal TAR dokumento ID. Oficialus šaltinis išlieka TAR.
+
+## Nuorodos
+
+- Latest JSON: `latest/TAR.E047B04C4DED.json`
+- Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E047B04C4DED
+
+## Oficialus tekstas
+
+LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+
+
+LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2013 m. lapkričio 21 d. Nr. XII-609
+Vilnius
+
+(Žin., 1990, Nr. 24-596; 2004, Nr. 4-47; 2008, Nr. 81-3191; 2009, Nr. 134-5831;  2010, Nr. 153-7781; 2011, Nr. 86-4176; 2013, Nr. 11-508)
+
+
+
+### 1 straipsnis. 4 straipsnio 3 dalies 5 punkto pakeitimas
+
+
+4 straipsnio 3 dalies 5 punkte po žodžių „Lietuvos nacionalinis dramos teatras“ įrašyti žodžius „Nacionalinis Kauno dramos teatras“ ir šį punktą išdėstyti taip:
+
+
+„5) Lietuvos nacionalinis operos ir baleto teatras, Lietuvos nacionalinis dramos teatras, Nacionalinis Kauno dramos teatras, Lietuvos nacionalinė filharmonija, Lietuvos nacionalinis muziejus, Lietuvos dailės muziejus, Nacionalinis  m. K. Čiurlionio dailės muziejus, Nacionalinis muziejus Lietuvos Didžiosios Kunigaikštystės valdovų rūmai, Lietuvos nacionalinė Martyno Mažvydo biblioteka, Lietuvos nacionalinis radijas ir televizija.“
+
+
+
+### 2 straipsnis. Įstatymo taikymas
+
+
+Šio įstatymo nuostatos taikomos rengiant Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+
+
+
+_________________

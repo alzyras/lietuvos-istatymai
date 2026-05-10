@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/61046100037411edb32c9f9d8ba206f8.md",
+  "adopted_date": "2022-06-30",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-09-01",
+  "etar_id": "61046100037411edb32c9f9d8ba206f8",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/61046100037411edb32c9f9d8ba206f8.md",
+  "latest_revision": "2022-09-01",
+  "latest_sha256": "091b71ed155d2479c27851b4f1875a469d51bf7b1aba4793b83d38164d6aac91",
+  "metadata_path": "latest/61046100037411edb32c9f9d8ba206f8.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/61046100037411edb32c9f9d8ba206f8",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir 47 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

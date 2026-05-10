@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/1065b942042011edb32c9f9d8ba206f8.md",
+  "adopted_date": "2022-06-30",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2023-01-03",
+  "etar_id": "1065b942042011edb32c9f9d8ba206f8",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/1065b942042011edb32c9f9d8ba206f8.md",
+  "latest_revision": "2023-01-03",
+  "latest_sha256": "986058715e23d35e7ac1d2ac320de0426911070beb42c951e695b4e0d7b27f73",
+  "metadata_path": "latest/1065b942042011edb32c9f9d8ba206f8.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/1065b942042011edb32c9f9d8ba206f8",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 69 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

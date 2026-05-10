@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/4cc053f0d89d11eb9f09e7df20500045.md",
+  "adopted_date": "2021-06-17",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-06-30",
+  "etar_id": "4cc053f0d89d11eb9f09e7df20500045",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/4cc053f0d89d11eb9f09e7df20500045.md",
+  "latest_revision": "2021-06-30",
+  "latest_sha256": "b9684c2a30cbed40ec25939e80c4795aa203e91abaf2b57669140e2b5aeda82a",
+  "metadata_path": "latest/4cc053f0d89d11eb9f09e7df20500045.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/4cc053f0d89d11eb9f09e7df20500045",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/00cf5f407eb911e8ae2bfd1913d66d57.md",
+  "adopted_date": "2018-06-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-09-01",
+  "etar_id": "00cf5f407eb911e8ae2bfd1913d66d57",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/00cf5f407eb911e8ae2bfd1913d66d57.md",
+  "latest_revision": "2018-09-01",
+  "latest_sha256": "725b86f9fdce5b2252c1fb0199a068f342394786b51a8edb9042c99388f8cff2",
+  "metadata_path": "latest/00cf5f407eb911e8ae2bfd1913d66d57.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/00cf5f407eb911e8ae2bfd1913d66d57",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

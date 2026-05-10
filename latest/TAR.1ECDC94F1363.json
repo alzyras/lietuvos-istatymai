@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.1ECDC94F1363.md",
+  "adopted_date": "2000-03-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-05-05",
+  "etar_id": "TAR.1ECDC94F1363",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.1ECDC94F1363.md",
+  "latest_revision": "2000-05-05",
+  "latest_sha256": "7771f35b5eac56e4067e5bafa0e25e2d5b59057972fb7a6e08684f64b4ee80ff",
+  "metadata_path": "latest/TAR.1ECDC94F1363.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.1ECDC94F1363",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Vyriausybės ir Tarptautinės atominės energijos agentūros susitarimo dėl garantijų taikymo papildomojo protokolo ratifikavimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

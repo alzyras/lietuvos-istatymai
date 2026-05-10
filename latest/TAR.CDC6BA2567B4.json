@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.CDC6BA2567B4.md",
+  "adopted_date": "2012-10-02",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2013-01-01",
+  "etar_id": "TAR.CDC6BA2567B4",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.CDC6BA2567B4.md",
+  "latest_revision": "2013-01-01",
+  "latest_sha256": "ee4c5b85f631d57112d8e6eea72c464040ce82e07753de31dc1cdd3c0a8a2cbd",
+  "metadata_path": "latest/TAR.CDC6BA2567B4.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.CDC6BA2567B4",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos baudžiamojo proceso kodekso 77-2, 170 ir 181 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

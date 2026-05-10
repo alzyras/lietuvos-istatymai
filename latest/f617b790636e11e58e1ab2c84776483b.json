@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/f617b790636e11e58e1ab2c84776483b.md",
+  "adopted_date": "2015-09-17",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2016-01-01",
+  "etar_id": "f617b790636e11e58e1ab2c84776483b",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/f617b790636e11e58e1ab2c84776483b.md",
+  "latest_revision": "2016-01-01",
+  "latest_sha256": "b935b2a8252cbf7fc19352bacf0c5947844cf4a03891a15ba296ec90f07a1367",
+  "metadata_path": "latest/f617b790636e11e58e1ab2c84776483b.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/f617b790636e11e58e1ab2c84776483b",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 52 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

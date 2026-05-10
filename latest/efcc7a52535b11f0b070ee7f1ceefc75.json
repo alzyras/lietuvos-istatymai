@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/efcc7a52535b11f0b070ee7f1ceefc75.md",
+  "adopted_date": "2025-06-26",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2026-01-01",
+  "etar_id": "efcc7a52535b11f0b070ee7f1ceefc75",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/efcc7a52535b11f0b070ee7f1ceefc75.md",
+  "latest_revision": "2026-01-01",
+  "latest_sha256": "3cfc9b63eb0616b7be3301d419e620e06e2b095721d49c4cabf09efdd3bc9115",
+  "metadata_path": "latest/efcc7a52535b11f0b070ee7f1ceefc75.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/efcc7a52535b11f0b070ee7f1ceefc75",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

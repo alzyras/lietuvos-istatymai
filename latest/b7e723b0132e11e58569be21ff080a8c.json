@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/b7e723b0132e11e58569be21ff080a8c.md",
+  "adopted_date": "2015-06-09",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-09-01",
+  "etar_id": "b7e723b0132e11e58569be21ff080a8c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/b7e723b0132e11e58569be21ff080a8c.md",
+  "latest_revision": "2015-09-01",
+  "latest_sha256": "1bd32f9476ba9abd1a4aa213763fbbab08799de28d6cc9868394fd0129993c29",
+  "metadata_path": "latest/b7e723b0132e11e58569be21ff080a8c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/b7e723b0132e11e58569be21ff080a8c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 18 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

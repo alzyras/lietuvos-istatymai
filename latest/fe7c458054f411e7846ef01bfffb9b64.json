@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/fe7c458054f411e7846ef01bfffb9b64.md",
+  "adopted_date": "2017-06-13",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-07-01",
+  "etar_id": "fe7c458054f411e7846ef01bfffb9b64",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/fe7c458054f411e7846ef01bfffb9b64.md",
+  "latest_revision": "2017-07-01",
+  "latest_sha256": "14ccdf795920e8f35c72a6f79dc10267764c405e4c24f9526597d613e467848f",
+  "metadata_path": "latest/fe7c458054f411e7846ef01bfffb9b64.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/fe7c458054f411e7846ef01bfffb9b64",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 10 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/a3490b306b3611e99989e603c54a3595.md",
+  "adopted_date": "2019-04-26",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2019-05-01",
+  "etar_id": "a3490b306b3611e99989e603c54a3595",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/a3490b306b3611e99989e603c54a3595.md",
+  "latest_revision": "2019-05-01",
+  "latest_sha256": "22596202fe3008b33a7c93e3744a2715c5e052bd97535879ff9cf754abd7a1ca",
+  "metadata_path": "latest/a3490b306b3611e99989e603c54a3595.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/a3490b306b3611e99989e603c54a3595",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Susitarimo dėl Europos molekulinės biologijos laboratorijos įkūrimo ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/b50283901b3c11ea8e248c77339e1836.md",
+  "adopted_date": "2019-11-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-01-01",
+  "etar_id": "b50283901b3c11ea8e248c77339e1836",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/b50283901b3c11ea8e248c77339e1836.md",
+  "latest_revision": "2020-01-01",
+  "latest_sha256": "1e2c702f95a7fd8806f56f8c29c3be86852842e745f002eceac00bbee691f2aa",
+  "metadata_path": "latest/b50283901b3c11ea8e248c77339e1836.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/b50283901b3c11ea8e248c77339e1836",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 93, 544 ir 589 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

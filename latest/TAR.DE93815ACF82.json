@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DE93815ACF82.md",
+  "adopted_date": "2011-06-20",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2012-01-01",
+  "etar_id": "TAR.DE93815ACF82",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DE93815ACF82.md",
+  "latest_revision": "2012-01-01",
+  "latest_sha256": "5943fdac911708604a78ec6b688e29d6084c9eb799826b93c2c0198d3eeaee0d",
+  "metadata_path": "latest/TAR.DE93815ACF82.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DE93815ACF82",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos savitarpio pagalbos išieškant mokesčius įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

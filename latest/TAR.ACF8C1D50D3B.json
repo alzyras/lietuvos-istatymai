@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.ACF8C1D50D3B.md",
+  "adopted_date": "1995-06-13",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1995-06-28",
+  "etar_id": "TAR.ACF8C1D50D3B",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.ACF8C1D50D3B.md",
+  "latest_revision": "1995-06-28",
+  "latest_sha256": "bc696ef380f671f47f6a69e004573d8c9c814b167c48ca0430c7f2cf89846b6e",
+  "metadata_path": "latest/TAR.ACF8C1D50D3B.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.ACF8C1D50D3B",
+  "status": "galioja",
+  "title": "Dėl Lietuvos Respublikos melioracijos įstatymo pakeitimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

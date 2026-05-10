@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.41CD8BF53D8D.md",
+  "adopted_date": "2000-06-13",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-01-01",
+  "etar_id": "TAR.41CD8BF53D8D",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.41CD8BF53D8D.md",
+  "latest_revision": "2001-01-01",
+  "latest_sha256": "269a582411722419cfa921be4f97c5c93590301f66a155c7213eb77d71c4d2b3",
+  "metadata_path": "latest/TAR.41CD8BF53D8D.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos rinkliavų įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

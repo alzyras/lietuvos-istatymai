@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/db1e32201b3411ea8e248c77339e1836.md",
+  "adopted_date": "2019-11-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-05-01",
+  "etar_id": "db1e32201b3411ea8e248c77339e1836",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/db1e32201b3411ea8e248c77339e1836.md",
+  "latest_revision": "2020-05-01",
+  "latest_sha256": "ae6d2a84fd54d2d6d6e6c0b232adccc6a4f43075a28a375365cc44e25845d520",
+  "metadata_path": "latest/db1e32201b3411ea8e248c77339e1836.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/db1e32201b3411ea8e248c77339e1836",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 2 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

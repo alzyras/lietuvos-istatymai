@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/92b72370540811ec862fdcbc8b3e3e05.md",
+  "adopted_date": "2021-11-25",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-01-01",
+  "etar_id": "92b72370540811ec862fdcbc8b3e3e05",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/92b72370540811ec862fdcbc8b3e3e05.md",
+  "latest_revision": "2022-01-01",
+  "latest_sha256": "732a4eb19ab2491a5798beb350448bb82578d31c08ce1712bb99e7a4b547c698",
+  "metadata_path": "latest/92b72370540811ec862fdcbc8b3e3e05.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/92b72370540811ec862fdcbc8b3e3e05",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

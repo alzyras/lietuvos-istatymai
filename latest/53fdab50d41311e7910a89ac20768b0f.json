@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/53fdab50d41311e7910a89ac20768b0f.md",
+  "adopted_date": "2017-11-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-07-01",
+  "etar_id": "53fdab50d41311e7910a89ac20768b0f",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/53fdab50d41311e7910a89ac20768b0f.md",
+  "latest_revision": "2018-07-01",
+  "latest_sha256": "6c68571a1164c5f419ad77ca2920cca776945e9e7d39fa905a9a438518ad3cf2",
+  "metadata_path": "latest/53fdab50d41311e7910a89ac20768b0f.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/53fdab50d41311e7910a89ac20768b0f",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 14 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

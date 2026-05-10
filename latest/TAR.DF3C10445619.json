@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DF3C10445619.md",
+  "adopted_date": "2000-09-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-11-03",
+  "etar_id": "TAR.DF3C10445619",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DF3C10445619.md",
+  "latest_revision": "2000-11-03",
+  "latest_sha256": "7127eb8e8124ae32b5df254f57809108603a6626b2b5db95f56dc014f1e0c78b",
+  "metadata_path": "latest/TAR.DF3C10445619.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DF3C10445619",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl 1959 metų Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo trečiojo protokolo ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

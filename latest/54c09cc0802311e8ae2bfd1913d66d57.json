@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/54c09cc0802311e8ae2bfd1913d66d57.md",
+  "adopted_date": "2018-06-29",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-11-01",
+  "etar_id": "54c09cc0802311e8ae2bfd1913d66d57",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/54c09cc0802311e8ae2bfd1913d66d57.md",
+  "latest_revision": "2018-11-01",
+  "latest_sha256": "bfde4a4f8ba58eba29016c613ccc1c036607b07a04e4e4a1cd0d7cecb91fa276",
+  "metadata_path": "latest/54c09cc0802311e8ae2bfd1913d66d57.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/54c09cc0802311e8ae2bfd1913d66d57",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

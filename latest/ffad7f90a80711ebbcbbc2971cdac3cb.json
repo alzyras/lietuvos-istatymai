@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/ffad7f90a80711ebbcbbc2971cdac3cb.md",
+  "adopted_date": "2021-04-22",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-04-29",
+  "etar_id": "ffad7f90a80711ebbcbbc2971cdac3cb",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/ffad7f90a80711ebbcbbc2971cdac3cb.md",
+  "latest_revision": "2021-04-29",
+  "latest_sha256": "1b88d44353a8a17e29ea2a338aa583d766919c5a99086676fff4a962758cdd3e",
+  "metadata_path": "latest/ffad7f90a80711ebbcbbc2971cdac3cb.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/ffad7f90a80711ebbcbbc2971cdac3cb",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 20 ir 21 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/c3bd7f809c0f11ea9515f752ff221ec9.md",
+  "adopted_date": "2020-05-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-07-01",
+  "etar_id": "c3bd7f809c0f11ea9515f752ff221ec9",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/c3bd7f809c0f11ea9515f752ff221ec9.md",
+  "latest_revision": "2020-07-01",
+  "latest_sha256": "92877e7c2e5bf82104869782559ce5a5a4a6fca4159db90df66645c3c8746073",
+  "metadata_path": "latest/c3bd7f809c0f11ea9515f752ff221ec9.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/c3bd7f809c0f11ea9515f752ff221ec9",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 priedo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

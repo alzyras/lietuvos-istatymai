@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/eafe76b098f611e58fd1fc0b9bba68a7.md",
+  "adopted_date": "2015-11-24",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-12-03",
+  "etar_id": "eafe76b098f611e58fd1fc0b9bba68a7",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/eafe76b098f611e58fd1fc0b9bba68a7.md",
+  "latest_revision": "2015-12-03",
+  "latest_sha256": "c5460df5c3b8dc37b68a1815c542e8d6171817c2aaa3c0630db4c1746e4e014e",
+  "metadata_path": "latest/eafe76b098f611e58fd1fc0b9bba68a7.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/eafe76b098f611e58fd1fc0b9bba68a7",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos civilinio kodekso 6.116 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

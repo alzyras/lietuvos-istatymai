@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.FD5EB5F56A1C.md",
+  "adopted_date": "2012-06-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2012-07-04",
+  "etar_id": "TAR.FD5EB5F56A1C",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.FD5EB5F56A1C.md",
+  "latest_revision": "2012-07-04",
+  "latest_sha256": "993a712ee001ffa91a50e8777f8720a91b82c457ab24b825d470ca3940d2b349",
+  "metadata_path": "latest/TAR.FD5EB5F56A1C.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.FD5EB5F56A1C",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Belgijos Karalystės, Bulgarijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos, Maltos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės sutarties dėl stabilumo, koordinavimo ir valdysenos ekonominėje ir pinigų sąjungoje ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

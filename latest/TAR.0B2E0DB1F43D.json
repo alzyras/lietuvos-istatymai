@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.0B2E0DB1F43D.md",
+  "adopted_date": "2009-11-19",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2009-12-05",
+  "etar_id": "TAR.0B2E0DB1F43D",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.0B2E0DB1F43D.md",
+  "latest_revision": "2009-12-05",
+  "latest_sha256": "c900d42495c01498ae822bc6b53d195d3f1a58124c60fd40914f5e12a3519149",
+  "metadata_path": "latest/TAR.0B2E0DB1F43D.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.0B2E0DB1F43D",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybės kontrolės įstatymo 14 straipsnio papildymo ir pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

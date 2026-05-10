@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/179a62f286d311efabdbb4a1fc8b0b63.md",
+  "adopted_date": "2024-10-03",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2025-01-01",
+  "etar_id": "179a62f286d311efabdbb4a1fc8b0b63",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/179a62f286d311efabdbb4a1fc8b0b63.md",
+  "latest_revision": "2025-01-01",
+  "latest_sha256": "3c9d0923fce17ad8643fec1248ff3190e053d019ff4ada0d667c910961318873",
+  "metadata_path": "latest/179a62f286d311efabdbb4a1fc8b0b63.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/179a62f286d311efabdbb4a1fc8b0b63",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Europos ekonominių interesų grupių įstatymo Nr. IX-1939 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

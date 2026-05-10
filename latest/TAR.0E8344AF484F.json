@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.0E8344AF484F.md",
+  "adopted_date": "2010-04-27",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2010-05-11",
+  "etar_id": "TAR.0E8344AF484F",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.0E8344AF484F.md",
+  "latest_revision": "2010-05-11",
+  "latest_sha256": "a900585da2c6495eddd9b0117d380a674a5c8aa691e1366a3daa515887ed0e32",
+  "metadata_path": "latest/TAR.0E8344AF484F.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.0E8344AF484F",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos geodezijos ir kartografijos įstatymo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

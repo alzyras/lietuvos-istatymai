@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/f98535e0406a11eb8d9fe110e148c770.md",
+  "adopted_date": "2020-12-10",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-12-18",
+  "etar_id": "f98535e0406a11eb8d9fe110e148c770",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/f98535e0406a11eb8d9fe110e148c770.md",
+  "latest_revision": "2020-12-18",
+  "latest_sha256": "50152f4ad6e81cf1ec3cba7252c0f56334cd70b631560183aa12065f77798c36",
+  "metadata_path": "latest/f98535e0406a11eb8d9fe110e148c770.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/f98535e0406a11eb8d9fe110e148c770",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 21 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

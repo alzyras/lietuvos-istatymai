@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.7DE5B8AD5D5B.md",
+  "adopted_date": "2001-11-22",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2002-04-01",
+  "etar_id": "TAR.7DE5B8AD5D5B",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.7DE5B8AD5D5B.md",
+  "latest_revision": "2002-04-01",
+  "latest_sha256": "136fe84596b954bbd57a8495f9f74fd9955cf0b6381bc72bd6cfe59bd4741518",
+  "metadata_path": "latest/TAR.7DE5B8AD5D5B.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.7DE5B8AD5D5B",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos augalų veislių apsaugos įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

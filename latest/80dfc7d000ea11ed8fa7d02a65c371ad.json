@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/80dfc7d000ea11ed8fa7d02a65c371ad.md",
+  "adopted_date": "2022-06-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-07-12",
+  "etar_id": "80dfc7d000ea11ed8fa7d02a65c371ad",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/80dfc7d000ea11ed8fa7d02a65c371ad.md",
+  "latest_revision": "2022-07-12",
+  "latest_sha256": "0d1c577702e5550e82269c2727115e301237031a367ad3d71497a0f169a3921f",
+  "metadata_path": "latest/80dfc7d000ea11ed8fa7d02a65c371ad.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/80dfc7d000ea11ed8fa7d02a65c371ad",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 29 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

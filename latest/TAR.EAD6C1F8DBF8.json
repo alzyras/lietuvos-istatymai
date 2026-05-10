@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.EAD6C1F8DBF8.md",
+  "adopted_date": "2007-06-26",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2007-07-12",
+  "etar_id": "TAR.EAD6C1F8DBF8",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.EAD6C1F8DBF8.md",
+  "latest_revision": "2007-07-12",
+  "latest_sha256": "fb4fe24cb79f75e4ea00f05088bde196a9dbadbb09036fe92f223ed0b53aed76",
+  "metadata_path": "latest/TAR.EAD6C1F8DBF8.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.EAD6C1F8DBF8",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos švietimo įstatymo 9 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

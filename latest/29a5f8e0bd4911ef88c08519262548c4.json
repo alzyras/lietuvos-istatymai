@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/29a5f8e0bd4911ef88c08519262548c4.md",
+  "adopted_date": "2024-12-05",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2025-01-01",
+  "etar_id": "29a5f8e0bd4911ef88c08519262548c4",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/29a5f8e0bd4911ef88c08519262548c4.md",
+  "latest_revision": "2025-01-01",
+  "latest_sha256": "66917d83d919e20c2933aa527faac2f5a09ebf830237e9facd7aa839929db26d",
+  "metadata_path": "latest/29a5f8e0bd4911ef88c08519262548c4.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/29a5f8e0bd4911ef88c08519262548c4",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 38-1 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

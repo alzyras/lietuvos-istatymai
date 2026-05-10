@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/6008c2a0667f11edbc04912defe897d1.md",
+  "adopted_date": "2022-11-03",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-12-01",
+  "etar_id": "6008c2a0667f11edbc04912defe897d1",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/6008c2a0667f11edbc04912defe897d1.md",
+  "latest_revision": "2022-12-01",
+  "latest_sha256": "872766f6a349e3e8d79af1bf82716e8b4729c2910fe27119a5a64426cc0f197c",
+  "metadata_path": "latest/6008c2a0667f11edbc04912defe897d1.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/6008c2a0667f11edbc04912defe897d1",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 17 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

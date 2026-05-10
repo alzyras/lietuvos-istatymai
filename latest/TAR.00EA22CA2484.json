@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.00EA22CA2484.md",
+  "adopted_date": "2012-10-03",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2012-10-13",
+  "etar_id": "TAR.00EA22CA2484",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.00EA22CA2484.md",
+  "latest_revision": "2012-10-13",
+  "latest_sha256": "c6921cd86dcc56334ce126009f220b8cd50a4f7232d76dab06e73321fd7ee22d",
+  "metadata_path": "latest/TAR.00EA22CA2484.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.00EA22CA2484",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Meksikos Jungtinių Valstijų Vyriausybės sutarties dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

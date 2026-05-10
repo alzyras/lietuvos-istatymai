@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.51DE78DB400F.md",
+  "adopted_date": "1998-10-22",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1999-01-01",
+  "etar_id": "TAR.51DE78DB400F",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.51DE78DB400F.md",
+  "latest_revision": "1999-01-01",
+  "latest_sha256": "ed901739fdfe0e3091a42ff030d63dc1f42032ebeecad39df1cef33ec8c557b2",
+  "metadata_path": "latest/TAR.51DE78DB400F.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.51DE78DB400F",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 6, 8, 27, 28, 29, 30, 32, 34, 36, 40, 45, 46, 47, 52, 56 straipsnių pakeitimo ir papildymo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/0f51ede0ef0511e4927fda1d051299fb.md",
+  "adopted_date": "2015-04-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-05-01",
+  "etar_id": "0f51ede0ef0511e4927fda1d051299fb",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/0f51ede0ef0511e4927fda1d051299fb.md",
+  "latest_revision": "2015-05-01",
+  "latest_sha256": "79550e5bc166a855af058a6d5a35a710508b380c0f4dc5e80ca41128c186ff2b",
+  "metadata_path": "latest/0f51ede0ef0511e4927fda1d051299fb.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/0f51ede0ef0511e4927fda1d051299fb",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 19 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

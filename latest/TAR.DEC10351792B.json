@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DEC10351792B.md",
+  "adopted_date": "2012-10-02",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2013-01-01",
+  "etar_id": "TAR.DEC10351792B",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DEC10351792B.md",
+  "latest_revision": "2013-01-01",
+  "latest_sha256": "c3ac83f5f8140d4c40ae111d6a28f25b10b5b37f3d2466518a9b9bd5700f74ec",
+  "metadata_path": "latest/TAR.DEC10351792B.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DEC10351792B",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos mokesčių administravimo įstatymo 39 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

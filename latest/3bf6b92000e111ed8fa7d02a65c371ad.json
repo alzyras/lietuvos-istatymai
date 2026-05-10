@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/3bf6b92000e111ed8fa7d02a65c371ad.md",
+  "adopted_date": "2022-06-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-08-01",
+  "etar_id": "3bf6b92000e111ed8fa7d02a65c371ad",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/3bf6b92000e111ed8fa7d02a65c371ad.md",
+  "latest_revision": "2022-08-01",
+  "latest_sha256": "2f936649105cf37c9327def682bf4bf1800b94364b61e5339c46b189a90c26b1",
+  "metadata_path": "latest/3bf6b92000e111ed8fa7d02a65c371ad.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/3bf6b92000e111ed8fa7d02a65c371ad",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 12 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

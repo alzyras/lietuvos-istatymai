@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/3baff6904dc011ec862fdcbc8b3e3e05.md",
+  "adopted_date": "2021-11-11",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-01-01",
+  "etar_id": "3baff6904dc011ec862fdcbc8b3e3e05",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/3baff6904dc011ec862fdcbc8b3e3e05.md",
+  "latest_revision": "2022-01-01",
+  "latest_sha256": "aab02997ffc879f22957c3fb0f0db39dc170197050dfe3f5e827710bd6013f0a",
+  "metadata_path": "latest/3baff6904dc011ec862fdcbc8b3e3e05.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/3baff6904dc011ec862fdcbc8b3e3e05",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos geležinkelių transporto kodekso 30-3 ir 30-4 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

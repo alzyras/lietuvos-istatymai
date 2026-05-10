@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/97fb0d202b2c11eb932eb1ed7f923910.md",
+  "adopted_date": "2020-11-10",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-03-01",
+  "etar_id": "97fb0d202b2c11eb932eb1ed7f923910",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/97fb0d202b2c11eb932eb1ed7f923910.md",
+  "latest_revision": "2021-03-01",
+  "latest_sha256": "b92868c2231a7a0d594231db7253a243011226cf78326afa267c4313cc4227ec",
+  "metadata_path": "latest/97fb0d202b2c11eb932eb1ed7f923910.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/97fb0d202b2c11eb932eb1ed7f923910",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

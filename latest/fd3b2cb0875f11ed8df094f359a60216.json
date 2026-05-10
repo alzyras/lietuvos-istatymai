@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/fd3b2cb0875f11ed8df094f359a60216.md",
+  "adopted_date": "2022-12-20",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2023-03-01",
+  "etar_id": "fd3b2cb0875f11ed8df094f359a60216",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/fd3b2cb0875f11ed8df094f359a60216.md",
+  "latest_revision": "2023-03-01",
+  "latest_sha256": "720fff3cd97033e3d4bd77f6c342213967b10cb6a61b95f9cf3de0bf403c4e42",
+  "metadata_path": "latest/fd3b2cb0875f11ed8df094f359a60216.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/fd3b2cb0875f11ed8df094f359a60216",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 15 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/55254c80544211e48329c4b5fc070a74.md",
+  "adopted_date": "2014-10-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-01-01",
+  "etar_id": "55254c80544211e48329c4b5fc070a74",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/55254c80544211e48329c4b5fc070a74.md",
+  "latest_revision": "2015-01-01",
+  "latest_sha256": "a61c3d102f5099072bbe989ecad35ec3f36633b2e436eee565b90cebc3d3b99d",
+  "metadata_path": "latest/55254c80544211e48329c4b5fc070a74.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/55254c80544211e48329c4b5fc070a74",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 42, 43 ir 44 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

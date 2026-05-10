@@ -1,0 +1,80 @@
+---
+tipas: "naujausia_redakcija"
+etar_id: "TAR.914193ABD395"
+pavadinimas: "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4, 8, 10 straipsnių pakeitimo ir papildymo įstatymas"
+rusis: "Įstatymas"
+busena: "galioja"
+latest_revision: "1996-12-14"
+latest_path: "latest/TAR.914193ABD395.md"
+latest_sha256: "aa6d3ce9792f130817dd9f13ee392bf621a811ee367d883a7a132b5d7101dcc5"
+parser_version: "0.1.0"
+---
+# Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 4, 8, 10 straipsnių pakeitimo ir papildymo įstatymas
+
+Šis failas yra stabili `latest` nuoroda pagal TAR dokumento ID. Oficialus šaltinis išlieka TAR.
+
+## Nuorodos
+
+- Latest JSON: `latest/TAR.914193ABD395.json`
+- Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.914193ABD395
+
+## Oficialus tekstas
+
+LIETUVOS RESPUBLIKOS
+LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 4, 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+Į S T A T Y M A S
+
+1996 m. gruodžio 5 d. Nr. VIII-23
+Vilnius
+
+(Žin., 1996, Nr. 102-2319)
+
+
+
+### 1 straipsnis. 4 straipsnio 1 ir 2 dalių papildymas ir pakeitimas
+
+
+1. 4 straipsnio 1 dalį papildyti antru sakiniu ir visą dalį išdėstyti taip: ^99230aedd8b48287cf31ae6d
+
+
+„1. Lietuvos nacionalinio radijo ir televizijos programose turi būti užtikrinta temų ir žanrų įvairovė, laidos turi būti orientuotos įvairiems visuomenės sluoksniams, įvairaus amžiaus, įvairių tautybių ir įvairių įsitikinimų žmonėms, programose neleidžiama įsivyrauti vienašališkoms politinėms pažiūroms. Lietuvos nacionalinio radijo ir televizijos informacinėse laidose, komentaruose pateikiama informacija turi būti subalansuota, atspindinti įvairias politines pažiūras, o nuomonės ir faktinės žinios turi būti autorizuotos, patikrintos ir išsamios.“
+
+
+2. Pakeisti ir papildyti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^1401c1a2aea0fa262c9a3f5a
+
+
+„2. Lietuvos nacionalinio radijo ir televizijos programose pirmenybė teikiama nacionalinei kultūrai, taip pat informacinėms, pasaulio kultūros, publicistikos, analizės, pažintinėms, šviečiamosioms, meno laidoms. Masinė kultūra atspindima apžvalginio, pažintinio, analitinio pobūdžio laidose.“
+
+
+
+### 2 straipsnis. 8 straipsnio 1 ir 2 dalių pakeitimas
+
+
+1. Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip: ^8e759018ef4a61520b946dbe
+
+
+„1. Lietuvos nacionalinio radijo ir televizijos valdymo organai yra Lietuvos nacionalinio radijo ir televizijos taryba ir administracija. Lietuvos nacionalinio radijo ir televizijos taryba yra sudaroma Visuomenės informavimo įstatymo 29 straipsnio nustatyta tvarka. Lietuvos nacionalinio radijo ir televizijos tarybos nariais negali būti Seimo, Vyriausybės, Radijo ir televizijos komisijos nariai, asmenys, dirbantys pagal darbo sutartis radijo ir televizijos stotyse, įskaitant Lietuvos nacionalinį radiją ir televiziją, taip pat radijo ir televizijos stočių savininkai ir bendrasavininkiai.“
+
+
+2. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip: ^87df29d4ce602a0af617e3ea
+
+
+„2. Lietuvos nacionalinio radijo ir televizijos tarybos sudarymą organizuoja Seimo Švietimo, mokslo ir kultūros komitetas.“
+
+
+
+### 3 straipsnis. 10 straipsnio 2 dalies pakeitimas
+
+
+10 straipsnio 2 dalyje vietoj skaičiaus „5“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip:
+
+
+„2. Generalinis direktorius renkamas viešo konkurso tvarka 3 metams ir tvirtinamas Lietuvos nacionalinio radijo ir televizijos taryboje, jeigu už jo kandidatūrą balsuoja ne mažiau kaip pusė tarybos narių. Negavus tokio balsų skaičiaus, rengiamas naujas konkursas.“
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+
+RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+______________

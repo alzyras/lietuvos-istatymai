@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/9c1f1df028b711e6acf89da936cb7409.md",
+  "adopted_date": "2016-05-19",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2016-10-01",
+  "etar_id": "9c1f1df028b711e6acf89da936cb7409",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/9c1f1df028b711e6acf89da936cb7409.md",
+  "latest_revision": "2016-10-01",
+  "latest_sha256": "301379ce4d03718a604e263055c7beef2c55ea031a19aa440370f47ea7ffec68",
+  "metadata_path": "latest/9c1f1df028b711e6acf89da936cb7409.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/9c1f1df028b711e6acf89da936cb7409",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 20 ir 32 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/6c6cdc5067b311e7827cd63159af616c.md",
+  "adopted_date": "2017-06-30",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-10-01",
+  "etar_id": "6c6cdc5067b311e7827cd63159af616c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/6c6cdc5067b311e7827cd63159af616c.md",
+  "latest_revision": "2017-10-01",
+  "latest_sha256": "e6078f0f0baf9d99c4f7072df94274c12faa7cc5dd2136597cd37286a40fcb94",
+  "metadata_path": "latest/6c6cdc5067b311e7827cd63159af616c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/6c6cdc5067b311e7827cd63159af616c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

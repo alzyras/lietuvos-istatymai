@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/da04f5e041d011e6a8ae9e1795984391.md",
+  "adopted_date": "2016-06-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-01-01",
+  "etar_id": "da04f5e041d011e6a8ae9e1795984391",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/da04f5e041d011e6a8ae9e1795984391.md",
+  "latest_revision": "2017-01-01",
+  "latest_sha256": "0bc67b06c0949cf1db63bce8693d3fa6c8072625aca40c0dac888a866f569d21",
+  "metadata_path": "latest/da04f5e041d011e6a8ae9e1795984391.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/da04f5e041d011e6a8ae9e1795984391",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

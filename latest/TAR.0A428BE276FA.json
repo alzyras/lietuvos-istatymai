@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.0A428BE276FA.md",
+  "adopted_date": "2009-11-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2010-01-01",
+  "etar_id": "TAR.0A428BE276FA",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.0A428BE276FA.md",
+  "latest_revision": "2010-01-01",
+  "latest_sha256": "4983c8bbad7c2aad9cc8c955247ec23c80ac977725bcab1910e35cde9f8958cc",
+  "metadata_path": "latest/TAR.0A428BE276FA.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.0A428BE276FA",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos paso įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

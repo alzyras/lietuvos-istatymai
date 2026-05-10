@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/3e4fa060858111e6b969d7ae07280e89.md",
+  "adopted_date": "2016-09-20",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2016-09-29",
+  "etar_id": "3e4fa060858111e6b969d7ae07280e89",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/3e4fa060858111e6b969d7ae07280e89.md",
+  "latest_revision": "2016-09-29",
+  "latest_sha256": "7fbd22be10f06ef2c5bcf91be9bce96004674818d826641659a14044d2f934b4",
+  "metadata_path": "latest/3e4fa060858111e6b969d7ae07280e89.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/3e4fa060858111e6b969d7ae07280e89",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 ir 70 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

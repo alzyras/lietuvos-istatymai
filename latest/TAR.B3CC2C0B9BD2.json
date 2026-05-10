@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.B3CC2C0B9BD2.md",
+  "adopted_date": "1997-10-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1997-11-19",
+  "etar_id": "TAR.B3CC2C0B9BD2",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.B3CC2C0B9BD2.md",
+  "latest_revision": "1997-11-19",
+  "latest_sha256": "6226fe3e5e336e469dc7786618de9d0dc7d7aa85ab8c02a975db771b168851af",
+  "metadata_path": "latest/TAR.B3CC2C0B9BD2.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vandens įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

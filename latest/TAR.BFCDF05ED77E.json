@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.BFCDF05ED77E.md",
+  "adopted_date": "2012-10-17",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2013-01-01",
+  "etar_id": "TAR.BFCDF05ED77E",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.BFCDF05ED77E.md",
+  "latest_revision": "2013-01-01",
+  "latest_sha256": "e370ace85a7533177901b49cd9afc3df48944cf7c05c4dc078b45328d6c4fd50",
+  "metadata_path": "latest/TAR.BFCDF05ED77E.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.BFCDF05ED77E",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

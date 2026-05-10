@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/e2e0df90570011f0a3d380837a821750.md",
+  "adopted_date": "2025-06-30",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2026-01-01",
+  "etar_id": "e2e0df90570011f0a3d380837a821750",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/e2e0df90570011f0a3d380837a821750.md",
+  "latest_revision": "2026-01-01",
+  "latest_sha256": "ac5c037953b83c4a8b5cd1944ced7bcfc1740289f4e98d227f0221a59e7f9743",
+  "metadata_path": "latest/e2e0df90570011f0a3d380837a821750.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/e2e0df90570011f0a3d380837a821750",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

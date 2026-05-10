@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/db9109d255c111f0b070ee7f1ceefc75.md",
+  "adopted_date": "2025-06-19",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2025-07-01",
+  "etar_id": "db9109d255c111f0b070ee7f1ceefc75",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/db9109d255c111f0b070ee7f1ceefc75.md",
+  "latest_revision": "2025-07-01",
+  "latest_sha256": "dc42f4ecd99edaa60a8bf59549ae5057baa1b2670f8f6b2faad11957ebb052f6",
+  "metadata_path": "latest/db9109d255c111f0b070ee7f1ceefc75.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/db9109d255c111f0b070ee7f1ceefc75",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 7, 15, 63 straipsnių ir priedo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

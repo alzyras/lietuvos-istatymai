@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/d64b29b0299811eb932eb1ed7f923910.md",
+  "adopted_date": "2020-11-05",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-01-01",
+  "etar_id": "d64b29b0299811eb932eb1ed7f923910",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/d64b29b0299811eb932eb1ed7f923910.md",
+  "latest_revision": "2021-01-01",
+  "latest_sha256": "6045ebec05123e5d45cca28b06f5747b847d3cb1d804592777e42c5d61b6ae48",
+  "metadata_path": "latest/d64b29b0299811eb932eb1ed7f923910.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/d64b29b0299811eb932eb1ed7f923910",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/ec07c490e44111e99681cd81dcdca52c.md",
+  "adopted_date": "2019-09-19",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-01-01",
+  "etar_id": "ec07c490e44111e99681cd81dcdca52c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/ec07c490e44111e99681cd81dcdca52c.md",
+  "latest_revision": "2020-01-01",
+  "latest_sha256": "ed0437167159d56a63a7fb18ea2af52292b0ddd67b86e3ab7ba25ed224ba919b",
+  "metadata_path": "latest/ec07c490e44111e99681cd81dcdca52c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/ec07c490e44111e99681cd81dcdca52c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 103 straipsnio ir II dalies II skyriaus pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

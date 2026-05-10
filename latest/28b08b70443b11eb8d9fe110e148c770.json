@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/28b08b70443b11eb8d9fe110e148c770.md",
+  "adopted_date": "2020-12-15",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-12-23",
+  "etar_id": "28b08b70443b11eb8d9fe110e148c770",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/28b08b70443b11eb8d9fe110e148c770.md",
+  "latest_revision": "2020-12-23",
+  "latest_sha256": "fbcc2f2099f6ca896dda477ea4a979c9d8afae7080d69c3e33da462d40af3eff",
+  "metadata_path": "latest/28b08b70443b11eb8d9fe110e148c770.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/28b08b70443b11eb8d9fe110e148c770",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Nairobio sutarties dėl olimpinio simbolio apsaugos ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

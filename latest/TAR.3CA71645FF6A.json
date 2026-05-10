@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.3CA71645FF6A.md",
+  "adopted_date": "2004-01-22",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2004-03-07",
+  "etar_id": "TAR.3CA71645FF6A",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.3CA71645FF6A.md",
+  "latest_revision": "2004-03-07",
+  "latest_sha256": "950d597cb3bf1d7d63738ef897b394421db0ba9fa2fb538d2ed46fc59754cf6b",
+  "metadata_path": "latest/TAR.3CA71645FF6A.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.3CA71645FF6A",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Konvencijos dėl elektroninių nusikaltimų ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

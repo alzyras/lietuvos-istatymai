@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/3f0eab50a0a711ea9515f752ff221ec9.md",
+  "adopted_date": "2020-05-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-06-15",
+  "etar_id": "3f0eab50a0a711ea9515f752ff221ec9",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/3f0eab50a0a711ea9515f752ff221ec9.md",
+  "latest_revision": "2020-06-15",
+  "latest_sha256": "28354dae1e8cba6a53804c5e5dcf857f56ff12564fdca8f5fb1515ad60029fc0",
+  "metadata_path": "latest/3f0eab50a0a711ea9515f752ff221ec9.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/3f0eab50a0a711ea9515f752ff221ec9",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos civilinio kodekso 2.79 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

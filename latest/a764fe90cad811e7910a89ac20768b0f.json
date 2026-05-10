@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/a764fe90cad811e7910a89ac20768b0f.md",
+  "adopted_date": "2017-11-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-01-01",
+  "etar_id": "a764fe90cad811e7910a89ac20768b0f",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/a764fe90cad811e7910a89ac20768b0f.md",
+  "latest_revision": "2018-01-01",
+  "latest_sha256": "8bf49971a794cf5d082689b5519615605c9b4f2153052597cab60113808df42a",
+  "metadata_path": "latest/a764fe90cad811e7910a89ac20768b0f.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/a764fe90cad811e7910a89ac20768b0f",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 16 ir 17 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/d77ea460846211e49ac8efb365dd60af.md",
+  "adopted_date": "2014-12-04",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2014-12-16",
+  "etar_id": "d77ea460846211e49ac8efb365dd60af",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/d77ea460846211e49ac8efb365dd60af.md",
+  "latest_revision": "2014-12-16",
+  "latest_sha256": "1fe9342e5b491deac859fdb3acdfa21ad12de7e5d00e73244a73bbce8a1b2510",
+  "metadata_path": "latest/d77ea460846211e49ac8efb365dd60af.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/d77ea460846211e49ac8efb365dd60af",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 10 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

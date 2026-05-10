@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/2d247ac0800511ec993ff5ca6e8ba60c.md",
+  "adopted_date": "2022-01-20",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-01-29",
+  "etar_id": "2d247ac0800511ec993ff5ca6e8ba60c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/2d247ac0800511ec993ff5ca6e8ba60c.md",
+  "latest_revision": "2022-01-29",
+  "latest_sha256": "5ff13326432956e7f89cd7f49647e082afa22f5918342b168520add1b5b55230",
+  "metadata_path": "latest/2d247ac0800511ec993ff5ca6e8ba60c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/2d247ac0800511ec993ff5ca6e8ba60c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 20 ir 23 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

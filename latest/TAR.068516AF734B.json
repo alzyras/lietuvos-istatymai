@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.068516AF734B.md",
+  "adopted_date": "2000-12-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-01-01",
+  "etar_id": "TAR.068516AF734B",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.068516AF734B.md",
+  "latest_revision": "2001-01-01",
+  "latest_sha256": "0c69c18595c62dc7f752cb2d8913cadf5665e85ec26e48b1fb3c7a83288416d1",
+  "metadata_path": "latest/TAR.068516AF734B.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

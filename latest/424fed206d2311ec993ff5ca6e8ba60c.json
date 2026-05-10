@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/424fed206d2311ec993ff5ca6e8ba60c.md",
+  "adopted_date": "2021-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-01-05",
+  "etar_id": "424fed206d2311ec993ff5ca6e8ba60c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/424fed206d2311ec993ff5ca6e8ba60c.md",
+  "latest_revision": "2022-01-05",
+  "latest_sha256": "d71146c12aabd7b739af94d3e1d1f1eb154d092b1c8a360fa2c442c47e620a8f",
+  "metadata_path": "latest/424fed206d2311ec993ff5ca6e8ba60c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/424fed206d2311ec993ff5ca6e8ba60c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vidaus tarnybos statuto 7, 9, 53 ir 72 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,48 @@
+---
+tipas: "naujausia_redakcija"
+etar_id: "TAR.5E3114349B4B"
+pavadinimas: "Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio pakeitimo įstatymas"
+rusis: "Įstatymas"
+busena: "galioja"
+latest_revision: "2013-12-12"
+latest_path: "latest/TAR.5E3114349B4B.md"
+latest_sha256: "f183daa205a85dd30046248e83f2097906256e37e892838894b304ffdcf1028e"
+parser_version: "0.1.0"
+---
+# Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio pakeitimo įstatymas
+
+Šis failas yra stabili `latest` nuoroda pagal TAR dokumento ID. Oficialus šaltinis išlieka TAR.
+
+## Nuorodos
+
+- Latest JSON: `latest/TAR.5E3114349B4B.json`
+- Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.5E3114349B4B
+
+## Oficialus tekstas
+
+LIETUVOS RESPUBLIKOS NACIONALINĖS TEISMŲ ADMINISTRACIJOS ĮSTATYMO 4
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+
+LIETUVOS RESPUBLIKOS  NACIONALINĖS TEISMŲ ADMINISTRACIJOS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+
+2013 m. gruodžio 3 d. Nr. XII-631
+Vilnius
+
+(Žin., 2002, Nr. 31-1130; 2008, Nr. 87-3472)
+
+
+
+### 1 straipsnis. 4 straipsnio 4 dalies pakeitimas
+
+
+Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
+
+
+„4. Nacionalinės teismų administracijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį socialinių mokslų studijų srities išsilavinimą ir ne mažesnį kaip 5 metų teisinio ar vadovaujamo darbo stažą.“
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ

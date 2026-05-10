@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.08F411044DA6.md",
+  "adopted_date": "2012-06-14",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2013-01-01",
+  "etar_id": "TAR.08F411044DA6",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.08F411044DA6.md",
+  "latest_revision": "2013-01-01",
+  "latest_sha256": "b299cee9d1188a69db336aaff875b7b2eb0156b24e27979250727425697eb2f1",
+  "metadata_path": "latest/TAR.08F411044DA6.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.08F411044DA6",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos biudžeto sandaros įstatymo 25 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

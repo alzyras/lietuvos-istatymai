@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/7fcb3c5043b511ec992fe4cdfceb5666.md",
+  "adopted_date": "2021-11-04",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-11-13",
+  "etar_id": "7fcb3c5043b511ec992fe4cdfceb5666",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/7fcb3c5043b511ec992fe4cdfceb5666.md",
+  "latest_revision": "2021-11-13",
+  "latest_sha256": "ca7bc13b739ccc1b1512e10994586c923444fc0b52967fffb988ffc0446bc3f3",
+  "metadata_path": "latest/7fcb3c5043b511ec992fe4cdfceb5666.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/7fcb3c5043b511ec992fe4cdfceb5666",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 32 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

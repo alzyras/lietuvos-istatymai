@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.11010092E221.md",
+  "adopted_date": "2007-10-25",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2008-03-01",
+  "etar_id": "TAR.11010092E221",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.11010092E221.md",
+  "latest_revision": "2008-03-01",
+  "latest_sha256": "a35e1cbc8031540dbadfa45bd8789d019113a7d180b64d0f739303f43796887f",
+  "metadata_path": "latest/TAR.11010092E221.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.11010092E221",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos audito įstatymo 2 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

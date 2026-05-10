@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "diff_path": {
+      "type": "string"
+    },
+    "etar_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "from_revision_date": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "from_revision_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "parser_version": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "summary_path": {
+      "type": "string"
+    },
+    "to_revision_date": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    },
+    "to_revision_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "boolean",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "diff_path",
+    "etar_id",
+    "from_revision_date",
+    "from_revision_id",
+    "parser_version",
+    "summary_path",
+    "to_revision_date",
+    "to_revision_id"
+  ],
+  "title": "diff",
+  "type": "object"
+}

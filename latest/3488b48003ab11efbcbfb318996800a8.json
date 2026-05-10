@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/3488b48003ab11efbcbfb318996800a8.md",
+  "adopted_date": "2024-04-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2024-05-01",
+  "etar_id": "3488b48003ab11efbcbfb318996800a8",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/3488b48003ab11efbcbfb318996800a8.md",
+  "latest_revision": "2024-05-01",
+  "latest_sha256": "6fad7e6d72884da2037cf702a85e80caa4b3d867a3790278e4b85f49d9262200",
+  "metadata_path": "latest/3488b48003ab11efbcbfb318996800a8.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/3488b48003ab11efbcbfb318996800a8",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 39 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

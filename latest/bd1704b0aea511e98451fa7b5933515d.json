@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/bd1704b0aea511e98451fa7b5933515d.md",
+  "adopted_date": "2019-07-09",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2019-10-01",
+  "etar_id": "bd1704b0aea511e98451fa7b5933515d",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/bd1704b0aea511e98451fa7b5933515d.md",
+  "latest_revision": "2019-10-01",
+  "latest_sha256": "49781d7ef06ff03e6e6c9a3f807c1174e6d1b911d932bb82389351680b675597",
+  "metadata_path": "latest/bd1704b0aea511e98451fa7b5933515d.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/bd1704b0aea511e98451fa7b5933515d",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

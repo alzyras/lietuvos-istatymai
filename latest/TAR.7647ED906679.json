@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.7647ED906679.md",
+  "adopted_date": "2009-07-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2010-12-31",
+  "etar_id": "TAR.7647ED906679",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.7647ED906679.md",
+  "latest_revision": "2010-12-31",
+  "latest_sha256": "aacd8633cef244267c4812e97413da2295891415878961b70a9dad9971635f7a",
+  "metadata_path": "latest/TAR.7647ED906679.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.7647ED906679",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos bankų įstatymo 73 straipsnio ir priedo papildymo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

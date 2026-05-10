@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/53ff09f055cc11e4b3a0e0257391d42c.md",
+  "adopted_date": "2014-10-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-01-01",
+  "etar_id": "53ff09f055cc11e4b3a0e0257391d42c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/53ff09f055cc11e4b3a0e0257391d42c.md",
+  "latest_revision": "2015-01-01",
+  "latest_sha256": "02312596f30f5c02cd1e76be51705ad47f839efd63d91fff012865b4779e5a82",
+  "metadata_path": "latest/53ff09f055cc11e4b3a0e0257391d42c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/53ff09f055cc11e4b3a0e0257391d42c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

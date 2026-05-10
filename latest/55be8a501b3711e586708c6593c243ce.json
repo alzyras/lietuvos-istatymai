@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/55be8a501b3711e586708c6593c243ce.md",
+  "adopted_date": "2015-06-18",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-07-01",
+  "etar_id": "55be8a501b3711e586708c6593c243ce",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/55be8a501b3711e586708c6593c243ce.md",
+  "latest_revision": "2015-07-01",
+  "latest_sha256": "19f5601b10e9c6a7996336917cdf6e6b53532a30258400820aea5a32dc736dbd",
+  "metadata_path": "latest/55be8a501b3711e586708c6593c243ce.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/55be8a501b3711e586708c6593c243ce",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 13, 15 ir 21 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

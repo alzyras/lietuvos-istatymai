@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/d547bd8059ec11e487eff7b424bd0f08.md",
+  "adopted_date": "2014-10-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2014-11-01",
+  "etar_id": "d547bd8059ec11e487eff7b424bd0f08",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/d547bd8059ec11e487eff7b424bd0f08.md",
+  "latest_revision": "2014-11-01",
+  "latest_sha256": "36bb7a7eb8e5f4849a014b67e5d98ac8efa8402c7dda42d556bfa3432acd4b7e",
+  "metadata_path": "latest/d547bd8059ec11e487eff7b424bd0f08.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/d547bd8059ec11e487eff7b424bd0f08",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 8 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

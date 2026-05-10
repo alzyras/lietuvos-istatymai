@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/ca7a63e021b311e6ad34b874fec21bdb.md",
+  "adopted_date": "2016-05-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2016-09-01",
+  "etar_id": "ca7a63e021b311e6ad34b874fec21bdb",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/ca7a63e021b311e6ad34b874fec21bdb.md",
+  "latest_revision": "2016-09-01",
+  "latest_sha256": "866d4e6866ac748b71246faba5e1002cf8c95083d2a00743c2c614d512dca413",
+  "metadata_path": "latest/ca7a63e021b311e6ad34b874fec21bdb.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/ca7a63e021b311e6ad34b874fec21bdb",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 37 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

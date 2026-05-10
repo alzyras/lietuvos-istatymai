@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.92E111F705DD.md",
+  "adopted_date": "2003-12-04",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2003-12-18",
+  "etar_id": "TAR.92E111F705DD",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.92E111F705DD.md",
+  "latest_revision": "2003-12-18",
+  "latest_sha256": "40a8ea33f37b05930e4735613bf23bd76b059ca8645e8dfbdc29cdbb7fa15906",
+  "metadata_path": "latest/TAR.92E111F705DD.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.92E111F705DD",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos jaunimo politikos pagrindų įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

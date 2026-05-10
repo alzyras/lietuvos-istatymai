@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/bc7f79e0778511edbc04912defe897d1.md",
+  "adopted_date": "2022-11-24",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2024-01-01",
+  "etar_id": "bc7f79e0778511edbc04912defe897d1",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/bc7f79e0778511edbc04912defe897d1.md",
+  "latest_revision": "2024-01-01",
+  "latest_sha256": "5040322e6ba94922f4b3a8bf21b6187f06a5855c926536d1487df04ecb9861a4",
+  "metadata_path": "latest/bc7f79e0778511edbc04912defe897d1.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/bc7f79e0778511edbc04912defe897d1",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių teismų įsteigimo įstatymo Nr. VIII-1030 2 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

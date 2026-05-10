@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/e49165f007fa11e4b836947d492f2f50.md",
+  "adopted_date": "2014-06-26",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2014-10-28",
+  "etar_id": "e49165f007fa11e4b836947d492f2f50",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/e49165f007fa11e4b836947d492f2f50.md",
+  "latest_revision": "2014-10-28",
+  "latest_sha256": "f6a68f99505ee98f19433d750b267ee9a39256a4899f399aa8fefc7a5b5bbceb",
+  "metadata_path": "latest/e49165f007fa11e4b836947d492f2f50.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/e49165f007fa11e4b836947d492f2f50",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 58 straipsnių ir priedo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

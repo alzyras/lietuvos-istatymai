@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/5ccb4c20197611e4b542dec0b12e28b0.md",
+  "adopted_date": "2014-07-17",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2014-08-02",
+  "etar_id": "5ccb4c20197611e4b542dec0b12e28b0",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/5ccb4c20197611e4b542dec0b12e28b0.md",
+  "latest_revision": "2014-08-02",
+  "latest_sha256": "dc77e51730103eef346acc873f51f8bfa2d5168a4759304977bd97e8f92daa6d",
+  "metadata_path": "latest/5ccb4c20197611e4b542dec0b12e28b0.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/5ccb4c20197611e4b542dec0b12e28b0",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos bankų įstatymo Nr. IX-2085 85 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

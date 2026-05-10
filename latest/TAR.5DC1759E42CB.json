@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.5DC1759E42CB.md",
+  "adopted_date": "2000-10-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-01-01",
+  "etar_id": "TAR.5DC1759E42CB",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.5DC1759E42CB.md",
+  "latest_revision": "2001-01-01",
+  "latest_sha256": "c03d6de49b58f7c79a643a1b1154f4fc3d4153fe243121a08daef2c081f6a7c1",
+  "metadata_path": "latest/TAR.5DC1759E42CB.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

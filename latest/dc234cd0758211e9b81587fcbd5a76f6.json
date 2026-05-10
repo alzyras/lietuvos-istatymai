@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/dc234cd0758211e9b81587fcbd5a76f6.md",
+  "adopted_date": "2019-05-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2019-05-14",
+  "etar_id": "dc234cd0758211e9b81587fcbd5a76f6",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/dc234cd0758211e9b81587fcbd5a76f6.md",
+  "latest_revision": "2019-05-14",
+  "latest_sha256": "d7331801d105387597af6c5fdfc9880c8483cc6bfc045344a8c57233db52ef22",
+  "metadata_path": "latest/dc234cd0758211e9b81587fcbd5a76f6.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/dc234cd0758211e9b81587fcbd5a76f6",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 6 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

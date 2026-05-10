@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/4aef72108f4111e4a98a9f2247652cf4.md",
+  "adopted_date": "2014-12-18",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2014-12-30",
+  "etar_id": "4aef72108f4111e4a98a9f2247652cf4",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/4aef72108f4111e4a98a9f2247652cf4.md",
+  "latest_revision": "2014-12-30",
+  "latest_sha256": "f96e182355fc3da7f9b6d04260e4737b85ec2eb341409493a819508a875eb979",
+  "metadata_path": "latest/4aef72108f4111e4a98a9f2247652cf4.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/4aef72108f4111e4a98a9f2247652cf4",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

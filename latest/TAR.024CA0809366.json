@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.024CA0809366.md",
+  "adopted_date": "2003-12-09",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2003-12-31",
+  "etar_id": "TAR.024CA0809366",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.024CA0809366.md",
+  "latest_revision": "2003-12-31",
+  "latest_sha256": "2cc326fc57f3a80c966f3df013492fe32a3878345cffe21c0304aafb903721ff",
+  "metadata_path": "latest/TAR.024CA0809366.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.024CA0809366",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos Bendrijų Komisijos, atstovaujančios Europos Bendrijai, metinės finansavimo sutarties 2003 metams dėl Specialiosios žemės ūkio ir kaimo plėtros paramos programos (SAPARD) ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

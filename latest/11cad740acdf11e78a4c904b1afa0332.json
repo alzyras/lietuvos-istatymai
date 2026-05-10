@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/11cad740acdf11e78a4c904b1afa0332.md",
+  "adopted_date": "2017-09-28",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2018-01-01",
+  "etar_id": "11cad740acdf11e78a4c904b1afa0332",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/11cad740acdf11e78a4c904b1afa0332.md",
+  "latest_revision": "2018-01-01",
+  "latest_sha256": "31604db5c59476d32abf4afa95f8792add4a33b08df017b5c3f08d32d86071ba",
+  "metadata_path": "latest/11cad740acdf11e78a4c904b1afa0332.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/11cad740acdf11e78a4c904b1afa0332",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

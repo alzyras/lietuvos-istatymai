@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/a5fba50017b311ec9f09e7df20500045.md",
+  "adopted_date": "2021-09-16",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-09-18",
+  "etar_id": "a5fba50017b311ec9f09e7df20500045",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/a5fba50017b311ec9f09e7df20500045.md",
+  "latest_revision": "2021-09-18",
+  "latest_sha256": "eec7dd7aa2828fe02207e73889c4a02c7ee52e7ec423ca1a0c2a72570aa44a63",
+  "metadata_path": "latest/a5fba50017b311ec9f09e7df20500045.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/a5fba50017b311ec9f09e7df20500045",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vidaus vandenų transporto kodekso 2, 3 ir 6 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

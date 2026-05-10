@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DE0B1FF26D01.md",
+  "adopted_date": "1995-02-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1995-03-24",
+  "etar_id": "TAR.DE0B1FF26D01",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DE0B1FF26D01.md",
+  "latest_revision": "1995-03-24",
+  "latest_sha256": "d5ce044e5603a997d5c5fdc8765fe1e9c662252407449553bb5fcb87016027ad",
+  "metadata_path": "latest/TAR.DE0B1FF26D01.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DE0B1FF26D01",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos kredito unijų įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

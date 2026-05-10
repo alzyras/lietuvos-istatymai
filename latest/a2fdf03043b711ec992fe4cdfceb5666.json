@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/a2fdf03043b711ec992fe4cdfceb5666.md",
+  "adopted_date": "2021-11-11",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-11-13",
+  "etar_id": "a2fdf03043b711ec992fe4cdfceb5666",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/a2fdf03043b711ec992fe4cdfceb5666.md",
+  "latest_revision": "2021-11-13",
+  "latest_sha256": "5ab193e523afcc3c239ce14a3b2c7a6efc6ecdf10b103ece51017069ee536219",
+  "metadata_path": "latest/a2fdf03043b711ec992fe4cdfceb5666.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/a2fdf03043b711ec992fe4cdfceb5666",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Seimo nuolatinio atstovo Europos Sąjungoje įstatymo Nr. IX-1165 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

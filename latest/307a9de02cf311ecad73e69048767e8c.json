@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/307a9de02cf311ecad73e69048767e8c.md",
+  "adopted_date": "2021-10-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-10-18",
+  "etar_id": "307a9de02cf311ecad73e69048767e8c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/307a9de02cf311ecad73e69048767e8c.md",
+  "latest_revision": "2021-10-18",
+  "latest_sha256": "00158f108fb801a5d61cb0ef38bb64912df3f21a62ad2670d712e3719ca6e978",
+  "metadata_path": "latest/307a9de02cf311ecad73e69048767e8c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/307a9de02cf311ecad73e69048767e8c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vienkartinės išmokos pasiskiepijus vakcina nuo COVID-19 ligos (koronaviruso infekcijos) įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

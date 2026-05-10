@@ -1,0 +1,47 @@
+---
+tipas: "naujausia_redakcija"
+etar_id: "TAR.E51B76E0059A"
+pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimo ratifikavimo"
+rusis: "Įstatymas"
+busena: "galioja"
+latest_revision: "2009-02-19"
+latest_path: "latest/TAR.E51B76E0059A.md"
+latest_sha256: "0a15747b183040a983ff735ed0ecde9976b5d02a94839a970455acd9be2d45dc"
+parser_version: "0.1.0"
+---
+# Lietuvos Respublikos įstatymas dėl Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimo ratifikavimo
+
+Šis failas yra stabili `latest` nuoroda pagal TAR dokumento ID. Oficialus šaltinis išlieka TAR.
+
+## Nuorodos
+
+- Latest JSON: `latest/TAR.E51B76E0059A.json`
+- Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.E51B76E0059A
+
+## Oficialus tekstas
+
+LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL EUROPOS BENDRIJŲ BEI JŲ VALSTYBIŲ
+
+
+LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL EUROPOS BENDRIJŲ BEI JŲ VALSTYBIŲ NARIŲ IR JUODKALNIJOS RESPUBLIKOS STABILIZACIJOS IR ASOCIACIJOS SUSITARIMO RATIFIKAVIMO
+
+2009 m. vasario 5 d. Nr. XI-161
+Vilnius
+
+
+
+### 1 straipsnis. Susitarimo ratifikavimas
+
+
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 6 punktais ir atsižvelgdamas į Respublikos Prezidento 2009 m. sausio 13 d. dekretą Nr. 1K-1673, ratifikuoja 2007 m. spalio 15 d. Liuksemburge pasirašytą Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimą.
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+
+
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+
+
+
+_________________

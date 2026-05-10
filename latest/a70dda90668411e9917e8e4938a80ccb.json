@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/a70dda90668411e9917e8e4938a80ccb.md",
+  "adopted_date": "2019-04-11",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-02-01",
+  "etar_id": "a70dda90668411e9917e8e4938a80ccb",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/a70dda90668411e9917e8e4938a80ccb.md",
+  "latest_revision": "2020-02-01",
+  "latest_sha256": "ca7da9dcd451592786881417d6711fd71a76c390dce9c099610716422c3e8506",
+  "metadata_path": "latest/a70dda90668411e9917e8e4938a80ccb.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/a70dda90668411e9917e8e4938a80ccb",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

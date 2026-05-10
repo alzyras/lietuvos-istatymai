@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/7dbcc8d09c1211ea9515f752ff221ec9.md",
+  "adopted_date": "2020-05-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-07-01",
+  "etar_id": "7dbcc8d09c1211ea9515f752ff221ec9",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/7dbcc8d09c1211ea9515f752ff221ec9.md",
+  "latest_revision": "2020-07-01",
+  "latest_sha256": "19489e35a9aebf95400a663249b04367d6c3fb1eaa392813ed27654605a21179",
+  "metadata_path": "latest/7dbcc8d09c1211ea9515f752ff221ec9.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/7dbcc8d09c1211ea9515f752ff221ec9",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos poligrafo naudojimo įstatymo Nr. VIII-1906 4 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

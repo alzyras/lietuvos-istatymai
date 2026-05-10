@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/48f9e5506eb711ec993ff5ca6e8ba60c.md",
+  "adopted_date": "2021-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-01-07",
+  "etar_id": "48f9e5506eb711ec993ff5ca6e8ba60c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/48f9e5506eb711ec993ff5ca6e8ba60c.md",
+  "latest_revision": "2022-01-07",
+  "latest_sha256": "11ae10f5ace6794d2b85affe00f0a49acffa2c7c00033a1e0780c684d452ec57",
+  "metadata_path": "latest/48f9e5506eb711ec993ff5ca6e8ba60c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/48f9e5506eb711ec993ff5ca6e8ba60c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

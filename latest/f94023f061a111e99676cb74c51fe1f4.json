@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/f94023f061a111e99676cb74c51fe1f4.md",
+  "adopted_date": "2019-04-11",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2020-02-01",
+  "etar_id": "f94023f061a111e99676cb74c51fe1f4",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/f94023f061a111e99676cb74c51fe1f4.md",
+  "latest_revision": "2020-02-01",
+  "latest_sha256": "bc691c5b3990ec17ffdf67b77c2127823ac3abd1e191b0ab3c321f0af63a6c57",
+  "metadata_path": "latest/f94023f061a111e99676cb74c51fe1f4.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/f94023f061a111e99676cb74c51fe1f4",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

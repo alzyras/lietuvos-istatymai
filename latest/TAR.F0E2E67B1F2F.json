@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.F0E2E67B1F2F.md",
+  "adopted_date": "1998-03-19",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1998-09-01",
+  "etar_id": "TAR.F0E2E67B1F2F",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.F0E2E67B1F2F.md",
+  "latest_revision": "1998-09-01",
+  "latest_sha256": "32fe51b61f27e3b43aec6f00bc9a884fce8ad05f80f1d8e766dac5ea17ee17f2",
+  "metadata_path": "latest/TAR.F0E2E67B1F2F.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos turizmo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

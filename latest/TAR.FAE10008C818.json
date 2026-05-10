@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.FAE10008C818.md",
+  "adopted_date": "2000-10-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-10-31",
+  "etar_id": "TAR.FAE10008C818",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.FAE10008C818.md",
+  "latest_revision": "2000-10-31",
+  "latest_sha256": "debb6a993f2cf463da6ccd4834265245fed0f97600cbed03cd42d258b54e1115",
+  "metadata_path": "latest/TAR.FAE10008C818.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.FAE10008C818",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos sveikatos draudimo įstatymo 16 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

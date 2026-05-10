@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.E2CE2C82DA9E.md",
+  "adopted_date": "2007-06-26",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2008-01-01",
+  "etar_id": "TAR.E2CE2C82DA9E",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.E2CE2C82DA9E.md",
+  "latest_revision": "2008-01-01",
+  "latest_sha256": "500bccdaa0c2672a051cafee121071ba51252be514308d9589022798356b4a7e",
+  "metadata_path": "latest/TAR.E2CE2C82DA9E.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

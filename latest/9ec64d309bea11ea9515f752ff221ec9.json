@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/9ec64d309bea11ea9515f752ff221ec9.md",
+  "adopted_date": "2020-05-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-01-01",
+  "etar_id": "9ec64d309bea11ea9515f752ff221ec9",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/9ec64d309bea11ea9515f752ff221ec9.md",
+  "latest_revision": "2021-01-01",
+  "latest_sha256": "356ec32d9878fd13dcb1f6ef1ced505b6993f49637a05e607cd27d990c720ccd",
+  "metadata_path": "latest/9ec64d309bea11ea9515f752ff221ec9.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/9ec64d309bea11ea9515f752ff221ec9",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 27 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

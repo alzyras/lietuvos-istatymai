@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DF61762F4FA9.md",
+  "adopted_date": "2010-11-04",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2010-11-23",
+  "etar_id": "TAR.DF61762F4FA9",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DF61762F4FA9.md",
+  "latest_revision": "2010-11-23",
+  "latest_sha256": "1bff2ad418d806a3226164e09ddf64caee51860c5b94e56c359294440d1bdd83",
+  "metadata_path": "latest/TAR.DF61762F4FA9.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DF61762F4FA9",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos pašarų įstatymo 8 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

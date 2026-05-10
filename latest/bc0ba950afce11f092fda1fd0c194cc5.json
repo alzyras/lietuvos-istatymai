@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/bc0ba950afce11f092fda1fd0c194cc5.md",
+  "adopted_date": "2025-10-16",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2025-11-02",
+  "etar_id": "bc0ba950afce11f092fda1fd0c194cc5",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/bc0ba950afce11f092fda1fd0c194cc5.md",
+  "latest_revision": "2025-11-02",
+  "latest_sha256": "47e752e70e806a47ad5f6d6e8c9b7e5e647e6d0895c7eac461e8edf89b6eeee7",
+  "metadata_path": "latest/bc0ba950afce11f092fda1fd0c194cc5.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/bc0ba950afce11f092fda1fd0c194cc5",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 464 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

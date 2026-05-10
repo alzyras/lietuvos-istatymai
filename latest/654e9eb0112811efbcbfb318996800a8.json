@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/654e9eb0112811efbcbfb318996800a8.md",
+  "adopted_date": "2024-05-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2024-05-14",
+  "etar_id": "654e9eb0112811efbcbfb318996800a8",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/654e9eb0112811efbcbfb318996800a8.md",
+  "latest_revision": "2024-05-14",
+  "latest_sha256": "c936a93128f6798f5850a5ae466d8a145b9fa4f177c03af0dd8c55d54c05ecc3",
+  "metadata_path": "latest/654e9eb0112811efbcbfb318996800a8.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/654e9eb0112811efbcbfb318996800a8",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 24 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

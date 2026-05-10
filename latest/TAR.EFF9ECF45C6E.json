@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.EFF9ECF45C6E.md",
+  "adopted_date": "2001-12-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2002-01-01",
+  "etar_id": "TAR.EFF9ECF45C6E",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.EFF9ECF45C6E.md",
+  "latest_revision": "2002-01-01",
+  "latest_sha256": "8df60c951cf96f6276b5d47b2689e4a69b5401734e4ae2fee0aaac7d1996b9a6",
+  "metadata_path": "latest/TAR.EFF9ECF45C6E.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.EFF9ECF45C6E",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

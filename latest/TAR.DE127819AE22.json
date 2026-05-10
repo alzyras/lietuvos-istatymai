@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DE127819AE22.md",
+  "adopted_date": "2012-11-08",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2013-07-01",
+  "etar_id": "TAR.DE127819AE22",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DE127819AE22.md",
+  "latest_revision": "2013-07-01",
+  "latest_sha256": "6a85cb5697132b7380e76876b87113e4a5642c2b34b01280b89dfef62203c99b",
+  "metadata_path": "latest/TAR.DE127819AE22.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DE127819AE22",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinės naštos mažinimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

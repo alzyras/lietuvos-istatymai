@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/2eaee1d064b311edbc04912defe897d1.md",
+  "adopted_date": "2022-10-27",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-11-16",
+  "etar_id": "2eaee1d064b311edbc04912defe897d1",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/2eaee1d064b311edbc04912defe897d1.md",
+  "latest_revision": "2022-11-16",
+  "latest_sha256": "328959db9f67465c1083531d8aecaff5e9cb24af0912a2692c16228c120a7d9e",
+  "metadata_path": "latest/2eaee1d064b311edbc04912defe897d1.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/2eaee1d064b311edbc04912defe897d1",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

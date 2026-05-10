@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DEF7A5CAA66A.md",
+  "adopted_date": "2010-11-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2010-11-23",
+  "etar_id": "TAR.DEF7A5CAA66A",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DEF7A5CAA66A.md",
+  "latest_revision": "2010-11-23",
+  "latest_sha256": "e85fdc901435816b143e4531c5e0e438f6454a62e4fd562b6ce0e80c450c627e",
+  "metadata_path": "latest/TAR.DEF7A5CAA66A.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DEF7A5CAA66A",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo pakeitimo ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

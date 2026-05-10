@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.5B99A78DA6C7.md",
+  "adopted_date": "2000-04-04",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-07-01",
+  "etar_id": "TAR.5B99A78DA6C7",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.5B99A78DA6C7.md",
+  "latest_revision": "2000-07-01",
+  "latest_sha256": "4d5de0a68e7330160365a442430ab240f11116a6618364acc4041f0f3fed56c2",
+  "metadata_path": "latest/TAR.5B99A78DA6C7.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos maisto įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

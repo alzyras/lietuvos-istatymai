@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/583eb290012111e4bfca9cc6968de163.md",
+  "adopted_date": "2014-06-26",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2015-01-01",
+  "etar_id": "583eb290012111e4bfca9cc6968de163",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/583eb290012111e4bfca9cc6968de163.md",
+  "latest_revision": "2015-01-01",
+  "latest_sha256": "41d835416ed1e27fe4b120cdc35cdd371cf6c621e91e3f04fd39e5343f19b1af",
+  "metadata_path": "latest/583eb290012111e4bfca9cc6968de163.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/583eb290012111e4bfca9cc6968de163",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 4, 6, 11 ir 13 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/f221db80e3f411e7b3f0a470b0373cb2.md",
+  "adopted_date": "2017-12-07",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2019-01-01",
+  "etar_id": "f221db80e3f411e7b3f0a470b0373cb2",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/f221db80e3f411e7b3f0a470b0373cb2.md",
+  "latest_revision": "2019-01-01",
+  "latest_sha256": "9275eb64e1e1c41b69ea5a99310fb2132610b950a57ce09739ec5e9fb158a394",
+  "metadata_path": "latest/f221db80e3f411e7b3f0a470b0373cb2.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/f221db80e3f411e7b3f0a470b0373cb2",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

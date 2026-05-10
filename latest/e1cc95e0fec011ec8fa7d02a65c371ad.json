@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/e1cc95e0fec011ec8fa7d02a65c371ad.md",
+  "adopted_date": "2022-06-30",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-07-09",
+  "etar_id": "e1cc95e0fec011ec8fa7d02a65c371ad",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/e1cc95e0fec011ec8fa7d02a65c371ad.md",
+  "latest_revision": "2022-07-09",
+  "latest_sha256": "a817389c8d011212d320c94eb3f5c70a12a48db255423f5ede9c296db102455e",
+  "metadata_path": "latest/e1cc95e0fec011ec8fa7d02a65c371ad.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/e1cc95e0fec011ec8fa7d02a65c371ad",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko teisinio statuso įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

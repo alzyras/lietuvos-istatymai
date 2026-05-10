@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.02F0CA584E88.md",
+  "adopted_date": "2013-12-03",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2013-12-14",
+  "etar_id": "TAR.02F0CA584E88",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.02F0CA584E88.md",
+  "latest_revision": "2013-12-14",
+  "latest_sha256": "1ea954a24fc07fdc78a849721cd8421bf79259a8481931feb85206c470106e30",
+  "metadata_path": "latest/TAR.02F0CA584E88.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.02F0CA584E88",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos uždarosios akcinės bendrovės \"Kauno energetikos remontas\" statuso nustatymo įstatymo pripažinimo netekusiu galios įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

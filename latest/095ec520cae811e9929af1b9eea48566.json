@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/095ec520cae811e9929af1b9eea48566.md",
+  "adopted_date": "2019-08-20",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2019-08-31",
+  "etar_id": "095ec520cae811e9929af1b9eea48566",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/095ec520cae811e9929af1b9eea48566.md",
+  "latest_revision": "2019-08-31",
+  "latest_sha256": "15d3ea1e0cfd949dc8e33d0cc9846d3a3457f736a35a824c7e6c8568334686a7",
+  "metadata_path": "latest/095ec520cae811e9929af1b9eea48566.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/095ec520cae811e9929af1b9eea48566",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 5 ir 7 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

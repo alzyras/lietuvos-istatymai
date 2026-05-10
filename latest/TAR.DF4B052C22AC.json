@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.DF4B052C22AC.md",
+  "adopted_date": "1998-10-13",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "1999-10-01",
+  "etar_id": "TAR.DF4B052C22AC",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.DF4B052C22AC.md",
+  "latest_revision": "1999-10-01",
+  "latest_sha256": "d9ac31585c27b0c793aaf2b481852b537ed16db01db0e0c01ff3ee120eceadee",
+  "metadata_path": "latest/TAR.DF4B052C22AC.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.DF4B052C22AC",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl Tarptautinės migracijos organizacijos konstitucijos ratifikavimo",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

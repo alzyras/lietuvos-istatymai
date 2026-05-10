@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/d89b1fc2192311f08fdabd4950271e2c.md",
+  "adopted_date": "2025-04-08",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2025-04-15",
+  "etar_id": "d89b1fc2192311f08fdabd4950271e2c",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/d89b1fc2192311f08fdabd4950271e2c.md",
+  "latest_revision": "2025-04-15",
+  "latest_sha256": "e8ea967d4d4679bc19690e8eb7925011c378a777e1775cf6897edf577e5b7e44",
+  "metadata_path": "latest/d89b1fc2192311f08fdabd4950271e2c.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/d89b1fc2192311f08fdabd4950271e2c",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 25 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

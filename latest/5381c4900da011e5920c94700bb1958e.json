@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/5381c4900da011e5920c94700bb1958e.md",
+  "adopted_date": "2015-05-21",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2016-01-01",
+  "etar_id": "5381c4900da011e5920c94700bb1958e",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/5381c4900da011e5920c94700bb1958e.md",
+  "latest_revision": "2016-01-01",
+  "latest_sha256": "62b699ff65ad4413d212c15b868eb555e777922b6f437e05d675e627e73fd0a4",
+  "metadata_path": "latest/5381c4900da011e5920c94700bb1958e.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/5381c4900da011e5920c94700bb1958e",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 4 ir 5 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}

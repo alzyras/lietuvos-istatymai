@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.05594217E00C.md",
+  "adopted_date": "2012-05-22",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2012-06-05",
+  "etar_id": "TAR.05594217E00C",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.05594217E00C.md",
+  "latest_revision": "2012-06-05",
+  "latest_sha256": "45ab36dd07b82f0546c28cc76c3bcf3ebe3a5f21d53dd8658d438db602bed89d",
+  "metadata_path": "latest/TAR.05594217E00C.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.05594217E00C",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos biokuro, biodegalų ir bioalyvų įstatymo pripažinimo netekusiu galios įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

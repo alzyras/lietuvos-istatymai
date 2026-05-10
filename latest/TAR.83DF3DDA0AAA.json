@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.83DF3DDA0AAA.md",
+  "adopted_date": "2000-04-11",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-04-28",
+  "etar_id": "TAR.83DF3DDA0AAA",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.83DF3DDA0AAA.md",
+  "latest_revision": "2000-04-28",
+  "latest_sha256": "edfd0d831f489607b83620dc3e64eff30ab5d7f07ff530ef7f7c6dab11971be6",
+  "metadata_path": "latest/TAR.83DF3DDA0AAA.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.83DF3DDA0AAA",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos įstatymas dėl amnestijos akto",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

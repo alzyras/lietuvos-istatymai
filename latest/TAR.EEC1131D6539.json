@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.EEC1131D6539.md",
+  "adopted_date": "2003-12-18",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2004-01-01",
+  "etar_id": "TAR.EEC1131D6539",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.EEC1131D6539.md",
+  "latest_revision": "2004-01-01",
+  "latest_sha256": "01e7ce07793929bd63c349812e20325bf52c657af3f9d3bc492c66654ad48004",
+  "metadata_path": "latest/TAR.EEC1131D6539.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.EEC1131D6539",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos vienkartinio gyventojų turto deklaravimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

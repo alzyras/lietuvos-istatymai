@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/4999f780697511eca9ac839120d251c4.md",
+  "adopted_date": "2021-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2021-12-31",
+  "etar_id": "4999f780697511eca9ac839120d251c4",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/4999f780697511eca9ac839120d251c4.md",
+  "latest_revision": "2021-12-31",
+  "latest_sha256": "eab7c56da3e9e6b778c3b9475da31126c422dc0fb74e88fa6acfde478699ac1e",
+  "metadata_path": "latest/4999f780697511eca9ac839120d251c4.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/4999f780697511eca9ac839120d251c4",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymo Nr. XIV-135 2 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

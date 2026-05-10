@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/b85ddfd0779111e3996afa27049d9d4e.md",
+  "adopted_date": "2013-12-23",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2014-01-08",
+  "etar_id": "b85ddfd0779111e3996afa27049d9d4e",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/b85ddfd0779111e3996afa27049d9d4e.md",
+  "latest_revision": "2014-01-08",
+  "latest_sha256": "33c0df8b683222198e20e92b0d37ad4688c21f7dc1ad0a063b442f1bb39ea19b",
+  "metadata_path": "latest/b85ddfd0779111e3996afa27049d9d4e.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/b85ddfd0779111e3996afa27049d9d4e",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos kriminalinės žvalgybos įstatymo 8 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:31Z"
+}

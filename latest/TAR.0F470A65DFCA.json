@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.0F470A65DFCA.md",
+  "adopted_date": "2000-10-12",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2001-01-01",
+  "etar_id": "TAR.0F470A65DFCA",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.0F470A65DFCA.md",
+  "latest_revision": "2001-01-01",
+  "latest_sha256": "d87da20c8e6929f6965eb498e7195d5e861af3693045fce86579f27c546f318a",
+  "metadata_path": "latest/TAR.0F470A65DFCA.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

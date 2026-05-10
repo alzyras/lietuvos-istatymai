@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/333dfab04d0311e7846ef01bfffb9b64.md",
+  "adopted_date": "2017-06-01",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-06-10",
+  "etar_id": "333dfab04d0311e7846ef01bfffb9b64",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/333dfab04d0311e7846ef01bfffb9b64.md",
+  "latest_revision": "2017-06-10",
+  "latest_sha256": "9e886d5787db4a8fdf4635f9e5cb9d0eee6aa45418e9f8225c68df5cf88065d0",
+  "metadata_path": "latest/333dfab04d0311e7846ef01bfffb9b64.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/333dfab04d0311e7846ef01bfffb9b64",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 29 ir 393 straipsnių pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

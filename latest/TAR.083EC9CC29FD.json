@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.083EC9CC29FD.md",
+  "adopted_date": "2012-10-03",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2013-01-01",
+  "etar_id": "TAR.083EC9CC29FD",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.083EC9CC29FD.md",
+  "latest_revision": "2013-01-01",
+  "latest_sha256": "882ab95b9b1dc6fe1e6ed4631295eb4c1b4f58156766a687c2d15cece6200f14",
+  "metadata_path": "latest/TAR.083EC9CC29FD.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.083EC9CC29FD",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/TAR.7B252B39198E.md",
+  "adopted_date": "2000-10-10",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2000-11-01",
+  "etar_id": "TAR.7B252B39198E",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/TAR.7B252B39198E.md",
+  "latest_revision": "2000-11-01",
+  "latest_sha256": "cd67c582a7c2399f06491cf91f8f18beade46984d53591e504feb3d7395031c2",
+  "metadata_path": "latest/TAR.7B252B39198E.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": null,
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/TAR.7B252B39198E",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 27 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/d58089c0aa7111ec8d9390588bf2de65.md",
+  "adopted_date": "2022-03-17",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2022-03-24",
+  "etar_id": "d58089c0aa7111ec8d9390588bf2de65",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/d58089c0aa7111ec8d9390588bf2de65.md",
+  "latest_revision": "2022-03-24",
+  "latest_sha256": "4873fc09719017455a5527c1958b96b7671b5f806f89827716634cbec1c687ed",
+  "metadata_path": "latest/d58089c0aa7111ec8d9390588bf2de65.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/d58089c0aa7111ec8d9390588bf2de65",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 7 straipsnio pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:51Z"
+}

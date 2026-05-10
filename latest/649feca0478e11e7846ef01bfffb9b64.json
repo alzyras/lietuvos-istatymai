@@ -1,0 +1,23 @@
+{
+  "act_path": "latest/649feca0478e11e7846ef01bfffb9b64.md",
+  "adopted_date": "2017-05-25",
+  "business_regulation": false,
+  "document_status": "registruotas TA registre",
+  "effective_date": "2017-09-01",
+  "etar_id": "649feca0478e11e7846ef01bfffb9b64",
+  "institution": "Lietuvos Respublikos Seimas",
+  "is_national": true,
+  "latest_path": "latest/649feca0478e11e7846ef01bfffb9b64.md",
+  "latest_revision": "2017-09-01",
+  "latest_sha256": "6d11d53cfd777bac0bd7c8e7638b87c3cd0052cc600017fe2ae94e059b87a52b",
+  "metadata_path": "latest/649feca0478e11e7846ef01bfffb9b64.json",
+  "parser_version": "0.1.0",
+  "revision_count": 0,
+  "source_group": "valstybės institucijų ir įstaigų teisės aktai",
+  "source_nature": null,
+  "source_url": "https://e-tar.lt/portal/lt/legalAct/649feca0478e11e7846ef01bfffb9b64",
+  "status": "galioja",
+  "title": "Lietuvos Respublikos administracinių nusižengimų kodekso 542, 589 straipsnių ir priedo pakeitimo įstatymas",
+  "type": "Įstatymas",
+  "updated_from_source_at": "2026-05-10T13:34:58Z"
+}
