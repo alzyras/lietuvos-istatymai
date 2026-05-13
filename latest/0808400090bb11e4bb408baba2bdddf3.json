@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/0808400090bb11e4bb408baba2bdddf3.md",
   "latest_revision": "2015-01-01",
-  "latest_sha256": "a29a5b4fc48ad6a3bc22350fe79724a4c9aec28f34c1d19b202b1426e47ce01f",
+  "latest_sha256": "5fa623b9f9b20c9aee744f984dc0c52cf541c75a8a1a0aa66670551574cd903e",
   "metadata_path": "latest/0808400090bb11e4bb408baba2bdddf3.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 3 straipsnio pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-10T13:34:31Z"
+  "updated_from_source_at": "2026-05-13T18:52:31Z"
 }

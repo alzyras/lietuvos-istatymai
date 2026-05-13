@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.B1AC6AD45468.md",
   "latest_revision": "2013-05-07",
-  "latest_sha256": "37560883ac8e7a97ecb80f0182edb552d4b1a91e635cddb86ff2bd08421178bf",
+  "latest_sha256": "28ba2fa7cb984077a58afc217c41167d0c17839067205853e53450ca752ee811",
   "metadata_path": "latest/TAR.B1AC6AD45468.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos draudimo įstatymo 93, 114, 127 straipsnių pakeitimo ir 228 straipsnio pripažinimo netekusiu galios įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-10T13:34:58Z"
+  "updated_from_source_at": "2026-05-13T18:52:55Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.F4CA26A706AF.md",
   "latest_revision": "2000-03-01",
-  "latest_sha256": "b490f38347a9c9a935a1ebe34ab2bb2a0320ad4bd297ae29df654ba9365d022d",
+  "latest_sha256": "3eb66f5ec9211d5b818518e7fe5b8f7bfc397d1fd246a7f030ecdfc3dab563d5",
   "metadata_path": "latest/TAR.F4CA26A706AF.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-10T13:34:31Z"
+  "updated_from_source_at": "2026-05-13T18:52:31Z"
 }

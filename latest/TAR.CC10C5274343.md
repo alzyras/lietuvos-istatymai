@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-07-01"
 latest_path: "latest/TAR.CC10C5274343.md"
-latest_sha256: "82affe67623e8428869f27b0e0d1a7fd76740c00ac5c1663267ae6f07b932030"
+latest_sha256: "f5813b65ba57ceed05eb15102b16ec4baf15ffbbe50d4d1859841821c4ef2807"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos žemės įstatymas
@@ -690,7 +690,7 @@ Nr. XV-862, 2026-04-23, paskelbta TAR 2026-05-04, i. k. 2026-07402
 
 101. Valstybinės žemės nuomos teisė į valstybinės žemės ūkio paskirties žemės sklypą (jo dalį) Vyriausybės nustatyta tvarka gali būti perleidžiama šio valstybinės žemės sklypo (jo dalies) nuomininko sutuoktiniui, asmeniui, su kuriuo šio valstybinės žemės sklypo (jo dalies) nuomininkas įregistravęs partnerystę, tėvams (įtėviams), vaikams (įvaikiams), vaikaičiams, broliams ir (ar) seserims, turintiems Vyriausybės įgaliotos institucijos nustatytą profesinį pasirengimą ūkininkauti, kai jiems parduodamas ar kitaip perleidžiamas šio valstybinės žemės sklypo (jo dalies) nuomininkui nuosavybės teise priklausantis nekilnojamasis turtas (jo dalis), naudojamas ūkininko ūkio veikloje, kai šio valstybinės žemės sklypo (jo dalies) nuomininko ūkininko ūkis įregistruotas Ūkininkų ūkių registro informacinėje sistemoje ir kai šio valstybinės žemės sklypo (jo dalies) nuomininkas tvarkingai vykdo pagal valstybinės žemės nuomos sutartį prisiimtus įsipareigojimus. Šiuo atveju, perleidus valstybinės žemės nuomos teisę į valstybinės žemės ūkio paskirties žemės sklypą (jo dalį), keičiant valstybinės žemės nuomos sutarties šalį ir sudarant susitarimą dėl valstybinės žemės nuomos sutarties pakeitimo, kitos šios valstybinės žemės nuomos sutarties sąlygos nekeičiamos. ^93accd1033c9690930c7964f
 Papildyta straipsnio dalimi:
-TAR pastaba. Nuostatos taikomos, kai valstybinės žemės sklypo nuomininko sandoris (-iai) dėl jam nuosavybės teise priklausančio nekilnojamojo turto (jo dalies), naudojamo ūkininko ūkio veikloje, pardavimo ar kito perleidimo nuosavybės teise sutuoktiniui, asmeniui, su kuriuo šio valstybinės žemės sklypo (jo dalies) nuomininkas įregistravęs partnerystę, tėvams (įtėviams), vaikams (įvaikiams), vaikaičiams, broliams ir (ar) seserims sudarytas (-i) 2027 m. sausio 1 d. ar vėliau.
+TAR pastaba. Lietuvos Respublikos žemės įstatymo 9 straipsnio 10-1 dalies nuostatos taikomos, kai valstybinės žemės sklypo nuomininko sandoris (-iai) dėl jam nuosavybės teise priklausančio nekilnojamojo turto (jo dalies), naudojamo ūkininko ūkio veikloje, pardavimo ar kito perleidimo nuosavybės teise sutuoktiniui, asmeniui, su kuriuo šio valstybinės žemės sklypo (jo dalies) nuomininkas įregistravęs partnerystę, tėvams (įtėviams), vaikams (įvaikiams), vaikaičiams, broliams ir (ar) seserims sudarytas (-i) 2027 m. sausio 1 d. ar vėliau.
 Nr. XV-862, 2026-04-23, paskelbta TAR 2026-05-04, i. k. 2026-07402
 
 

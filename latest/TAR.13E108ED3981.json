@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.13E108ED3981.md",
   "latest_revision": "1995-08-02",
-  "latest_sha256": "16a840761c964d4cf836826dd573d3f408a005e5f8fe366ed821215ed6b4b5cf",
+  "latest_sha256": "ea3f3dd81e2a67756e9003fb292b24d745f226dce0a3308d23f70ed30f51ab24",
   "metadata_path": "latest/TAR.13E108ED3981.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos žemės gelmių įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-10T13:34:31Z"
+  "updated_from_source_at": "2026-05-13T18:52:31Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.CC10C5274343.md",
   "latest_revision": "1994-07-01",
-  "latest_sha256": "82affe67623e8428869f27b0e0d1a7fd76740c00ac5c1663267ae6f07b932030",
+  "latest_sha256": "f5813b65ba57ceed05eb15102b16ec4baf15ffbbe50d4d1859841821c4ef2807",
   "metadata_path": "latest/TAR.CC10C5274343.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos žemės įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-10T13:34:51Z"
+  "updated_from_source_at": "2026-05-13T18:52:47Z"
 }

@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-08-02"
 latest_path: "latest/TAR.13E108ED3981.md"
-latest_sha256: "16a840761c964d4cf836826dd573d3f408a005e5f8fe366ed821215ed6b4b5cf"
+latest_sha256: "ea3f3dd81e2a67756e9003fb292b24d745f226dce0a3308d23f70ed30f51ab24"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos žemės gelmių įstatymas
@@ -290,7 +290,7 @@ Nr. XIV-1049, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09662
 16) kaupia, tvarko ir saugo gręžinių kerną; ^ec0d1ccaf1ae8e8681e68c58
 
 
-17) nustato gręžinių kerno teikimo, tvarkymo ir naudojimo tvarką. ^b9a6a4f1b8174874e087d4e6
+17) nustato gręžinių kerno teikimo, tvarkymo ir naudojimo tvarką; ^1343f02b3ad715750fc529b8
 
 
 18) nustato Lietuvos geologijos tarnybos teikiamų mokamų paslaugų kainas. ^756e4d2c777a01220b883cef

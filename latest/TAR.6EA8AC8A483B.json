@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.6EA8AC8A483B.md",
   "latest_revision": "2004-04-30",
-  "latest_sha256": "801d649c9c0ba3c547612b4debba01b0616e213615fb896e4514a3baa2027180",
+  "latest_sha256": "055975ddbeba987a5ad2dd3e1fc4883f62d77b0b32d881429b8bdfae2436f0d7",
   "metadata_path": "latest/TAR.6EA8AC8A483B.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-10T13:34:51Z"
+  "updated_from_source_at": "2026-05-13T18:52:47Z"
 }

@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-03-01"
 latest_path: "latest/TAR.F4CA26A706AF.md"
-latest_sha256: "b490f38347a9c9a935a1ebe34ab2bb2a0320ad4bd297ae29df654ba9365d022d"
+latest_sha256: "3eb66f5ec9211d5b818518e7fe5b8f7bfc397d1fd246a7f030ecdfc3dab563d5"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
@@ -2356,19 +2356,21 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 ### 48 straipsnis. Įslaptintos informacijos apsaugos reikalavimų pažeidimų nustatymas
 
 
-1. Jeigu kyla įtarimų ar paaiškėja, kad įslaptinta informacija prarasta ar neteisėtai atskleista, paslapčių subjekto vadovo pavedimu atliekamas tyrimas. Apie įtariamą ar paaiškėjusį įslaptintos informacijos praradimą ar neteisėtą atskleidimą pranešama įslaptintos informacijos rengėjui, o jeigu įtariama ar paaiškėja, kad prarasta ar neteisėtai atskleista Lietuvos Respublikai perduota užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų įslaptinta informacija, – ir Paslapčių apsaugos koordinavimo komisijai. ^cbb79409da8a885e110b58a5
+1. Jeigu kyla įtarimų ar paaiškėja, kad buvo padarytas įslaptintos informacijos apsaugos reikalavimų pažeidimas arba įslaptinta informacija prarasta ar neteisėtai atskleista, paslapčių subjekto vadovo ar jo įgalioto asmens pavedimu atliekamas tyrimas. Apie įtariamą ar paaiškėjusį įslaptintos informacijos praradimą ar neteisėtą atskleidimą pranešama įslaptintos informacijos rengėjui, o jeigu įtariama ar paaiškėja, kad prarasta ar neteisėtai atskleista Lietuvos Respublikai perduota užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų įslaptinta informacija, – ir Paslapčių apsaugos koordinavimo komisijai. ^ce367168bf6d2b4031e7cb7a
+Straipsnio dalies pakeitimai:
+Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
-2. Asmenys, atliekantys tyrimą, turi šio įstatymo [[#^d8ec1f300161030baac1eebd|47 straipsnio 7 dalyje]] numatytas teises. ^4660e90c7a80d2bb75dbbd0c
+2. Asmenys, atliekantys tyrimą, turi šio įstatymo [[#^d8ec1f300161030baac1eebd|47 straipsnio 7 dalyje]] numatytas teises. ^599c2662fec258c896247af9
 
 
-3. Jeigu tyrimo metu nustatoma nusikalstamos veikos, administracinio nusižengimo arba tarnybinio nusižengimo (drausmės pažeidimo) požymių, tyrimo išvados pateikiamos atitinkamoms valstybės institucijoms, įgaliotoms atlikti ikiteisminį tyrimą, administracinio nusižengimo tyrimą arba tarnybinio nusižengimo (drausmės pažeidimo) tyrimą. Jeigu tyrimo metu pasitvirtina, kad įslaptinta informacija yra prarasta ar neteisėtai atskleista, apie tai pranešama Valstybės saugumo departamentui. ^bf8d9755d522c134de47d7b7
+3. Jeigu tyrimo metu nustatoma nusikalstamos veikos, administracinio nusižengimo arba tarnybinio nusižengimo (drausmės pažeidimo) požymių, tyrimo išvados pateikiamos atitinkamoms valstybės institucijoms, įgaliotoms atlikti ikiteisminį tyrimą, administracinio nusižengimo tyrimą arba tarnybinio nusižengimo (drausmės pažeidimo) tyrimą. Jeigu tyrimo metu pasitvirtina, kad įslaptinta informacija yra prarasta ar neteisėtai atskleista, apie tai pranešama Valstybės saugumo departamentui. ^f10ec9e343bbf827d73a614f
 Straipsnio dalies pakeitimai:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
 
 
-4. Paaiškėjus įslaptintos informacijos apsaugos reikalavimų pažeidimams, kurie gali lemti ar lėmė įslaptintos informacijos praradimą ar neteisėtą atskleidimą, paslapčių subjekto vadovas privalo imtis visų reikiamų priemonių, siekdamas užkirsti kelią neigiamų pasekmių atsiradimui, sumažinti galimas grėsmes ar padarytą žalą. ^21e99f83be2209d1abc7c602
+4. Paaiškėjus įslaptintos informacijos apsaugos reikalavimų pažeidimams, kurie gali lemti ar lėmė įslaptintos informacijos praradimą ar neteisėtą atskleidimą, paslapčių subjekto vadovas privalo imtis visų reikiamų priemonių, siekdamas užkirsti kelią neigiamų pasekmių atsiradimui, sumažinti galimas grėsmes ar padarytą žalą. ^5efef154f586bda74db718e0
 
 
 
@@ -2482,7 +2484,7 @@ VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO [[#11 straipsnis. Vyriausybės įga
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1237, 2010-12-14, Žin., 2010, Nr. 157-7971 (2010-12-31)
 VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO 2, 5, 7, 8, 11, 12, 16, 18, 31, 36, 37, 40, 41, 42, 43, [[#44 straipsnis. Įslaptintai informacijai įrašyti skirtų laikmenų apsauga|44 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR AŠTUNTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^4660e90c7a80d2bb75dbbd0c|šio straipsnio 2 dalį]], įsigalioja 2011 m. birželio 1 d.
+Šis įstatymas, išskyrus [[#^599c2662fec258c896247af9|šio straipsnio 2 dalį]], įsigalioja 2011 m. birželio 1 d.
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
