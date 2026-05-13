@@ -14,8 +14,8 @@ pavadinimas: "Coverage"
 - Generated adjacent diffs: 0
 - Latest pointers: 12,114
 - Latest pointer file changes: 12,114
-- Linked sections: 0
-- Linking citations found: 0
-- Resolved links: 0
-- Unresolved links: 0
+- Linked sections: 525,486
+- Linking citations found: 650,407
+- Resolved links: 234,907
+- Unresolved links: 415,500
 - AI chunks: 0

@@ -1,0 +1,2400 @@
+{
+  "nodes": [
+    {
+      "id": "7fd217d674cc582289d92e0e",
+      "type": "text",
+      "text": "[[latest/TAR.7E60B29052C0#2 straipsnis. Įstatymo taikymas|2 straipsnis. Įstatymo taikymas]]",
+      "x": 520,
+      "y": 0,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "8bb1667fb1dfe181e93e10be",
+      "type": "text",
+      "text": "[[latest/TAR.EDDCB615126E#16 straipsnis. Įstatymo įsigaliojimas ir taikymas|16 straipsnis. Įstatymo įsigaliojimas ir taikymas]]",
+      "x": 940,
+      "y": 0,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e3d60daf4d9ca3dcf8055703",
+      "type": "text",
+      "text": "[[latest/f79dd2d00c1711edb4cae1b158f98ea5#^cfda019768a1a2568548d99e|21 str. 1 dalis]]",
+      "x": 1360,
+      "y": 0,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "b29befc00b49c78bb688fa7e",
+      "type": "text",
+      "text": "[[latest/422c8b5042b811e6a8ae9e1795984391#^65e8f458db522de4aea7b98d|41 str. 3 dalis]]",
+      "x": 1780,
+      "y": 0,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d6efaa380604ce3edb3276e6",
+      "type": "text",
+      "text": "[[latest/TAR.7FE50D845019#^2dd0e5be7b6d412c1ac7246c|7 str. 3 dalis]]",
+      "x": 520,
+      "y": 150,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e68857cad51241c5f3ed66b3",
+      "type": "text",
+      "text": "[[latest/29ccd900828711ed8df094f359a60216#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 940,
+      "y": 150,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "163b065a189e988e0d974084",
+      "type": "text",
+      "text": "[[latest/ad961110dd8911e69ae9f38427b46dd7#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]]",
+      "x": 1360,
+      "y": 150,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "5fee67857dabf6a1e09e9b8b",
+      "type": "text",
+      "text": "[[latest/a09f7a8098ef11e58fd1fc0b9bba68a7#^fca8084593e051ef0ec6beb7|1 str. 2 dalis]]",
+      "x": 1780,
+      "y": 150,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6a42630fa669bfe2947670eb",
+      "type": "text",
+      "text": "[[latest/TAR.94F6B680E8B8#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnis. Privalomojo sveikatos draudimo įmokos]]",
+      "x": 520,
+      "y": 300,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "f25cd85aa99cbbb70dff5e86",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#26 straipsnis. Įstatymo papildymas 265 straipsniu|26 straipsnis. Įstatymo papildymas 265 straipsniu]]",
+      "x": 940,
+      "y": 300,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "27546e5a335c4a0e10f4137b",
+      "type": "text",
+      "text": "[[latest/TAR.A7D82E8EDC6B#9 straipsnis. Programos finansavimo lėšų naudojimas|9 straipsnis. Programos finansavimo lėšų naudojimas]]",
+      "x": 1360,
+      "y": 300,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "5e0274f8b768cb52ee85a5e8",
+      "type": "text",
+      "text": "[[latest/TAR.82D8168D3049#^64a60ed331b917fb84059442|37 str. 1 dalis]]",
+      "x": 1780,
+      "y": 300,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a1744694bd7652ea721a54e3",
+      "type": "text",
+      "text": "[[latest/TAR.FC7AB69BE291#131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka|131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka]]",
+      "x": 520,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "93a12771cb282af2ccf775da",
+      "type": "text",
+      "text": "[[latest/TAR.EBB4FD337ADE#58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas|58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas]]",
+      "x": 940,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0265fe815c49c56166d8d3a4",
+      "type": "text",
+      "text": "[[latest/d211d26049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1360,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "2940d7f69c04f96d1bffc1ad",
+      "type": "text",
+      "text": "[[latest/TAR.ED68997709F5#^5d42e4b67b985b64ae2837d8|58 str. 1 dalis]]",
+      "x": 1780,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "28fab8baa9b4f6624cb27b93",
+      "type": "text",
+      "text": "[[latest/57a83860ace511e78a4c904b1afa0332#^a83fa949b0dcd8ee3081cf36|20 str. 1 dalis]]",
+      "x": 520,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "158a1309258f0f6349798262",
+      "type": "text",
+      "text": "[[latest/e233dc307eb511e8ae2bfd1913d66d57#^75353f9fb6b57697292be02c|8 str. 1 dalis]]",
+      "x": 940,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "ff28bed3877434f2ee3bb5f3",
+      "type": "text",
+      "text": "[[latest/TAR.9018B4E8A289|latest/TAR.9018B4E8A289.md]]",
+      "x": 1360,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a49503acecd454671b2d6102",
+      "type": "text",
+      "text": "[[latest/17780ec0a54311eea5a28c81c82193a8#1 straipsnis. Įstatymo paskirtis ir taikymas|1 straipsnis. Įstatymo paskirtis ir taikymas]]",
+      "x": 1780,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9f8a695c3a1fafa1a7735466",
+      "type": "text",
+      "text": "[[latest/bd0c979255c611f0b070ee7f1ceefc75#^d677756d248271aefe936a4d|40 str. 10 dalis]]",
+      "x": 520,
+      "y": 750,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "020e98d60250ea2cf09e1bde",
+      "type": "text",
+      "text": "[[latest/472b4a90e4c111e7acd7ea182930b17f#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimas]]",
+      "x": 940,
+      "y": 750,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "cc60799135ab8e4d04098a76",
+      "type": "text",
+      "text": "[[latest/TAR.424F7C72601E#^64c014a7d1ed8a92029a2273|22 str. 1 dalis]]",
+      "x": 1360,
+      "y": 750,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "4bb74bdb9b4ee38881f33d16",
+      "type": "text",
+      "text": "[[latest/33d53292042311edb32c9f9d8ba206f8#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1780,
+      "y": 750,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "600f7acb40b3eff64cbbfa76",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#28 straipsnis. 27 straipsnio pripažinimas netekusiu galios|28 straipsnis. 27 straipsnio pripažinimas netekusiu galios]]",
+      "x": 520,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "586494d4e8eea6afc6329bc3",
+      "type": "text",
+      "text": "[[latest/TAR.39678AC27C78|latest/TAR.39678AC27C78.md]]",
+      "x": 940,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a46d3c4ded6c9340da5ccd17",
+      "type": "text",
+      "text": "[[latest/422c8b5042b811e6a8ae9e1795984391#25 straipsnis. Darbo rinkoje papildomai remiami asmenys|25 straipsnis. Darbo rinkoje papildomai remiami asmenys]]",
+      "x": 1360,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "45a7816a34d17cf484147e76",
+      "type": "text",
+      "text": "[[latest/77def150a54511eea5a28c81c82193a8#4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai|4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai]]",
+      "x": 1780,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "7c306673fc6bd760b520a85f",
+      "type": "text",
+      "text": "[[latest/3a25a20099a111e9ae2e9d61b1f977b3#3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys|3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys]]",
+      "x": 520,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "41b91772874166f848080b8f",
+      "type": "text",
+      "text": "[[latest/96842d9088f511e8af589337bf1eb893#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]]",
+      "x": 940,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "bc986baa3096abc9656ca15e",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#^5158b1a8eab74250854ef852|1 str. 2 dalis]]",
+      "x": 1360,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "46c62b4654669bece074ea90",
+      "type": "text",
+      "text": "[[latest/TAR.3EB34933E485#5 straipsnis. Tarptautinių sutarčių viršenybės principas|5 straipsnis. Tarptautinių sutarčių viršenybės principas]]",
+      "x": 1780,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0e3bda9453052351e6cd3ad1",
+      "type": "text",
+      "text": "[[latest/TAR.F8090E375DA0#26 straipsnis. Ekonominės sankcijos|26 straipsnis. Ekonominės sankcijos]]",
+      "x": 520,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "2a4cef8de806c68d96c70607",
+      "type": "text",
+      "text": "[[latest/ac3feb3067e311eca9ac839120d251c4#^867cf42f8ee0932008d40caa|28 str. 3 dalis]]",
+      "x": 940,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "56b23862b236d267fb33885b",
+      "type": "text",
+      "text": "[[latest/c2e7f0a07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas]]",
+      "x": 1360,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "44a5b4327823e40c7753ed19",
+      "type": "text",
+      "text": "[[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#507 straipsnis. Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens garbės ir orumo pažeminimas|507 straipsnis. Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens garbės ir orumo pažeminimas]]",
+      "x": 1780,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "558ffcd0bf1b0f1a57d644de",
+      "type": "text",
+      "text": "[[latest/b5c313d0986d11eb9fecb5ecd3bd711c#16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams|16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams]]",
+      "x": 520,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d5242fd1880b5fb8551b5149",
+      "type": "text",
+      "text": "[[latest/fb63ade00a8611e9a5eaf2cd290f1944#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas]]",
+      "x": 940,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "3e471b7edb712729caebf947",
+      "type": "text",
+      "text": "[[latest/8e34031049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1360,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "52e286b4f073338784241c31",
+      "type": "text",
+      "text": "[[latest/TAR.1DEDD43B92AE#^50b752fadfc9349ac52d5111|1 str. 2 dalis]]",
+      "x": 1780,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "4c5b06a3c10e19335b862253",
+      "type": "text",
+      "text": "[[latest/caf5cd4048f611e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 520,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d2443a478199bc6822b588f0",
+      "type": "text",
+      "text": "[[latest/TAR.074B2F6259F9#^c51d6c4bc2f0c92d51e0f853|25 str. 3 dalis]]",
+      "x": 940,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "957c1fd6b175cd6da8367129",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#58 straipsnis. 128 straipsnio pakeitimas|58 straipsnis. 128 straipsnio pakeitimas]]",
+      "x": 1360,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a7818006a9307500607dfa13",
+      "type": "text",
+      "text": "[[latest/b606e370e4f611e4a4809231b4b55019#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas]]",
+      "x": 1780,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6fda02c691d52faf781dc0bb",
+      "type": "text",
+      "text": "[[latest/ac7ee820cd9811e6a2cac7383cbb90a3#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas]]",
+      "x": 520,
+      "y": 1650,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d9eb884593a622a01ca3f3a5",
+      "type": "text",
+      "text": "[[latest/TAR.FC7AB69BE291#^bd201d2546fc934c2c21430b|49 str. 10 dalis]]",
+      "x": 940,
+      "y": 1650,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "796601213bddb198a96d0c4a",
+      "type": "text",
+      "text": "[[latest/TAR.5E8A7FF89480|latest/TAR.5E8A7FF89480.md]]",
+      "x": 1360,
+      "y": 1650,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c02da01dd3927de6a0a5b87f",
+      "type": "text",
+      "text": "[[latest/TAR.0F9036415DBD#4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas|4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas]]",
+      "x": 1780,
+      "y": 1650,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "4a8af348c0b6434420fe0a77",
+      "type": "text",
+      "text": "[[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai|589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai]]",
+      "x": 520,
+      "y": 1800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9bbc73c70d8892c0542fe0d7",
+      "type": "text",
+      "text": "[[latest/TAR.ED68997709F5#19 straipsnis. PVM tarifai|19 straipsnis. PVM tarifai]]",
+      "x": 940,
+      "y": 1800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "5ad0c6d3afff0a2df1943e68",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas|3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas]]",
+      "x": 1360,
+      "y": 1800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "ebabde932d75dd82e78a85af",
+      "type": "text",
+      "text": "[[latest/1a9058e049b311e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1780,
+      "y": 1800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "71c9ce2ff30424d28843b1c1",
+      "type": "text",
+      "text": "[[latest/30f397c0d8db11eb9f09e7df20500045#^7f9de14f3cbe2b7c04aff344|12 str. 2 dalis]]",
+      "x": 520,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c8c3383b413f5c2fc76db7f3",
+      "type": "text",
+      "text": "[[latest/c753b2904dc511ec862fdcbc8b3e3e05#1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas|1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas]]",
+      "x": 940,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "ab1d6f237d906b9b650236d9",
+      "type": "text",
+      "text": "[[latest/7217ebd07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas]]",
+      "x": 1360,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0cf6cbcf98aafe9e1a2c41bf",
+      "type": "text",
+      "text": "[[latest/2021adb01e5b11ef8b14c5bcce136045#25 straipsnis. 48 straipsnio pakeitimas|25 straipsnis. 48 straipsnio pakeitimas]]",
+      "x": 1780,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "cfc75a5fe8b92be6cccb4e68",
+      "type": "text",
+      "text": "[[latest/TAR.94F6B680E8B8#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu]]",
+      "x": 520,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "8c19f223e0af22c9640927af",
+      "type": "text",
+      "text": "[[latest/d75de2c0f6c411ec8fa7d02a65c371ad#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos sporto įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos sporto įstatymo 2 straipsnio pakeitimas]]",
+      "x": 940,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e47ffdfd914be71221b1669f",
+      "type": "text",
+      "text": "[[latest/TAR.B8B6AFC2BFF1#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]]",
+      "x": 1360,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6ba63ba36e2cc1f3544d50dc",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas]]",
+      "x": 1780,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d9a5d0096e3a9d7472939187",
+      "type": "text",
+      "text": "[[latest/c753b2904dc511ec862fdcbc8b3e3e05#^a1ab56fa06b66a9e242ff0b8|37 str. 1 dalis]]",
+      "x": 520,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c776ca1b02bbb9f575fdabc7",
+      "type": "text",
+      "text": "[[latest/TAR.424F7C72601E#^9caa84be8e8898266ad5b0a7|391 str. 1 dalis]]",
+      "x": 940,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0ca4cd8d7bb703e825640654",
+      "type": "text",
+      "text": "[[latest/TAR.F57794B7899F#221 straipsnis. Aktyvieji vartotojai|221 straipsnis. Aktyvieji vartotojai]]",
+      "x": 1360,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c4adaf70f8b0a97a08f6a027",
+      "type": "text",
+      "text": "[[latest/TAR.EBB4FD337ADE#26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams|26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams]]",
+      "x": 1780,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "7688dce17ab99e1a8c271410",
+      "type": "text",
+      "text": "[[latest/TAR.9D2F66B96EBC#^e3a78148b8052c8b0cf0b224|411 str. 2 dalis]]",
+      "x": 520,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "37dde4fd33223b934b171235",
+      "type": "text",
+      "text": "[[latest/TAR.8447F63760E9#^0d7b65a7b0cf0b2aaad67fa0|7 str. 3 dalis]]",
+      "x": 940,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "94d9889e5ca50ca793c35fcd",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]]",
+      "x": 1360,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "fc8e41d4b68335fb549d7b26",
+      "type": "text",
+      "text": "[[latest/TAR.068516AF734B#^5e19c793764fdf1a1cee6185|5 str. 2 dalis]]",
+      "x": 1780,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0f7049e2eff479d3591776eb",
+      "type": "text",
+      "text": "[[latest/TAR.6EA8AC8A483B#^1eb0d3c2bc0df2f4cc3d3a85|28 str. 3 dalis]]",
+      "x": 520,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "b07a4631d413f44117925d13",
+      "type": "text",
+      "text": "[[latest/TAR.424F7C72601E#^0f0a40c3a6c3813cf812f764|22 str. 2 dalis]]",
+      "x": 940,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "22f47df29cb918cb28d4e20f",
+      "type": "text",
+      "text": "[[latest/9197387088f211e8af589337bf1eb893#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1360,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "1c8108e6201276caf52026a3",
+      "type": "text",
+      "text": "[[latest/TAR.E2B2957B9182#^0acd67e976b3847ff5a796ba|591 str. 3 dalis]]",
+      "x": 1780,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "b67daacb8e2e8789fb943c5b",
+      "type": "text",
+      "text": "[[latest/736b48002b2f11eb932eb1ed7f923910#1 straipsnis. Įstatymo paskirtis ir taikymo sritis|1 straipsnis. Įstatymo paskirtis ir taikymo sritis]]",
+      "x": 520,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "4337c9e34f160a1f5b76d18e",
+      "type": "text",
+      "text": "[[latest/TAR.D3ED3792F52B#3 straipsnis. Pagrindinės šio įstatymo sąvokos|3 straipsnis. Pagrindinės šio įstatymo sąvokos]]",
+      "x": 940,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "858d771f4973d7dd4a23f356",
+      "type": "text",
+      "text": "[[latest/TAR.D570962773F8#1 straipsnis. Atmintinos dienos|1 straipsnis. Atmintinos dienos]]",
+      "x": 1360,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9ec4afb0bdf10711dab4f3cf",
+      "type": "text",
+      "text": "[[latest/TAR.389CB90C666D#3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys|3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys]]",
+      "x": 1780,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "33de63ac5d91b2459c60605b",
+      "type": "text",
+      "text": "[[latest/TAR.C677663D2202#17 straipsnis. Neapmokestinamosios pajamos|17 straipsnis. Neapmokestinamosios pajamos]]",
+      "x": 520,
+      "y": 2850,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a05cbeef7cc296ee421cffca",
+      "type": "text",
+      "text": "[[latest/TAR.EBB4FD337ADE#^5f8dd83d1d77992ac7d3ab73|1 str. 2 dalis]]",
+      "x": 940,
+      "y": 2850,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "506a1b275bb0c8b4d230516a",
+      "type": "text",
+      "text": "[[latest/86a0dea0fdf411ec8fa7d02a65c371ad#^f9d0773a64ac191d211d0837|16 str. 9 dalis]]",
+      "x": 1360,
+      "y": 2850,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9ad7d7e01c9c36bf73ac9bed",
+      "type": "text",
+      "text": "[[latest/TAR.FC7AB69BE291#^366a8fdfbcf7c98e53ce40f4|1 str. 4 dalis]]",
+      "x": 1780,
+      "y": 2850,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "88964740a1326f3fc62478cf",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^0a3547c7c1a6b2e15bfb6d73|2 str. 35 dalis]]",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "8758843ab10b59d8cb8ab78f",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^328148380dd83711690d34b6|2 str. 26 dalis]]",
+      "x": 0,
+      "y": 120,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d5b86262035f038619b1353c",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^34eb6fece40c529f0ec9f4df|2 str. 30 dalis]]",
+      "x": 0,
+      "y": 360,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "093119166fe2f240eeaf105d",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^3e56a0a8babf254fd06cbcab|2 str. 7 dalis]]",
+      "x": 0,
+      "y": 480,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "1111d2ca1e1f500b1b6c8747",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^458e4bde41476f6fdc4d58c6|2 str. 21 dalis]]",
+      "x": 0,
+      "y": 1560,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "ec71ef2f5948ea0e373cbd8d",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas|2 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas]]",
+      "x": 0,
+      "y": 1680,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "1988cfc0a27b586166c1d96a",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^4cfba4a3674c5f26d8236759|2 str. 14 dalis]]",
+      "x": 0,
+      "y": 5760,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6a1406953e35fd0ac2127389",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^531e8956d38d42d90a31b65a|2 str. 3 dalis]]",
+      "x": 0,
+      "y": 5880,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "93d1346a035830986d698c38",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^5783a3b2bcc0fffd6a57f891|2 str. 4 dalis]]",
+      "x": 0,
+      "y": 6000,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a65ad85ebcf93e5ec113f50b",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^77109378501b48ef8fdaac76|2 str. 23 dalis]]",
+      "x": 0,
+      "y": 6240,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c3e3d3b5d4284a6ebb76f96b",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^791d3cbda085d8fa996c72c2|2 str. 20 dalis]]",
+      "x": 0,
+      "y": 6480,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "f50ae664c5df8c330c598806",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^806ce126c9e0e6041cc6ba0a|2 str. 16 dalis]]",
+      "x": 0,
+      "y": 6600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6277ac78ae164a2039e5f0f6",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^8685af0c2f935e6c1122b8b8|2 str. 12 dalis]]",
+      "x": 0,
+      "y": 6720,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "7d8a52a53baf87c4eb799af0",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^8a34efcf5c8fa373f7960ca2|2 str. 11 dalis]]",
+      "x": 0,
+      "y": 6840,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "59e39a59504297db7f78786e",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^8c5c38dea3bfbf8c4b148c09|2 str. 6 dalis]]",
+      "x": 0,
+      "y": 6960,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "dfdb1e5785a08d78de9b57f6",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#1 straipsnis. Lietuvos Respublikos vidaus tarnybos statuto nauja redakcija|1 straipsnis. Lietuvos Respublikos vidaus tarnybos statuto nauja redakcija]]",
+      "x": 0,
+      "y": 7080,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "96f67b035005b9cd08e4dd16",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^a4a1be06e3934c198b3cfc88|2 str. 22 dalis]]",
+      "x": 0,
+      "y": 7200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "76510a314fb1dea036c63059",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^b9f13803b6da371093a3400a|2 str. 31 dalis]]",
+      "x": 0,
+      "y": 7320,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "99767b5cb3e67b3c9b08af18",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^c22a61937ee4f84d4211d2d0|2 str. 33 dalis]]",
+      "x": 0,
+      "y": 7440,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "882fdc936eca36535f1142d7",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^cf45e7ceda400ccbad101842|2 str. 34 dalis]]",
+      "x": 0,
+      "y": 7560,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e0a9755269eccfcc579fcc4c",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^d66f6a3fed97708a5cd0359b|2 str. 18 dalis]]",
+      "x": 0,
+      "y": 7680,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a712146d68b365b39d89acd1",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^dc82cd51467c3b71c63e4fcf|2 str. 27 dalis]]",
+      "x": 0,
+      "y": 7800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "731982f1d7cf746e15528484",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^e7bf4e9671df859e00f55212|2 str. 17 dalis]]",
+      "x": 0,
+      "y": 7920,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6f7c6be1bf53b1ee1a75e9f8",
+      "type": "text",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#^f509e97a56e00d50e95b0d6d|2 str. 9 dalis]]",
+      "x": 0,
+      "y": 8040,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "cf10150ad8a65bed3e778af7",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^053caf4f05f97a8208e552fb|5 str. 6 dalis]]",
+      "x": 0,
+      "y": 8280,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "b9ee6a6c8ac2a50745d1a35e",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^068e82bdb3a6c754a6555ce2|4 str. 13 dalis]]",
+      "x": 0,
+      "y": 8400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "4a71d841aec6b9a5f53d4e20",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^18454d2785ae2dfe9d2b2513|5 str. 4 dalis]]",
+      "x": 0,
+      "y": 8640,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "efe80b21106aca23da13160e",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^379147e492027b9ebc47f5a5|6 str. 3 dalis]]",
+      "x": 0,
+      "y": 8760,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "bfb991394a2e01fa1ecc78b0",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^3880a3d8a0ce5ea1d2f3e6bb|6 str. 1 dalis]]",
+      "x": 0,
+      "y": 8880,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "234f1e883ce2523b619caaa5",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^3e976d187f66edc6a2600d14|2 str. 5 dalis]]",
+      "x": 0,
+      "y": 9000,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "ff1ab64319d3a9df5e91b72c",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^4825ecccdbe1f83fff31903d|4 str. 2 dalis]]",
+      "x": 0,
+      "y": 9120,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "611e5aad8fabd96ff832753f",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^486b21bf8cc5b89bd9b767c9|8 str. 3 dalis]]",
+      "x": 0,
+      "y": 9240,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "caf85a39bd22654305e578e7",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#6 straipsnis. Viešieji objektai, kuriems netaikomas pašalinimas arba pakeitimas|6 straipsnis. Viešieji objektai, kuriems netaikomas pašalinimas arba pakeitimas]]",
+      "x": 0,
+      "y": 9360,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "3b3ec88f5a4343a2765e0a76",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^507af281023a4792156a8046|4 str. 1 punktas]]",
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "447aa53d31c4b24c2db45660",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^518a979b0036c4afda1e047c|4 str. 9 dalis]]",
+      "x": 0,
+      "y": 240,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "2654a7104159e8c702b15cde",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^5d5e6fa468612f2fe28cf004|4 str. 6 dalis]]",
+      "x": 0,
+      "y": 360,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e32249546a1118dd7938bcb5",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#8 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas|8 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas]]",
+      "x": 0,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "df4ba4b3cc97417935a47aea",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^764badd6db5e97f11bfbfc0f|4 str. 7 dalis]]",
+      "x": 0,
+      "y": 720,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d39669bea9673596917867e9",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#2 straipsnis. Pagrindinės šio įstatymo sąvokos|2 straipsnis. Pagrindinės šio įstatymo sąvokos]]",
+      "x": 0,
+      "y": 840,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "30c32050124711708d014eab",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^7d42f36d8dbdec7f0843bb86|5 str. 5 dalis]]",
+      "x": 0,
+      "y": 960,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "1a7eb39379e46f75f3a6adbc",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^9930ee6d4a2bef0dfe916df5|4 str. 11 dalis]]",
+      "x": 0,
+      "y": 1080,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "b84e2d7d5d2de0825fe3b235",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#4 straipsnis. Viešųjų objektų pripažinimo tokiais, kuriais pažeidžiamas draudimas propaguoti totalitarinius, autoritarinius režimus ir jų ideologijas tvarka|4 straipsnis. Viešųjų objektų pripažinimo tokiais, kuriais pažeidžiamas draudimas propaguoti totalitarinius, autoritarinius režimus ir jų ideologijas tvarka]]",
+      "x": 0,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d4e6ffa8f1d680a00ffcb81c",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^c3d6de8a227ed6aa8486b10b|4 str. 12 dalis]]",
+      "x": 0,
+      "y": 2520,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "f5c1cc48897c2dafae3509c2",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#5 straipsnis. Viešųjų objektų, kuriais propaguojami totalitariniai, autoritariniai režimai ir jų ideologijos, pašalinimas  arba pakeitimas|5 straipsnis. Viešųjų objektų, kuriais propaguojami totalitariniai, autoritariniai režimai ir jų ideologijos, pašalinimas  arba pakeitimas]]",
+      "x": 0,
+      "y": 2640,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "8327145ec514bf76377e80c2",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^e04b052e07f347e191b3e7d7|5 str. 2 dalis]]",
+      "x": 0,
+      "y": 3360,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "1c23bd8963e28466a4a1a56d",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#^e5d848ec33a42832089602c7|5 str. 3 dalis]]",
+      "x": 0,
+      "y": 3480,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "aef1aaf663503e887ef33e83",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^00d668a62941e58e39d69cbe|3 str. 2 dalis]]",
+      "x": 0,
+      "y": 3720,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "7cc9adf0977b84a7d36dabde",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#7 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio pakeitimas|7 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio pakeitimas]]",
+      "x": 0,
+      "y": 3840,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "04f88f6e8ce06c33dd30f9a8",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#4 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 11 straipsnio pakeitimas|4 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 11 straipsnio pakeitimas]]",
+      "x": 0,
+      "y": 4200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e55962ea4383f003f6fcf2bc",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^1a546e74edd1b735a233e979|8 str. 5 dalis]]",
+      "x": 0,
+      "y": 4680,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "f90a4fd74b124d4a8241dc24",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^29cc6c4c648d07f3b7e9a0b0|8 str. 13 dalis]]",
+      "x": 0,
+      "y": 4800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "5e2cd2da4ae8caca7283a30f",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#3 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 5 straipsnio pakeitimas|3 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 5 straipsnio pakeitimas]]",
+      "x": 0,
+      "y": 4920,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "f81415408f644e68a75a2e5b",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^356570af4ca52b17ee3dfef2|4 str. 2 dalis]]",
+      "x": 0,
+      "y": 5280,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9c41bc71825d7ebe5b42c3e6",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^41086ba94f674f9024a5fb24|8 str. 3 dalis]]",
+      "x": 0,
+      "y": 5400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "48f2149bd76f4390489fc22e",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^4387fb3e4a908491a1fce237|1 str. 2 dalis]]",
+      "x": 0,
+      "y": 5520,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d109233fde6696b26682b21d",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#2 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 3 straipsnio pakeitimas|2 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 3 straipsnio pakeitimas]]",
+      "x": 0,
+      "y": 5640,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "60b894711364c6826329bbbd",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^47ff8b349889b71a782a7dbd|5 str. 2 dalis]]",
+      "x": 0,
+      "y": 5880,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d7b10bbc1183f7c27a110091",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^48305c0f1f873fd898949b59|1 str. 4 dalis]]",
+      "x": 0,
+      "y": 6000,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "2dc88a2e59f6dfec7f5a2f18",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^553f5fac99b8a86dd566849a|1 str. 1 dalis]]",
+      "x": 0,
+      "y": 6120,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e911d258a94f1779a910715b",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#^59502aeea8515da7d5ccc46d|5 str. 1 dalis]]",
+      "x": 0,
+      "y": 6240,
+      "width": 320,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {
+      "id": "7ddb0e5d737d1be66ccc11b7",
+      "fromNode": "88964740a1326f3fc62478cf",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "b3c3fb7be80eccf754dcf6eb",
+      "fromNode": "8758843ab10b59d8cb8ab78f",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "664dd4e1557ea0868008ec18",
+      "fromNode": "8758843ab10b59d8cb8ab78f",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "06271a9d6c592850c46fcdf8",
+      "fromNode": "d5b86262035f038619b1353c",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "ef2e977e6f6cd4e1d3a2f203",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "d9c8d2d2dbabb053fb6413b9",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "56efb271cbc54b57a8085fcd",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "6e91acce38891b3215b3790a",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "a0e6acb3ea90d9c1785079af",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "3103e8c133a035407afc8c38",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "9a14cc35f0c1244a26a3d8eb",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "9abf0caf1300a1939c96b2bc",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "8dde367222befe8856c8296b",
+      "fromNode": "093119166fe2f240eeaf105d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "bf6477206cb4a7e769711157",
+      "fromNode": "1111d2ca1e1f500b1b6c8747",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "e8423d7c2aca3c6fede96559",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "ecb6ff3eb97d5c2a249bb696",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "49c99d4e1ec06573f6abae83",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "95b87d63bcf09294aa487134",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "3204797f7533fcaf38e3e880",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "9bb78114b31803b7b2df3129",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "41f52650afadbddcb3c7d2b5",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "e0435376b839180812e150bd",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "223dfdb3e1ee42007c0bfec4",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "259484dea07125adeb563fa3",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "1c862d93bd0696d9f6776b9b",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "eed2c4813bbd7d0fca4890b1",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "fb9d7ef7474ffa5ed132f592",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "3baa21ac1b881f92188f9657",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "5dd0687fdc4b32b67c8a4fdd",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "fb419f0e0be76f01006572cb",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "3e6c844b24af135687712f24",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "2587d8150758f63ab16f1bad",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "37621db696a9c412cfe1122c",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "04455ac4e3710fce6634129e",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "052a8cf75cf9bb58fbe35009",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "dc96fb039d0681753e6b4b2d",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "cfedde0809e7d7b951bff455",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "5cea8eb15483c1c3d8401862",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "ca3b7784e73d146bf402abb7",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "e28b7cdabbfa6dd27f9684fe",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "a28c449ba6425d47bf132ebd",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "c6cdb1fd4ebdf49af2d08541",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "84d458067559bd1145974290",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "9a9557c4bc860e9d0b792682",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "f2aa1898f668c032de56fba1",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "f5bf289feff25a4fd3ffd7ff",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "a38a891e5b72d3f9ed692648",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "1a292b362fccd2d1c1322327",
+      "fromNode": "ec71ef2f5948ea0e373cbd8d",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "f0f25b03f6a69b86900fe431",
+      "fromNode": "1988cfc0a27b586166c1d96a",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "7cff28bdb0d855179a3f7874",
+      "fromNode": "6a1406953e35fd0ac2127389",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "7995a4c6a5308ce31bb5b5ed",
+      "fromNode": "93d1346a035830986d698c38",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "030a9691ffeb8b98a315a02d",
+      "fromNode": "93d1346a035830986d698c38",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "da8a5802ec5d89e3c29e9e6d",
+      "fromNode": "a65ad85ebcf93e5ec113f50b",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "63698c91c7a35ba1bfb87b32",
+      "fromNode": "a65ad85ebcf93e5ec113f50b",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "195c5db0420912ed853fb0bf",
+      "fromNode": "c3e3d3b5d4284a6ebb76f96b",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "a71417c03c622f9f98a82489",
+      "fromNode": "f50ae664c5df8c330c598806",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "e3d17b91c4ae20c7a9303f4f",
+      "fromNode": "6277ac78ae164a2039e5f0f6",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "5b33f8a42fdb0647f2b50a69",
+      "fromNode": "7d8a52a53baf87c4eb799af0",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "ab70103661ac585be6ccf69c",
+      "fromNode": "59e39a59504297db7f78786e",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "c8ffde864b7639e27336f000",
+      "fromNode": "dfdb1e5785a08d78de9b57f6",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnis"
+    },
+    {
+      "id": "bc9ad1351fd17562452bcef3",
+      "fromNode": "96f67b035005b9cd08e4dd16",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "e8b75c4bc74fe95cbf04b963",
+      "fromNode": "76510a314fb1dea036c63059",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "b0dcd4c0b5a65c7d73c1d0eb",
+      "fromNode": "99767b5cb3e67b3c9b08af18",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "17ca05315f251ace8c5b68eb",
+      "fromNode": "882fdc936eca36535f1142d7",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "ed027e3be8a36c50d3ebe37b",
+      "fromNode": "e0a9755269eccfcc579fcc4c",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "5617f9a5d84a7be600ba8fe9",
+      "fromNode": "a712146d68b365b39d89acd1",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "43fb8620180e42a1d638e8f8",
+      "fromNode": "731982f1d7cf746e15528484",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "26a003de6ac0de932e55774a",
+      "fromNode": "6f7c6be1bf53b1ee1a75e9f8",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "644b6c771a680e209c2a8904",
+      "fromNode": "6f7c6be1bf53b1ee1a75e9f8",
+      "toNode": "94d9889e5ca50ca793c35fcd",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "76ac307d9a4da7073821bad2",
+      "fromNode": "cf10150ad8a65bed3e778af7",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "e4c6ae4ca2cdf869d07b3b6d",
+      "fromNode": "b9ee6a6c8ac2a50745d1a35e",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "3e25f79802a215d61772c04c",
+      "fromNode": "b9ee6a6c8ac2a50745d1a35e",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "e80f9f339142f2c37a56ab4a",
+      "fromNode": "4a71d841aec6b9a5f53d4e20",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "53dec1cdb284ebff614ef64d",
+      "fromNode": "efe80b21106aca23da13160e",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "b7e06c545040e8cdebdc3a4c",
+      "fromNode": "bfb991394a2e01fa1ecc78b0",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "7bcc85cd37a565ac9db61ea4",
+      "fromNode": "234f1e883ce2523b619caaa5",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnyje"
+    },
+    {
+      "id": "f32673f124928d130c211463",
+      "fromNode": "ff1ab64319d3a9df5e91b72c",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "31a603c3a28d7f7b292f5a60",
+      "fromNode": "611e5aad8fabd96ff832753f",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "388960df97328e63de7c53ab",
+      "fromNode": "caf85a39bd22654305e578e7",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "54c9edb97c7dec1a7c8c2105",
+      "fromNode": "caf85a39bd22654305e578e7",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "fc8f069b328e9f500f223180",
+      "fromNode": "3b3ec88f5a4343a2765e0a76",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "b7e7737ff6adb46b483de4ea",
+      "fromNode": "3b3ec88f5a4343a2765e0a76",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "c42cf800781a3f32618b4f9a",
+      "fromNode": "447aa53d31c4b24c2db45660",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "1f9f317787f67c922fba30c7",
+      "fromNode": "2654a7104159e8c702b15cde",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "92ec5e74fe8f5f36423d5d0d",
+      "fromNode": "2654a7104159e8c702b15cde",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "a06cf506b684ef4b7669fd8d",
+      "fromNode": "e32249546a1118dd7938bcb5",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "67482e05b12b616aa88c6bf2",
+      "fromNode": "df4ba4b3cc97417935a47aea",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "abc32f87ba3cc0f99ccf5094",
+      "fromNode": "d39669bea9673596917867e9",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnyje"
+    },
+    {
+      "id": "0fbb379ce76ac5b8abb5c9c4",
+      "fromNode": "30c32050124711708d014eab",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "8ddc1e49dc4a591d65df6a93",
+      "fromNode": "1a7eb39379e46f75f3a6adbc",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnyje"
+    },
+    {
+      "id": "838bd0bfa1e5598728a07c89",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "8a83b0d319e7684c0e1eca59",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "85e26e68b25cba0496ebac92",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "8d75a169030b48610cf18cd3",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "618d41ced20b1e5b101fa06e",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "b085cc9e0eabb9a3309bfdbd",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "d97326c9bd8435e1849076dd",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "086767f3602f3c88a8aaadfa",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "bb045a4a3de0fee33db5d6d8",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "7c6683c1567ef349a06703e4",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnyje"
+    },
+    {
+      "id": "c6d9b3a638a0a2f7b2006f6f",
+      "fromNode": "b84e2d7d5d2de0825fe3b235",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnyje"
+    },
+    {
+      "id": "720c346ab3f226eb295e6d23",
+      "fromNode": "d4e6ffa8f1d680a00ffcb81c",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnyje"
+    },
+    {
+      "id": "2fbc8ec75dd628e1f3f38587",
+      "fromNode": "f5c1cc48897c2dafae3509c2",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "48ae42209d301c74697c37fc",
+      "fromNode": "f5c1cc48897c2dafae3509c2",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "cc3c21f9aafb8f84965c9829",
+      "fromNode": "f5c1cc48897c2dafae3509c2",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "75399c8757efb218d5770a92",
+      "fromNode": "f5c1cc48897c2dafae3509c2",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "48e8ad0d8a672736aad2ad35",
+      "fromNode": "f5c1cc48897c2dafae3509c2",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "bd075b1387610996e2d23115",
+      "fromNode": "f5c1cc48897c2dafae3509c2",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "41d543d40a5ea82f15f125e0",
+      "fromNode": "8327145ec514bf76377e80c2",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "c6058a062751bd4991839c1d",
+      "fromNode": "1c23bd8963e28466a4a1a56d",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "5184d742162a3dee24d91754",
+      "fromNode": "1c23bd8963e28466a4a1a56d",
+      "toNode": "5ad0c6d3afff0a2df1943e68",
+      "label": "3 straipsnio"
+    },
+    {
+      "id": "0fbe76d72cb95fc83eff76a3",
+      "fromNode": "aef1aaf663503e887ef33e83",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "9bff76c44084f10edc9c48b1",
+      "fromNode": "7cc9adf0977b84a7d36dabde",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "9aee2a3f2494dd0a69fa6293",
+      "fromNode": "7cc9adf0977b84a7d36dabde",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "6e85e9c80e37cda5f6cd058d",
+      "fromNode": "7cc9adf0977b84a7d36dabde",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "1629b1409dd4a061e74c19c6",
+      "fromNode": "04f88f6e8ce06c33dd30f9a8",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "054ddb77dba61696cf86be1b",
+      "fromNode": "04f88f6e8ce06c33dd30f9a8",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "988a81e6f92873ff02f79f01",
+      "fromNode": "04f88f6e8ce06c33dd30f9a8",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "56b1749f00f36bed8c87bfab",
+      "fromNode": "04f88f6e8ce06c33dd30f9a8",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "aa20f0b4d79fa665159bd396",
+      "fromNode": "e55962ea4383f003f6fcf2bc",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "75fc2e5dae3b5e7edb45b3eb",
+      "fromNode": "f90a4fd74b124d4a8241dc24",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "58dc51fb743ff4d65658e288",
+      "fromNode": "5e2cd2da4ae8caca7283a30f",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "475a75e51cb5bf55472b700a",
+      "fromNode": "5e2cd2da4ae8caca7283a30f",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "1d9c102fe71c64f3e482db7f",
+      "fromNode": "5e2cd2da4ae8caca7283a30f",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "fba08bfc423ab9ab2f32b7ed",
+      "fromNode": "f81415408f644e68a75a2e5b",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "882201ea91672f92da4972a7",
+      "fromNode": "9c41bc71825d7ebe5b42c3e6",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "bf95101a4217f3b9461dd1a8",
+      "fromNode": "48f2149bd76f4390489fc22e",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "01985ea744265edde7fa81c3",
+      "fromNode": "d109233fde6696b26682b21d",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "0449e50a2f2a10c8044319aa",
+      "fromNode": "d109233fde6696b26682b21d",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "c3e69979c7ecf5fb6254a932",
+      "fromNode": "60b894711364c6826329bbbd",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "e250717b6761977ab112224f",
+      "fromNode": "d7b10bbc1183f7c27a110091",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "b41992fc144381754244f4b8",
+      "fromNode": "2dc88a2e59f6dfec7f5a2f18",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "6c5d3c8a909b10f2c31e2292",
+      "fromNode": "e911d258a94f1779a910715b",
+      "toNode": "6ba63ba36e2cc1f3544d50dc",
+      "label": "1 straipsnyje"
+    },
+    {
+      "id": "2ecdf68df12b0cb8cfce3ce5",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "f183347de51cf9cf04a727dc",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "b28ce11aadb090585b0ed498",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "5bdbe241913ccd49424e9ac0",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "9f309da7aa2fb57589e472ab",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "b397253719938c4aca13fe7e",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "f1a6999e86daa7a67aadb7dd",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "4896cd00a3751630ff1db844",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "03b9ad51b0b446b416ed4b19",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "7691497d7d16259cc8bd39fc",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "aadfa2242c87fbb91b580cbd",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "33d6917819858298c4cd5f94",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "5d6b7dfbfd91ea2719fe99e8",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "2ce6796b3612b9fa66aff45d",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "6a52d8df54f168a68cce599c",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "bc902c335119531fede84d2d",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "cf9be1bc74f2c67586332f38",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "5bc6ba5b886ca5937b8e2796",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "5326a736736d6b7642cc81b4",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "1502d1a884d83af12d39aea5",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "04d36afc81a4e6680bcdcca0",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "d8ba9ef22b221ba662497348",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "c11729e243ca79d77d804e56",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "36365df766526332831c83a3",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "2259ff85041d3482583a91e6",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "a63e7a1e6782a4dfc32fae1c",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "29c956460cdd9cc24681be0a",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "2589b1cab7f9d72e7cd3fbf3",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "76edb193a35f3002727c3677",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "515c291a50c352e22014a4f9",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "d5751d1764db6fe1a641f652",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "9540af3a34c2f48284bb6fc6",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "3ca1fef179eb138b86e63d18",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "0bedc2c570caef345126b788",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "7b4e1bc03a2e6862855605e4",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "11be448969d169da7a5d0351",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "51981dce7c3b3ccd41e6af58",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "553804da79262dabc8a33391",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "037eb8ca3c9e8ab231802b9a",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "94de1714cde492da6204e823",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "fca6a4f2cdaf3aee3ea23aa7",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "cc5949dc8b577b89233f2af2",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "f70fb3c6094915c2493b6d24",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "7c78655455e01305fef64c1f",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsniuose"
+    },
+    {
+      "id": "7cadf534931231203c5764bb",
+      "fromNode": "4a8af348c0b6434420fe0a77",
+      "toNode": "44a5b4327823e40c7753ed19",
+      "label": "507 straipsnyje"
+    },
+    {
+      "id": "71ff8d26ff91001c27c6841d",
+      "fromNode": "cfc75a5fe8b92be6cccb4e68",
+      "toNode": "6a42630fa669bfe2947670eb",
+      "label": "17 straipsnio"
+    },
+    {
+      "id": "1b88c64a9f5d7ae450787fec",
+      "fromNode": "cfc75a5fe8b92be6cccb4e68",
+      "toNode": "6a42630fa669bfe2947670eb",
+      "label": "17 straipsnio"
+    },
+    {
+      "id": "93451992a8b22ebafbdb1658",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "50ddb703abc1e9b09b74a9fa",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "52e73fe2e34a1c62c2fd2c9a",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "43f49f5aa8fdc87c00444ff8",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "2b6dbb588c6ede1f1c3bf9f0",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "153b7c5cf835372336857e43",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "7a826452aa34251adc81e69f",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "0566521f93efe9d12092a98d",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    },
+    {
+      "id": "3d8315b89df74f5210035f36",
+      "fromNode": "93a12771cb282af2ccf775da",
+      "toNode": "a05cbeef7cc296ee421cffca",
+      "label": "1 straipsnio 2 dalies"
+    }
+  ]
+}
