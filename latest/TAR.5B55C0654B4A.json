@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.5B55C0654B4A.md",
   "latest_revision": "2000-04-26",
-  "latest_sha256": "c4958230ea051804f6c9db804b0f7570c41acf13787d26cecfbca672b094d974",
+  "latest_sha256": "1c0cac2f722a3db3d990c7c5f1016803a7649b8fd56dfc8002d6c1110f5f8d5b",
   "metadata_path": "latest/TAR.5B55C0654B4A.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos pašarų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-05-20T10:59:37Z"
 }

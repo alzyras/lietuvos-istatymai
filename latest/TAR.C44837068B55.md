@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-01-01"
 latest_path: "latest/TAR.C44837068B55.md"
-latest_sha256: "8aab577d4e1cfe6f48ec058cc76f9156a107eff38fc62f5440e76154cc770e21"
+latest_sha256: "a1419ce03ef29f1af04b015bc0f0bc68f376d684fec7232e519d3a5070e4634a"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas
@@ -23,7 +23,7 @@ parser_version: "0.1.0"
 Redagavo: Ramunė Lūžaitė (1998
 
 
-Suvestinė redakcija nuo 2026-01-01
+Suvestinė redakcija nuo 2026-01-01 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
 

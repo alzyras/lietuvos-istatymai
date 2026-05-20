@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-05-01"
 latest_path: "latest/TAR.F707D11C62FE.md"
-latest_sha256: "1d76b4a14626cc0c48c3c0a1cba65f89728312225fb31d652d94c5a9a3f06448"
+latest_sha256: "0fba0b311571065c0cd9d9a691ae6e461e013f7e5fba9b197eab2f9ba8469e4d"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos tarptautinių sankcijų įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2025-05-21
+Suvestinė redakcija nuo 2025-05-21 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 2004, Nr. 68-2369, i. k. 1041010ISTA0IX-2160
 

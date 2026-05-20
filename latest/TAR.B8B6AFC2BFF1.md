@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-04-02"
 latest_path: "latest/TAR.B8B6AFC2BFF1.md"
-latest_sha256: "9c7b5105cad1dd57336ef6b4f886db5eb62902120d108fe547cc7ecf9b1dde16"
+latest_sha256: "48f9dbfb48bc4d8c69d98296581497d76c7591a80a7750cfaccdea7264f89122"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos konkurencijos įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2026-05-01
+Suvestinė redakcija nuo 2026-05-01 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
 

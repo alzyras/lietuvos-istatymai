@@ -26,7 +26,7 @@ Laukas skaidymui: `source_etar_id`.
 | `10.jsonl` | 841 |
 | `11.jsonl` | 172 |
 | `12.jsonl` | 782 |
-| `13.jsonl` | 339 |
+| `13.jsonl` | 335 |
 | `14.jsonl` | 562 |
 | `15.jsonl` | 434 |
 | `16.jsonl` | 156 |
@@ -42,7 +42,7 @@ Laukas skaidymui: `source_etar_id`.
 | `20.jsonl` | 1508 |
 | `21.jsonl` | 299 |
 | `22.jsonl` | 109 |
-| `23.jsonl` | 357 |
+| `23.jsonl` | 359 |
 | `24.jsonl` | 132 |
 | `25.jsonl` | 474 |
 | `26.jsonl` | 326 |
@@ -51,7 +51,7 @@ Laukas skaidymui: `source_etar_id`.
 | `29.jsonl` | 624 |
 | `2a.jsonl` | 496 |
 | `2b.jsonl` | 274 |
-| `2c.jsonl` | 83 |
+| `2c.jsonl` | 85 |
 | `2d.jsonl` | 342 |
 | `2e.jsonl` | 587 |
 | `2f.jsonl` | 924 |
@@ -73,7 +73,7 @@ Laukas skaidymui: `source_etar_id`.
 | `3f.jsonl` | 165 |
 | `40.jsonl` | 266 |
 | `41.jsonl` | 348 |
-| `42.jsonl` | 2012 |
+| `42.jsonl` | 2017 |
 | `43.jsonl` | 326 |
 | `44.jsonl` | 335 |
 | `45.jsonl` | 338 |
@@ -85,13 +85,13 @@ Laukas skaidymui: `source_etar_id`.
 | `4b.jsonl` | 218 |
 | `4c.jsonl` | 115 |
 | `4d.jsonl` | 120 |
-| `4e.jsonl` | 4951 |
+| `4e.jsonl` | 4955 |
 | `4f.jsonl` | 254 |
 | `50.jsonl` | 170 |
 | `51.jsonl` | 90 |
 | `52.jsonl` | 386 |
 | `53.jsonl` | 144 |
-| `54.jsonl` | 217 |
+| `54.jsonl` | 652 |
 | `55.jsonl` | 80 |
 | `56.jsonl` | 264 |
 | `57.jsonl` | 537 |
@@ -143,14 +143,14 @@ Laukas skaidymui: `source_etar_id`.
 | `85.jsonl` | 96 |
 | `86.jsonl` | 404 |
 | `87.jsonl` | 128 |
-| `88.jsonl` | 553 |
+| `88.jsonl` | 555 |
 | `89.jsonl` | 425 |
 | `8a.jsonl` | 228 |
 | `8b.jsonl` | 417 |
 | `8c.jsonl` | 474 |
 | `8d.jsonl` | 96 |
 | `8e.jsonl` | 566 |
-| `8f.jsonl` | 195 |
+| `8f.jsonl` | 200 |
 | `90.jsonl` | 429 |
 | `91.jsonl` | 1810 |
 | `92.jsonl` | 116 |
@@ -160,7 +160,7 @@ Laukas skaidymui: `source_etar_id`.
 | `96.jsonl` | 1074 |
 | `97.jsonl` | 289 |
 | `98.jsonl` | 377 |
-| `99.jsonl` | 183 |
+| `99.jsonl` | 185 |
 | `9a.jsonl` | 197 |
 | `9b.jsonl` | 114 |
 | `9c.jsonl` | 121 |
@@ -186,7 +186,7 @@ Laukas skaidymui: `source_etar_id`.
 | `b0.jsonl` | 199 |
 | `b1.jsonl` | 658 |
 | `b2.jsonl` | 505 |
-| `b3.jsonl` | 548 |
+| `b3.jsonl` | 569 |
 | `b4.jsonl` | 629 |
 | `b5.jsonl` | 798 |
 | `b6.jsonl` | 462 |
@@ -196,7 +196,7 @@ Laukas skaidymui: `source_etar_id`.
 | `ba.jsonl` | 219 |
 | `bb.jsonl` | 561 |
 | `bc.jsonl` | 277 |
-| `bd.jsonl` | 1179 |
+| `bd.jsonl` | 1181 |
 | `be.jsonl` | 298 |
 | `bf.jsonl` | 89 |
 | `c0.jsonl` | 65 |
@@ -263,4 +263,4 @@ Laukas skaidymui: `source_etar_id`.
 | `fd.jsonl` | 167 |
 | `fe.jsonl` | 451 |
 | `ff.jsonl` | 319 |
-| `ta.jsonl` | 118891 |
+| `ta.jsonl` | 120786 |

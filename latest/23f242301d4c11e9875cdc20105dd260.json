@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/23f242301d4c11e9875cdc20105dd260.md",
   "latest_revision": "2019-05-01",
-  "latest_sha256": "e64ec8a0eac90833f9cffd226dc86bce9a881782b28ad74de80500d71fe0aa47",
+  "latest_sha256": "4e7a21161d9b13cfd89ec2391e0874a26469e5533f1fca39bb7f4ae43c5e2d9c",
   "metadata_path": "latest/23f242301d4c11e9875cdc20105dd260.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos tręšiamųjų produktų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.B77E00EAEBEB.md",
   "latest_revision": "2009-07-23",
-  "latest_sha256": "8cbf64287202e741ecc0c48855a16253f7227988e54caaf6ad319b8c6c174f5b",
+  "latest_sha256": "b3b3888ded50e932fac84a028d24477d6758f5886f7420afa3c525f1153023b9",
   "metadata_path": "latest/TAR.B77E00EAEBEB.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos klimato kaitos valdymo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

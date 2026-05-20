@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/13ecbb50c1be11ea9815f635b9c0dcef.md",
   "latest_revision": "2021-01-01",
-  "latest_sha256": "26d80bbae00fca95694c8e1c19ec3a519b65976348589d16f474e4a50cb2b87f",
+  "latest_sha256": "8e2d3b0058a840bbafb112b86d0a90875f688cd5f760d9ab356e6473ddd1ec0a",
   "metadata_path": "latest/13ecbb50c1be11ea9815f635b9c0dcef.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos strateginio valdymo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

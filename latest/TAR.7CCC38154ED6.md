@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1998-01-30"
 latest_path: "latest/TAR.7CCC38154ED6.md"
-latest_sha256: "221b4d166346e76e655b6a47acf2505e4eaa3398a6d55a57fc4c7144022b1318"
+latest_sha256: "435513712775257909ea616fef173789ea9b34aa09aeea1582c5289a7a16627b"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos įstatymas dėl 1972 metų Europos konvencijos dėl baudžiamojo proceso perdavimo ratifikavimo
@@ -19,6 +19,10 @@ parser_version: "0.1.0"
 - Šaltinis: https://e-tar.lt/portal/lt/legalAct/TAR.7CCC38154ED6
 
 ## Oficialus tekstas
+
+Suvestinė redakcija nuo 2026-05-13
+
+Įstatymas paskelbtas: Žin. 1998, Nr. 10-238, i. k. 0971010ISTAVIII-583
 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS DĖL 1972 METŲ EUROPOS KONVENCIJOS DĖL BAUDŽIAMOJO PROCESO PERDAVIMO RATIFIKAVIMO
@@ -42,10 +46,29 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 Lietuvos Respublikos Seimas pareiškia, kad:
 
 
-1) vadovaudamasi Konvencijos 18 straipsnio 2 dalimi, Lietuvos Respublika pasilieka teisę reikalauti, jog prie jai pateikiamų prašymų ir su jais susijusių dokumentų, kurie surašyti ne anglų, vokiečių, rusų arba lietuvių kalbomis, būtų pridedami jų vertimai bent į vieną iš šių kalbų; ^5d933960ce99bda004206782
+1) vadovaudamasi Konvencijos 13 straipsnio 3 dalimi, Lietuvos Respublika nustato šią prašymų perdavimo tvarką: ^e1bcc4f49336a8a6189a6e34
 
 
-2) vadovaujantis Konvencijos II priedo antrąja dalimi, Konvencijoje vartojamas terminas „išeivis“ turėtų būti suprantamas kaip asmuo, kuris yra procesą perduodančiosios arba procesą perimančiosios valstybės pilietis pagal tų valstybių įstatymus. ^63032e4ad203ba17d9e3f72a
+a) kai Lietuvos Respublika yra prašymą pateikianti valstybė:
+
+
+i) ikiteisminio tyrimo stadijoje prašymus siunčia Lietuvos Respublikos generalinė prokuratūra;
+
+
+ii) teisminio nagrinėjimo stadijoje prašymus siunčia Lietuvos Respublikos teisingumo ministerija;
+
+
+b) kai Lietuvos Respublika yra valstybė, kuriai adresuojamas prašymas, visi prašymai pateikiami Generalinei prokuratūrai;
+
+
+2) vadovaudamasi Konvencijos 18 straipsnio 2 dalimi, Lietuvos Respublika pasilieka teisę reikalauti, jog prie jai pateikiamų prašymų ir su jais susijusių dokumentų, kurie surašyti ne anglų arba lietuvių kalbomis, būtų pridedami jų vertimai bent į vieną iš šių kalbų; ^a8b8584cdc88d3c314e4fecd
+
+
+3) vadovaujantis Konvencijos II priedo antrąja dalimi, Konvencijoje vartojamas terminas „išeivis“ turėtų būti suprantamas kaip asmuo, kuris yra procesą perduodančiosios arba procesą perimančiosios valstybės pilietis pagal tų valstybių įstatymus. ^f9b4d27fe290781fc23b0bc4
+
+
+Straipsnio pakeitimai:
+Nr. XV-875, 2026-05-07, paskelbta TAR 2026-05-12, i. k. 2026-07968
 
 
 
@@ -55,13 +78,13 @@ Lietuvos Respublikos Seimas pareiškia, kad:
 Remdamasi Konvencijos 41 straipsnio 1 dalimi, Lietuvos Respublika pasilieka teisę:
 
 
-1) atsisakyti perimti baudžiamąjį procesą (persekiojimą), jei nusikaltimą ji laiko religinio pobūdžio nusikaltimu (I priedo „a“ punktas); ^4a3dd4b8835f220fb0b33fb3
+1) atsisakyti perimti baudžiamąjį procesą (persekiojimą), jei nusikaltimą ji laiko religinio pobūdžio nusikaltimu (I priedo „a“ punktas); ^fd257cd86ea9bcbb2e5b64e2
 
 
-2) atsisakyti perimti baudžiamąjį procesą (persekiojimą) dėl veikos, už kurią pagal Lietuvos Respublikos įstatymus sankciją gali skirti tik administracinė institucija (I priedo „b“ punktas); ^38440616101324e471bc7836
+2) atsisakyti perimti baudžiamąjį procesą (persekiojimą) dėl veikos, už kurią pagal Lietuvos Respublikos įstatymus sankciją gali skirti tik administracinė institucija (I priedo „b“ punktas); ^7cf72c70c9c5ce1ee1d6924e
 
 
-3) netaikyti 30 ir 31 straipsnių veikoms, už kurias pagal Lietuvos Respublikos įstatymus sankcijas gali skirti tik administracinė institucija (I priedo „g“ punktas). ^0687b11e2314df1b6e1ded42
+3) netaikyti 30 ir 31 straipsnių veikoms, už kurias pagal Lietuvos Respublikos įstatymus sankcijas gali skirti tik administracinė institucija (I priedo „g“ punktas). ^a7c2be7ef9abb91856fbb94a
 
 
 
@@ -70,3 +93,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 ______________
+
+
+
+
+
+Pakeitimai:
+
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-875, 2026-05-07, paskelbta TAR 2026-05-12, i. k. 2026-07968
+Lietuvos Respublikos įstatymo „Dėl 1972 metų Europos konvencijos dėl baudžiamojo proceso perdavimo ratifikavimo“ Nr. VIII-583 [[#2 straipsnis. Lietuvos Respublikos pareiškimai|2 straipsnio]] pakeitimo įstatymas

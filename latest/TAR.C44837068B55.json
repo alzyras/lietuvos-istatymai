@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.C44837068B55.md",
   "latest_revision": "1998-01-01",
-  "latest_sha256": "8aab577d4e1cfe6f48ec058cc76f9156a107eff38fc62f5440e76154cc770e21",
+  "latest_sha256": "a1419ce03ef29f1af04b015bc0f0bc68f376d684fec7232e519d3a5070e4634a",
   "metadata_path": "latest/TAR.C44837068B55.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

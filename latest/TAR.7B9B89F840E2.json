@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.7B9B89F840E2.md",
   "latest_revision": "2001-01-01",
-  "latest_sha256": "25a86c592e17af304e0cc6b3ecd3e4b17f62275618ea97cda1358d903b1939b2",
+  "latest_sha256": "1656c8ae25b90961f027060522503f1214ea9e25a114e59745d6946181a57d52",
   "metadata_path": "latest/TAR.7B9B89F840E2.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos lobistinės veiklos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/422c8b5042b811e6a8ae9e1795984391.md",
   "latest_revision": "2017-07-01",
-  "latest_sha256": "08b19d10603d67716a7aed3f0202e00f03419a7a559457331d1395fc003306d5",
+  "latest_sha256": "5800d2e9aa3872f6993670b9dab41aba2499d71b31690f3cbad5ffaa18920181",
   "metadata_path": "latest/422c8b5042b811e6a8ae9e1795984391.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos užimtumo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

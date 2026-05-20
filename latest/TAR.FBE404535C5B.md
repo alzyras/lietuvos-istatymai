@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1991-10-15"
 latest_path: "latest/TAR.FBE404535C5B.md"
-latest_sha256: "f40bb5a6edbc331e367a9b8e8e3b5bd0b2d92f44d9b9ba20d42a03993256309e"
+latest_sha256: "e910ff899a69f86286f345e606f7bc7ea869e313d5e5cae0ec3fb6e336679245"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos transporto veiklos pagrindų įstatymas
@@ -23,7 +23,7 @@ parser_version: "0.1.0"
 Redagavo: Ramun? L??ait? (1997
 
 
-Suvestinė redakcija nuo 2025-11-29
+Suvestinė redakcija nuo 2025-11-29 iki 2026-06-29
 
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
 

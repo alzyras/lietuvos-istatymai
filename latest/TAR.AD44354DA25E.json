@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.AD44354DA25E.md",
   "latest_revision": "1995-11-04",
-  "latest_sha256": "57f10f00b247f552d5ff642d83b73bb9cdda69479b43482beed0f352f5944de3",
+  "latest_sha256": "571b2d7e89ec50286900f601ee9b008d61a24d89a5fa700d9bc2ed8f79f37139",
   "metadata_path": "latest/TAR.AD44354DA25E.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos augalų apsaugos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

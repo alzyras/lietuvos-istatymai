@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.69AEE92B686D.md",
   "latest_revision": "2009-12-28",
-  "latest_sha256": "992341c017cc5a74ccb537b4c58632b7c477530bb5fa252e7c5dbfdaa6701617",
+  "latest_sha256": "3b1e870ea50db1ba734da4e34433ed6b5f2d17157feca0f5c1645027c02f828d",
   "metadata_path": "latest/TAR.69AEE92B686D.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos muitinės įstatymo 11, 13, 16, 30, 31, 39, 79, 107 straipsnių ir priedo pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

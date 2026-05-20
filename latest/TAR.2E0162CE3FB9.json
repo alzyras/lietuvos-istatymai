@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.2E0162CE3FB9.md",
   "latest_revision": "2010-04-01",
-  "latest_sha256": "3559aa6806315f90a4c6e7f81ea8852b70ecffa8f2dfcd879d9fafb9e66fca11",
+  "latest_sha256": "d86d86ecc158f025f94e8ae33db70b99c5f39e84a941f5af8787e45e4ba45a22",
   "metadata_path": "latest/TAR.2E0162CE3FB9.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-05-20T10:59:37Z"
 }

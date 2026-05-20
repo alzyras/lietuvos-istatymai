@@ -9,33 +9,33 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 ## `ar_nacionalinis`
 
 - Duomenys: `ar_nacionalinis.jsonl`
-- taip: 12114
+- taip: 12117
 
 ## `ar_verslo_reg`
 
 - Duomenys: `ar_verslo_reg.jsonl`
-- ne: 12114
+- ne: 12117
 
 ## `dok_busena`
 
 - Duomenys: `dok_busena.jsonl`
-- registruotas TA registre: 12114
+- registruotas TA registre: 12117
 
 ## `dok_grupe`
 
 - Duomenys: `dok_grupe.jsonl`
-- valstybės institucijų ir įstaigų teisės aktai: 7004
+- valstybės institucijų ir įstaigų teisės aktai: 7007
 - nenurodyta: 5110
 
 ## `galioj_busena`
 
 - Duomenys: `galioj_busena.jsonl`
-- galioja: 12114
+- galioja: 12117
 
 ## `parengusi_inst`
 
 - Duomenys: `parengusi_inst.jsonl`
-- nenurodyta: 7947
+- nenurodyta: 7950
 - Teisės aktų registras: 2328
 - Lietuvos Respublikos Seimo kanceliarija: 1825
 - Lietuvos Respublikos Seimas: 14
@@ -43,12 +43,12 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 ## `pobudis`
 
 - Duomenys: `pobudis.jsonl`
-- nenurodyta: 12114
+- nenurodyta: 12117
 
 ## `priemusi_inst`
 
 - Duomenys: `priemusi_inst.jsonl`
-- Lietuvos Respublikos Seimas: 12023
+- Lietuvos Respublikos Seimas: 12026
 - LIETUVOS RESPUBLIKOS AUKŠČIAUSIOJI TARYBA: 89
 - Lietuvos valstybės 1918-1940 m. dokumentai: 1
 - Piliečių referendumas: 1
@@ -56,5 +56,5 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 ## `rusis`
 
 - Duomenys: `rusis.jsonl`
-- Įstatymas: 12114
+- Įstatymas: 12117
 

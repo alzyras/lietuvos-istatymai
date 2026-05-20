@@ -11,7 +11,7 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 
 ## Dažniausiai cituojami mazgai
 
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai|589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai]] - incoming: 266
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai|589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai]] - incoming: 268
 - [[latest/TAR.EBB4FD337ADE#^5f8dd83d1d77992ac7d3ab73|1 str. 2 dalis]] - incoming: 257
 - [[latest/a09f7a8098ef11e58fd1fc0b9bba68a7#^fca8084593e051ef0ec6beb7|1 str. 2 dalis]] - incoming: 171
 - [[latest/a2edb8c0641211eca9ac839120d251c4#^5158b1a8eab74250854ef852|1 str. 2 dalis]] - incoming: 148
@@ -42,6 +42,7 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/TAR.A7D82E8EDC6B#9 straipsnis. Programos finansavimo lėšų naudojimas|9 straipsnis. Programos finansavimo lėšų naudojimas]] - incoming: 54
 - [[latest/29ccd900828711ed8df094f359a60216#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 53
 - [[latest/a2edb8c0641211eca9ac839120d251c4#26 straipsnis. Įstatymo papildymas 265 straipsniu|26 straipsnis. Įstatymo papildymas 265 straipsniu]] - incoming: 53
+- [[latest/TAR.AD44354DA25E#25 straipsnis. Atsakomybė už Lietuvos Respublikoje neregistruotų, netapačių Lietuvos Respublikoje registruotiems, falsifikuotų augalų apsaugos produktų įvežimo į Lietuvos Respubliką, tiekimo rinkai pažeidimus|25 straipsnis. Atsakomybė už Lietuvos Respublikoje neregistruotų, netapačių Lietuvos Respublikoje registruotiems, falsifikuotų augalų apsaugos produktų įvežimo į Lietuvos Respubliką, tiekimo rinkai pažeidimus]] - incoming: 52
 - [[latest/8e34031049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 51
 - [[latest/9197387088f211e8af589337bf1eb893#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 51
 - [[latest/TAR.EDDCB615126E#16 straipsnis. Įstatymo įsigaliojimas ir taikymas|16 straipsnis. Įstatymo įsigaliojimas ir taikymas]] - incoming: 51
@@ -50,12 +51,12 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/TAR.EBB4FD337ADE#26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams|26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams]] - incoming: 50
 - [[latest/TAR.F8090E375DA0#26 straipsnis. Ekonominės sankcijos|26 straipsnis. Ekonominės sankcijos]] - incoming: 50
 - [[latest/1a9058e049b311e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 48
+- [[latest/422c8b5042b811e6a8ae9e1795984391#25 straipsnis. Darbo rinkoje papildomai remiami asmenys|25 straipsnis. Darbo rinkoje papildomai remiami asmenys]] - incoming: 48
 - [[latest/TAR.1DEDD43B92AE#^50b752fadfc9349ac52d5111|1 str. 2 dalis]] - incoming: 48
 - [[latest/TAR.E2B2957B9182#^0acd67e976b3847ff5a796ba|591 str. 3 dalis]] - incoming: 48
 - [[latest/f79dd2d00c1711edb4cae1b158f98ea5#^cfda019768a1a2568548d99e|21 str. 1 dalis]] - incoming: 48
 - [[latest/TAR.5E8A7FF89480|latest/TAR.5E8A7FF89480.md]] - incoming: 47
 - [[latest/TAR.3EB34933E485#5 straipsnis. Tarptautinių sutarčių viršenybės principas|5 straipsnis. Tarptautinių sutarčių viršenybės principas]] - incoming: 47
-- [[latest/422c8b5042b811e6a8ae9e1795984391#25 straipsnis. Darbo rinkoje papildomai remiami asmenys|25 straipsnis. Darbo rinkoje papildomai remiami asmenys]] - incoming: 46
 - [[latest/TAR.9D2F66B96EBC#^e3a78148b8052c8b0cf0b224|411 str. 2 dalis]] - incoming: 46
 - [[latest/TAR.ED68997709F5#^5d42e4b67b985b64ae2837d8|58 str. 1 dalis]] - incoming: 46
 - [[latest/TAR.FC7AB69BE291#^366a8fdfbcf7c98e53ce40f4|1 str. 4 dalis]] - incoming: 46
@@ -83,7 +84,7 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/TAR.39678AC27C78|latest/TAR.39678AC27C78.md]] - incoming: 41
 - [[latest/a2edb8c0641211eca9ac839120d251c4#28 straipsnis. 27 straipsnio pripažinimas netekusiu galios|28 straipsnis. 27 straipsnio pripažinimas netekusiu galios]] - incoming: 41
 - [[latest/30f397c0d8db11eb9f09e7df20500045#^7f9de14f3cbe2b7c04aff344|12 str. 2 dalis]] - incoming: 40
-- [[latest/422c8b5042b811e6a8ae9e1795984391#^65e8f458db522de4aea7b98d|41 str. 3 dalis]] - incoming: 40
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^17e0d086aae3510e3597331b|41 str. 3 dalis]] - incoming: 40
 - [[latest/57a83860ace511e78a4c904b1afa0332#^a83fa949b0dcd8ee3081cf36|20 str. 1 dalis]] - incoming: 40
 - [[latest/TAR.068516AF734B#^5e19c793764fdf1a1cee6185|5 str. 2 dalis]] - incoming: 40
 - [[latest/TAR.424F7C72601E#^9caa84be8e8898266ad5b0a7|391 str. 1 dalis]] - incoming: 40
@@ -96,10 +97,11 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/TAR.EBB4FD337ADE#28 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymo išimtis|28 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymo išimtis]] - incoming: 38
 - [[latest/TAR.F4CA26A706AF#^cf1e9ce032f6b7a799edd1a1|35 str. 3 punktas]] - incoming: 38
 - [[latest/TAR.549BF4CABA46|latest/TAR.549BF4CABA46.md]] - incoming: 37
-- [[latest/422c8b5042b811e6a8ae9e1795984391#^bf9b0f3c9b035c846dac8a35|37 str. 13 dalis]] - incoming: 36
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^1ae1e87a73c63522554068b9|37 str. 13 dalis]] - incoming: 36
 - [[latest/8e34031049e211e8ade598b2394a491d#5 straipsnis. Mokėjimo įstaigos licencija|5 straipsnis. Mokėjimo įstaigos licencija]] - incoming: 36
 - [[latest/TAR.82D8168D3049#11 straipsnis. Viešas konsultavimasis|11 straipsnis. Viešas konsultavimasis]] - incoming: 36
 - [[latest/TAR.D790096B17EE#40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus|40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus]] - incoming: 36
+- [[latest/TAR.E5509883EBB4#^fe2884709df39b82c1ab75fa|6 str. 1 dalis]] - incoming: 36
 - [[latest/a2edb8c0641211eca9ac839120d251c4#^1f89eb61c4824550a744b2ac|12 str. 1 dalis]] - incoming: 36
 - [[latest/c753b2904dc511ec862fdcbc8b3e3e05#11 straipsnis. Viešas konsultavimasis|11 straipsnis. Viešas konsultavimasis]] - incoming: 36
 - [[latest/cb1ce7908f5611ea9515f752ff221ec9#38 straipsnis. Įstatymo priedo pakeitimas|38 straipsnis. Įstatymo priedo pakeitimas]] - incoming: 36
@@ -113,8 +115,9 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/5f476aa0cd0111ec8d9390588bf2de65#393 straipsnis. Biomasės kuro tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijai|393 straipsnis. Biomasės kuro tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijai]] - incoming: 34
 - [[latest/788fd090131611e9b2b6e7cdb14007b4#^854e07011b9e680e32a1df02|28 str. 3 dalis]] - incoming: 34
 - [[latest/7dce02600aa711e9a5eaf2cd290f1944#^0c8a56921624fd1e2bc952ea|79 str. 1 dalis]] - incoming: 34
-- [[latest/TAR.065AB8483E1E#^ee567e3c0a22e45775c9ef1a|19 str. 1 dalis]] - incoming: 34
+- [[latest/TAR.065AB8483E1E#^c06b8103e956e98e34a2445e|19 str. 1 dalis]] - incoming: 34
 - [[latest/TAR.2087C46BB049|latest/TAR.2087C46BB049.md]] - incoming: 34
+- [[latest/TAR.3ED3D65F5638#^329cbcb25edec2750caa2eeb|2 str. 2 punktas]] - incoming: 34
 - [[latest/TAR.82D8168D3049#17 straipsnis. Įpareigojimų didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams nustatymas|17 straipsnis. Įpareigojimų didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams nustatymas]] - incoming: 34
 - [[latest/TAR.9A3AD08EA5D0#43 straipsnis. Mokyklos veikla|43 straipsnis. Mokyklos veikla]] - incoming: 34
 - [[latest/TAR.9E5C5C16B6E6#34 straipsnis. Ekonominių sankcijų už šio Įstatymo pažeidimus taikymas|34 straipsnis. Ekonominių sankcijų už šio Įstatymo pažeidimus taikymas]] - incoming: 34
@@ -128,6 +131,3 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/f6f991a041d111e6a8ae9e1795984391#301 straipsnis. Geležinkelių paslaugų įrenginiai|301 straipsnis. Geležinkelių paslaugų įrenginiai]] - incoming: 34
 - [[latest/0892744006bf11ee9978886e85107ab2#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 33
 - [[latest/6d3310b0037a11edb32c9f9d8ba206f8#^84898df0e4b82010f7f0b3a6|79 str. 2 dalis]] - incoming: 33
-- [[latest/TAR.299D835159BE#^c1b0d0ed430acce0ac57e699|1 str. 2 dalis]] - incoming: 33
-- [[latest/TAR.0F7C900FEC09|latest/TAR.0F7C900FEC09.md]] - incoming: 33
-- [[latest/f0327c5084ce11e8ae2bfd1913d66d57#^d360ac9bcec80f39394e4305|1 str. 2 dalis]] - incoming: 33

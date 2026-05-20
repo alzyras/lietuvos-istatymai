@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.96A68BFC9E82.md",
   "latest_revision": "1994-06-08",
-  "latest_sha256": "74b5ecbe4ab88eaf91b6bdb251003a3a689f09405f843ae7088da8b53074a0ed",
+  "latest_sha256": "92dc09805ee6c4f0e0e9c500444bd2e7ac81fa470e6a3e426c4ad132b737ad25",
   "metadata_path": "latest/TAR.96A68BFC9E82.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos Vyriausybės įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

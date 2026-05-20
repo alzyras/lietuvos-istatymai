@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.D22016A0EC70.md",
   "latest_revision": "2000-07-12",
-  "latest_sha256": "4cd60b2a12c739966d6ef6b3ca1d465077000b10d00bb6dd130e809a7f4e4554",
+  "latest_sha256": "91335e51efcb7a42991cdb233f7ff66436d83d0c0ba69241f00a0c7e8affc8cb",
   "metadata_path": "latest/TAR.D22016A0EC70.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos žuvininkystės įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

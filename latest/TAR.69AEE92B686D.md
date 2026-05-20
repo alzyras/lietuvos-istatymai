@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-12-28"
 latest_path: "latest/TAR.69AEE92B686D.md"
-latest_sha256: "992341c017cc5a74ccb537b4c58632b7c477530bb5fa252e7c5dbfdaa6701617"
+latest_sha256: "3b1e870ea50db1ba734da4e34433ed6b5f2d17157feca0f5c1645027c02f828d"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos muitinės įstatymo 11, 13, 16, 30, 31, 39, 79, 107 straipsnių ir priedo pakeitimo įstatymas
@@ -71,7 +71,7 @@ Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip:
 1. Pakeisti 16 straipsnio 2 dalies 13 punktą ir jį išdėstyti taip: ^e06224b991645daa47a7829a
 
 
-„13) organizuoja ir koordinuoja muitų teisės aktų pažeidimų ir kitų teisės aktų pažeidimų, susijusių su muitinės prižiūrimų prekių vežimu, laikymu ir vartojimu, rizikos valdymą ir suteikia įgaliojimus asmenims naudotis rizikai valdyti reikalinga informacija;“.
+„13) organizuoja ir  koordinuoja muitų teisės aktų pažeidimų ir kitų teisės aktų pažeidimų, susijusių su muitinės prižiūrimų prekių vežimu, laikymu ir vartojimu, rizikos valdymą ir suteikia įgaliojimus asmenims naudotis rizikai valdyti reikalinga informacija;“.
 
 
 2. Pakeisti 16 straipsnio 2 dalies 17 punktą ir jį išdėstyti taip: ^256f8520815580c2684d14d2

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.8A719A97956F.md",
   "latest_revision": "2006-07-01",
-  "latest_sha256": "9e879bc65e799206794c7d0e8ec0e3c3c1921455627291cd09fc01c858bb8025",
+  "latest_sha256": "1ad874b53d1ec6f0f3530cbf1cf3061d28359f8f478e7e2a5b5c8e9d31e91f65",
   "metadata_path": "latest/TAR.8A719A97956F.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

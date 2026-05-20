@@ -1,632 +1,20 @@
 {
   "nodes": [
     {
-      "id": "7fd217d674cc582289d92e0e",
+      "id": "4337c9e34f160a1f5b76d18e",
       "type": "text",
-      "text": "[[latest/TAR.7E60B29052C0#2 straipsnis. Įstatymo taikymas|2 straipsnis. Įstatymo taikymas]]",
+      "text": "[[latest/TAR.D3ED3792F52B#3 straipsnis. Pagrindinės šio įstatymo sąvokos|3 straipsnis. Pagrindinės šio įstatymo sąvokos]]",
       "x": 520,
       "y": 0,
       "width": 320,
       "height": 90
     },
     {
-      "id": "8bb1667fb1dfe181e93e10be",
-      "type": "text",
-      "text": "[[latest/TAR.EDDCB615126E#16 straipsnis. Įstatymo įsigaliojimas ir taikymas|16 straipsnis. Įstatymo įsigaliojimas ir taikymas]]",
-      "x": 940,
-      "y": 0,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "e3d60daf4d9ca3dcf8055703",
-      "type": "text",
-      "text": "[[latest/f79dd2d00c1711edb4cae1b158f98ea5#^cfda019768a1a2568548d99e|21 str. 1 dalis]]",
-      "x": 1360,
-      "y": 0,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "b29befc00b49c78bb688fa7e",
-      "type": "text",
-      "text": "[[latest/422c8b5042b811e6a8ae9e1795984391#^65e8f458db522de4aea7b98d|41 str. 3 dalis]]",
-      "x": 1780,
-      "y": 0,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "d6efaa380604ce3edb3276e6",
-      "type": "text",
-      "text": "[[latest/TAR.7FE50D845019#^2dd0e5be7b6d412c1ac7246c|7 str. 3 dalis]]",
-      "x": 520,
-      "y": 150,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "e68857cad51241c5f3ed66b3",
-      "type": "text",
-      "text": "[[latest/29ccd900828711ed8df094f359a60216#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
-      "x": 940,
-      "y": 150,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "163b065a189e988e0d974084",
-      "type": "text",
-      "text": "[[latest/ad961110dd8911e69ae9f38427b46dd7#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]]",
-      "x": 1360,
-      "y": 150,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "5fee67857dabf6a1e09e9b8b",
-      "type": "text",
-      "text": "[[latest/a09f7a8098ef11e58fd1fc0b9bba68a7#^fca8084593e051ef0ec6beb7|1 str. 2 dalis]]",
-      "x": 1780,
-      "y": 150,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "6a42630fa669bfe2947670eb",
-      "type": "text",
-      "text": "[[latest/TAR.94F6B680E8B8#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnis. Privalomojo sveikatos draudimo įmokos]]",
-      "x": 520,
-      "y": 300,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "f25cd85aa99cbbb70dff5e86",
-      "type": "text",
-      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#26 straipsnis. Įstatymo papildymas 265 straipsniu|26 straipsnis. Įstatymo papildymas 265 straipsniu]]",
-      "x": 940,
-      "y": 300,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "27546e5a335c4a0e10f4137b",
-      "type": "text",
-      "text": "[[latest/TAR.A7D82E8EDC6B#9 straipsnis. Programos finansavimo lėšų naudojimas|9 straipsnis. Programos finansavimo lėšų naudojimas]]",
-      "x": 1360,
-      "y": 300,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "5e0274f8b768cb52ee85a5e8",
-      "type": "text",
-      "text": "[[latest/TAR.82D8168D3049#^64a60ed331b917fb84059442|37 str. 1 dalis]]",
-      "x": 1780,
-      "y": 300,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "a1744694bd7652ea721a54e3",
-      "type": "text",
-      "text": "[[latest/TAR.FC7AB69BE291#131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka|131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka]]",
-      "x": 520,
-      "y": 450,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "93a12771cb282af2ccf775da",
-      "type": "text",
-      "text": "[[latest/TAR.EBB4FD337ADE#58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas|58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas]]",
-      "x": 940,
-      "y": 450,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "0265fe815c49c56166d8d3a4",
-      "type": "text",
-      "text": "[[latest/d211d26049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
-      "x": 1360,
-      "y": 450,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "2940d7f69c04f96d1bffc1ad",
-      "type": "text",
-      "text": "[[latest/TAR.ED68997709F5#^5d42e4b67b985b64ae2837d8|58 str. 1 dalis]]",
-      "x": 1780,
-      "y": 450,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "28fab8baa9b4f6624cb27b93",
-      "type": "text",
-      "text": "[[latest/57a83860ace511e78a4c904b1afa0332#^a83fa949b0dcd8ee3081cf36|20 str. 1 dalis]]",
-      "x": 520,
-      "y": 600,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "158a1309258f0f6349798262",
-      "type": "text",
-      "text": "[[latest/e233dc307eb511e8ae2bfd1913d66d57#^75353f9fb6b57697292be02c|8 str. 1 dalis]]",
-      "x": 940,
-      "y": 600,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "ff28bed3877434f2ee3bb5f3",
-      "type": "text",
-      "text": "[[latest/TAR.9018B4E8A289|latest/TAR.9018B4E8A289.md]]",
-      "x": 1360,
-      "y": 600,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "a49503acecd454671b2d6102",
-      "type": "text",
-      "text": "[[latest/17780ec0a54311eea5a28c81c82193a8#1 straipsnis. Įstatymo paskirtis ir taikymas|1 straipsnis. Įstatymo paskirtis ir taikymas]]",
-      "x": 1780,
-      "y": 600,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "9f8a695c3a1fafa1a7735466",
-      "type": "text",
-      "text": "[[latest/bd0c979255c611f0b070ee7f1ceefc75#^d677756d248271aefe936a4d|40 str. 10 dalis]]",
-      "x": 520,
-      "y": 750,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "020e98d60250ea2cf09e1bde",
-      "type": "text",
-      "text": "[[latest/472b4a90e4c111e7acd7ea182930b17f#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimas]]",
-      "x": 940,
-      "y": 750,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "cc60799135ab8e4d04098a76",
-      "type": "text",
-      "text": "[[latest/TAR.424F7C72601E#^64c014a7d1ed8a92029a2273|22 str. 1 dalis]]",
-      "x": 1360,
-      "y": 750,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "4bb74bdb9b4ee38881f33d16",
-      "type": "text",
-      "text": "[[latest/33d53292042311edb32c9f9d8ba206f8#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
-      "x": 1780,
-      "y": 750,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "600f7acb40b3eff64cbbfa76",
-      "type": "text",
-      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#28 straipsnis. 27 straipsnio pripažinimas netekusiu galios|28 straipsnis. 27 straipsnio pripažinimas netekusiu galios]]",
-      "x": 520,
-      "y": 900,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "586494d4e8eea6afc6329bc3",
-      "type": "text",
-      "text": "[[latest/TAR.39678AC27C78|latest/TAR.39678AC27C78.md]]",
-      "x": 940,
-      "y": 900,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "a46d3c4ded6c9340da5ccd17",
-      "type": "text",
-      "text": "[[latest/422c8b5042b811e6a8ae9e1795984391#25 straipsnis. Darbo rinkoje papildomai remiami asmenys|25 straipsnis. Darbo rinkoje papildomai remiami asmenys]]",
-      "x": 1360,
-      "y": 900,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "45a7816a34d17cf484147e76",
-      "type": "text",
-      "text": "[[latest/77def150a54511eea5a28c81c82193a8#4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai|4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai]]",
-      "x": 1780,
-      "y": 900,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "7c306673fc6bd760b520a85f",
-      "type": "text",
-      "text": "[[latest/3a25a20099a111e9ae2e9d61b1f977b3#3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys|3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys]]",
-      "x": 520,
-      "y": 1050,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "41b91772874166f848080b8f",
-      "type": "text",
-      "text": "[[latest/96842d9088f511e8af589337bf1eb893#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]]",
-      "x": 940,
-      "y": 1050,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "bc986baa3096abc9656ca15e",
-      "type": "text",
-      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#^5158b1a8eab74250854ef852|1 str. 2 dalis]]",
-      "x": 1360,
-      "y": 1050,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "46c62b4654669bece074ea90",
-      "type": "text",
-      "text": "[[latest/TAR.3EB34933E485#5 straipsnis. Tarptautinių sutarčių viršenybės principas|5 straipsnis. Tarptautinių sutarčių viršenybės principas]]",
-      "x": 1780,
-      "y": 1050,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "0e3bda9453052351e6cd3ad1",
-      "type": "text",
-      "text": "[[latest/TAR.F8090E375DA0#26 straipsnis. Ekonominės sankcijos|26 straipsnis. Ekonominės sankcijos]]",
-      "x": 520,
-      "y": 1200,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "2a4cef8de806c68d96c70607",
-      "type": "text",
-      "text": "[[latest/ac3feb3067e311eca9ac839120d251c4#^867cf42f8ee0932008d40caa|28 str. 3 dalis]]",
-      "x": 940,
-      "y": 1200,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "56b23862b236d267fb33885b",
-      "type": "text",
-      "text": "[[latest/c2e7f0a07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas]]",
-      "x": 1360,
-      "y": 1200,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "44a5b4327823e40c7753ed19",
+      "id": "75c7de4999533330619c618f",
       "type": "text",
       "text": "[[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#507 straipsnis. Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens garbės ir orumo pažeminimas|507 straipsnis. Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens garbės ir orumo pažeminimas]]",
-      "x": 1780,
-      "y": 1200,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "558ffcd0bf1b0f1a57d644de",
-      "type": "text",
-      "text": "[[latest/b5c313d0986d11eb9fecb5ecd3bd711c#16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams|16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams]]",
-      "x": 520,
-      "y": 1350,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "d5242fd1880b5fb8551b5149",
-      "type": "text",
-      "text": "[[latest/fb63ade00a8611e9a5eaf2cd290f1944#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas]]",
       "x": 940,
-      "y": 1350,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "3e471b7edb712729caebf947",
-      "type": "text",
-      "text": "[[latest/8e34031049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
-      "x": 1360,
-      "y": 1350,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "52e286b4f073338784241c31",
-      "type": "text",
-      "text": "[[latest/TAR.1DEDD43B92AE#^50b752fadfc9349ac52d5111|1 str. 2 dalis]]",
-      "x": 1780,
-      "y": 1350,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "4c5b06a3c10e19335b862253",
-      "type": "text",
-      "text": "[[latest/caf5cd4048f611e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
-      "x": 520,
-      "y": 1500,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "d2443a478199bc6822b588f0",
-      "type": "text",
-      "text": "[[latest/TAR.074B2F6259F9#^c51d6c4bc2f0c92d51e0f853|25 str. 3 dalis]]",
-      "x": 940,
-      "y": 1500,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "957c1fd6b175cd6da8367129",
-      "type": "text",
-      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#58 straipsnis. 128 straipsnio pakeitimas|58 straipsnis. 128 straipsnio pakeitimas]]",
-      "x": 1360,
-      "y": 1500,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "a7818006a9307500607dfa13",
-      "type": "text",
-      "text": "[[latest/b606e370e4f611e4a4809231b4b55019#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas]]",
-      "x": 1780,
-      "y": 1500,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "6fda02c691d52faf781dc0bb",
-      "type": "text",
-      "text": "[[latest/ac7ee820cd9811e6a2cac7383cbb90a3#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas]]",
-      "x": 520,
-      "y": 1650,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "d9eb884593a622a01ca3f3a5",
-      "type": "text",
-      "text": "[[latest/TAR.FC7AB69BE291#^bd201d2546fc934c2c21430b|49 str. 10 dalis]]",
-      "x": 940,
-      "y": 1650,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "796601213bddb198a96d0c4a",
-      "type": "text",
-      "text": "[[latest/TAR.5E8A7FF89480|latest/TAR.5E8A7FF89480.md]]",
-      "x": 1360,
-      "y": 1650,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "c02da01dd3927de6a0a5b87f",
-      "type": "text",
-      "text": "[[latest/TAR.0F9036415DBD#4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas|4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas]]",
-      "x": 1780,
-      "y": 1650,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "4a8af348c0b6434420fe0a77",
-      "type": "text",
-      "text": "[[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai|589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai]]",
-      "x": 520,
-      "y": 1800,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "9bbc73c70d8892c0542fe0d7",
-      "type": "text",
-      "text": "[[latest/TAR.ED68997709F5#19 straipsnis. PVM tarifai|19 straipsnis. PVM tarifai]]",
-      "x": 940,
-      "y": 1800,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "5ad0c6d3afff0a2df1943e68",
-      "type": "text",
-      "text": "[[latest/09a371f081df11ed8df094f359a60216#3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas|3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas]]",
-      "x": 1360,
-      "y": 1800,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "ebabde932d75dd82e78a85af",
-      "type": "text",
-      "text": "[[latest/1a9058e049b311e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
-      "x": 1780,
-      "y": 1800,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "71c9ce2ff30424d28843b1c1",
-      "type": "text",
-      "text": "[[latest/30f397c0d8db11eb9f09e7df20500045#^7f9de14f3cbe2b7c04aff344|12 str. 2 dalis]]",
-      "x": 520,
-      "y": 1950,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "c8c3383b413f5c2fc76db7f3",
-      "type": "text",
-      "text": "[[latest/c753b2904dc511ec862fdcbc8b3e3e05#1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas|1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas]]",
-      "x": 940,
-      "y": 1950,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "ab1d6f237d906b9b650236d9",
-      "type": "text",
-      "text": "[[latest/7217ebd07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas]]",
-      "x": 1360,
-      "y": 1950,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "0cf6cbcf98aafe9e1a2c41bf",
-      "type": "text",
-      "text": "[[latest/2021adb01e5b11ef8b14c5bcce136045#25 straipsnis. 48 straipsnio pakeitimas|25 straipsnis. 48 straipsnio pakeitimas]]",
-      "x": 1780,
-      "y": 1950,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "cfc75a5fe8b92be6cccb4e68",
-      "type": "text",
-      "text": "[[latest/TAR.94F6B680E8B8#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu]]",
-      "x": 520,
-      "y": 2100,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "8c19f223e0af22c9640927af",
-      "type": "text",
-      "text": "[[latest/d75de2c0f6c411ec8fa7d02a65c371ad#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos sporto įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos sporto įstatymo 2 straipsnio pakeitimas]]",
-      "x": 940,
-      "y": 2100,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "e47ffdfd914be71221b1669f",
-      "type": "text",
-      "text": "[[latest/TAR.B8B6AFC2BFF1#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]]",
-      "x": 1360,
-      "y": 2100,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "6ba63ba36e2cc1f3544d50dc",
-      "type": "text",
-      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas]]",
-      "x": 1780,
-      "y": 2100,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "d9a5d0096e3a9d7472939187",
-      "type": "text",
-      "text": "[[latest/c753b2904dc511ec862fdcbc8b3e3e05#^a1ab56fa06b66a9e242ff0b8|37 str. 1 dalis]]",
-      "x": 520,
-      "y": 2250,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "c776ca1b02bbb9f575fdabc7",
-      "type": "text",
-      "text": "[[latest/TAR.424F7C72601E#^9caa84be8e8898266ad5b0a7|391 str. 1 dalis]]",
-      "x": 940,
-      "y": 2250,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "0ca4cd8d7bb703e825640654",
-      "type": "text",
-      "text": "[[latest/TAR.F57794B7899F#221 straipsnis. Aktyvieji vartotojai|221 straipsnis. Aktyvieji vartotojai]]",
-      "x": 1360,
-      "y": 2250,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "c4adaf70f8b0a97a08f6a027",
-      "type": "text",
-      "text": "[[latest/TAR.EBB4FD337ADE#26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams|26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams]]",
-      "x": 1780,
-      "y": 2250,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "7688dce17ab99e1a8c271410",
-      "type": "text",
-      "text": "[[latest/TAR.9D2F66B96EBC#^e3a78148b8052c8b0cf0b224|411 str. 2 dalis]]",
-      "x": 520,
-      "y": 2400,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "37dde4fd33223b934b171235",
-      "type": "text",
-      "text": "[[latest/TAR.8447F63760E9#^0d7b65a7b0cf0b2aaad67fa0|7 str. 3 dalis]]",
-      "x": 940,
-      "y": 2400,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "94d9889e5ca50ca793c35fcd",
-      "type": "text",
-      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]]",
-      "x": 1360,
-      "y": 2400,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "fc8e41d4b68335fb549d7b26",
-      "type": "text",
-      "text": "[[latest/TAR.068516AF734B#^5e19c793764fdf1a1cee6185|5 str. 2 dalis]]",
-      "x": 1780,
-      "y": 2400,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "0f7049e2eff479d3591776eb",
-      "type": "text",
-      "text": "[[latest/TAR.6EA8AC8A483B#^1eb0d3c2bc0df2f4cc3d3a85|28 str. 3 dalis]]",
-      "x": 520,
-      "y": 2550,
-      "width": 320,
-      "height": 90
-    },
-    {
-      "id": "b07a4631d413f44117925d13",
-      "type": "text",
-      "text": "[[latest/TAR.424F7C72601E#^0f0a40c3a6c3813cf812f764|22 str. 2 dalis]]",
-      "x": 940,
-      "y": 2550,
+      "y": 0,
       "width": 320,
       "height": 90
     },
@@ -635,52 +23,79 @@
       "type": "text",
       "text": "[[latest/9197387088f211e8af589337bf1eb893#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
       "x": 1360,
-      "y": 2550,
+      "y": 0,
       "width": 320,
       "height": 90
     },
     {
-      "id": "1c8108e6201276caf52026a3",
+      "id": "4e7331fa2ac01a32f5d9d6f7",
       "type": "text",
-      "text": "[[latest/TAR.E2B2957B9182#^0acd67e976b3847ff5a796ba|591 str. 3 dalis]]",
+      "text": "[[latest/TAR.AD44354DA25E#25 straipsnis. Atsakomybė už Lietuvos Respublikoje neregistruotų, netapačių Lietuvos Respublikoje registruotiems, falsifikuotų augalų apsaugos produktų įvežimo į Lietuvos Respubliką, tiekimo rinkai pažeidimus|25 straipsnis. Atsakomybė už Lietuvos Respublikoje neregistruotų, netapačių Lietuvos Respublikoje registruotiems, falsifikuotų augalų apsaugos produktų įvežimo į Lietuvos Respubliką, tiekimo rinkai pažeidimus]]",
       "x": 1780,
-      "y": 2550,
+      "y": 0,
       "width": 320,
       "height": 90
     },
     {
-      "id": "b67daacb8e2e8789fb943c5b",
+      "id": "d9eb884593a622a01ca3f3a5",
       "type": "text",
-      "text": "[[latest/736b48002b2f11eb932eb1ed7f923910#1 straipsnis. Įstatymo paskirtis ir taikymo sritis|1 straipsnis. Įstatymo paskirtis ir taikymo sritis]]",
+      "text": "[[latest/TAR.FC7AB69BE291#^bd201d2546fc934c2c21430b|49 str. 10 dalis]]",
       "x": 520,
-      "y": 2700,
+      "y": 150,
       "width": 320,
       "height": 90
     },
     {
-      "id": "4337c9e34f160a1f5b76d18e",
+      "id": "94d9889e5ca50ca793c35fcd",
       "type": "text",
-      "text": "[[latest/TAR.D3ED3792F52B#3 straipsnis. Pagrindinės šio įstatymo sąvokos|3 straipsnis. Pagrindinės šio įstatymo sąvokos]]",
+      "text": "[[latest/014ced40a62a11eea5a28c81c82193a8#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]]",
       "x": 940,
-      "y": 2700,
+      "y": 150,
       "width": 320,
       "height": 90
     },
     {
-      "id": "858d771f4973d7dd4a23f356",
+      "id": "e3d60daf4d9ca3dcf8055703",
       "type": "text",
-      "text": "[[latest/TAR.D570962773F8#1 straipsnis. Atmintinos dienos|1 straipsnis. Atmintinos dienos]]",
+      "text": "[[latest/f79dd2d00c1711edb4cae1b158f98ea5#^cfda019768a1a2568548d99e|21 str. 1 dalis]]",
       "x": 1360,
-      "y": 2700,
+      "y": 150,
       "width": 320,
       "height": 90
     },
     {
-      "id": "9ec4afb0bdf10711dab4f3cf",
+      "id": "586494d4e8eea6afc6329bc3",
       "type": "text",
-      "text": "[[latest/TAR.389CB90C666D#3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys|3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys]]",
+      "text": "[[latest/TAR.39678AC27C78|latest/TAR.39678AC27C78.md]]",
       "x": 1780,
-      "y": 2700,
+      "y": 150,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "27546e5a335c4a0e10f4137b",
+      "type": "text",
+      "text": "[[latest/TAR.A7D82E8EDC6B#9 straipsnis. Programos finansavimo lėšų naudojimas|9 straipsnis. Programos finansavimo lėšų naudojimas]]",
+      "x": 520,
+      "y": 300,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6fda02c691d52faf781dc0bb",
+      "type": "text",
+      "text": "[[latest/ac7ee820cd9811e6a2cac7383cbb90a3#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas]]",
+      "x": 940,
+      "y": 300,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0265fe815c49c56166d8d3a4",
+      "type": "text",
+      "text": "[[latest/d211d26049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1360,
+      "y": 300,
       "width": 320,
       "height": 90
     },
@@ -688,8 +103,107 @@
       "id": "33de63ac5d91b2459c60605b",
       "type": "text",
       "text": "[[latest/TAR.C677663D2202#17 straipsnis. Neapmokestinamosios pajamos|17 straipsnis. Neapmokestinamosios pajamos]]",
+      "x": 1780,
+      "y": 300,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0ca4cd8d7bb703e825640654",
+      "type": "text",
+      "text": "[[latest/TAR.F57794B7899F#221 straipsnis. Aktyvieji vartotojai|221 straipsnis. Aktyvieji vartotojai]]",
       "x": 520,
-      "y": 2850,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "fc8e41d4b68335fb549d7b26",
+      "type": "text",
+      "text": "[[latest/TAR.068516AF734B#^5e19c793764fdf1a1cee6185|5 str. 2 dalis]]",
+      "x": 940,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "ab1d6f237d906b9b650236d9",
+      "type": "text",
+      "text": "[[latest/7217ebd07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas]]",
+      "x": 1360,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "cc60799135ab8e4d04098a76",
+      "type": "text",
+      "text": "[[latest/TAR.424F7C72601E#^64c014a7d1ed8a92029a2273|22 str. 1 dalis]]",
+      "x": 1780,
+      "y": 450,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "cfc75a5fe8b92be6cccb4e68",
+      "type": "text",
+      "text": "[[latest/TAR.94F6B680E8B8#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu]]",
+      "x": 520,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0cf6cbcf98aafe9e1a2c41bf",
+      "type": "text",
+      "text": "[[latest/2021adb01e5b11ef8b14c5bcce136045#25 straipsnis. 48 straipsnio pakeitimas|25 straipsnis. 48 straipsnio pakeitimas]]",
+      "x": 940,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "b67daacb8e2e8789fb943c5b",
+      "type": "text",
+      "text": "[[latest/736b48002b2f11eb932eb1ed7f923910#1 straipsnis. Įstatymo paskirtis ir taikymo sritis|1 straipsnis. Įstatymo paskirtis ir taikymo sritis]]",
+      "x": 1360,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0f7049e2eff479d3591776eb",
+      "type": "text",
+      "text": "[[latest/TAR.6EA8AC8A483B#^1eb0d3c2bc0df2f4cc3d3a85|28 str. 3 dalis]]",
+      "x": 1780,
+      "y": 600,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "56b23862b236d267fb33885b",
+      "type": "text",
+      "text": "[[latest/c2e7f0a07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas]]",
+      "x": 520,
+      "y": 750,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e47ffdfd914be71221b1669f",
+      "type": "text",
+      "text": "[[latest/TAR.B8B6AFC2BFF1#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]]",
+      "x": 940,
+      "y": 750,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "8c19f223e0af22c9640927af",
+      "type": "text",
+      "text": "[[latest/d75de2c0f6c411ec8fa7d02a65c371ad#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos sporto įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos sporto įstatymo 2 straipsnio pakeitimas]]",
+      "x": 1360,
+      "y": 750,
       "width": 320,
       "height": 90
     },
@@ -697,8 +211,206 @@
       "id": "a05cbeef7cc296ee421cffca",
       "type": "text",
       "text": "[[latest/TAR.EBB4FD337ADE#^5f8dd83d1d77992ac7d3ab73|1 str. 2 dalis]]",
+      "x": 1780,
+      "y": 750,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a1744694bd7652ea721a54e3",
+      "type": "text",
+      "text": "[[latest/TAR.FC7AB69BE291#131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka|131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka]]",
+      "x": 520,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "158a1309258f0f6349798262",
+      "type": "text",
+      "text": "[[latest/e233dc307eb511e8ae2bfd1913d66d57#^75353f9fb6b57697292be02c|8 str. 1 dalis]]",
       "x": 940,
-      "y": 2850,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "3e471b7edb712729caebf947",
+      "type": "text",
+      "text": "[[latest/8e34031049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1360,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "0e3bda9453052351e6cd3ad1",
+      "type": "text",
+      "text": "[[latest/TAR.F8090E375DA0#26 straipsnis. Ekonominės sankcijos|26 straipsnis. Ekonominės sankcijos]]",
+      "x": 1780,
+      "y": 900,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "163b065a189e988e0d974084",
+      "type": "text",
+      "text": "[[latest/ad961110dd8911e69ae9f38427b46dd7#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]]",
+      "x": 520,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "7688dce17ab99e1a8c271410",
+      "type": "text",
+      "text": "[[latest/TAR.9D2F66B96EBC#^e3a78148b8052c8b0cf0b224|411 str. 2 dalis]]",
+      "x": 940,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6a42630fa669bfe2947670eb",
+      "type": "text",
+      "text": "[[latest/TAR.94F6B680E8B8#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnis. Privalomojo sveikatos draudimo įmokos]]",
+      "x": 1360,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d5242fd1880b5fb8551b5149",
+      "type": "text",
+      "text": "[[latest/fb63ade00a8611e9a5eaf2cd290f1944#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas]]",
+      "x": 1780,
+      "y": 1050,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "1c8108e6201276caf52026a3",
+      "type": "text",
+      "text": "[[latest/TAR.E2B2957B9182#^0acd67e976b3847ff5a796ba|591 str. 3 dalis]]",
+      "x": 520,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "46c62b4654669bece074ea90",
+      "type": "text",
+      "text": "[[latest/TAR.3EB34933E485#5 straipsnis. Tarptautinių sutarčių viršenybės principas|5 straipsnis. Tarptautinių sutarčių viršenybės principas]]",
+      "x": 940,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "71c9ce2ff30424d28843b1c1",
+      "type": "text",
+      "text": "[[latest/30f397c0d8db11eb9f09e7df20500045#^7f9de14f3cbe2b7c04aff344|12 str. 2 dalis]]",
+      "x": 1360,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c776ca1b02bbb9f575fdabc7",
+      "type": "text",
+      "text": "[[latest/TAR.424F7C72601E#^9caa84be8e8898266ad5b0a7|391 str. 1 dalis]]",
+      "x": 1780,
+      "y": 1200,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "45a7816a34d17cf484147e76",
+      "type": "text",
+      "text": "[[latest/77def150a54511eea5a28c81c82193a8#4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai|4 straipsnis. Socialinių paslaugų valdymo, skyrimo ir teikimo principai]]",
+      "x": 520,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "52e286b4f073338784241c31",
+      "type": "text",
+      "text": "[[latest/TAR.1DEDD43B92AE#^50b752fadfc9349ac52d5111|1 str. 2 dalis]]",
+      "x": 940,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d6efaa380604ce3edb3276e6",
+      "type": "text",
+      "text": "[[latest/TAR.7FE50D845019#^2dd0e5be7b6d412c1ac7246c|7 str. 3 dalis]]",
+      "x": 1360,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a46d3c4ded6c9340da5ccd17",
+      "type": "text",
+      "text": "[[latest/422c8b5042b811e6a8ae9e1795984391#25 straipsnis. Darbo rinkoje papildomai remiami asmenys|25 straipsnis. Darbo rinkoje papildomai remiami asmenys]]",
+      "x": 1780,
+      "y": 1350,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "957c1fd6b175cd6da8367129",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#58 straipsnis. 128 straipsnio pakeitimas|58 straipsnis. 128 straipsnio pakeitimas]]",
+      "x": 520,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "796601213bddb198a96d0c4a",
+      "type": "text",
+      "text": "[[latest/TAR.5E8A7FF89480|latest/TAR.5E8A7FF89480.md]]",
+      "x": 940,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "4c5b06a3c10e19335b862253",
+      "type": "text",
+      "text": "[[latest/caf5cd4048f611e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1360,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c8c3383b413f5c2fc76db7f3",
+      "type": "text",
+      "text": "[[latest/c753b2904dc511ec862fdcbc8b3e3e05#1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas|1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas]]",
+      "x": 1780,
+      "y": 1500,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a49503acecd454671b2d6102",
+      "type": "text",
+      "text": "[[latest/17780ec0a54311eea5a28c81c82193a8#1 straipsnis. Įstatymo paskirtis ir taikymas|1 straipsnis. Įstatymo paskirtis ir taikymas]]",
+      "x": 520,
+      "y": 1650,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "89a800cadc0d463e60878684",
+      "type": "text",
+      "text": "[[latest/422c8b5042b811e6a8ae9e1795984391#^17e0d086aae3510e3597331b|41 str. 3 dalis]]",
+      "x": 940,
+      "y": 1650,
       "width": 320,
       "height": 90
     },
@@ -707,7 +419,52 @@
       "type": "text",
       "text": "[[latest/86a0dea0fdf411ec8fa7d02a65c371ad#^f9d0773a64ac191d211d0837|16 str. 9 dalis]]",
       "x": 1360,
-      "y": 2850,
+      "y": 1650,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "5fee67857dabf6a1e09e9b8b",
+      "type": "text",
+      "text": "[[latest/a09f7a8098ef11e58fd1fc0b9bba68a7#^fca8084593e051ef0ec6beb7|1 str. 2 dalis]]",
+      "x": 1780,
+      "y": 1650,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "5ad0c6d3afff0a2df1943e68",
+      "type": "text",
+      "text": "[[latest/09a371f081df11ed8df094f359a60216#3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas|3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas]]",
+      "x": 520,
+      "y": 1800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9ec4afb0bdf10711dab4f3cf",
+      "type": "text",
+      "text": "[[latest/TAR.389CB90C666D#3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys|3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys]]",
+      "x": 940,
+      "y": 1800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "93a12771cb282af2ccf775da",
+      "type": "text",
+      "text": "[[latest/TAR.EBB4FD337ADE#58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas|58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas]]",
+      "x": 1360,
+      "y": 1800,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "41b91772874166f848080b8f",
+      "type": "text",
+      "text": "[[latest/96842d9088f511e8af589337bf1eb893#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]]",
+      "x": 1780,
+      "y": 1800,
       "width": 320,
       "height": 90
     },
@@ -715,6 +472,249 @@
       "id": "9ad7d7e01c9c36bf73ac9bed",
       "type": "text",
       "text": "[[latest/TAR.FC7AB69BE291#^366a8fdfbcf7c98e53ce40f4|1 str. 4 dalis]]",
+      "x": 520,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "a7818006a9307500607dfa13",
+      "type": "text",
+      "text": "[[latest/b606e370e4f611e4a4809231b4b55019#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos draudimo įstatymo 2 straipsnio pakeitimas]]",
+      "x": 940,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "8bb1667fb1dfe181e93e10be",
+      "type": "text",
+      "text": "[[latest/TAR.EDDCB615126E#16 straipsnis. Įstatymo įsigaliojimas ir taikymas|16 straipsnis. Įstatymo įsigaliojimas ir taikymas]]",
+      "x": 1360,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "2940d7f69c04f96d1bffc1ad",
+      "type": "text",
+      "text": "[[latest/TAR.ED68997709F5#^5d42e4b67b985b64ae2837d8|58 str. 1 dalis]]",
+      "x": 1780,
+      "y": 1950,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "558ffcd0bf1b0f1a57d644de",
+      "type": "text",
+      "text": "[[latest/b5c313d0986d11eb9fecb5ecd3bd711c#16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams|16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams]]",
+      "x": 520,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "ebabde932d75dd82e78a85af",
+      "type": "text",
+      "text": "[[latest/1a9058e049b311e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 940,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "f25cd85aa99cbbb70dff5e86",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#26 straipsnis. Įstatymo papildymas 265 straipsniu|26 straipsnis. Įstatymo papildymas 265 straipsniu]]",
+      "x": 1360,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "2a4cef8de806c68d96c70607",
+      "type": "text",
+      "text": "[[latest/ac3feb3067e311eca9ac839120d251c4#^867cf42f8ee0932008d40caa|28 str. 3 dalis]]",
+      "x": 1780,
+      "y": 2100,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9f8a695c3a1fafa1a7735466",
+      "type": "text",
+      "text": "[[latest/bd0c979255c611f0b070ee7f1ceefc75#^d677756d248271aefe936a4d|40 str. 10 dalis]]",
+      "x": 520,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "9bbc73c70d8892c0542fe0d7",
+      "type": "text",
+      "text": "[[latest/TAR.ED68997709F5#19 straipsnis. PVM tarifai|19 straipsnis. PVM tarifai]]",
+      "x": 940,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "7c306673fc6bd760b520a85f",
+      "type": "text",
+      "text": "[[latest/3a25a20099a111e9ae2e9d61b1f977b3#3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys|3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys]]",
+      "x": 1360,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "4bb74bdb9b4ee38881f33d16",
+      "type": "text",
+      "text": "[[latest/33d53292042311edb32c9f9d8ba206f8#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 1780,
+      "y": 2250,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "bc986baa3096abc9656ca15e",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#^5158b1a8eab74250854ef852|1 str. 2 dalis]]",
+      "x": 520,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c4adaf70f8b0a97a08f6a027",
+      "type": "text",
+      "text": "[[latest/TAR.EBB4FD337ADE#26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams|26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams]]",
+      "x": 940,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "28fab8baa9b4f6624cb27b93",
+      "type": "text",
+      "text": "[[latest/57a83860ace511e78a4c904b1afa0332#^a83fa949b0dcd8ee3081cf36|20 str. 1 dalis]]",
+      "x": 1360,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "858d771f4973d7dd4a23f356",
+      "type": "text",
+      "text": "[[latest/TAR.D570962773F8#1 straipsnis. Atmintinos dienos|1 straipsnis. Atmintinos dienos]]",
+      "x": 1780,
+      "y": 2400,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "7fd217d674cc582289d92e0e",
+      "type": "text",
+      "text": "[[latest/TAR.7E60B29052C0#2 straipsnis. Įstatymo taikymas|2 straipsnis. Įstatymo taikymas]]",
+      "x": 520,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "5e0274f8b768cb52ee85a5e8",
+      "type": "text",
+      "text": "[[latest/TAR.82D8168D3049#^64a60ed331b917fb84059442|37 str. 1 dalis]]",
+      "x": 940,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "020e98d60250ea2cf09e1bde",
+      "type": "text",
+      "text": "[[latest/472b4a90e4c111e7acd7ea182930b17f#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos socialinio draudimo pensijų įstatymo 2 straipsnio pakeitimas]]",
+      "x": 1360,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d2443a478199bc6822b588f0",
+      "type": "text",
+      "text": "[[latest/TAR.074B2F6259F9#^c51d6c4bc2f0c92d51e0f853|25 str. 3 dalis]]",
+      "x": 1780,
+      "y": 2550,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "d9a5d0096e3a9d7472939187",
+      "type": "text",
+      "text": "[[latest/c753b2904dc511ec862fdcbc8b3e3e05#^a1ab56fa06b66a9e242ff0b8|37 str. 1 dalis]]",
+      "x": 520,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "37dde4fd33223b934b171235",
+      "type": "text",
+      "text": "[[latest/TAR.8447F63760E9#^0d7b65a7b0cf0b2aaad67fa0|7 str. 3 dalis]]",
+      "x": 940,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "b07a4631d413f44117925d13",
+      "type": "text",
+      "text": "[[latest/TAR.424F7C72601E#^0f0a40c3a6c3813cf812f764|22 str. 2 dalis]]",
+      "x": 1360,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "600f7acb40b3eff64cbbfa76",
+      "type": "text",
+      "text": "[[latest/a2edb8c0641211eca9ac839120d251c4#28 straipsnis. 27 straipsnio pripažinimas netekusiu galios|28 straipsnis. 27 straipsnio pripažinimas netekusiu galios]]",
+      "x": 1780,
+      "y": 2700,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "e68857cad51241c5f3ed66b3",
+      "type": "text",
+      "text": "[[latest/29ccd900828711ed8df094f359a60216#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]]",
+      "x": 520,
+      "y": 2850,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "6ba63ba36e2cc1f3544d50dc",
+      "type": "text",
+      "text": "[[latest/0fab56e0697511eca9ac839120d251c4#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas]]",
+      "x": 940,
+      "y": 2850,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "c02da01dd3927de6a0a5b87f",
+      "type": "text",
+      "text": "[[latest/TAR.0F9036415DBD#4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas|4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas]]",
+      "x": 1360,
+      "y": 2850,
+      "width": 320,
+      "height": 90
+    },
+    {
+      "id": "de58fb7e20681206ab6b0b81",
+      "type": "text",
+      "text": "[[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai|589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai]]",
       "x": 1780,
       "y": 2850,
       "width": 320,
@@ -2061,273 +2061,273 @@
       "label": "1 straipsnyje"
     },
     {
-      "id": "2ecdf68df12b0cb8cfce3ce5",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "f82f402a2ca9c2b75eaf0574",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "f183347de51cf9cf04a727dc",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "6ebaf19ba868888799e0708e",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "b28ce11aadb090585b0ed498",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "7b2fd7bbb5d859fb855448a5",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "5bdbe241913ccd49424e9ac0",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "5f312fedc69a3b2707e04ad5",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "9f309da7aa2fb57589e472ab",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "4c8d1350305a9c1ab27e35ce",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "b397253719938c4aca13fe7e",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "adc14880a67432c06856dea2",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "f1a6999e86daa7a67aadb7dd",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "ab1213ee4712be09b2178c86",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "4896cd00a3751630ff1db844",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "9e46bc5811d5edbf5d9d0078",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "03b9ad51b0b446b416ed4b19",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "1dc080d93905bb515ef0170d",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "7691497d7d16259cc8bd39fc",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "5b7f6be9d7a3cc21c32945bc",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "aadfa2242c87fbb91b580cbd",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "73a96fe967cf585554bf9c4c",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "33d6917819858298c4cd5f94",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "cdaae2addea4c6a706ae8533",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "5d6b7dfbfd91ea2719fe99e8",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "7a8de6d7dd338e89cb55ba9b",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "2ce6796b3612b9fa66aff45d",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "496097fb28926a0275537647",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "6a52d8df54f168a68cce599c",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "47a3036f07cadb70b90109bf",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "bc902c335119531fede84d2d",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "fa75b37dca6874a38794c1e2",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "cf9be1bc74f2c67586332f38",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "6d92e9037ebc906f00e7d349",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "5bc6ba5b886ca5937b8e2796",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "c9c446bba519d21e5400712a",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "5326a736736d6b7642cc81b4",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "16dea3cca6f94d04ca2f1daf",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "1502d1a884d83af12d39aea5",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "721caff3bbb1e3be1a5c27e3",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "04d36afc81a4e6680bcdcca0",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "c5c6f5f24612fb3829127996",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "d8ba9ef22b221ba662497348",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "600d7a11fc2f4ed0007d16f0",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "c11729e243ca79d77d804e56",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "17e2a2f9da8dde01c18f51ab",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "36365df766526332831c83a3",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "dafa2ba962b7c51ae5c06418",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "2259ff85041d3482583a91e6",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "d2ab912dd2267c6ba23d89b7",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "a63e7a1e6782a4dfc32fae1c",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "622e556235ab28a12577bbcb",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "29c956460cdd9cc24681be0a",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "a0841bbe83280bfaacbf42dc",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "2589b1cab7f9d72e7cd3fbf3",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "ede73451f7ae07527cea576c",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "76edb193a35f3002727c3677",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "5a06f8cdaade492950462e25",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "515c291a50c352e22014a4f9",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "5932c6e9c557d5154e747b99",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "d5751d1764db6fe1a641f652",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "b7e995c06b160497527e18b4",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "9540af3a34c2f48284bb6fc6",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "981f3dd8561e19d02ca2eabf",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "3ca1fef179eb138b86e63d18",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "5d9748478e694b4eb17b20cb",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "0bedc2c570caef345126b788",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "e9488a790836f06adcf7d33d",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "7b4e1bc03a2e6862855605e4",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "4bf6e91f7f7903543be09fc6",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "11be448969d169da7a5d0351",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "b19bb4b067aedaa3ab8a16d9",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "51981dce7c3b3ccd41e6af58",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "f0d8629dd6fbefc5621c23b3",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "553804da79262dabc8a33391",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "623a253dc920f1885324498b",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "037eb8ca3c9e8ab231802b9a",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "74582714e78d3b71bfdbb3de",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "94de1714cde492da6204e823",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "012ea5c57f52685cc4097f17",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "fca6a4f2cdaf3aee3ea23aa7",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "0cd699f822a9917a3db4946f",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "cc5949dc8b577b89233f2af2",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "f680137305a075c88d404f75",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "f70fb3c6094915c2493b6d24",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "f65491df91645afcc60629e8",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "7c78655455e01305fef64c1f",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "62b93d8d4b885384d8411efc",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsniuose"
     },
     {
-      "id": "7cadf534931231203c5764bb",
-      "fromNode": "4a8af348c0b6434420fe0a77",
-      "toNode": "44a5b4327823e40c7753ed19",
+      "id": "76383c1631004296f8e1a600",
+      "fromNode": "de58fb7e20681206ab6b0b81",
+      "toNode": "75c7de4999533330619c618f",
       "label": "507 straipsnyje"
     },
     {

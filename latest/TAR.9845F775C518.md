@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-10-01"
 latest_path: "latest/TAR.9845F775C518.md"
-latest_sha256: "7a6850892c4896358b3bfcf1974af962f3425c5b8c7bf246cf356f51a949a0c6"
+latest_sha256: "a1aa248eb7b937d1af3f8c3c6810c6ea46158628069ffe0f9be9ae645a848690"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas
@@ -23,7 +23,7 @@ parser_version: "0.1.0"
 Projektas XXXX XX XX Nr
 
 
-Suvestinė redakcija nuo 2026-05-01 iki 2030-01-09
+Suvestinė redakcija nuo 2026-05-01 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 59-1916; Žin. 1999, Nr.60-0, i. k. 0991010ISTAIII-1227
 

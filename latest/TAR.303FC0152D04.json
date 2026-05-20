@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.303FC0152D04.md",
   "latest_revision": "2001-01-01",
-  "latest_sha256": "81495ce0d36cf8197a55b82090a78e87e3a8857a1e8baa4bac83b0de401135e5",
+  "latest_sha256": "68f22770c811138d6a82bcf678fe855d950877f4b0f4efbf18ffac3378156569",
   "metadata_path": "latest/TAR.303FC0152D04.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos reklamos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-05-20T10:59:37Z"
 }

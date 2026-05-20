@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.5B99A78DA6C7.md",
   "latest_revision": "2000-07-01",
-  "latest_sha256": "4d5de0a68e7330160365a442430ab240f11116a6618364acc4041f0f3fed56c2",
+  "latest_sha256": "e677bfb6349eb4f9c94c0dfb35e4ee2fe727b2a9573fb21c0f5586d2a566224f",
   "metadata_path": "latest/TAR.5B99A78DA6C7.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos maisto įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

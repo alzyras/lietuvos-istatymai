@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.3ED3D65F5638.md",
   "latest_revision": "2000-09-15",
-  "latest_sha256": "dec2fabbc635b190677be58ae193a006bc1152ecbdbdc783bdc16a52db7478d2",
+  "latest_sha256": "2b792e8abad8c6b2ece9cacb2111add7bcc307419df470b37c965e82916ecffc",
   "metadata_path": "latest/TAR.3ED3D65F5638.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos valstybės rezervo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.0AE0464E0EDE.md",
   "latest_revision": "2007-01-01",
-  "latest_sha256": "0dfb82c304a8d4ae5042358f55a50d495003267db990b51f1959bbb58ac604f9",
+  "latest_sha256": "b213f2e6ebeb4290800c445b4af4904311f164c06e17ad5e0ed36f7107648071",
   "metadata_path": "latest/TAR.0AE0464E0EDE.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

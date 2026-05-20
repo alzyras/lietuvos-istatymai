@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-08-02"
 latest_path: "latest/TAR.A3C0EA6B2203.md"
-latest_sha256: "30099bbd89cb1c3d814e4246a19ac9a02aed77f749a76ec111438d720932adea"
+latest_sha256: "05690328d4dcce09a6e75268ef009a97a4ba44e1bebdc32704d751a695103aec"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos metrologijos įstatymas
@@ -1328,13 +1328,17 @@ Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
 
 
-2. Įvertinusi atsakomybėn traukiamo juridinio asmens finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu, kai pateikiami atsakomybėn traukiamo juridinio asmens finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiantys įrodymai, Lietuvos Respublikos Vyriausybės įgaliota institucija turi teisę baudos ar jos dalies mokėjimą išdėstyti per laikotarpį iki vienų metų arba atidėti iki vienų metų, jeigu sumokėti baudos per [[#^a0d65097a7a4b5ccbbd1a731|šio straipsnio 1 dalyje]] nurodytą terminą juridinis asmuo negali dėl objektyvių priežasčių. Juridinio asmens prašymas baudos ar jos dalies mokėjimą išdėstyti per laikotarpį iki vienų metų arba atidėti iki vienų metų turi būti pateiktas likus ne mažiau kaip dešimt kalendorinių dienų iki jo prievolės sumokėti baudą įvykdymo paskutinės dienos. Lietuvos Respublikos Vyriausybės įgaliotos institucijos sprendimas dėl paskirtos baudos ar jos dalies mokėjimo išdėstymo per laikotarpį iki vienų metų ar atidėjimo iki vienų metų turi būti priimtas likus ne mažiau kaip penkioms kalendorinėms dienoms iki prievolės sumokėti baudą įvykdymo paskutinės dienos. Sprendimas įforminamas priimant nutarimą dėl juridiniam asmeniui paskirtos baudos ar jos dalies mokėjimo išdėstymo dalimis iki vienų metų pagal mokėjimo grafiką arba mokėjimo termino atidėjimo nustatytam laikotarpiui iki vienų metų. ^1ec9487942796316033aeb27
+2. Įvertinusi atsakomybėn traukiamo juridinio asmens finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu, kai pateikiami atsakomybėn traukiamo juridinio asmens finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiantys įrodymai, Lietuvos Respublikos Vyriausybės įgaliota institucija turi teisę baudos ar jos dalies mokėjimą išdėstyti per laikotarpį iki vienų metų arba atidėti iki vienų metų, jeigu sumokėti baudos per [[#^24623f706d68681605ef0160|šio straipsnio 1 dalyje]] nurodytą terminą juridinis asmuo negali dėl objektyvių priežasčių. Juridinio asmens prašymas baudos ar jos dalies mokėjimą išdėstyti per laikotarpį iki vienų metų arba atidėti iki vienų metų turi būti pateiktas iki Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimo skirti sankciją – baudą priėmimo dienos. Lietuvos Respublikos Vyriausybės įgaliotos institucijos sprendimas įforminamas priimant nutarimą dėl juridiniam asmeniui paskirtos baudos ar jos dalies mokėjimo išdėstymo dalimis iki vienų metų pagal mokėjimo grafiką arba mokėjimo termino atidėjimo nustatytam laikotarpiui iki vienų metų. Po Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimo priėmimo dienos paskirtos baudos mokėjimo išdėstymo klausimai sprendžiami Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka. ^1e6d44bbc4fb92e850123534
 Straipsnio dalies pakeitimai:
 Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
+Nr. XV-901, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08231
 
 
 
-3. Nutarimas skirti sankciją, kuriuo skiriama bauda, yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Šis nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per vienus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tokiam laikui, kuriam buvo sustabdytas Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimo vykdymas, arba laikotarpiui, kuriam, vadovaujantis [[#^667a3e8c14f428443f2eab44|šio straipsnio 2 dalimi]], buvo atidėtas baudos ar jos dalies mokėjimas. ^6065fcdffbb691564e0fdd69
+3. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimas skirti sankciją – baudą yra vykdomasis dokumentas, vykdomas Mokesčių administravimo įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^fbcff2876063e1400bf76a3b
+Straipsnio dalies pakeitimai:
+Nr. XV-901, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08231
+
 
 
 Skirsnio pakeitimai:
@@ -1362,22 +1366,22 @@ priedas
 
 
 
-1. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo. ^a0d65097a7a4b5ccbbd1a731
+1. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo. ^24623f706d68681605ef0160
 
 
-2. 1976 m. sausio 20 d. Tarybos direktyva 76/211/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimu pagal masę arba tūrį, suderinimo su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. ^667a3e8c14f428443f2eab44
+2. 1976 m. sausio 20 d. Tarybos direktyva 76/211/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimu pagal masę arba tūrį, suderinimo su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. ^d9cbcb07d1a91d8597e84761
 
 
-3. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos direktyva (ES) 2019/1258. ^9bc47f04882b4ddb57d2c2d7
+3. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos direktyva (ES) 2019/1258. ^b933c6dd30e2739bafb57e98
 
 
-4. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/31/ES dėl valstybių narių įstatymų, susijusių su neautomatinių svarstyklių tiekimu rinkai, suderinimo. ^1dce9b1360704f8cfbfa0b67
+4. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/31/ES dėl valstybių narių įstatymų, susijusių su neautomatinių svarstyklių tiekimu rinkai, suderinimo. ^974b6904a667d7ff6dff195a
 
 
-5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja direktyva (ES) 2015/13. ^112c205ae0ea30c10dec5421
+5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja direktyva (ES) 2015/13. ^b47814becb97e4f6a39b2cb1
 
 
-6. 2016 m. kovo 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/799, kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai, su paskutiniais pakeitimais, padarytais 2020 m. vasario 5 d. Komisijos įgyvendinimo reglamentu (ES) 2020/158. ^cbec6657148c132166c0510a
+6. 2016 m. kovo 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/799, kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai, su paskutiniais pakeitimais, padarytais 2020 m. vasario 5 d. Komisijos įgyvendinimo reglamentu (ES) 2020/158. ^2b04eeec237bde6d0752f3f3
 
 
 ________________
@@ -1433,6 +1437,11 @@ Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 2, 25, 26, 27, 28, 29, 30, [[#38 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimų vykdymas|38 straipsnių]] ir priedo pakeitimo įstatymas
 
 9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-901, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08231
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 [[#38 straipsnis. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimų vykdymas|38 straipsnio]] pakeitimo įstatymas
+
+10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-563, 2025-11-20, paskelbta TAR 2025-11-28, i. k. 2025-20143
 Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 9, 18, 30 ir [[#36 straipsnis. Juridinių asmenų padarytų metrologijos srities teisės aktų pažeidimų tyrimo, nagrinėjimo ir sankcijų skyrimo tvarka|36 straipsnių]] pakeitimo įstatymas

@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2007-01-01"
 latest_path: "latest/TAR.0AE0464E0EDE.md"
-latest_sha256: "0dfb82c304a8d4ae5042358f55a50d495003267db990b51f1959bbb58ac604f9"
+latest_sha256: "b213f2e6ebeb4290800c445b4af4904311f164c06e17ad5e0ed36f7107648071"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
@@ -20,12 +20,20 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
+Suvestinė redakcija nuo 2024-10-01 iki 2026-06-29
+
+Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
+
+Nauja redakcija nuo 2022-11-16:
+Nr. XIV-1466, 2022-10-27, paskelbta TAR 2022-11-15, i. k. 2022-22945
+
 LIETUVOS RESPUBLIKOS
 GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO
-Į S T A T Y M A S
+ĮSTATYMAS
 
 2006 m. liepos 13 d. Nr. X-764
 Vilnius
+
 
 
 
@@ -34,691 +42,1897 @@ BENDROSIOS NUOSTATOS
 
 
 
-### 1 straipsnis. Įstatymo paskirtis, tikslas ir taikymo sritis
+### 1 straipsnis. Įstatymo tikslas
 
 
-1. Šis įstatymas nustato geriamojo vandens tiekimo ir nuotekų tvarkymo valstybinio valdymo ir reguliavimo pagrindus ir reglamentuoja vandens tiekėjų bei abonentų (vartotojų) teisinius santykius. ^2655543951496991b2713ee9
-
-
-2. Įstatymo tikslas – užtikrinti geriamojo vandens tiekimo ir nuotekų tvarkymo ūkio nenutrūkstamą funkcionavimą, taip pat visuomenės poreikius atitinkančią plėtrą sudarant sąlygas fiziniams ir juridiniams asmenims priimtinomis sąlygomis apsirūpinti tinkamos kokybės geriamuoju vandeniu ir gauti geros kokybės nuotekų tvarkymo paslaugas. ^75955dfa606144e4ace9e6ab
-
-
-3. Šio įstatymo nuostatos taikomos visiems asmenims, tiekiantiems šaltą geriamąjį vandenį ir teikiantiems nuotekų tvarkymo paslaugas. ^7d1aa565c2b498e58b9d6e64
+Šio įstatymo tikslas – nustatyti geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo, geriamojo vandens tiekimo ir nuotekų tvarkymo organizavimo ir planavimo bendruosius reikalavimus, kad būtų išvengta neigiamo poveikio žmonių sveikatai ir aplinkai, užtikrintas nepertraukiamas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimas, užtikrinta visuomenės poreikius atitinkanti geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtra, sudarytos sąlygos visiems fiziniams ir juridiniams asmenims gauti saugos ir kokybės reikalavimus atitinkantį geriamąjį vandenį ir nuotekų tvarkymo paslaugas arba turėti galimybę individualiai apsirūpinti geriamuoju vandeniu ir (arba) individualiai tvarkyti nuotekas.
 
 
 
-### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
+### 2 straipsnis. Įstatymo paskirtis
 
 
-1. Abonentas – fizinis arba juridinis asmuo, taip pat užsienio valstybės juridinio asmens atstovybė ar filialas, įregistruotas Lietuvos Respublikoje, sudaręs su vandens tiekėju vandens tiekimo sutartį dėl geriamojo vandens pirkimo-pardavimo ir (arba) nuotekų tvarkymo paslaugų teikimo arba prijungęs savo geriamojo vandens naudojimo įrenginius, geriamajam vandeniui tiekti reikalingas komunikacijas ir (arba) nuotekų šalinimo įrenginius prie geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros, kurią eksploatuoja vandens tiekėjas. ^739aef57174d1790ecee7ddc
+1. Šis įstatymas reglamentuoja asmenų santykius, atsirandančius tiekiant geriamąjį vandenį, tvarkant nuotekas ir individualiai apsirūpinant geriamuoju vandeniu ir (arba) individualiai tvarkant nuotekas. ^64140edd7421a0ba71d2a70d
 
 
-2. Individualus nuotekų šalinimas – savo nuotekų tvarkymas ir šalinimas į gamtinę aplinką naudojant nuosavybės teise ar kitais teisėtais pagrindais valdomą nuotekų tvarkymo infrastruktūrą. ^7a1f1bdefa68141be19f94fd
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. ^fec65125f1d3657004ea8891
 
 
-3. Individualus vandens išgavimas – vandens paėmimas iš gamtinių šaltinių nuosavybės teise ar kitais teisėtais pagrindais valdomais įrenginiais ir naudojimas ne pardavimui, bet savo poreikiams tenkinti. ^186c14cbd75df852b36d2f5d
+
+### 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-4. Nepertraukiamas vandens tiekimas ir (arba) nuotekų tvarkymas – geriamojo vandens tiekimas ir (arba) nuotekų tvarkymas laikantis vandens tiekimo sutarties sąlygų pagal kiekį, slėgį, reguliarumą bei kokybę arba tik pagal teisės aktų reikalavimus, jei su abonentu (vartotoju) rašytinė sutartis nesudaryta, bet abonento (vartotojo) geriamojo vandens naudojimo įrenginiai, geriamajam vandeniui tiekti reikalingos komunikacijos ir (arba) nuotekų šalinimo įrenginiai yra prijungti prie geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros, kurią eksploatuoja vandens tiekėjas. ^51dd2d17c2272fb148421c40
+1. Abonentas – fizinis arba juridinis asmuo, Lietuvos Respublikoje įsteigtas užsienio valstybės juridinio asmens ar kitos organizacijos padalinys, perkantys geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugas tikslais, nesusijusiais su fizinio asmens asmeninėmis, šeimos ar namų ūkio reikmėmis, ir su geriamojo vandens tiekėju ir nuotekų tvarkytoju arba viešuoju geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba regioniniu viešuoju geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba garantiniu geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba paviršinių nuotekų tvarkytoju sudarę geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešąją sutartį arba, jeigu minėta sutartis nesudaryta, prijungę nuosavybės teise ar bendrosios dalinės nuosavybės teise priklausančias ar kitaip valdomas ir (arba) naudojamas geriamojo vandens tiekimo ir (arba) nuotekų išleidimo komunikacijas, geriamojo vandens naudojimo ir (arba) nuotekų tvarkymo įrenginius prie geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros, paviršinių nuotekų tvarkymo įrenginius prie paviršinių nuotekų tvarkytojui nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos paviršinių nuotekų tvarkymo infrastruktūros ar išleidžiantys paviršines nuotekas į šių nuotekų tvarkytojo paviršinių nuotekų tvarkymo sistemas. ^7d9ab91e89dc3fc14e6e7f96
 
 
-5. Nuotekos – buityje, ūkio ar gamybinėje veikloje naudotas arba perteklinis (kritulių, paviršinis, drenažinis ar pan.) vanduo, kurį jo turėtojas, naudodamasis nuotekų tvarkymo infrastruktūra, išleidžia į gamtinę aplinką arba į kitiems asmenims priklausančią nuotekų tvarkymo infrastruktūrą. ^36be6df3473cba2e7e4948d6
+2. Aglomeracija – urbanizuotose ar urbanizuojamose teritorijose esanti viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorija ar jos dalis, kurioje susidaro ar gali susidaryti 2 000 ir daugiau gyventojų ekvivalentų atitinkanti tarša ir kurioje geriamasis vanduo tiekiamas ar numatomas tiekti centralizuota geriamojo vandens tiekimo sistema arba išgaunamas individualiai, o susidarančios ar galinčios susidaryti nuotekos surenkamos centralizuotomis nuotekų surinkimo sistemomis arba sutvarkomos nuotekų valymo (arba) kaupimo įrenginiais. ^99a1ace3a65770d295b8c423
 
 
-6. Nuotekų perdavimo riba – vandens tiekimo sutartyje nurodyta nuotekų tvarkymo infrastruktūros vieta, kurioje abonento (vartotojo) išleidžiamos nuotekos perduodamos vandens tiekėjui ir jam tenka atsakomybė už nuotekų tvarkymą. Tais atvejais, kai rašytinė sutartis nesudaryta, nuotekų perdavimo riba laikoma ta vieta, kurioje prasideda vandens tiekėjui nuosavybės teise priklausanti ar kitaip teisėtai valdoma ar eksploatuojama nuotekų tvarkymo infrastruktūra, į kurią patenka abonento (vartotojo) nuotekos. ^47ad72f0fd42e0b11d68ae37
+3. Asmuo – Lietuvos Respublikos ar užsienio valstybės fizinis asmuo, Lietuvos Respublikoje įsteigtas juridinis asmuo, užsienio valstybės juridinis asmuo arba organizacija ar jų padalinys. ^3343c9dc7e874bfec5ecf574
 
 
-7. Nuotekų tvarkymas – nuotekų surinkimas, transportavimas, valymas, apskaita, tyrimas, išleidimas į aplinką ir valymo metu susidariusio dumblo ir kitų atliekų tvarkymas. ^27621922312453b31e49882c
+4. Bazinis nuotekų užterštumas – nuotekų teršalų koncentracija, atitinkanti didžiausią leidžiamą buitinių ir paviršinių nuotekų teršalų koncentraciją. ^ab8578124a784fe62500b125
 
 
-8. Nuotekų tvarkymo infrastruktūra – nuotekoms tvarkyti skirtų statinių, įrenginių ir komunikacijų kompleksas (vamzdynai, šuliniai, siurblinės, nuotekų valymo įrenginiai ir kiti objektai). ^205ab660e90d1f516a115cc1
+5. Centralizuotoji geriamojo vandens tiekimo sistema – geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausanti ar kitaip valdoma arba naudojama vamzdynų sistema, kuria tiekiamas geriamasis vanduo miestams, miesteliams, kaimams. ^5cbed9ad4633c96c9fbafeb7
 
 
-9. Nuotekų tvarkymo paslaugų teikimas – ūkinė komercinė veikla, susidedanti iš techninių, organizacinių ir ekonominių priemonių, skirtų abonentų (vartotojų) nuotekoms tvarkyti. ^2743364fc4a842a823778c57
+6. Centralizuotoji nuotekų surinkimo sistema – geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausanti ar kitaip valdoma arba naudojama vamzdynų sistema, į kurią patenkančios nuotekos nukreipiamos į miestų, miestelių, kaimų nuotekų valymo įrenginius. ^3846f9ad4624d133d384eb6a
 
 
-10. Regioninis vandens tiekėjas – viešasis vandens tiekėjas, tiekiantis vandenį daugiau kaip pusei viešojo vandens tiekimo regione esančių savivaldybių. ^6b48171b70da7ea2f9be0145
+7. Didelė tarša – abonento išleidžiamose nuotekose geriamojo vandens tiekėjo ir nuotekų tvarkytojo arba viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba garantinio geriamojo vandens tiekėjo ir nuotekų tvarkytojo nustatytas teršiančių medžiagų koncentracijos viršijimas, kai bent vienos teršiančios medžiagos koncentracija 3 ir daugiau kartų viršija geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešojoje sutartyje numatytą išleidžiamų nuotekų užterštumą, kurio negalima viršyti dėl nuotekų tvarkymo infrastruktūros galimybių, arba paviršinių nuotekų tvarkytojo viešojoje sutartyje numatytą leidžiamą paviršinių nuotekų užterštumą, arba jei išleidžiama aplinkos ministro tvirtinamame nuotekų tvarkymo reglamente išvardytų prioritetinių pavojingų medžiagų, kai nustatyta šių medžiagų koncentracija viršija šiame reglamente nurodytą didžiausią leidžiamą jų koncentraciją nuotekose, jas išleidžiant į centralizuotąją nuotekų surinkimo sistemą. ^e06c53e818a4b0f1ddc7180e
 
 
-11. Savivaldybės (savivaldybių) kontroliuojamos įmonės – savivaldybės įmonės, veikiančios pagal Valstybės ir savivaldybės įmonių įstatymą, akcinės bendrovės ir uždarosios akcinės bendrovės, kuriose savivaldybei ar kelioms savivaldybėms nuosavybės teise priklauso toks akcijų skaičius, kuris suteikia įstatymuose arba steigimo dokumentuose nustatytą kvalifikuotą balsų daugumą, reikalingą priimti sprendimą reorganizuoti bendrovę. ^d2c4b03621dea9328d77747b
+8. Garantinis geriamojo vandens tiekėjas ir nuotekų tvarkytojas (toliau – garantinis vandens tiekėjas) – viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, iš anksto paskirtas vykdyti garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą. ^7bb1e7d4d6e4fcb25c8f0e54
 
 
-12. Valstybės kontroliuojamos įmonės – valstybės įmonės, veikiančios pagal Valstybės ir savivaldybės įmonių įstatymą, akcinės bendrovės ir uždarosios akcinės bendrovės, kuriose valstybei nuosavybės teise priklauso toks akcijų skaičius, kuris suteikia įstatymuose arba steigimo dokumentuose nustatytą kvalifikuotą balsų daugumą, reikalingą priimti sprendimą reorganizuoti bendrovę. ^c6904dfa9ed3285ac625e1e2
+9. Garantinis geriamojo vandens tiekimas ir nuotekų tvarkymas – geriamojo vandens tiekimas ir nuotekų tvarkymas, vykdomas garantinio geriamojo vandens tiekėjo ir nuotekų tvarkytojo. ^c8ee404d045b74091b53d473
 
 
-13. Vandens tiekėjas – juridinis asmuo, taip pat užsienio valstybės juridinio asmens filialas, įregistruotas Lietuvos Respublikoje, šio įstatymo ir kitų teisės aktų nustatyta tvarka įgijęs teisę vykdyti geriamojo vandens tiekimą ir (arba) teikti nuotekų tvarkymo paslaugas. ^89bbd8a103c4a92e7d52ff74
+10. Geriamojo vandens apskaitos prietaisai – abonentų ir (arba) vartotojų sunaudoto geriamojo vandens kiekio matavimo priemonės, kurioms taikomas teisinis metrologinis reglamentavimas ir pagal kurių rodmenis atsiskaitoma su geriamojo vandens tiekėju ir nuotekų tvarkytoju arba viešuoju geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba regioniniu viešuoju geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba garantiniu geriamojo vandens tiekėju ir nuotekų tvarkytoju už sunaudotą geriamąjį vandenį. ^beaddb1646977875144f1746
 
 
-14. Vandens tiekimas – ūkinė komercinė veikla, susidedanti iš techninių, organizacinių ir ekonominių priemonių, reikalingų geriamajam vandeniui išgauti, pristatyti ir parduoti abonentui (vartotojui). ^8ddaa82b279cda4b076698f5
+11. Geriamojo vandens tiekėjas ir nuotekų tvarkytojas – juridinis asmuo, tiekiantis geriamąjį vandenį ir (arba) teikiantis nuotekų tvarkymo paslaugas ir turintis geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licenciją. ^43b37a5a1b50d4f49b64790c
 
 
-15. Vandens tiekimo infrastruktūra – vandeniui išgauti, geriamajam vandeniui ruošti, laikyti, transportuoti, tiekti ir apskaitai skirtų statinių, įrenginių ir komunikacijų kompleksas (vandens kaptažo įrenginiai, vandens gerinimo įrenginiai, siurblinės, vamzdynai, šuliniai, apskaitos prietaisai ir kiti objektai). ^8f7505ac15dd3ef756de90ed
+12. Geriamojo vandens tiekėjo ir nuotekų tvarkytojo veiklos planas (toliau – veiklos planas) – veiklos planavimo dokumentas, sudaromas ne trumpesniam kaip penkerių metų laikotarpiui, kuriame numatomos geriamojo vandens tiekėjo ir nuotekų tvarkytojo arba viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba paviršinių nuotekų tvarkytojo veiklos plėtros kryptys, terminai ir reikalingos investicijos. ^11a20a01cee6baa8554d622a
 
 
-16. Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planas – visai savivaldybės teritorijai rengiamas teritorijų planavimo dokumentas (specialusis planas), kuriame nustatomos viešojo vandens tiekimo teritorijos ir vandens tiekimo bei nuotekų tvarkymo infrastruktūros plėtros kryptys. ^252831cc9ff2d8ff57501e24
+13. Geriamojo vandens tiekimas – geriamojo vandens tiekėjo ir nuotekų tvarkytojo arba viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo vykdoma ūkinė komercinė veikla, apimanti technines, organizacines ir ekonomines priemones, reikalingas geriamajam vandeniui išgauti, ruošti, pristatyti ir parduoti abonentams ir (arba) vartotojams. ^16a77ea2ec3f1a109eb23272
 
 
-17. Vandens tiekimo sutartis – vandens tiekėjo ir abonento (vartotojo) susitarimas dėl geriamojo vandens pirkimo- pardavimo ir (arba) nuotekų tvarkymo paslaugų teikimo. Juo vandens tiekėjas įsipareigoja, laikydamasis tam tikrų parametrų ir sąlygų, tiekti geriamąjį vandenį, atitinkantį teisės aktų nustatytus reikalavimus, ir (arba) tvarkyti nuotekas, o abonentas (vartotojas) įsipareigoja sumokėti už patiektą vandenį ir (arba) suteiktas nuotekų tvarkymo paslaugas ir laikytis sutartyje nustatytų geriamojo vandens vartojimo ir nuotekų išleidimo sąlygų. ^a93cf10236b80fa2eee69270
+14. Geriamojo vandens tiekimo infrastruktūra – statinių, įrenginių ir komunikacijų kompleksas (vandens išgavimo, ruošimo įrenginiai, siurblinės, vamzdynai, šuliniai, geriamojo vandens ir nuotekų apskaitos prietaisai, jų plombos ir kiti objektai) geriamajam vandeniui išgauti, ruošti, laikyti, tiekti ir geriamojo vandens apskaitai tvarkyti. ^7601eb55b92247326bdf9834
 
 
-18. Vandens tiekimo ir vartojimo riba – geriamojo vandens tiekimo sutartyje nurodyta vandens tiekimo infrastruktūros vieta, kurioje vandens tiekėjas perduoda saugos ir kokybės reikalavimus atitinkantį geriamąjį vandenį abonentui (vartotojui). Jei rašytinė sutartis nesudaryta, vandens tiekimo ir vartojimo riba laikoma vieta, kurioje yra ar turi būti įrengtas vandens apskaitos prietaisas. ^6ce26c451e673e2af2de2c31
+15. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencija (toliau – licencija) – valstybės institucijos išduodamas oficialus dokumentas, kuriuo juridiniam asmeniui suteikiama teisė vykdyti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklą. ^2a86d55b3d1f3788dc2a04b9
 
 
-19. Vartotojas – fizinis asmuo (abonentas), perkantis vandenį ir (arba) nuotekų tvarkymo paslaugas ne verslo, bet savo asmeniniams, šeimos, namų ūkio poreikiams tenkinti. ^8674f0d8722aaf9d064e74d9
+16. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešoji sutartis (toliau – viešoji sutartis) – geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, ir (arba) paviršinių nuotekų tvarkymo sutartis, kurią geriamojo vandens tiekėjas ir nuotekų tvarkytojas arba viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba regioninis viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba garantinis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba paviršinių nuotekų tvarkytojas sudaro su geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų gavėjais. ^52ab93be6c7ea4f1fe9fb7df
 
 
-20. Viešasis vandens tiekėjas – valstybės ar savivaldybės (savivaldybių) kontroliuojama įmonė, turinti šio įstatymo ir kitų teisės aktų nustatyta tvarka įgytą teisę ir pareigą vykdyti viešąjį vandens tiekimą savivaldybės (kelių savivaldybių) viešojo vandens tiekimo teritorijose (viešojo vandens tiekimo regionuose). ^2f9fd6b2eb75691bf786f6e7
+17. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planas (toliau – infrastruktūros plėtros planas) – specialiojo teritorijų planavimo dokumentas, kuriame pagal teritorijų planavimo lygmenį ir uždavinius nustatomos aglomeracijos, viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorijos, geriamojo vandens tiekimo ir nuotekų tvarkymo ir (arba) paviršinių nuotekų tvarkymo infrastruktūros plėtros kryptys, nurodomi šios infrastruktūros plėtros įgyvendinimo etapai (eiga, eiliškumas) ir finansavimo šaltiniai. ^3dd514e0764059060d35861a
 
 
-21. Viešasis vandens tiekimas – geriamojo vandens tiekimas ir (arba) nuotekų tvarkymo paslaugų teikimas pagal viešąją vandens tiekimo sutartį arba, jei rašytinė sutartis nesudaryta, geriamojo vandens tiekimas ir (arba) nuotekų tvarkymo paslaugų teikimas, kai abonento (vartotojo) geriamojo vandens naudojimo įrenginiai, geriamojo vandens tiekimui vykdyti reikalingos komunikacijos ir (arba) nuotekų šalinimo įrenginiai yra prijungti prie geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros, kurią eksploatuoja vandens tiekėjas. Ši sąvoka pagal šioje dalyje nurodytą apibrėžimą yra suprantama tik taikant šio įstatymo ir šio įstatymo lydinamųjų teisės aktų normas. ^0f66c353b1456a93155ddf5f
+18. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinė kaina – penkerių metų reguliavimo laikotarpiui nustatyta geriamojo vandens tiekimo ir (arba) nuotekų (išskyrus paviršines nuotekas) tvarkymo paslaugų kaina, apskaičiuota pagal Valstybinės energetikos reguliavimo tarybos patvirtintą geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodiką, antraisiais, trečiaisiais, ketvirtaisiais ir penktaisiais jos galiojimo metais taikoma perskaičiuojant geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugų kainą. ^9e4357ea7cabbdcfda5a0d42
 
 
-22. Viešoji vandens tiekimo sutartis – vandens tiekimo sutartis, kurią viešasis vandens tiekėjas šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo sudaryti su visais asmenimis dėl geriamojo vandens pirkimo-pardavimo ir (arba) nuotekų tvarkymo paslaugų teikimo. ^b58d97e4e64a4945e7983ff1
+19. Geriamojo vandens tiekimo ir vartojimo riba – geriamojo vandens tiekimo infrastruktūros vieta, kurioje baigiasi abonentui ar vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto riba (vandentiekio šulinys, žemės sklypo riba ar statinio ar daugiabučio namo įvadas, atsižvelgiant į abonentų ir vartotojų kategoriją) ir prasideda geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausanti ar kitaip valdoma ir (arba) naudojama geriamojo vandens tiekimo infrastruktūra ir kurioje geriamojo vandens tiekėjas ir nuotekų tvarkytojas arba viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba regioninis viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba garantinis geriamojo vandens tiekėjas ir nuotekų tvarkytojas perduoda saugos ir kokybės reikalavimus atitinkantį geriamąjį vandenį abonentui ir (arba) vartotojui. ^a511dd208f576ef9cd49ac5a
 
 
-23. Viešojo vandens tiekimo regionai – šio įstatymo nustatyta tvarka išskirtos teritorijos, apimančios daugiau negu vienos savivaldybės teritoriją. Viešojo vandens tiekimo regionų pagrindu organizuojant vandens tiekimo ir nuotekų tvarkymo ūkio valdymą bei administruojant valstybės finansinę paramą viešajam vandens tiekimui, įgyvendinami vandens tiekimo ir nuotekų tvarkymo valstybinio reguliavimo tikslai, nustatyti šio įstatymo [[#3 straipsnis.         Vandens tiekimo ir nuotekų tvarkymo valstybinio valdymo ir reguliavimo tikslai|3 straipsnyje]]. ^0635949958509459da09e2f3
+20. Gyventojų ekvivalentas – sutartinis vienetas taršos nuotekomis šaltinio dydžiui išreikšti. Vienas gyventojų ekvivalentas reiškia taršos šaltinį, kuriame per parą susidarančiose nuotekose esantiems organiniams teršalams biologiškai suskaidyti deguonies poreikis (BDS5) yra 60 gramų. ^6c7c2c513388e6e3c95ad089
 
 
-24. Viešojo vandens tiekimo teritorijos – šio įstatymo nustatyta tvarka išskirtos teritorijos, kuriose savivaldybės privalo organizuoti (užtikrinti) viešąjį vandens tiekimą. ^5727bba683b3d67245f6d36c
+21. Individualiojo nuotekų tvarkymo įrenginiai – inžineriniai įrenginiai nuotekoms individualiai tvarkyti (surinkti, kaupti, valyti). ^3ac306f4919c6ae6d3791888
 
 
-25. Žmonių sveikatai ir (arba) aplinkai pavojingi geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros elementai – vandens tiekimo ir nuotekų tvarkymo infrastruktūros elementai, kurie dėl juose sukauptos energijos ir vykstančių procesų gali būti pavojingi žmonių gyvybei, sveikatai, aplinkai ar turtui ir kuriems reikalinga šio įstatymo ir kitų teisės aktų nustatytos kvalifikacijos specialistų priežiūra. ^2431e8f7946849a912702dd6
+22. Individualus apsirūpinimas geriamuoju vandeniu – geriamojo vandens išgavimas iš požeminio vandens telkinių nuosavybės teise ar kitaip valdomais ir (arba) naudojamais įrenginiais, kai per parą išgaunama mažiau kaip 10 m3 geriamojo vandens arba geriamuoju vandeniu aprūpinama mažiau kaip 50 fizinių asmenų, o išgautas vanduo neparduodamas arba nenaudojamas viešajam geriamojo vandens tiekimui. ^b92c5cd1b3e29d687235733a
+
+
+23. Individualusis nuotekų tvarkymas – buityje, ūkio ar gamybinėje veikloje panaudoto vandens išleidimas į nuosavybės teise ar kitaip valdomus ir (arba) naudojamus nuotekų kaupimo ar valymo įrenginius, nuotekų valymas, išleidimas į aplinką, valant nuotekas susidariusių atliekų (dumblo), sukauptų nuotekų perdavimas geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba nuotekų transportavimo paslaugas teikiančiam asmeniui, arba nuotekų valymo ir (arba) kaupimo įrenginius prižiūrinčiam asmeniui. ^5de2e8bbc91db91da23f5afb
+
+
+24. Nepertraukiamas geriamojo vandens tiekimas ir (arba) nuotekų tvarkymas – nuolatinis geriamojo vandens tiekimas ir (arba) nuotekų (išskyrus paviršines nuotekas) tvarkymas laikantis teisės aktuose numatytų kiekio, slėgio, reguliarumo, saugos ir kokybės reikalavimų, taip pat geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešosios sutarties standartinių sąlygų. ^3cc41eb407dc4ba1e41eed06
+
+
+25. Nuotekos – buityje, ūkio ar gamybinėje veikloje naudotas vanduo, taip pat kritulių ir kitoks (nuo teritorijų dangos ar transporto priemonių plovimo ir panašiai, išskyrus vandenį iš žaliųjų plotų, kuriuose neįrengta vandens surinkimo infrastruktūra, ir žemės ūkio naudmenų) vanduo, kurį asmuo išleidžia į aplinką tam skirtais inžineriniais įrenginiais arba atiduoda tvarkyti. ^b388c3b9d4333bc65031fc71
+
+
+26. Nuotekų apskaitos prietaisai – abonentų ir (arba) vartotojų išleistų nuotekų kiekio matavimo priemonės, kurioms taikomas teisinis metrologinis reglamentavimas ir pagal kurių rodmenis su geriamojo vandens tiekėju ir nuotekų tvarkytoju arba viešuoju geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba regioniniu viešuoju geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba garantiniu geriamojo vandens tiekėju ir nuotekų tvarkytoju, arba paviršinių nuotekų tvarkytoju atsiskaitoma už išleistas nuotekas. ^e915266a7513acfef78e6d5c
+
+
+27. Nuotekų atidavimo riba – nuotekų tvarkymo infrastruktūros vieta, kurioje baigiasi abonentui ar vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto riba (nuotekų priėmimo šulinys, nuotekų siurblinė (esant slėginei nuotekų linijai), individualaus namo nuotekų valykla, žemės sklypo riba ar statinio ar daugiabučio namo nuotekų išvadas, atsižvelgiant į abonentų ir vartotojų kategoriją) ir prasideda geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausanti ar kitaip valdoma arba naudojama nuotekų tvarkymo infrastruktūra ir kurioje abonento ir (arba) vartotojo išleidžiamos nuotekos atiduodamos geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, o pastarajam tenka atsakomybė už jų tvarkymą. ^d487abe3fe2c31739228fe9a
+
+
+28. Nuotekų transportavimo paslaugų teikimas – individualiųjų nuotekų ir (ar) valant nuotekas susidariusių atliekų (dumblo) surinkimas, transportavimas ir išleidimas į geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausančią ar kitaip valdomą ir (arba) naudojamą nuotekų tvarkymo infrastruktūrą. ^7a1d2e298732e48c62006d4e
+
+
+29. Nuotekų tvarkymas – nuotekų surinkimas, laikymas, transportavimas, valymas, apskaita, tyrimas, išleidimas į aplinką ir (arba) valant susidariusių atliekų (dumblo) tvarkymas. ^bfd92f4d5cbf442915420a18
+
+
+30. Nuotekų tvarkymo informacinė sistema – individualiojo nuotekų tvarkymo įrenginių apskaitos ir kontrolės valstybės informacinė sistema. ^0c040f7207103214862f2f30
+
+
+31. Nuotekų tvarkymo infrastruktūra – statinių, įrenginių ir komunikacijų kompleksas, atskiros komplekso dalys, skirtos nuotekoms surinkti, laikyti, transportuoti, valyti, tirti ir jų apskaitai tvarkyti. ^35d90de8b7a48d08211a03ff
+
+
+32. Nuotekų tvarkymo paslaugų teikimas – geriamojo vandens tiekėjo ir nuotekų tvarkytojo arba viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba garantinio geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba paviršinių nuotekų tvarkytojo vykdomas abonentų ir (arba) vartotojų nuotekų tvarkymas pagal geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešąją sutartį arba, jeigu minėta sutartis nesudaryta, nuotekų tvarkymas pagal geriamojo vandens tiekimo ir nuotekų ir (arba) nuotekų tvarkymo viešosios sutarties standartines sąlygas, kai abonentų ar vartotojų nuotekų šalinimo įrenginiai prijungti prie nuotekų tvarkymo infrastruktūros, kurią nuosavybės teise ar kitaip valdo ir (arba) naudoja geriamojo vandens tiekėjas ir nuotekų tvarkytojas arba viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba regioninis viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba garantinis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, arba paviršinių nuotekų tvarkytojas. ^dc19cf0372272a040b451b0e
+
+
+33. Nuotekų valymo ir (arba) kaupimo įrenginiai – įrenginiai, kuriais valomos ir (arba) kuriuose kaupiamos nuotekos. ^3e9494339dd1e7a4397fef05
+
+
+34. Nuotekų valymo kaina už padidėjusią ir savitąją nuotekų taršą – konkretiems abonentams apskaičiuota papildoma kaina už nuotekų valymą, kai abonentų nuotekų teršalų koncentracijos yra didesnės už nustatytas bazines koncentracijas ir (arba) kurių sudėtyje yra savitosios nuotekų taršos komponentų. ^88b19cffaf7097d8aa79a6b4
+
+
+35. Pastatų vidaus vandentiekio sistema – vamzdynas ir kita patalpų naudotojų pastatų viduje esanti geriamojo vandens ruošimo, slėgio pakėlimo įranga ir skirstomoji įranga, kuri įvadu sujungta su vandentiekio skirstomuoju tinklu ir už kurios priežiūrą atsakingi jos savininkai arba jų įgalioti asmenys. ^9a73e0821462b83b1583c003
+
+
+36. Paviršinės nuotekos – ant urbanizuotos teritorijos paviršiaus (išskyrus žaliuosius plotus, kuriuose neįrengta vandens surinkimo infrastruktūra, ir žemės ūkio naudmenas) patenkantis kritulių ir kitoks (nuo teritorijų dangos ir panašiai) vanduo, kurį teritorijos valdytojas (abonentas), naudodamas paviršinių nuotekų tvarkymo sistemas, surenka ir pašalina į aplinką arba išleidžia į kitiems asmenims priklausančias nuotekų tvarkymo sistemas (perduoda paviršinių nuotekų tvarkytojui). ^c5f6901560d4e52901a861d7
+
+
+37. Paviršinių nuotekų atidavimo riba – paviršinių nuotekų tvarkymo infrastruktūros vieta, kurioje baigiasi abonentui nuosavybės teise priklausančio ar jo kitaip valdomo ir (arba) naudojamo nekilnojamojo turto riba (žemės sklypo riba) ir prasideda paviršinių nuotekų tvarkytojui nuosavybės teise priklausanti ar kitaip jo valdoma ir (arba) naudojama paviršinių nuotekų tvarkymo infrastruktūra ir kurioje abonento paviršinės nuotekos atiduodamos paviršinių nuotekų tvarkytojui ir pastarajam tenka atsakomybė už jų tvarkymą. ^ab87f4d25624169329f3133b
+
+
+38. Paviršinių nuotekų tvarkymo paslaugų bazinė kaina – penkerių metų reguliavimo laikotarpiui abonentams nustatyta paviršinių nuotekų tvarkymo paslaugų kaina, apskaičiuota pagal Valstybinės energetikos reguliavimo tarybos patvirtintą paviršinių nuotekų tvarkymo paslaugų kainų nustatymo metodiką, antraisiais, trečiaisiais, ketvirtaisiais ir penktaisiais jos galiojimo metais taikoma perskaičiuojant paviršinių nuotekų tvarkymo paslaugų kainą. ^31cb075767a54c32e1937923
+
+
+39. Paviršinių nuotekų tvarkytojas – savivaldybės valdoma įmonė, šio įstatymo nustatyta tvarka įgijusi teisę ir pareigą tvarkyti paviršines nuotekas savivaldybės teritorijoje. ^1a52f0e9d5b01724e8d74baa
+
+
+40. Pažeidžiamos ir marginalizuotos grupės – grupės žmonių, kurie bėga nuo karinių konfliktų ar persekiojimo arba neturi gyvenamosios vietos (pavyzdžiui, pabėgėliai, benamiai). ^66033a6c3ef2b259b64111b6
+
+
+41. Prioritetinės patalpos – viešajame pastate esančios patalpos, kuriomis naudojasi asmenys, galintys patirti su geriamuoju vandeniu susijusią riziką žmonių sveikatai. ^20afbb13594732c1a2d4f935
+
+
+42. Regioninis viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas (toliau – regioninis viešasis vandens tiekėjas) – savivaldybių tarybų paskirtas viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas, teikiantis paslaugas daugiau kaip vienos savivaldybės viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorijoje. ^bd95da59e78f32a7d1111129
+
+
+43. Reguliavimo apskaitos sistemos patikra – geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba paviršinių nuotekų tvarkytojui auditoriaus, audito įmonės pagal Valstybinės energetikos reguliavimo tarybos geriamojo vandens tiekėjui ir nuotekų tvarkytojui, paviršinių nuotekų tvarkytojui motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada. ^38bb7fa47f4c8634c49b4de4
+
+
+44. Reguliuojamoji veikla – geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo veikla, kuriai taikomos valstybės reguliuojamos kainos ir kuriai (išskyrus paviršinių nuotekų tvarkymą, garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą) reikalinga licencija. ^7d27eadac10e7b961264a240
+
+
+45. Reguliuojamosios veiklos ataskaitos – geriamojo vandens tiekėjo ir nuotekų tvarkytojo arba viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba garantinio geriamojo vandens tiekėjo ir nuotekų tvarkytojo, paviršinių nuotekų tvarkytojo Valstybinei energetikos reguliavimo tarybai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir geriamojo vandens tiekėjo ir nuotekų tvarkytojo, viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, garantinio geriamojo vandens tiekėjo ir nuotekų tvarkytojo, paviršinių nuotekų tvarkytojo veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas. ^edf1dc63d113bf499a7e1e04
+
+
+46. Reguliuojamosios veiklos ataskaitų patikra – geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba paviršinių nuotekų tvarkytojui auditoriaus, audito įmonės kiekvienais metais teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada. ^d13ad93bbdbad0d282542440
+
+
+47. Savitoji nuotekų tarša – teršiančių medžiagų, kurių bazinė koncentracija, vadovaujantis Valstybinės energetikos reguliavimo tarybos patvirtintu nuotekų valymo kainos už padidėjusią ir savitąją taršą skaičiavimo tvarkos aprašu, nebuvo nustatyta ir kurių koncentracija viršija aplinkos ministro tvirtinamame nuotekų tvarkymo reglamente nustatytas ribines koncentracijas medžiagų, kurios išleidžiamos į geriamojo vandens tiekėjo ir nuotekų tvarkytojo arba viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba garantinio geriamojo vandens tiekėjo ir nuotekų tvarkytojo centralizuotąją nuotekų surinkimo sistemą, ir didžiausias leidžiamas koncentracijas medžiagų, išleidžiamų į aplinką, buvimas į geriamojo vandens tiekėjo ir nuotekų tvarkytojo arba viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba regioninio viešojo geriamojo vandens tiekėjo ir nuotekų tvarkytojo, arba garantinio geriamojo vandens tiekėjo ir nuotekų tvarkytojo naudojamą nuotekų tvarkymo infrastruktūrą išleidžiamose nuotekose. ^c9f9ce88389767fdd2e40729
+
+
+48. Taršos šaltinis – teršiantis objektas. ^1b9e62fb338df457a6627781
+
+
+49. Techninė užduotis – Valstybinės energetikos reguliavimo tarybos kiekvienais metais, iki kovo 31 dienos, tvirtinamas ar pratęsiamas galioti dokumentas, o atliekant reguliavimo apskaitos sistemos patikrą šio įstatymo [[#^4ce2541e588beab61b0e9c62|32 straipsnio 11 dalyje]] nustatytais atvejais Valstybinės energetikos reguliavimo tarybos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, tarptautiniai peržiūros užduočių, tarptautiniai susijusių paslaugų standartai ir susiję praktiniai nurodymai arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekama geriamojo vandens tiekėjų ir nuotekų tvarkytojų arba viešųjų geriamojo vandens tiekėjų ir nuotekų tvarkytojų, arba regioninių viešųjų geriamojo vandens tiekėjų ir nuotekų tvarkytojų, arba garantinių geriamojo vandens tiekėjų ir nuotekų tvarkytojų, paviršinių nuotekų tvarkytojų reguliuojamosios veiklos ataskaitų patikra ir (ar) reguliavimo apskaitos sistemos patikra, ir šių patikros paslaugų reikalavimai ir (ar) apimtis. ^c7c00aa42b107dfe5dd5da7d
+
+
+50. Teršėjas – asmuo, išleidžiantis nuotekas į aplinką arba į kito asmens nuotekų tvarkymo infrastruktūrą. ^19e7071f4b1f50cb3de6bc3a
+
+
+51. Teršiančios medžiagos – medžiagos (cheminiai junginiai) ar medžiagų grupės, kurios, patekusios į aplinką, dėl savo savybių gali būti kenksmingos aplinkai ar žmonių sveikatai. ^67fc785ba9e788d1588b1ac9
+
+
+52. Urbanizuotos teritorijos paviršiaus valdytojas – abonentas, nuosavybės teise valdantis ar kitaip naudojantis teritoriją, kurioje susidaro paviršinės nuotekos. ^1e367dbbdd0323a557dcbd89
+
+
+53. Vartotojas – fizinis asmuo, perkantis geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugas asmeninėms, šeimos ar namų ūkio reikmėms ir sudaręs geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešąją sutartį arba, jeigu minėta sutartis nesudaryta, prijungęs nuosavybės teise ar bendrosios dalinės nuosavybės teise priklausančias ar kitaip valdomas ir (arba) naudojamas geriamojo vandens tiekimo ir (ar) nuotekų išleidimo komunikacijas, geriamojo vandens naudojimo ir (arba) nuotekų tvarkymo įrenginius prie geriamojo vandens tiekėjui ir nuotekų tvarkytojui arba viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba regioniniam viešajam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, arba garantiniam geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros. ^dd102bd00e89c05b09135895
+
+
+54. Viešasis geriamojo vandens tiekėjas ir nuotekų tvarkytojas (toliau – viešasis vandens tiekėjas) – valstybės ar savivaldybės valdoma įmonė, vykdanti viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. ^6d853ba9a4edfe8e0a716d74
+
+
+55. Viešasis geriamojo vandens tiekimas ir (arba) nuotekų tvarkymas – geriamojo vandens tiekimas ir (arba) nuotekų tvarkymo paslaugų teikimas viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorijoje ir (arba) viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo regione. ^ad28eb0c8b03e84f6e823e4b
+
+
+56. Viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo regionas (toliau – viešojo geriamojo vandens tiekimo regionas) – Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme nustatytą Lietuvos Respublikos teritorijos aukštesnįjį administracinį vienetą ir jo ribas atitinkanti teritorija, kurioje savivaldybių institucijos privalo organizuoti ir užtikrinti viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. ^6e6b88e92be857b4dfb36bb5
+
+
+57. Viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo teritorija (toliau – viešojo geriamojo vandens tiekimo teritorija) – šio įstatymo nustatyta tvarka išskirta teritorija, kurioje savivaldybės institucijos privalo organizuoti ir užtikrinti viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. ^ae8bc569d6f22fe3ac11f7ab
+
+
+58. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos paslaugų įstatyme, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Teritorijos administracinių vienetų ir jų ribų įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos viešųjų pirkimų įstatyme. ^19bfea8627a469f3950fd8b2
 
 
 
 ### ANTRASIS SKIRSNIS
-VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO REGULIAVIMAS
+GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO REGULIAVIMAS
 
 
 
-### 3 straipsnis.         Vandens tiekimo ir nuotekų tvarkymo valstybinio valdymo ir reguliavimo tikslai
+### 4 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo institucijos
 
 
-Vandens tiekimo ir nuotekų tvarkymo valstybinio valdymo ir reguliavimo tikslai yra šie:
+Geriamojo vandens tiekimą, nuotekų tvarkymą, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimą pagal kompetenciją teisės aktų nustatyta tvarka reguliuoja:
 
 
-1) užtikrinti, kad kuo daugiau asmenų galėtų apsirūpinti visuomenės sveikatos saugos reikalavimus atitinkančiu geriamuoju vandeniu ir pagal aplinkosaugos reikalavimus tvarkyti nuotekas; ^ad7f81f3dafd5b7351c07ca7
+1) Lietuvos Respublikos Vyriausybė; ^8807c05af18847eacafef7dc
 
 
-2) užtikrinti, kad visoje šalies teritorijoje viešasis vandens tiekimas būtų vykdomas laikantis nustatytų reikalavimų; ^d925526da0286f292b7d5f70
+2) Lietuvos Respublikos aplinkos ministerija; ^4aee94a94a2d116457382429
 
 
-3) didinti viešojo vandens tiekimo ūkio efektyvumą užtikrinant nepertraukiamą ir ilgalaikį vandens tiekimą ir nuotekų tvarkymą visoje šalies teritorijoje; ^26eeb4887bcd832b703864f7
+3) Lietuvos Respublikos sveikatos apsaugos ministerija; ^65b7a1190f3d32657ffce553
 
 
-4) sukurti geriamojo vandens tiekimo ir nuotekų tvarkymo kainų reguliavimo sistemą, kuri užtikrintų optimalias kainas abonentams (vartotojams), ir vandens tiekėjų sąnaudų, reikalingų viešajam vandens tiekimui tinkamai vykdyti, padengimą bei principo „teršėjas moka“ įgyvendinimą; ^a2b7cb523c4bbfc17c268173
+4) Valstybinė maisto ir veterinarijos tarnyba; ^504f4f55917dee1ef3637c74
 
 
-5) užtikrinti abonentų (vartotojų) ir vandens tiekėjų teisėtų interesų apsaugą bei ginti vartotojų teises. ^4633abe76e02a3b285d73697
+5) Valstybinė energetikos reguliavimo taryba; ^326e76c6eecc0994bf3f713f
 
 
+6) savivaldybių institucijos; ^0a0fa636c193d70b01836770
 
-### 4 straipsnis. Vandens tiekimo ir nuotekų tvarkymo reguliavimo priemonės
 
+7) Valstybinė vartotojų teisių apsaugos tarnyba. ^bbd55f49e4aca44154843602
 
-Vandens tiekimo ir nuotekų tvarkymo ūkio raidos bei vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo veiklos reguliavimo priemonės yra šios:
 
 
-1) viešojo vandens tiekimo veiklos licencijavimas; ^0317de077f0a62621d6efc70
+### 5 straipsnis. Vyriausybės kompetencija geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
 
-2) viešojo vandens tiekimo reikalavimų nustatymas; ^38ddea298faba4676fa8b6b2
+Vyriausybė tvirtina:
 
 
-3) vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklių nustatymas; ^17bfdd7ae5c6bb64a27858a1
+1) geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencijavimo taisykles; ^2bed05c144d2373744f76d55
 
 
-4) kvalifikacinių reikalavimų vandens tiekimo ir nuotekų tvarkymo infrastruktūrą eksploatuojantiems asmenims nustatymas; ^100059513f8e9b6c26e348da
+2) geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo viešosios sutarties standartinių sąlygų aprašą (toliau – viešosios sutarties standartinių sąlygų aprašas); ^c075b704212c392de7b67065
 
 
-5) valstybės finansinės paramos, skirtos vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai, administravimas, kad būtų įgyvendinami šio įstatymo [[#3 straipsnis.         Vandens tiekimo ir nuotekų tvarkymo valstybinio valdymo ir reguliavimo tikslai|3 straipsnyje]] numatyti vandens tiekimo ir nuotekų tvarkymo valstybinio reguliavimo tikslai; ^d5056eae93e444c96f3a0193
+3) atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos aprašą; ^a87478660fb83d7a89afd319
 
 
-6) tiekiamo geriamojo vandens saugos ir kokybės bei nuotekų tvarkymo kontrolė; ^17ef03943f9f9321dd49cf7e
+4) geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų perėmimo arba išpirkimo tvarkos aprašą. ^337491646c25a020517e7b09
 
 
-7) viešųjų vandens tiekėjų tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kainų valstybinis reguliavimas; ^6aa64b057c25f786cb0cc0cb
 
+### 6 straipsnis. Aplinkos ministerijos kompetencija geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
-8) viešųjų vandens tiekimo sutarčių standartinių sąlygų nustatymas. ^a9dfef4f5de9faf9395c5b96
 
+Aplinkos ministras:
 
 
-### 5 straipsnis. Vandens tiekimo ir nuotekų tvarkymo reguliavimo institucijos
+1) tvirtina teisės aktus, nustatančius nuotekų tvarkymo aplinkosaugos reikalavimus, prižiūri, kaip šie reikalavimai įgyvendinami; ^3112732c6af1104f4304145f
 
 
-Vandens tiekimą ir nuotekų tvarkymą šio ir kitų įstatymų nustatyta tvarka reguliuoja:
+2) tvirtina geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planų rengimo taisykles; ^3f984099a74f333865a0bd58
 
 
-1) Vyriausybė; ^65bbbca4ec706b7d25565708
+3) nustato išgauto geriamojo vandens, išleidžiamų nuotekų ir teršalų apskaitos tvarką; ^c0590a2da255fcd1c9fa4966
 
 
-2) Aplinkos ministerija; ^94e8e51a55ada4e690599c44
+4) tvirtina geriamojo vandens tiekėjų ir nuotekų tvarkytojų veiklos planų rengimo taisykles; ^ff57c4f2c559d719988df776
 
 
-3) Sveikatos apsaugos ministerija; ^1a02cdc04d97f42031bd774b
+5) nustato geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimus; ^6d1ee1356896f4d598f0eadc
 
 
-4) Valstybinė maisto ir veterinarijos tarnyba prie Lietuvos Respublikos Vyriausybės; ^1bf948d35057e92c90e0b7e1
+6) tvirtina geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisykles; ^b5df638dc8b9da5f01a48868
 
 
-5) Valstybinė kainų ir energetikos kontrolės komisija; ^64cd766f73d02febe3fdc0a9
+7) tvirtina nuotekų tvarkymo reglamentą ir paviršinių nuotekų tvarkymo reglamentą; ^a8fae1e1edb63cbbf453a524
 
 
-6) savivaldybių institucijos; ^4e769c97ef6c354c1d9c0ff7
+8) nustato naujų abonentų ir vartotojų prijungimo prie geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros reikalavimus; ^ab8b1a38e382f7f920c3b999
 
 
-7) Nacionalinė vartotojų teisių apsaugos taryba prie Teisingumo ministerijos. ^6e78760d103540b88a26a9bf
+9) tvirtina nuotekų kaupimo rezervuarų ir septikų įrengimo, eksploatavimo ir kontrolės tvarkos aprašą; ^f5db3d23601259aefbeac47d
 
 
+10) koordinuoja kitų valstybės ir savivaldybių institucijų veiklą, kad būtų įgyvendinti šio įstatymo reikalavimai; ^664ab28cb229b712c2d550d8
 
-### 6 straipsnis.         Vyriausybės kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
+11) tvirtina aglomeracijų ribų nustatymo kriterijų sąrašą; ^d8e33d8b88452d5820baea15
 
-Vyriausybė:
 
+12) tvirtina Nuotekų tvarkymo informacinės sistemos nuostatus. ^d261662882e32ddeac05d16d
 
-1) formuoja ir įgyvendina geriamojo vandens tiekimo ir nuotekų tvarkymo valstybinio reguliavimo politiką; ^c84256eda807fcbb7d46aa13
 
 
-2) tvirtina Viešojo vandens tiekimo licencijavimo taisykles; ^1fdd9a7501b5715f86df6cf5
 
+### 7 straipsnis. Sveikatos apsaugos ministerijos kompetencija geriamojo vandens reguliavimo srityje
 
-3) tvirtina viešosios vandens tiekimo sutarties standartines sąlygas; ^8f65c2a1e65245a32e1da410
 
+Sveikatos apsaugos ministras nustato visuomenės sveikatos saugos ir kokybės reikalavimus geriamajam vandeniui.
 
-4) nustato konkursų viešiesiems vandens tiekėjams parinkti organizavimo tvarką; ^0900cd3b6de225423b3cdce7
 
 
-5) nustato viešojo vandens tiekimo regionus; ^e695d50b8836f4bad38f5058
+### 8 straipsnis. Valstybinės maisto ir veterinarijos tarnybos kompetencija geriamojo vandens tiekimo reguliavimo srityje
 
 
-6) nustato atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarką; ^57ff0a147cec007f6f0eb699
+Valstybinė maisto ir veterinarijos tarnyba:
 
 
-7) nustato geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų išpirkimo tvarką; ^9c639a77d87de148d1ce01a3
+1) Geriamojo vandens įstatymo nustatyta tvarka atlieka valstybinę geriamojo vandens saugos ir kokybės kontrolę; ^10e20ec0fa5c89ac04b82594
 
 
-8) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. ^0d03ec6c83301edf2ac1d8b4
+2) nagrinėja abonentų ir vartotojų skundus dėl geriamojo vandens saugos ir kokybės. ^102b851ba0ae25d5e7be26fa
 
 
 
-### 7 straipsnis.         Aplinkos ministerijos kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
+### 9 straipsnis. Valstybinės energetikos reguliavimo tarybos kompetencija ir finansavimo tvarka geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
 
-Aplinkos ministerija:
+1. Valstybinė energetikos reguliavimo taryba: ^baa86a8f845711697153bf87
 
 
-1) vadovaudamasi šiuo ir kitais įstatymais, rengia ir tvirtina teisės aktus, nustatančius geriamojo vandens išgavimo ir nuotekų tvarkymo aplinkosaugos reikalavimus, ir kontroliuoja, kaip šie reikalavimai įgyvendinami; ^6e3cffd341fc8f923c6b6954
+1) tvirtina geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodiką ir prižiūri, kaip ji taikoma; ^851ec814bcaa0dd3d5b7aa0f
 
 
-2) Teritorijų planavimo įstatymo nustatyta tvarka rengia ir tvirtina vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planų rengimo taisykles; ^c401a410e66aca9749eb2fc6
+2) tvirtina paviršinių nuotekų tvarkymo paslaugų kainų nustatymo metodiką ir prižiūri, kaip ji taikoma; ^4cd3c058623c31acad89e8b4
 
 
-3) nustato žmonių sveikatai ir (arba) aplinkai pavojingų geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros elementų sąrašą, kvalifikacinius reikalavimus asmenims, eksploatuojantiems žmonių sveikatai ir (arba) aplinkai pavojingus geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros elementus, bei reikiamą kvalifikaciją liudijančių kvalifikacijos atestatų ir pažymėjimų išdavimo tvarką; ^751bde5751bee19577743533
+3) nustato geriamojo vandens tiekėjų ir nuotekų tvarkytojų, viešųjų vandens tiekėjų ir regioninių viešųjų vandens tiekėjų (toliau kartu – geriamojo vandens tiekėjai) tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kainas ir prižiūri, kaip jos taikomos; ^3c500429e5f1908f49b7c9d0
 
 
-4) nustato viešojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimus; ^4e5b7f577f33a137048cec81
+4) nustato paviršinių nuotekų tvarkymo paslaugų kainas ir prižiūri, kaip jos taikomos; ^f7565a5031b47b2ade261eab
 
 
-5) tvirtina geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisykles; ^009a31b1b1d135d390521c21
+5) nustato garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainas ir prižiūri, kaip jos taikomos; ^fe3da0b2d0faa8481a49ac15
 
 
-6) koordinuoja finansinės paramos iš valstybės biudžeto, Europos Sąjungos paramos fondų ir kitų finansavimo šaltinių skyrimą geriamojo vandens tiekimo ir nuotekų tvarkymo ūkio plėtrai; ^8ae9645e29af428e3d6a23b8
+6) tvirtina geriamojo vandens apskaitos prietaisų ir nuotekų apskaitos prietaisų įsigijimo, įrengimo ir eksploatavimo užmokesčio apskaičiavimo metodiką; ^9f454525f2eaac6fd30e86da
 
 
-7) koordinuoja savivaldybių veiklą, įgyvendindama geriamojo vandens tiekimo ir nuotekų tvarkymo valstybinio reguliavimo tikslus; ^90dd0e807e52a5465df6211c
+7) tvirtina reguliavimo apskaitos sistemos reikalavimų ir (ar) metodo, ir (ar) modelio ir techninių užduočių aprašą; ^0aa7d696a275f6fedb83c013
 
 
-8) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas. ^d6eafafb43b512c0aad5883f
+8) vadovaudamasi Vyriausybės tvirtinamomis geriamojo vandens tiekimo ir nuotekų tvarkymo licencijavimo taisyklėmis, išduoda, keičia licencijas, jas registruoja, įspėja apie galimą licencijos galiojimo panaikinimą, panaikina licencijas, prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų; ^9b7dc24c4958383e06ce87a6
 
 
+9) paskiria garantinius vandens tiekėjus; ^65815f165bdbe73b684fea63
 
-### 8 straipsnis.         Sveikatos apsaugos ministerijos kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
+10) nustato laikino atjungimo nuo (prijungimo prie) geriamojo vandens tiekimo tinklų paslaugų kainų nustatymo metodiką ir prižiūri, kaip ji taikoma; ^8ce186a034ba3e679bfef45a
 
-Sveikatos apsaugos ministerija:
 
+11) nustato sankcijų skyrimo taisykles, skiria sankcijas už šio įstatymo nuostatų pažeidimus; ^299e385dc1c3a1f72f34ed2f
 
-1) nustato visuomenės sveikatos saugos reikalavimus geriamajam vandeniui; ^532caa9cbd457c18fab6ce39
 
+12) tvirtina geriamojo vandens tiekėjų ir nuotekų tvarkytojų technologinio, finansinio ir vadybinio pajėgumų vertinimo tvarkos aprašą; ^a8fe63e26a5a74571dbaca30
 
-2) atlieka Geriamojo vandens įstatymo ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas. ^932246c09e538e6a0565a5ae
 
+13) tvirtina geriamojo vandens tiekimo ir nuotekų tvarkymo, garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo įmonių apskaitos atskyrimo taisykles ir su apskaitos atskyrimu susijusių reikalavimų sąvadą; ^fb35dd5e262425c8278ab311
 
 
-### 9 straipsnis.         Valstybinės maisto ir veterinarijos tarnybos prie Lietuvos Respublikos Vyriausybės kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
+14) tvirtina geriamojo vandens tiekėjo ir nuotekų tvarkytojo informacijos teikimo taisykles; ^aeb28c0ef59c49605d7f03c8
 
 
-Valstybinė maisto ir veterinarijos tarnyba prie Lietuvos Respublikos Vyriausybės:
+15) tvirtina garantinio geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo vykdymo tvarkos ir sąlygų aprašą; ^d0d776cd88edd77774be0d00
 
 
-1) Geriamojo vandens įstatymo nustatyta tvarka atlieka geriamojo vandens saugos ir kokybės kontrolę; ^0a38ed2c1b4a6871bb688b9c
+16) tvirtina nuotekų valymo kainos už padidėjusią ir savitąją taršą skaičiavimo tvarkos aprašą ir prižiūri, kaip jis taikomas; ^b3eed384e7e5234c3a6168f9
 
 
-2) atlieka kitas Geriamojo vandens įstatymo ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas. ^96d2e9ab3361ca07ef3062ca
+17) tvirtina geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų lyginamosios analizės aprašą; ^34da440b7e12ba025fafa781
 
 
+18) kiekvienais metais, iki gruodžio 31 dienos, įvertina, ar nustačius naujas kainas vartotojų kiekvieną mėnesį mokama suma už geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugas neviršys 4 procentų vidutinių mėnesio šeimos pajamų; ^ec52b169ee15ed4d0ff699de
 
-### 10 straipsnis.       Valstybinės kainų ir energetikos kontrolės komisijos kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
+19) vertina geriamojo vandens tiekėjų geriamojo vandens nuostolius, rengia nuostolių ataskaitą, kurią kartą per metus teikia Europos Komisijai; ^deaaf7aad8e583799688e7d6
 
-Valstybinė kainų ir energetikos kontrolės komisija:
 
+20) tikrina geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų veiklą; ^46417b50719e39b213db5468
 
-1) nustato vandens tiekėjų tiekiamo geriamojo vandens, nuotekų tvarkymo paslaugų kainų nustatymo metodiką ir kontroliuoja, kaip ji taikoma; ^533e860836fae8a033e6b270
 
+21) vadovaudamasi skaidrumo, objektyvumo ir nediskriminavimo principais, investicijų efektyvumo, atsipirkimo laikotarpio ir pagrįstumo įvertinimo kriterijais, tvirtina investicijų vertinimo ir derinimo tvarkos aprašą, derina geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų investicijas. ^1e721327f989c74cc46b25f7
 
-2) derina vandens tiekėjų tiekiamo geriamojo vandens, nuotekų tvarkymo paslaugų kainas ir kontroliuoja, kaip jos taikomos; ^5aea24bfffe7eb29a85c608e
 
+22) Neteko galios nuo 2024-10-01 ^0ce7544a8fcdc9b4a945f2c6
+Straipsnio punkto naikinimas:
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+Straipsnio punkto pakeitimai:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
-3) turi teisę savo sprendimu vienašališkai nustatyti vandens tiekėjui geriamojo vandens ir nuotekų tvarkymo paslaugų kainas šio įstatymo [[#^b4daba5458a6e3e2448f6d3d|22 straipsnio 8 dalyje]] nurodytais atvejais, nurodydama sprendimo galiojimo laiką; ^bff106e066d62a32e6830045
 
 
-4) vadovaudamasi Vyriausybės patvirtintomis viešojo vandens tiekimo veiklos licencijavimo taisyklėmis, išduoda viešojo vandens tiekimo licencijas, jas registruoja, sustabdo jų galiojimą ir jas panaikina, taip pat kontroliuoja, kaip viešieji vandens tiekėjai laikosi licencijų sąlygų; ^ce1eabe951f80340ab41ae25
+2. Valstybinės energetikos reguliavimo tarybos veiklos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų ir [[#^d3d8cfdf88b62e7c0bdbe5dd|šio straipsnio 3 dalyje]] numatytos Valstybinės energetikos reguliavimo tarybos pajamos. Valstybinės energetikos reguliavimo tarybos strateginiame veiklos plane numatytos ir vykdomos programos, įgyvendinamos siekiant šio įstatymo [[#1 straipsnis. Įstatymo tikslas|1 straipsnyje]] nustatytų tikslų ir atliekant geriamojo vandens tiekimo ir nuotekų tvarkymo sektoriaus reguliavimą, finansuojamos iš šios tarybos pajamų, gautų [[#^d3d8cfdf88b62e7c0bdbe5dd|šio straipsnio 3 dalyje]] nustatyta tvarka. ^4512b9daee7da55e99b43a45
 
 
-5) nustato kompensacijos viešajam vandens tiekėjui dydį ir jos mokėjimo tvarką, kai abonentas savo iniciatyva nutraukia sutartį, išskyrus atvejus, kai sutartis nutraukiama dėl viešojo vandens tiekėjo kaltės arba sutartį nutraukia vartotojas; ^5609eeda612da329f3b4631f
+3. Valstybinės energetikos reguliavimo tarybos pajamos ir jų naudojimo tvarka: ^d3d8cfdf88b62e7c0bdbe5dd
 
 
-6) nustato naujų abonentų, išskyrus vartotojus, prijungimo prie viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros įmokos apskaičiavimo metodiką; ^fd41f577d1409b24190d6cfa
+1) Valstybinės energetikos reguliavimo tarybos kitų metų pajamas sudaro geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų 0,3 procento praėjusių metų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo veiklos pajamų; ^2760c5ca70f710e097fa7773
 
 
-7) išankstinio ginčų sprendimo ne teisme tvarka nagrinėja vandens tiekėjų ir abonentų ginčus dėl geriamojo vandens ir nuotekų tvarkymo kainų ir tarifų; ^e11735941b649e502dea09bd
+2) [[#^2760c5ca70f710e097fa7773|šios dalies 1 punkte]] nustatyta tvarka apskaičiuotos Valstybinės energetikos reguliavimo tarybos pajamos pripažįstamos geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų pagrįstomis būtinosiomis sąnaudomis, nustatant reguliuojamas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainas arba jų dalį; ^d291bde42299b26f55a03736
 
 
-8) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. ^1c037b326b83cf4570f73583
+3) Valstybinė energetikos reguliavimo taryba iki kiekvienų metų kovo 31 dienos apskaičiuoja [[#^2760c5ca70f710e097fa7773|šios dalies 1 punkte]] nurodytas Valstybinės energetikos reguliavimo tarybos pajamas ir informuoja geriamojo vandens tiekėjus, garantinius vandens tiekėjus ir paviršinių nuotekų tvarkytojus apie jų kiekvieną ketvirtį mokėtiną sumą. Geriamojo vandens tiekėjai, garantiniai vandens tiekėjai, paviršinių nuotekų tvarkytojai Valstybinės energetikos reguliavimo tarybos nurodytą sumą privalo pervesti į Valstybinės energetikos reguliavimo tarybos sąskaitą kiekvieną kalendorinių metų ketvirtį, bet ne vėliau kaip iki kito ketvirčio pirmojo mėnesio paskutinės dienos; ^6fe44b6cffa9feb25c7f4e9f
 
 
+4) jeigu geriamojo vandens tiekėjai, garantiniai vandens tiekėjai, paviršinių nuotekų tvarkytojai laiku nesumoka Valstybinei energetikos reguliavimo tarybai [[#^2760c5ca70f710e097fa7773|šios dalies 1 punkte]] nustatyta tvarka apskaičiuotos sumos, skaičiuojami 0,03 procento dydžio delspinigiai už kiekvieną praleistą mokėjimo termino dieną. Delspinigiai nėra pripažįstami geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų pagrįstomis būtinosiomis sąnaudomis, nustatant reguliuojamas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainas arba jų dalį. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą sumą; ^7c08c20aece6a0859fd402a6
 
-### 11 straipsnis.       Savivaldybių institucijų kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
+5) Valstybinė energetikos reguliavimo taryba gautas pajamas privalo pervesti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka; ^52054d211a037b1143f2166e
 
-Savivaldybių:
 
+6) Valstybinės energetikos reguliavimo tarybos pajamos, gautos pagal šią dalį ir pervestos į valstybės biudžetą, gali būti naudojamos tik šios tarybos strateginiame veiklos plane numatytoms ir vykdomoms programoms finansuoti. ^b2da40323658ed133d4de6d2
 
-1) institucijos organizuoja ir koordinuoja geriamojo vandens išgavimą, tiekimą ir nuotekų tvarkymo paslaugų teikimą savivaldybės teritorijoje; ^06d9d321510e15edfc08cafd
 
 
-2) tarybos vykdo viešajam vandens tiekimui skirtos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros savininkų arba savivaldybės (savivaldybių) kontroliuojamų įmonių, kurioms priklauso ši infrastruktūra, dalyvio teises ir pareigas; ^12de8aedb7e9c5a98d30f8fd
+### 10 straipsnis. Savivaldybių institucijų kompetencija geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
 
-3) tarybos, vadovaudamosi Valstybinės kainų ir energetikos kontrolės komisijos nustatyta geriamojo vandens ir nuotekų tvarkymo paslaugų kainų nustatymo metodika, nustato viešųjų vandens tiekėjų tiekiamo geriamojo vandens ir nuotekų tvarkymo paslaugų kainas; ^df43e80654311f484a9e8640
+1. Savivaldybių tarybos: ^984c493cf22f0a7149bc5efd
 
 
-4) institucijos nustato naujų abonentų, išskyrus vartotojus, prijungimo prie viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros įmoką pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą metodiką; ^d410b1d7eb67ca16f2b9e9ec
+1) tvirtina infrastruktūros plėtros planus; ^9388de196097071063e0b31f
 
 
-5) tarybos tvirtina vandens tiekimo ir nuotekų tvarkymo infrastruktūros savivaldybės teritorijoje plėtros planus; ^003bb1ef86f3554ebf44ee02
+2) tvirtindamos infrastruktūros plėtros planus, sprendimu nustato aglomeracijų ir viešojo geriamojo vandens tiekimo teritorijų ribas; ^eb291f4206ed16b2a79d4550
 
 
-6) institucijos teritorijų planavimo procedūrų metu prižiūri, kad geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektai ir jų apsauginės zonos būtų išdėstyti komunikacijų koridoriuose arba būtų užtikrintos galimybės naudotis servituto teise, kai reikia prižiūrėti, keisti ir kitaip naudoti geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektus; ^5e023854e3881c71b536c2fd
+3) skiria viešuosius vandens tiekėjus, regioninius viešuosius vandens tiekėjus ir jiems paveda viešojo geriamojo vandens tiekimo teritorijose vykdyti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymo paslaugų teikimą; ^09992171ccca480169fe8d40
 
 
-7) tarybos bendruosiuose arba specialiuosiuose teritorijų planavimo dokumentuose tvirtina viešojo vandens tiekimo teritorijų ribas, nepažeisdamos savivaldybės teritorijos ribų; ^993ca74575c2831c10bad7b7
+4) skiria paviršinių nuotekų tvarkytojus ir jiems paveda savivaldybių teritorijose vykdyti paviršinių nuotekų tvarkymą; ^5da06a03e62f7bb6b5b9454c
 
 
-8) institucijos tvirtina viešojo vandens tiekėjo veiklos savivaldybės teritorijoje sutartis; ^e4e1e7fadbfb96f438fab7ba
+5) iki 2027 m. gruodžio 31 d. vykdo viešajam geriamojo vandens tiekimui ir nuotekų tvarkymui skirtos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros savininko teises ir pareigas. ^b154f473ebe4972331a27610
 
 
-9) institucijos atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. ^27b51e30f55ccb1bc302aba3
+2. Savivaldybės vykdomoji institucija: ^cb7d8929a7fbd71b8f74b579
 
 
+1) tvirtina geriamojo vandens tiekėjų arba paviršinių nuotekų tvarkytojo veiklos planus, kai nesudaroma įmonių valdyba; ^4ef55deeaa4e1e9fe34176eb
 
-### 12 straipsnis.       Nacionalinės vartotojų teisių apsaugos tarybos prie Teisingumo ministerijos kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
+2) organizuoja viešųjų vandens tiekėjų, regioninių viešųjų vandens tiekėjų, paviršinių nuotekų tvarkytojų veiklos ir infrastruktūros plėtros planų rengimą ir jų sprendinių įgyvendinimą; ^a861ab8b1e12743928696dbb
 
-Nacionalinė vartotojų teisių apsaugos taryba prie Teisingumo ministerijos:
 
+3) koordinuoja ir prižiūri geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų teikimą savivaldybės teritorijoje; ^2430dc49bf108f958b742e81
 
-1) išankstinio ginčų sprendimo ne teisme tvarka nagrinėja vartotojų skundus dėl geriamojo vandens pirkimo-pardavimo ir nuotekų tvarkymo paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo, vandens apskaitos, vandentiekio avarijų, vandens tiekimo nutraukimo, sustabdymo ar ribojimo ir sąskaitų pateikimo; ^64ab27654272e3695439a1c6
 
+4) užtikrina viešojo geriamojo vandens tiekimo teritorijoje esančių požeminio vandens vandenviečių apsaugos zonų nustatymo organizavimą; ^44e36d18a058a186ade2062d
 
-2) pagal kompetenciją dalyvauja derinant įstatymų ir kitų teisės aktų projektus bei viešosios vandens tiekimo sutarties standartines sąlygas. ^3bdaad3e4f2594cf056192fd
+
+5) teritorijų planavimo procedūrų metu organizuoja priežiūrą, kad geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektai ir jų apsaugos zonos būtų išdėstyti komunikacijų koridoriuose arba būtų užtikrintos galimybės naudotis servituto teise, kai reikia prižiūrėti, keisti ir kitaip naudoti geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektus; ^4eaa38766e45b772c26904ff
+
+
+6) Nuotekų tvarkymo informacinėje sistemoje organizuoja informacijos teikimą apie šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų įgyvendinimą; ^8b4a665164a31980cf33681d
+
+
+7) infrastruktūros plėtros planavimo procedūrų metu organizuoja šio įstatymo [[#^8f9c9105ec4b561370c34e43|12 straipsnio 3 dalyje]] nustatytų reikalavimų įgyvendinimą; ^758967958768c5425393d6dd
+
+
+8) siekdama užtikrinti individualiųjų nuotekų tvarkymo priežiūrą, aplinkos ministro nustatyta tvarka Nuotekų tvarkymo informacinėje sistemoje organizuoja duomenų apie išduotus statybą leidžiančius dokumentus, kuriais leidžiama įrengti individualius nuotekų valymo ar kaupimo įrenginius, teikimą; ^2c298c9a9bc6ee684ecd66fd
+
+
+9) organizuoja patikrą, ar asmenys, individualiai tvarkantys nuotekas, turi apmokėjimą už sukauptų nuotekų transportavimą patvirtinančius dokumentus arba viešąją sutartį su geriamojo vandens tiekėju ar garantiniu vandens tiekėju, arba sutartį su nuotekų transportavimo paslaugas teikiančiu asmeniu arba individualiųjų nuotekų valymo ir (arba) kaupimo įrenginių priežiūrą vykdančiu asmeniu, ar individualiųjų nuotekų valymo įrenginių priežiūra (eksploatacija) vykdoma aplinkos ministro tvirtinamų nuotekų kaupimo rezervuarų ir septikų įrengimo, eksploatavimo ir kontrolės tvarkos apraše ir nuotekų valymo įrenginių taikymo reglamente nustatyta tvarka; ^3755c3f55999ce06f6848408
+
+
+10) kas 10 metų organizuoja vertinimą, ar infrastruktūros plėtros planuose nustatytos aglomeracijų ribos ir viešosios geriamojo vandens tiekimo teritorijos atitinka realią situaciją, prireikus inicijuoja šių planų keitimą; ^6a72ed6c8a78dc72527ac3bf
+
+
+11) organizuoja savivaldybės teritorijoje nuotekų valymo ir (arba) kaupimo įrenginių inventorizaciją ir duomenų teikimą Nuotekų tvarkymo informacinėje sistemoje aplinkos ministro nustatyta tvarka; ^7e28891f786a3ab1f5b3968f
+
+
+12) siekdama pagerinti prieigą prie geriamojo vandens, organizuoja, kad miestų ir miestelių viešosiose erdvėse ir viešuosiuose pastatuose būtų sudarytos galimybės gauti geriamojo vandens, ir organizuoja reikalingų įrenginių įrengimą, eksploataciją ir eksploatacinių išlaidų padengimą. Viešosiose erdvėse, kur techniškai įmanoma, organizuoja stacionarių geriamojo vandens lauko gertuvių įrengimą; ^725a77f5d9048790f3f3f67b
+
+
+13) organizuoja, kad gyventojai, apsirūpinantys geriamuoju vandeniu individualiai, laiku būtų informuoti apie galimą pavojų žmonių sveikatai dėl naudojamo geriamojo vandens saugos, nurodant konkrečius veiksmus, kurių galima imtis siekiant apsaugoti sveikatą nuo neigiamo poveikio, ir pateikia rekomendacijas tuo atveju, kai aišku, kad dėl tokio geriamojo vandens kokybės gali kilti potencialus pavojus žmonių sveikatai; ^7d218bfacd8b05d2f224e33b
+
+
+14) organizuoja pažeidžiamoms ir marginalizuotoms grupėms prieigą prie geriamojo vandens, informuoja apie galimybę prisijungti prie geriamojo vandens tiekimo infrastruktūros arba organizuoja apsirūpinimą geriamuoju vandeniu iš alternatyvaus šaltinio (autocisternos, vandens kolonėlės). ^e343318e4d6cfa9ad6d2166b
+
+
+
+### 11 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
+
+
+Valstybinė vartotojų teisių apsaugos tarnyba:
+
+
+1) Lietuvos Respublikos vartotojų teisių apsaugos įstatymo nustatyta tvarka nagrinėja vartotojų skundus dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo sutarčių nesąžiningų sąlygų taikymo, geriamojo vandens ir nuotekų apskaitos, vandentiekio avarijų, geriamojo vandens tiekimo nutraukimo, sustabdymo ar ribojimo ir sąskaitų pateikimo; ^5d283f267ab27043501443ba
+
+
+2) dalyvauja derinant viešosios sutarties standartines sąlygas; ^c729fcfadf7e02f8b09bcdea
+
+
+3) atlieka kitas teisės aktuose nustatytas funkcijas ginant vartotojų teises geriamojo vandens tiekimo ir nuotekų tvarkymo srityje. ^bea210528f29e516cc0a1d40
 
 
 
 ### TREČIASIS SKIRSNIS
-VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
+GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO PLANAVIMAS IR ORGANIZAVIMAS
 
 
 
-### 13 straipsnis. Viešojo vandens tiekimo teritorijos
+### 12 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo planavimas
 
 
-Viešojo vandens tiekimo teritorijos nustatomos šio įstatymo [[#14 straipsnis. Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planai|14 straipsnio]] nustatyta tvarka rengiamuose vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planuose. Šias teritorijas sudaro gyvenamosios vietovės, jų dalys ir pavieniai gyvenamieji namai bei kiti pastatai siekiant, kad ne mažiau kaip 95 procentai kiekvienos savivaldybės gyventojų būtų aprūpinami viešojo vandens tiekėjo tiekiamu vandeniu ir teikiamomis nuotekų tvarkymo paslaugomis. Į viešojo vandens tiekimo teritorijas įtraukiamos šios gyvenamosios vietovės, jų dalys ir pavieniai gyvenamieji namai bei kiti pastatai:
+1. Savivaldybių institucijos planuoja geriamojo vandens tiekimą ir nuotekų tvarkymą, geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrą savo teritorijose ir viešojo geriamojo vandens tiekimo teritorijose rengdamos infrastruktūros plėtros planus ir juose nustatydamos aglomeracijas ir viešojo geriamojo vandens tiekimo teritorijas, geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros kryptis, nurodydamos šios infrastruktūros plėtros įgyvendinimo etapus (eigą, eiliškumą) ir finansavimą. Paviršinių nuotekų tvarkymo infrastruktūros plėtra planuojama ir numatoma geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planuose arba rengiant kitą teritorijų planavimo dokumentą. ^c6a9b2f48ccf593907a5c38b
 
 
-1) kuriuose geriamuoju vandeniu aprūpinama ne mažiau kaip 50 asmenų; ^54316995d70008bcc9a52d02
+2. Savivaldybių institucijos turi siekti, kad pagal infrastruktūros plėtros planus visi savivaldybės gyventojai gautų saugos ir kokybės reikalavimus atitinkantį geriamąjį vandenį ir nuotekų tvarkymo paslaugas arba turėtų galimybę individualiai apsirūpinti geriamuoju vandeniu ir (arba) individualiai tvarkyti nuotekas. Aglomeracijose turi būti planuojamos centralizuotosios geriamojo vandens tiekimo ir centralizuotosios nuotekų surinkimo sistemos, išskyrus [[#^8f9c9105ec4b561370c34e43|šio straipsnio 3 dalyje]] nurodytus atvejus. ^92ab47ece2e338c96350fe14
 
 
-2) kuriuose yra valstybei, savivaldybei arba savivaldybės (savivaldybių) kontroliuojamai įmonei priklausanti naudojimui tinkama geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra; ^f28e5e6d51c6f4f2fbd82ee9
+3. Kai aglomeracijoje centralizuotųjų nuotekų surinkimo sistemų įrengimas neduos naudos aplinkai arba kai centralizuotųjų geriamojo vandens tiekimo sistemų ir (arba) centralizuotųjų nuotekų surinkimo sistemų įrengimo nepateisina argumentuotai pagrįsta didelė tokios sistemos įrengimo kaina ir kai tai ekonomiškai pagrįsta infrastruktūros plėtros plane, parengtame vadovaujantis aplinkos ministro tvirtinamų geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planų rengimo taisyklių nuostatomis, tokiose infrastruktūros plėtros plane išskirtose teritorijose turi būti numatytas individualus apsirūpinimas geriamuoju vandeniu ir (arba) nuotekų tvarkymas nuotekų valymo ar kaupimo įrenginiais, kurie leidžia užtikrinti nuotekų išvalymą iki toje aglomeracijoje, viešojo vandens tiekėjo taršos leidime arba taršos integruotos prevencijos ir kontrolės leidime nustatytų keliamų reikalavimų. ^8f9c9105ec4b561370c34e43
 
 
-3) kuriuose gyvenantys gyventojai dėl vandens išteklių trūkumo, aplinkosaugos reikalavimų, ekonominių ar kitų priežasčių neturi galimybės būti aprūpinami arba negali apsirūpinti tinkamos kokybės geriamuoju vandeniu kitais būdais, išskyrus viešąjį vandens tiekimą. ^05500b09d1295512526247d9
+4. Infrastruktūros plėtros planai rengiami, koreguojami, keičiami, derinami, tikrinami ir tvirtinami vadovaujantis Teritorijų planavimo įstatymu, šiuo įstatymu ir aplinkos ministro tvirtinamomis geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planų rengimo taisyklėmis. ^89a7d0e4dbfbe2c9c93fde20
 
 
+5. Į savivaldybės viešojo geriamojo vandens tiekimo teritoriją įtraukiama savivaldybės teritorija, atitinkanti nors vieną iš šių kriterijų: ^70e4523adf72ba2ec33eab29
 
-### 14 straipsnis. Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planai
 
+1) geriamuoju vandeniu apsirūpinama ir (arba) nuotekų tvarkymo paslaugos teikiamos ne mažiau kaip 50 asmenų, deklaravusių gyvenamąją vietą toje gyvenamojoje vietovėje; ^5af028ff6ce4f6e6adee5e12
 
-1. Savivaldybės teritorijoje geriamojo vandens tiekimo ir nuotekų tvarkymo ūkio plėtra vykdoma vadovaujantis vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planu. Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planus rengia savivaldybės, vadovaudamosi Teritorijų planavimo įstatymu ir aplinkos ministro nustatytomis vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planų rengimo taisyklėmis. ^2b387fdd4bac1638ef4e6a33
 
+2) yra savivaldybei arba savivaldybės valdomai įmonei priklausanti naudoti tinkama geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra; ^52712274ece7f4aadc9d01bf
 
-2. Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plane numatomos vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros kryptys, užtikrinančios gyventojų ir kitų asmenų aprūpinimą saugiu visuomenės sveikatai geriamuoju vandeniu ir šio įstatymo [[#^4e5b7f577f33a137048cec81|7 straipsnio 4 punkte]] nustatytus reikalavimus atitinkančiomis vandens tiekimo bei nuotekų tvarkymo paslaugomis. ^cf0ad3ed03a81edea360f5e3
 
+3) teritorijų planavimo dokumentuose nustatytos urbanizuotos ir (arba) urbanizuojamos teritorijos. ^de3eb9b0cc0d163ce3cd0fa9
 
-3. Vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planas peržiūrimas ir tikslinamas Teritorijų planavimo įstatymo nustatyta tvarka. ^6c7f5f398f9389e4d78a061b
 
 
+### 13 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo organizavimas
 
-### 15 straipsnis. Viešasis vandens tiekimas
 
+1. Geriamojo vandens išgavimą, tiekimą, nuotekų, paviršinių nuotekų tvarkymą savivaldybės teritorijoje ir viešojo geriamojo vandens tiekimo regione organizuoja savivaldybių vykdomosios institucijos. ^39843c3b2b7e33374d2c161a
 
-1. Savivaldybės teritorijoje viešąjį vandens tiekimą vykdo viešieji vandens tiekėjai. ^3a9c5b7e10ce8c1f027865b3
 
+2. Savivaldybės viešojo geriamojo vandens tiekimo teritorijoje, nustatytoje pagal šio įstatymo [[#12 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo planavimas|12 straipsnio]] nuostatas, viešąjį geriamojo vandens tiekimą ir (arba) nuotekų (išskyrus paviršines nuotekas) tvarkymą vykdo viešasis vandens tiekėjas arba regioninis viešasis vandens tiekėjas.  Savivaldybės viešojo geriamojo vandens tiekimo teritorijoje geriamojo vandens tiekėjas ir nuotekų tvarkytojas gali tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas [[#^70513cdfb35102403cd177d6|šio straipsnio 4 dalyje]] numatytais atvejais. ^eb6696bc3b98f9b009b66eec
 
-2. Viešasis vandens tiekėjas turi išimtinę teisę ir pareigą tiekti geriamąjį vandenį ir teikti nuotekų tvarkymo paslaugas visose savivaldybės viešojo vandens tiekimo teritorijose, išskyrus tas teritorijas ar jų dalis, kuriose vanduo tiekiamas ir nuotekų tvarkymas galimi pagal šio straipsnio 6 ir [[#^d9848686f9c6dc9cbedc3032|7 dalis]]. Viešasis vandens tiekėjas negali užsiimti jokia kita veikla, nesusijusia su geriamojo vandens tiekimu ir nuotekų tvarkymu, bei veikla, nenumatyta viešojo vandens tiekimo licencijoje. ^4fada250df51aab25a933b1a
 
+3. Savivaldybės teritorijoje paviršines nuotekas tvarko savivaldybės tarybos sprendimu paskirtas viešasis vandens tiekėjas arba kita savivaldybės valdoma įmonė. Paviršinės nuotekos tvarkomos vadovaujantis aplinkos ministro tvirtinamu paviršinių nuotekų tvarkymo reglamentu. Paviršinių nuotekų tvarkytojai turi atitikti šiuos reikalavimus: ^072a14cbad8be73a3aa6d268
 
-3. Vandens tiekėjas turi teisę šio įstatymo nustatyta tvarka tapti viešuoju vandens tiekėju keliose savivaldybėse, esančiose viename regione, kuris nustatytas pagal šio įstatymo [[#^8713b9c44239fe54dadbec56|16 straipsnio 3 dalį]]. Vienoje ar keliose savivaldybėse veikiantis viešasis vandens tiekėjas taip pat turi teisę šio įstatymo nustatyta tvarka tiekti geriamąjį vandenį ir teikti nuotekų tvarkymo paslaugas ir kitų savivaldybių teritorijose, kuriose jis nėra viešasis vandens tiekėjas. Vandens tiekėjas, būdamas viešuoju vandens tiekėju bent vienoje savivaldybėje, geriamąjį vandenį tiekia ir (arba) nuotekų tvarkymo paslaugas teikia vienodomis sąlygomis visiems tos pačios kategorijos abonentams (vartotojams), nepaisant to, kokios savivaldybės teritorijoje ir (ar) viešojo vandens tiekimo teritorijoje jie yra. ^0921af2e49ba9876e91d0c6d
 
+1) turėti galiojantį taršos leidimą arba taršos integruotos prevencijos ir kontrolės leidimą į aplinką išleisti paviršines nuotekas; ^0db03005962e43b9c8477c10
 
-4. Viešojo vandens tiekėjo vykdomas geriamojo vandens tiekimas ir nuotekų tvarkymo paslaugų teikimas turi atitikti šio įstatymo [[#^4e5b7f577f33a137048cec81|7 straipsnio 4 punkte]] nustatytus viešojo vandens tiekimo reikalavimus. ^0d383f58042f0b95aca2c65e
 
+2) nuosavybės teise ar kitaip teisėtai valdyti ir (arba) naudoti paviršinėms nuotekoms tvarkyti reikalingą infrastruktūrą savivaldybės teritorijoje, kurioje planuoja teikti paviršinių nuotekų tvarkymo paslaugas. ^ff538bc2400b1a6e793ee571
 
-5. Viešojo vandens tiekimo teritorijoms nepriskirtose teritorijose ir viešasis vandens tiekėjas, ir kiti vandens tiekėjai turi vienodas teises. Šiose teritorijose veikiančių viešųjų vandens tiekėjų ir kitų vandens tiekėjų sudaromos su abonentais (vartotojais) sutartys turi būti parengtos pagal Vyriausybės patvirtintas viešosios vandens tiekimo sutarties standartines sąlygas. ^2a6f1f76ba9a49ceb7bdbd30
 
+4. Savivaldybės viešojo geriamojo vandens tiekimo teritorijoje geriamojo vandens tiekėjas ir nuotekų tvarkytojas gali tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas, jeigu jis tiekė geriamąjį vandenį ir (arba) teikė nuotekų tvarkymo (išskyrus paviršines nuotekas) paslaugas iki viešojo geriamojo vandens tiekimo teritorijos nustatymo dienos, jo tiekiamas geriamasis vanduo ir (arba) teikiamos nuotekų tvarkymo paslaugos atitinka teisės aktų, reguliuojančių nuotekų tvarkymo ir geriamojo vandens saugą, reikalavimus ir jis turi galiojančią licenciją. ^70513cdfb35102403cd177d6
 
-6. Viešojo vandens tiekimo teritorijose kitas (ne viešasis) vandens tiekėjas gali tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas, tik jeigu: ^7c846bab286a8428d2b62879
 
+5. Viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ar šio įstatymo [[#^84a8a87643ab1abcd0b2ac51|15 straipsnio 2 dalyje]] nurodytu atveju paskirtas garantinis vandens tiekėjas turi tiekti geriamąjį vandenį, teikti nuotekų tvarkymo paslaugas savivaldybės viešojo geriamojo vandens tiekimo teritorijoje, išskyrus savivaldybės teritorijų dalis, kuriose pagal [[#^70513cdfb35102403cd177d6|šio straipsnio 4 dalį]] geriamąjį vandenį tiekia ir (arba) nuotekų tvarkymo (išskyrus paviršines nuotekas) paslaugas teikia geriamojo vandens tiekėjas ir nuotekų tvarkytojas ir (arba) kuriose pagal šio įstatymo [[#^a0362a529a06d7ed9c525136|23 straipsnio 1 dalies]] 2 ir 3 punktus numatytas teisės aktų reikalavimus atitinkantis individualusis apsirūpinimas geriamuoju vandeniu ir (ar) individualusis nuotekų tvarkymas. ^f496b29863075432d1b8028d
 
-1) jis tiekė geriamąjį vandenį ir (arba) teikė nuotekų tvarkymo paslaugas iki viešojo vandens tiekimo teritorijos nustatymo ir jo tiekiamas geriamasis vanduo bei jo teikiamos nuotekų tvarkymo paslaugos atitinka teisės aktų nustatytus reikalavimus arba ^abcd4ec977bed71e8159c2ef
 
+6. Savivaldybių tarybos, kurioms priklauso garantinis vandens tiekėjas ir viešasis vandens tiekėjas, kurio licencijos galiojimas sustabdytas, vadovaudamosi šio įstatymo [[#^5aa55783245d56f4844a423a|15 straipsnio 17 dalyje]] nustatyta tvarka, privalo inicijuoti jų valdomų viešųjų vandens tiekėjų reorganizavimą skaidymo ir (arba) jungimo būdu, kai viešajam vandens tiekėjui jo veiklos teritorijoje panaikinamas licencijos galiojimas. ^c6a3d5b8a3163c7fd029ee8a
 
-2) esant patvirtintiems vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planams viešasis vandens tiekėjas per vienus metus (jeigu sutartyje nenustatyta kitaip) nuo preliminarios sutarties sudarymo su nauju abonentu (vartotoju) dienos arba per preliminarioje sutartyje šalių suderintą terminą nepradeda abonentui (vartotojui) tiekti geriamojo vandens ir (arba) teikti nuotekų tvarkymo paslaugų. ^57243c74c07b391674a2ba27
 
+7. Geriamojo vandens tiekimą ir nuotekų tvarkymą savivaldybės teritorijoje, nepriskirtoje viešojo geriamojo vandens tiekimo teritorijai, gali vykdyti viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ir geriamojo vandens tiekėjas ir nuotekų tvarkytojas, šio įstatymo nustatyta tvarka įgijęs teisę tiekti geriamąjį vandenį ir teikti nuotekų tvarkymo paslaugas. Viešojo geriamojo vandens tiekimo teritorijai nepriskirtoje teritorijoje viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ir geriamojo vandens tiekėjas ir nuotekų tvarkytojas turi vienodas teises ir pareigas. Šioje teritorijoje veikiančio viešojo vandens tiekėjo ir regioninio viešojo vandens tiekėjo, geriamojo vandens tiekėjo ir nuotekų tvarkytojo sutartys su abonentais ir vartotojais turi būti sudarytos pagal Vyriausybės tvirtinamą viešosios sutarties standartinių sąlygų aprašą. ^5639e7cecef2eba0a78d3273
 
-7. Viešojo vandens tiekimo teritorijoje individualus vandens išgavimas ir (arba) individualus nuotekų šalinimas galimas, jeigu individualus vandens išgavimas ir (arba) individualus nuotekų šalinimas yra numatytas vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros plane ir jeigu jis buvo taikomas iki viešojo vandens tiekimo teritorijos nustatymo ir šis individualus vandens išgavimas ir (arba) individualus nuotekų šalinimas atitinka šio įstatymo ir kitų teisės aktų nustatytus geriamojo vandens ir nuotekų tvarkymo reikalavimus. ^d9848686f9c6dc9cbedc3032
 
 
-8. Viešasis vandens tiekėjas privalo: ^4e5e68100640cc6b16339579
+### 14 straipsnis. Viešųjų vandens tiekėjų paskyrimas
 
 
-1) teikti informaciją abonentams (vartotojams) šio įstatymo [[#25 straipsnis.       Visuomenės informavimas apie tiekiamą geriamąjį vandenį ir nuotekų tvarkymo paslaugas|25 straipsnyje]] nustatyta tvarka; ^22d6f4ceb321172dccd003f9
+1. Savivaldybės taryba paskiria viešąjį vandens tiekėją savivaldybės viešojo geriamojo vandens tiekimo teritorijoje ir jam paveda vykdyti viešąjį geriamojo vandens tiekimą ir nuotekų tvarkymą arba su kita (-omis) viename viešojo geriamojo vandens tiekimo regione esančios (-ių) savivaldybės (-ių) taryba (-omis) savivaldybės valdomas geriamojo vandens tiekimo ir nuotekų tvarkymo įmones reorganizuoja jungimo būdu į regioninį viešąjį vandens tiekėją ir jam paveda šių savivaldybių viešojo geriamojo vandens tiekimo teritorijose vykdyti tik viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą. Šioje dalyje nurodytos geriamojo vandens tiekimą ir (ar) nuotekų tvarkymą vykdančios įmonės gali būti jungiamos tik su kitomis geriamojo vandens tiekimą ir (ar) nuotekų tvarkymą vykdančiomis įmonėmis. ^f63338a474ac70bae0664ac3
+Straipsnio dalies pakeitimai:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 
-2) išgauti, saugoti, apdoroti ir tiekti geriamąjį vandenį, kurio visuomenės sveikatos saugos, kokybės ir kiti parametrai atitinka teisės aktų reikalavimus; ^2ad16960979bd0175e5b2467
 
+11. [[#^f63338a474ac70bae0664ac3|Šio straipsnio 1 dalyje]] nustatyta tvarka paskirtas viešasis vandens tiekėjas perduoda regioniniam viešajam vandens tiekėjui tik geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo funkcijas, kai viešojo vandens tiekėjo licencijos galiojimas panaikinamas arba viešasis vandens tiekėjas reorganizuojamas, vadovaujantis šio įstatymo [[#^f63338a474ac70bae0664ac3|14 straipsnio 1 dalimi]]. ^fcb3f84c2a3891e6e63dbc8e
+Papildyta straipsnio dalimi:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
-3) užtikrinti geriamojo vandens kokybę, nepertraukiamą tiekimą ir kitus vandens tiekimo reikalavimus; ^9ac75c05bd11860faeb37034
 
 
-4) nustatyta tvarka eksploatuoti ir prižiūrėti nuosavybės teise ar kitais teisėtais pagrindais valdomą vandens tiekimo ir nuotekų tvarkymo infrastruktūrą bei kitą valdomą turtą. ^629a820d4dc2cdd2a967107c
+2. Savivaldybės taryba savo sprendimu paskiria viešuoju vandens tiekėju juridinį asmenį, tiekiantį geriamąjį vandenį ir (arba) teikiantį nuotekų tvarkymo paslaugas ir turintį galiojančią licenciją. ^3d8982ef75a8588b42ad3d92
 
 
+3. Kai viešajam vandens tiekėjui dėl šio įstatymo 29 ir [[#30 straipsnis. Licencijų galiojimo panaikinimas|30 straipsniuose]] nurodytų priežasčių panaikinamas licencijos galiojimas ir jis negali vykdyti viešojo geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, viešąjį geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą vykdo šio įstatymo [[#15 straipsnis. Garantinis geriamojo vandens tiekimas ir nuotekų tvarkymas|15 straipsnyje]] nustatyta tvarka paskirtas garantinis vandens tiekėjas. ^63aa4ac580e601c829ac74d4
 
-### 16 straipsnis. Viešojo vandens tiekimo organizavimas
 
 
-1. Viešajam vandens tiekimui vykdyti savivaldybė, vadovaudamasi konkursų viešųjų vandens tiekėjų parinkimui organizavimo tvarka, parenka viešąjį vandens tiekėją arba kartu su kitomis savivaldybėmis kontroliuojamas vandens tiekėjų įmones sujungia reorganizavimo būdu į regioninį tiekėją (viešąjį vandens tiekėją, veiksiantį kelių savivaldybių viešojo vandens tiekimo teritorijose), kurio akcijos (dalys) pagal reorganizavimo sąlygas priklausys savivaldybėms ir kitiems asmenims, dalyvaujantiems reorganizavime, jei tam pritaria visų savivaldybių, esančių tame regione, tarybos. ^f0469a64768bcecb6045c536
+### 141 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo įmonių reorganizavimas
 
 
-2. Konkurso dalyviai turi atitikti viešojo vandens tiekimo licencijos gavimo reikalavimus. Konkurso laimėtojas viešojo vandens tiekimo veiklą gali pradėti šio įstatymo [[#19 straipsnis. Viešojo vandens tiekimo licencijavimas|19 straipsnyje]] nustatyta tvarka gavęs viešojo vandens tiekimo licenciją. ^5fc225ed43a120be1db71b2a
+Viešieji vandens tiekėjai reorganizuojami jungimo būdu. Viešieji vandens tiekėjai gali būti reorganizuojami tik jungimo su kitais viešaisiais vandens tiekėjais būdu.
 
 
-3. Vyriausybė, siekdama įgyvendinti geriamojo vandens tiekimo ir nuotekų tvarkymo valstybinio valdymo ir reguliavimo tikslus, aplinkos ministro teikimu tvirtina Lietuvos Respublikos teritorijos suskirstymą į viešojo vandens tiekimo regionus. Į viešojo vandens tiekimo regioną gali įeiti kelių arba keliolikos savivaldybių teritorijos, tačiau regiono riba negali kirsti savivaldybių teritorijų. ^8713b9c44239fe54dadbec56
+Papildyta straipsniu:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 
-4. Viename viešojo vandens tiekimo regione esančios savivaldybės turi siekti, kad viešojo vandens tiekimo regione šio įstatymo ir kitų teisės aktų nustatyta tvarka būtų parinktas regioninis vandens tiekėjas. ^3bcec86649c9b53e90d97f35
 
+### 15 straipsnis. Garantinis geriamojo vandens tiekimas ir nuotekų tvarkymas
 
 
-### 17 straipsnis. Parama vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai
+1. Garantinis geriamojo vandens tiekimas ir nuotekų (išskyrus paviršines nuotekas) tvarkymas vykdomas siekiant užtikrinti saugų ir patikimą vartotojų ir abonentų aprūpinimą geriamuoju vandeniu ir suteikti nuotekų tvarkymo paslaugas. ^107b70b9f5f4d7a50eee9900
 
 
-1. Viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai, atitinkančiai šio įstatymo [[#3 straipsnis.         Vandens tiekimo ir nuotekų tvarkymo valstybinio valdymo ir reguliavimo tikslai|3 straipsnyje]] nustatytus geriamojo vandens tiekimo ir nuotekų tvarkymo valstybinio reguliavimo tikslus, gali būti skiriama valstybės finansinė parama. Skiriant finansinę paramą geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai, pirmiausia turi būti užtikrinama, kad visoje šalies teritorijoje viešasis vandens tiekimas būtų vykdomas laikantis nustatytų reikalavimų. ^b79cef82987a8381ed9370fa
+2. Garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą savivaldybės teritorijoje vykdo [[#^703d10ec65999c96d2060810|šio straipsnio 10 dalyje]] nustatyta tvarka paskirtas garantinis vandens tiekėjas, kai viešajam vandens tiekėjui jo veiklos teritorijoje panaikinamas licencijos galiojimas. Garantinis geriamojo vandens tiekimas ir nuotekų tvarkymas pradedamas įsigaliojus Valstybinės energetikos reguliavimo tarybos priimtam sprendimui panaikinti licencijos galiojimą. ^84a8a87643ab1abcd0b2ac51
 
 
-2. Valstybės finansinė parama vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai planuojama ir teikiama viešojo vandens tiekimo regionuose veikiantiems viešiesiems vandens tiekėjams, kad būtų įgyvendinti aplinkosaugos reikalavimai ir sveikatos apsaugos reikalavimai geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo srityse. ^78805834be255c1b84ad6bda
+3. Garantinis vandens tiekėjas garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą vykdo, kol pagal [[#^5aa55783245d56f4844a423a|šio straipsnio 17 dalies]] nuostatas jis bus paskirtas regioniniu viešuoju vandens tiekėju. ^ac7bdd75c831c257af059d85
 
 
-3. Valstybės paramos lėšas vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai administruoja ir jų mokėjimo bei kontrolės funkcijas atlieka Aplinkos ministerija. Parama vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai teikiama vadovaujantis šiuo įstatymu ir pagal Seimo bei Vyriausybės tvirtinamų strateginių vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros dokumentų nustatytus finansavimo prioritetus. Paramą iš vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai skirtų lėšų gali gauti asmenys, atitinkantys paramos skyrimą reglamentuojančių teisės aktų reikalavimus. ^75b88b0c0c676f79e7f68ac5
+4. Garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą nustato ir perskaičiuoja Valstybinė energetikos reguliavimo taryba vadovaudamasi [[#^acd189e40440ed2c89b95e10|šio straipsnio 15 dalimi]] ir šio įstatymo [[#^de397d4452492f9b1493dab6|33 straipsnio 1 dalimi]] ir Valstybinės energetikos reguliavimo tarybos tvirtinamame garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo vykdymo tvarkos ir sąlygų apraše nustatyta tvarka. ^1d2659adfe2d40aaafed1bee
+Straipsnio dalies pakeitimai:
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
 
 
 
-### 18 straipsnis. Vandens tiekimo ir nuotekų tvarkymo infrastruktūra
+5. Viešasis vandens tiekėjas, kurio licencijos galiojimas panaikintas, privalo visą jam nuosavybės teise priklausančią geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, kitą jam nuosavybės teise priklausantį turtą, reikalingą garantiniam geriamojo vandens tiekimui ir nuotekų tvarkymui vykdyti, neatlygintinai perduoti valdyti ir naudoti garantinio vandens tiekimo vykdymo laikotarpiui garantiniam vandens tiekėjui, kuris privalo jį priimti ir kuriam nuo perdavimo–priėmimo akto pasirašymo momento pereina šio turto atsitiktinio žuvimo ar sugedimo rizika. ^04c0ee8788eaa9e0e9785290
 
 
-1. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimas ir priežiūra atliekami vadovaujantis geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėmis ir kitų teisės aktų nustatytais reikalavimais. ^6121673cda32da30e3918af5
+6. Garantinis vandens tiekėjas, vykdydamas garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą, turi teisę naudoti visą geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, kitą valdomą turtą, reikalingą garantiniam geriamojo vandens tiekimui ir nuotekų tvarkymui vykdyti, kuris nuosavybės teise priklauso viešajam vandens tiekėjui, kurio licencijos galiojimas panaikintas, ir šios įmonės savininkei savivaldybei. ^b9146657780976b10387a31d
 
 
-2. Viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra nuosavybės teise priklauso savivaldybei, kurios teritorijoje vykdomas viešasis vandens tiekimas, arba šios savivaldybės (savivaldybių) kontroliuojamai įmonei. Viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra, kuri nuosavybės teise priklauso kitiems asmenims ir yra reikalinga viešajam vandens tiekimui, savivaldybės iniciatyva gali būti išperkama savivaldybės (savivaldybių) kontroliuojamos įmonės ar savivaldybės nuosavybėn Vyriausybės nustatyta vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų išpirkimo tvarka arba gali būti sudaromos sutartys dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objektų naudojimo (nuomos, panaudos, jungtinės veiklos ir pan.). Jei dėl viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros išpirkimo arba dėl sutarties dėl šios infrastruktūros naudojimo sudarymo susitarti nepavyksta, naudojimosi viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra sąlygas ir tvarką gali nustatyti teismas arba infrastruktūra gali būti paimama visuomenės poreikiams įstatymų nustatyta tvarka ir tik tais atvejais, kai infrastruktūra reikalinga viešajam vandens tiekimui. ^8b9d4435792c6e38cba34b45
+7. Garantinis vandens tiekėjas, vykdydamas garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą, turi užtikrinti nepertraukiamą geriamojo vandens tiekimą ir nuotekų tvarkymą, prižiūrėti ir remontuoti garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo veiklos vykdymo metu naudojamą geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, kitą valdomą turtą, reikalingą garantiniam geriamojo vandens tiekimui ir nuotekų tvarkymui vykdyti. ^e7e24ee3ca9a6b07aaf4e60f
 
 
-3. Savivaldybė turi sudaryti sąlygas viešajam vandens tiekėjui naudotis savivaldybei ir savivaldybės kontroliuojamai įmonei nuosavybės teise priklausančia viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra. Viešajam vandens tiekėjui, kuris yra savivaldybės (savivaldybių) kontroliuojama įmonė, savivaldybei nuosavybės teise priklausanti viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra perduodama patikėjimo teise. Kitų teisinių formų viešiesiems vandens tiekėjams savivaldybei nuosavybės teise priklausanti viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra konkurso viešajam vandens tiekėjui parinkti dokumentuose nurodytomis sąlygomis išnuomojama arba perduodama suteikiant koncesiją. Savivaldybės kontroliuojamai įmonei nuosavybės teise priklausanti viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra viešajam vandens tiekėjui išnuomojama savivaldybės tarybos nustatyta tvarka. ^232de132062c84044d051728
+8. Garantinis vandens tiekėjas, vykdydamas garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą, turi teisę viešojo vandens tiekėjo, kurio licencijos galiojimas panaikintas, aptarnautoje teritorijoje atlikti geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrą ar rekonstrukciją. Šios investicijos turi būti suderintos šio įstatymo [[#33 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainų nustatymas|33 straipsnyje]] nustatyta tvarka. ^dd651116d3ebfe51899f4e39
 
 
-4. Viešasis vandens tiekėjas sprendžia, ar viešojo vandens tiekimo teritorijoje esančios, bet ne jo valdomos ar naudojamos pagal sutartį geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objektai yra reikalingi ir tinkami viešajam vandens tiekimui ir, jeigu reikia, gali kreiptis į savivaldybę dėl šių objektų išpirkimo ar naudojimo teisės įgijimo pagal [[#^8b9d4435792c6e38cba34b45|šio straipsnio 2 dalį]]. ^f6f4a665d4eebbcc4499476b
+9. Garantinis vandens tiekėjas, vykdydamas garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą, vadovaudamasis Valstybinės energetikos reguliavimo tarybos tvirtinamo garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo vykdymo tvarkos ir sąlygų aprašo nuostatomis, perima teises ir pareigas, tiesiogiai susijusias su licencijuojama geriamojo vandens tiekimo ir nuotekų tvarkymo veikla, pagal visas viešojo vandens tiekėjo, kurio licencijos galiojimas panaikintas, viešąsias sutartis su abonentais ir vartotojais. Garantinio vandens tiekėjo perimtų viešųjų sutarčių šalių teisės ir pareigos išlieka vartotojams ir abonentams. Apie pasikeitimus vartotojus ir abonentus garantinis vandens tiekėjas informuoja kartu su pirmu mokėjimo dokumentu, kurį išsiunčia laišku, faksu ar elektroniniu būdu per 30 kalendorinių dienų nuo garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo teikimo dienos. ^03978b77d77568c9af8b5742
 
 
-5. Naujų viešojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų statyba, jei užsakovas yra ne viešasis vandens tiekėjas ar ne savivaldybė, galima esant trišalei savivaldybės, viešojo vandens tiekėjo ir užsakovo (objekto statytojo) sutarčiai. Šioje sutartyje turi būti numatyta viešojo geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objekto statybos finansavimo šaltiniai, šio objekto naudojimo (eksploatavimo) sąlygos ir nuosavybės teisių perleidimo savivaldybei ar savivaldybės kontroliuojamai įmonei, jei ši yra viešasis vandens tiekėjas, terminai ir tvarka, jei tai nenumatyta Vyriausybės patvirtintame Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų išpirkimo tvarkos apraše. ^c6e1474962292c007250fbbb
+10. Valstybinė energetikos reguliavimo taryba išrenka geriausius [[#^a76b5d0096797ba182509da2|šio straipsnio 11 dalyje]] nustatytus kriterijus  atitinkantį viešąjį vandens tiekėją viešojo geriamojo vandens tiekimo regione ir motyvuotu sprendimu paskiria jį garantiniu vandens tiekėju, ir įpareigoja jį vykdyti garantinį geriamojo vandens tiekimą ir nuotekų tvarkymą to regiono savivaldybių viešųjų vandens tiekėjų aptarnaujamose teritorijose. ^703d10ec65999c96d2060810
 
 
-6. Abonentai, išskyrus vartotojus, pageidaujantys savo valdomus tinklus ar įrenginius prijungti prie viešojo vandens tiekėjo valdomos vandens tiekimo ir nuotekų tvarkymo infrastruktūros, privalo savivaldybės institucijų nustatyta tvarka sumokėti viešajam vandens tiekėjui savivaldybės institucijų nustatyto dydžio vienkartinę prijungimo įmoką. Šios lėšos naudojamos vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai. ^a8f61bb62021d89f74e488e3
+11. Garantinis vandens tiekėjas turi atitikti visus šiuos kriterijus: ^a76b5d0096797ba182509da2
+
+
+1) turi būti paskirtas viešuoju vandens tiekėju vienoje iš viešojo geriamojo vandens tiekimo regiono savivaldybių; ^100259685b5c7bf7e0e2ebf4
+
+
+2) turi turėti pakankamą finansinį pajėgumą, kuris vertinamas šio įstatymo [[#^be520971272c767a41fe45e6|27 straipsnio 2 dalies 2 punkto]] d papunktyje nustatyta tvarka; ^8996837f5d8868ac519b0e85
+
+
+3) Valstybinės energetikos reguliavimo tarybos garantinio geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo vykdymo tvarkos ir sąlygų apraše nurodytas įsiskolinimo lygis (įsiskolinimo ir turto santykis)  turi būti ne didesnis kaip 5; ^ae00a83ee9e7188dcb346ad8
+
+
+4) geriamojo vandens tiekimo paslaugų pardavimas viešojo geriamojo vandens tiekimo regione turi būti didžiausias (m3). ^f23abea4648fb75d11a28ba5
+
+
+12. Valstybinė energetikos reguliavimo taryba kiekvienais metais įvertina, ar Valstybinės energetikos reguliavimo tarybos sprendimu paskirtas garantinis vandens tiekėjas atitinka garantiniam vandens tiekėjui taikomus kriterijus, nustatytus [[#^a76b5d0096797ba182509da2|šio straipsnio 11 dalyje]]. ^8809b4662dfb2bb96341e44a
+
+
+13. Valstybinė energetikos reguliavimo taryba, nustačiusi, kad garantinis vandens tiekėjas neatitinka garantiniam vandens tiekėjui taikomų kriterijų, nustatytų [[#^a76b5d0096797ba182509da2|šio straipsnio 11 dalyje]], įpareigoja garantinį vandens tiekėją per 6 mėnesius pagerinti nustatytus rodiklius. Per nustatytą terminą garantiniam vandens tiekėjui nepagerinus nustatytų rodiklių, Valstybinė energetikos reguliavimo taryba paskiria kitą garantinį vandens tiekėją iš to paties arba kito viešojo geriamojo vandens tiekimo regiono. ^e5e54d606cbbc09770000b7d
+
+
+14. Neteko galios nuo 2024-10-01 ^658d481b354ebcb08f7b83ef
+Straipsnio dalies naikinimas:
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+
+
+
+15. Viešojo vandens tiekėjo, kurio licencijos galiojimas panaikintas, vartotojai ir abonentai garantiniam vandens tiekėjui už suteiktas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugas moka garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą, kuri apskaičiuojama viešojo vandens tiekėjo iki licencijos galiojimo panaikinimo nustatytą geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą padauginus iš koeficiento 1,09. Garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kaina mokama nuo [[#^84a8a87643ab1abcd0b2ac51|šio straipsnio 2 dalyje]] nurodyto sprendimo įsigaliojimo iki tol, kol garantinis vandens tiekėjas ir viešasis vandens tiekėjas, kurio licencijos galiojimas panaikintas, reorganizuojami į regioninį viešąjį vandens tiekėją. Valstybinei energetikos reguliavimo tarybai nustačius garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą, garantinis vandens tiekėjas per 5 darbo dienas privalo apie Valstybinės energetikos reguliavimo tarybos nustatytą ar perskaičiuotą garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą viešai (savo interneto svetainėje) informuoti abonentus ir vartotojus. Garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kaina įsigalioja ir taikoma nuo kito mėnesio pirmosios dienos po to, kai jas viešai paskelbia garantinis vandens tiekėjas. ^acd189e40440ed2c89b95e10
+Straipsnio dalies pakeitimai:
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+
+
+
+16. Garantinis vandens tiekėjas privalo atskirai tvarkyti su garantinio geriamojo vandens tiekimo ir nuotekų tvarkymo veikla susijusią apskaitą. ^b874595ab9a24a8033b28492
+
+
+17. Savivaldybės taryba, kurios valdoma įmonė paskirta garantiniu vandens tiekėju, taip pat savivaldybės taryba, kurios valdomo viešojo vandens tiekėjo licencijos galiojimas panaikintas, per 6 mėnesius nuo Valstybinės energetikos reguliavimo tarybos sprendimo panaikinti licencijos galiojimą įsigaliojimo dienos patvirtina valdomų įmonių reorganizavimo planą – per vienus metus jas jungti į regioninį viešąjį vandens tiekėją. ^5aa55783245d56f4844a423a
+Straipsnio dalies pakeitimai:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
+
+
+
+18. Garantinis vandens tiekėjas turi teisę laikotarpiu nuo sprendimo, kuriuo panaikintas viešojo vandens tiekėjo licencijos galiojimas, įsigaliojimo dienos iki įmonių reorganizavimo užbaigimo paprastuoju būdu neatlygintinai administruoti viešojo vandens tiekėjo, kurio licencijos galiojimas panaikintas, nuosavybės teise ar kitaip valdytą ir naudotą turtą Civilinio kodekso ketvirtosios knygos II dalies XIV skyriuje nustatyta tvarka. ^3ab59a94c643962d1b11b67a
+
+
+
+### 16 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros statyba, priežiūra ir naudojimas
+
+
+1. Geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros ir jos objektų statyba savivaldybės teritorijoje vykdoma laikantis šio įstatymo, Savivaldybių infrastruktūros plėtros įstatymo, Statybos įstatymo, Teritorijų planavimo įstatymo, infrastruktūros plėtros plano reikalavimų. ^fa0d22321b4556f0ae8c7f1b
+
+
+2. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų statyba, jeigu objektų statytojas (užsakovas) nėra viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ar savivaldybės institucija, galima, kai šių objektų statyba numatyta infrastruktūros plėtros plane arba savivaldybės ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumente ir kai yra sudaryta trišalė ar daugiašalė savivaldybės institucijos, viešojo vandens tiekėjo arba regioninio viešojo vandens tiekėjo, objekto statytojo (užsakovo) ir (ar) kito savivaldybės infrastruktūros valdytojo savivaldybės infrastruktūros plėtros sutartis (toliau – plėtros sutartis). Plėtros sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Savivaldybių infrastruktūros plėtros įstatymo [[#8 straipsnis. Valstybinės maisto ir veterinarijos tarnybos kompetencija geriamojo vandens tiekimo reguliavimo srityje|8 straipsnyje]] nustatyta tvarka ir Civilinio kodekso nuostatomis. Objekto statytojui (užsakovui) nutraukus veiklą (bankrutavus), paskirtas bankroto administratorius privalo informuoti savivaldybės instituciją apie bankrutavusio asmens sudarytas geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros statybos sutartis, plėtros sutartis, o savivaldybės institucija privalo organizuoti kito objekto statytojo (užsakovo) parinkimą geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objektų statybai užbaigti. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objekto statytojo (užsakovo) veiklos nutraukimo (bankroto) atveju savivaldybės institucijos iniciatyva kitas pradėto geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objekto statytojas (užsakovas) turi būti parinktas ne vėliau kaip po 18 mėnesių nuo pradinio objekto statytojo (užsakovo) veiklos nutraukimo (bankroto) momento. ^3a292f6a863bdf74c77782fe
+
+
+3. Paviršinių nuotekų tvarkymo infrastruktūros objektų statyba, jeigu objektų statytojas (užsakovas) yra ne paviršinių nuotekų tvarkytojas ar ne savivaldybės institucija, galima, kai šių objektų statyba numatyta infrastruktūros plėtros plane arba savivaldybės ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumente ir kai yra sudaryta trišalė ar daugiašalė savivaldybės institucijos, paviršinių nuotekų tvarkytojo, objekto statytojo (užsakovo) ir (ar) kito savivaldybės infrastruktūros valdytojo savivaldybės infrastruktūros plėtros sutartis. Trišalė ar daugiašalė savivaldybės institucijos, paviršinių nuotekų tvarkytojo, objekto statytojo (užsakovo) ir (ar) kito savivaldybės infrastruktūros valdytojo savivaldybės infrastruktūros plėtros sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Savivaldybių infrastruktūros plėtros įstatymo [[#8 straipsnis. Valstybinės maisto ir veterinarijos tarnybos kompetencija geriamojo vandens tiekimo reguliavimo srityje|8 straipsnyje]] nustatyta tvarka ir Civilinio kodekso nuostatomis. ^efde6cee9280f48ba7fbd507
+
+
+4. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra, skirta viešajam geriamojo vandens tiekimui ir nuotekų tvarkymui, nuosavybės teise turi priklausyti viešajam vandens tiekėjui arba regioniniam viešajam vandens tiekėjui, išskyrus atvejus, nurodytus šio straipsnio 6 ir [[#^5b7c9a76312686bb442b57cd|11 dalyse]]. ^e85c2e67848ef227d3f668c2
+
+
+5. Paviršinių nuotekų tvarkymo infrastruktūra nuosavybės teise turi priklausyti paviršinių nuotekų tvarkytojui. ^28750de7a1d14bf1d7cbb3b4
+
+
+6. Kai geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūra nuosavybės teise priklauso ne viešajam vandens tiekėjui arba regioniniam viešajam vandens tiekėjui ar paviršinių nuotekų tvarkytojui ir atitinka [[#^5b7c9a76312686bb442b57cd|šio straipsnio 11 dalyje]] nurodytus tinkamumo ir [[#^66cfda2d18ef8349e26e3cd6|12 dalyje]] nustatytus (abu) reikalingumo kriterijus, turi būti: ^a4e70c7c0de8071a51e55309
+
+
+1) iki 2027 m. gruodžio 31 d.  perimta  arba išperkama viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ar paviršinių nuotekų tvarkytojo vadovaujantis Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų perėmimo ir išpirkimo tvarkos apraše nustatyta tvarka, o tuo atveju, kai jau sudarytos ilgesnės negu iki 2027 m. gruodžio 31 d. galiojančios geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo (nuomos, panaudos, jungtinės veiklos) sutartys, nedelsiant po jų galiojimo pabaigos (sutarčių galiojimo negalima pratęsti), bet ne vėliau kaip per 6 mėnesius po tokių sutarčių galiojimo pabaigos; ^2ffc878ac1b0b8e297f3691e
+
+
+2) jeigu dėl geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros ar paviršinių nuotekų tvarkymo infrastruktūros išpirkimo arba perdavimo viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ar paviršinių nuotekų tvarkytojo nuosavybėn susitarti nepavyksta, viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ar paviršinių nuotekų tvarkytojo iniciatyva sudaromos sutartys dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros naudojimo (nuomos, panaudos, jungtinės veiklos), geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugų teikimo. ^1e71e92df9278a3273c75a98
+
+
+7. Asmenys, kurie nėra geriamojo vandens tiekėjai, tačiau jiems nuosavybės teise priklausanti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra neperduota viešojo vandens tiekėjo ar regioninio viešojo vandens tiekėjo nuosavybėn, kol bus perduota geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra viešajam vandens tiekėjui ar regioniniam viešajam vandens tiekėjui, privalo tinkamai eksploatuoti ir prižiūrėti turimą infrastruktūrą, tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas, neturi teisės atlikti jokių veiksmų, susijusių su geriamojo vandens tiekimo ir nuotekų tvarkymo ribojimu ar nutraukimu, išskyrus atvejus dėl objektyvių priežasčių (remonto ar avarijos). ^d77575146958e9bad91cc0a1
+
+
+8. Jeigu juridiniam asmeniui neišduodama licencija arba geriamojo vandens tiekėjo ir nuotekų tvarkytojo licencijos galiojimas panaikinamas ir dėl to abonentai ir (ar) vartotojai neturi kitokios galimybės gauti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugų, geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros objektų išpirkimas, perėmimas ir perdavimas vykdomi [[#^a4e70c7c0de8071a51e55309|šio straipsnio 6 dalyje]] nustatyta tvarka, neatsižvelgiant į [[#^5b7c9a76312686bb442b57cd|šio straipsnio 11 dalyje]] nurodytus tinkamumo ir [[#^66cfda2d18ef8349e26e3cd6|12 dalyje]] nustatytus reikalingumo kriterijus. ^8d55172bdda05832ad0961fe
+
+
+9. Viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ir (arba) paviršinių nuotekų tvarkytojas, vadovaudamiesi [[#^5b7c9a76312686bb442b57cd|šio straipsnio 11 dalyje]] nurodytais tinkamumo ir [[#^66cfda2d18ef8349e26e3cd6|12 dalyje]] nustatytais reikalingumo kriterijais, sprendžia, ar viešojo geriamojo vandens tiekimo teritorijoje esančios, bet ne jų naudojamos infrastruktūros ar jiems nepriklausantys geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektai reikalingi ir tinkami viešajam geriamojo vandens tiekimui ir (arba) nuotekų tvarkymui, paviršinių nuotekų tvarkymui, ir kreipiasi į geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros savininką dėl šių objektų perėmimo, išpirkimo ar naudojimo teisės įgijimo. Šalims susitarus, geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūra gali būti perduota viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo, paviršinių nuotekų tvarkytojo nuosavybėn neatlygintinai. ^ad9596264aa730daaaa83dd3
+
+
+10. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros savininkas (ar jo įgaliotas atstovas) savo iniciatyva turi teisę teikti prašymą viešajam vandens tiekėjui, regioniniam viešajam vandens tiekėjui ar paviršinių nuotekų tvarkytojui išpirkti ar perimti iš jo geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūrą. ^21f9be8deb283d6327021f63
+
+
+11. Geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros tinkamumo kriterijai: ^5b7c9a76312686bb442b57cd
+
+
+1) geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūra ir teisė į ją yra registruoti Lietuvos Respublikos nekilnojamojo turto registre; ^d781b44294a72a7c165d148a
+
+
+2) geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros techninė būklė atitinka Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytus reikalavimus; ^562fa07b4ae1592df7981d27
+
+
+3) geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūra prijungta prie savivaldybei ar viešajam vandens tiekėjui arba regioniniam viešajam vandens tiekėjui ar paviršinių nuotekų tvarkytojui nuosavybės teise priklausančios geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, ir (ar) paviršinių nuotekų tvarkymo infrastruktūros. ^a3392f41d1139d4cc3723ace
+
+
+12. Geriamojo vandens tiekimo ir (arba)  nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros reikalingumo kriterijai: ^66cfda2d18ef8349e26e3cd6
+
+
+1) geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūra yra aglomeracijoje arba savivaldybės viešojoje geriamojo vandens tiekimo teritorijoje, nustatytoje pagal šio įstatymo [[#12 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo planavimas|12 straipsnio]] nuostatas; ^232dafc07e9606f046a7d0d1
+
+
+2) viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas arba paviršinių nuotekų tvarkytojas įvertina geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros išpirkimo įtaką geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų teikimo kainos didėjimui ar mažėjimui (ar viešojoje geriamojo vandens tiekimo teritorijoje ekonomiškiau paslaugą teikti išpirkus infrastruktūrą, ar reikėtų įrengti individualius arba grupinius geriamojo vandens tiekimo ir (ar) nuotekų, paviršinių nuotekų tvarkymo įrenginius (objektus). ^27dbf5f1875321828e0c0ea8
+
+
+13. Išperkamų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektų vertę, išskyrus Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų perėmimo arba išpirkimo tvarkos apraše numatytus atvejus, nustato nepriklausomi turto arba verslo vertintojai (toliau – turto vertintojai) Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. ^3038164d7e4527c0e963cd11
+Straipsnio dalies pakeitimai:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
+
+
+
+14. Turto vertintoją Viešųjų pirkimų įstatyme nustatyta tvarka parenka ir sutartį su turto vertintoju dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objektų vertės nustatymo sudaro ir už turto vertinimo paslaugas sumoka viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ar paviršinių nuotekų tvarkytojas. ^e38088126570dbefc4a92cd3
+
+
+15. Jeigu dėl [[#^a4e70c7c0de8071a51e55309|šio straipsnio 6 dalyje]] nurodytų geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros perdavimo ir (arba) jos naudojimo sąlygų susitarti nepavyksta, geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimo sąlygas ir tvarką nustato teismas. ^47939255f11eb3dccc0ac881
+
+
+16. Kai dėl [[#^a4e70c7c0de8071a51e55309|šio straipsnio 6 dalyje]] nurodytų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros išpirkimo, perdavimo ir (arba) jos naudojimo sąlygų susitarti nepavyksta, geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimo sąlygos ir tvarka nustatomos siekiant užtikrinti abonentams ir vartotojams geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugas savivaldybių viešojo geriamojo vandens tiekimo teritorijose, nustatytose pagal šio įstatymo [[#12 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo planavimas|12 straipsnio]] nuostatas, naudojant sukurtą geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūrą. ^704dc93e43d7a5b5b5142f17
+
+
+17. Prašymą nustatyti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimo sąlygas ir tvarką teismui teikia viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ar paviršinių nuotekų tvarkytojas. Viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ar paviršinių nuotekų tvarkytojas, teikdami prašymą nustatyti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimo sąlygas ir tvarką, privalo pagrįsti visuomenės poreikį gauti saugos, kokybės ir aplinkos apsaugos reikalavimus atitinkančias geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugas ir tai, kad šis poreikis nebus įgyvendintas infrastruktūros neperdavus viešajam vandens tiekėjui, regioniniam viešajam vandens tiekėjui ar paviršinių nuotekų tvarkytojui. Viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas ar paviršinių nuotekų tvarkytojas, prieš teikdamas teismui prašymą nustatyti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimo sąlygas ir tvarką, raštu (registruotu paštu ir (arba) elektroninių ryšių priemonėmis) praneša geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros savininkui apie planuojamą teikti teismui prašymą dėl jam nuosavybės teise priklausančios infrastruktūros naudojimo sąlygų ir tvarkos nustatymo, visuomenės poreikį gauti saugos, kokybės ir aplinkos apsaugos reikalavimus atitinkančias geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugas, nurodo konkrečius tikslus, kaip planuojama naudoti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūrą. Jeigu per 30 kalendorinių dienų nuo šio prašymo išsiuntimo dienos negaunama atsakymo iš geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros savininko arba gaunamas neigiamas atsakymas, laikoma, kad su geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros savininku susitarti nepavyko. ^123766673365736c42765d03
+
+
+18. Teismas, priėmęs sprendimą nustatyti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimo sąlygas ir tvarką, kai dėl [[#^a4e70c7c0de8071a51e55309|šio straipsnio 6 dalyje]] nurodytų geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros išpirkimo, perdavimo ir (arba) jos naudojimo sąlygų susitarti nepavyksta, tuo pačiu teismo sprendimu, atsižvelgdamas į [[#^3038164d7e4527c0e963cd11|šio straipsnio 13 dalį]], nustato geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros savininkui teisingo atlyginimo už jam nuosavybės teise priklausančios geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros naudojimą dydį. Teisingo atlyginimo dydžiui nustatyti viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ir paviršinių nuotekų tvarkytojo patirtos turto vertintojo išlaidos arba paskirtos teismo ekspertizės išlaidos, priteistos iš viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ir paviršinių nuotekų tvarkytojo, priskiriamos būtinosioms sąnaudoms. ^c06865718fc3b302a2420b7c
+
+
+19. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra, vandentiekio įvadai ir (arba) nuotekų išvadai įrengiami viešojo geriamojo vandens tiekimo teritorijoje (valstybės ar savivaldybės teisėtais pagrindais naudojamoje teritorijoje) iki abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribos (vandentiekio šulinys, nuotekų priėmimo šulinys, nuotekų siurblinė (kai yra slėginė nuotekų linija), individualaus namo nuotekų valykla, žemės sklypo riba ar statinio arba daugiabučio namo įvadas, nuotekų išvadas), esantys arčiausiai prie geriamojo vandens tiekėjo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros. Abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribos nurodomos sudarant viešąją sutartį. Su prioritetinės savivaldybės infrastruktūros reikalavimus atitinkančios geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros, suplanuotos teritorijų planavimo dokumentuose, vandentiekio įvadų ir (arba) nuotekų išvadų įrengimu iki abonentui ir (arba) vartotojui nuosavybės teise priklausančio ar kitaip valdomo ir (arba) naudojamo turto ribų, abonentų ir vartotojų vandentiekio įvadų ir (arba) nuotekų išvadų prijungimu prie geriamojo vandens tiekėjui nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros susijusias išlaidas, vadovaujantis šio įstatymo [[#^a8f67f533eaa8235659d43c0|33 straipsnio 4 dalyje]] nurodytais dokumentais, apmoka geriamojo vandens tiekėjai. Vandentiekio įvadų, nuotekų išvadų įrengimo ir prijungimo sąnaudos (jų sudedamosios dalys) nustatomos vadovaujantis Valstybinės energetikos reguliavimo tarybos patvirtinta geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodika ir įtraukiamos į geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainą. Už neprioritetinės savivaldybės infrastruktūros reikalavimus atitinkančios geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrą kompensuojama Savivaldybių infrastruktūros plėtros įstatymo nustatyta tvarka ir atvejais. ^21bca1ab7d7f5e4c49b6f3b2
+
+
+20. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra naudojama, geriamojo vandens naudojimo įrenginiai, geriamajam vandeniui tiekti reikalingos komunikacijos ir (arba) nuotekų tvarkymo įrenginiai prijungiami prie geriamojo vandens tiekėjo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros vadovaujantis aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatytais reikalavimais ir naujų abonentų ir vartotojų prijungimo prie geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros reikalavimais. ^fce188bf6b6cebb81ebce1a1
+
+
+21. Geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objekto savininkas yra atsakingas už geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objekto techninę būklę, jo priežiūros organizavimą ir remontą. Geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros objekto priežiūra ir remontas atliekami infrastruktūros objekto savininko lėšomis. ^80e12ea74f1d97d72294db4b
+
+
+22. Bešeimininkės infrastruktūros, naudojamos viešosioms geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugoms teikti, eksploatavimo ir remonto sąnaudas apmoka savivaldybės ir (arba) viešieji vandens tiekėjai, regioniniai viešieji vandens tiekėjai. Papildomų lėšų už bešeimininkės infrastruktūros, naudojamos viešojo geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugoms teikti, eksploatavimą ir remontą iš abonentų ir vartotojų neturi būti prašoma. ^d4fbac58b9136301f93739f5
+
+
+23. Asmenims, kurie savo geriamojo vandens naudojimo įrenginius, geriamajam vandeniui tiekti reikalingas komunikacijas ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo įrenginius savavališkai prijungė prie geriamojo vandens tiekėjo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros, paviršinių nuotekų tvarkytojo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos paviršinių nuotekų tvarkymo infrastruktūros  nesilaikydami šio įstatymo, aplinkos ministro nustatytų naujų abonentų ir vartotojų prijungimo prie geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros reikalavimų, Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, paimto geriamojo vandens ir (arba) išleistų nuotekų kiekis, paviršinių nuotekų kiekis apskaičiuojamas aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse ir paviršinių nuotekų tvarkymo reglamente nustatyta tvarka. ^36bbbf8b06194b0a2a6af737
+
+
+24. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūra prižiūrima, geriamojo vandens apskaitos prietaisai ir (arba) nuotekų apskaitos prietaisai įrengiami, prižiūrimi, nuimami, keičiami, perkeliami į kitą vietą, geriamojo vandens apskaitos mazge ir (arba) nuotekų apskaitos mazge esančių apskaitos prietaisų plombos nuimamos, nuotekos iš mobiliųjų nuotekų transportavimo priemonių ar įrenginių išleidžiamos į geriamojo vandens tiekėjo nuosavybės teise ar kitaip valdomą ir (arba) naudojamą nuotekų tvarkymo infrastruktūrą aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatyta tvarka. ^e3a26e755930044ff4c3d02d
+
+
+25. Jeigu geriamojo vandens tiekėjo įgaliotas atstovas, norėdamas atlikti geriamojo vandens apskaitos prietaisų ir (arba) nuotekų apskaitos prietaisų, geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros priežiūrą (įrengti ar pakeisti geriamojo vandens apskaitos prietaisus ir (arba) nuotekų apskaitos prietaisus, atlikti jų metrologinę patikrą, patikrinti šių apskaitos prietaisų techninę būklę, eksploatavimo sąlygas, patikrinti pastato vidaus vandentiekio sistemą, vandentiekio įvado ir (arba) nuotekų išvado techninę būklę, teisės aktų nustatyta tvarka sustabdyti geriamojo vandens tiekimą įsiskolinusiam asmeniui, paimti nuotekų mėginius), negali patekti į butą (patalpas), bendrojo naudojimo patalpas ar teritoriją arba jeigu geriamojo vandens tiekėjo įgaliotam atstovui nesudarytos sąlygos atlikti geriamojo vandens apskaitos prietaisų ir (arba) nuotekų apskaitos prietaisų priežiūrą, abonento ar vartotojo adresu išsiunčiamas registruotas laiškas su motyvuotu raštu. Jame vartotojo ar abonento prašoma per 10 kalendorinių dienų nuo registruoto laiško gavimo dienos informuoti apie jam tinkamą darbo dienos laiką nuo 8 iki 20 valandos, kada geriamojo vandens tiekėjo įgaliotas atstovas galėtų atlikti geriamojo vandens apskaitos prietaisų ir (arba) nuotekų apskaitos prietaisų, geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros priežiūrą. Abonentas ar vartotojas informuojamas, kad, jeigu per 10 kalendorinių dienų nuo registruoto laiško gavimo dienos neinformuos geriamojo vandens tiekėjo apie jam tinkamą laiką įleisti geriamojo vandens tiekėjo įgaliotą atstovą į butą (patalpas), bendrojo naudojimo patalpas ar teritoriją ir (arba) jeigu atsisakys įleisti geriamojo vandens tiekėjo įgaliotą atstovą, pateikusį geriamojo vandens tiekėjo įgalioto asmens pasirašytą prašymą ir geriamojo vandens tiekėjo išduotą darbuotojo darbo pažymėjimą su darbuotojo nuotrauka, vardu, pavarde, pareigomis, darbo dieną nuo 8 iki 20 valandos į butą (patalpas), bendrojo naudojimo patalpas ar teritoriją atlikti geriamojo vandens apskaitos prietaisų ir (arba) nuotekų apskaitos prietaisų, geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros priežiūrą, nuo atsisakymo įleisti dienos suvartoto geriamojo vandens ir (arba) išleistų nuotekų kiekis jam bus nustatomas aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatyta tvarka. Atsisakymo įleisti diena laikoma diena, kurią abonentas ar vartotojas informavo, kad atsisako įleisti geriamojo vandens tiekėjo įgaliotą atstovą atlikti geriamojo vandens apskaitos prietaisų ir (arba) nuotekų apskaitos prietaisų priežiūrą, arba pirma kalendorinė diena, pasibaigus registruotame laiške nurodytam terminui. ^5614b325565d549f89126f80
+
+
+26. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros priežiūros metu nustačius, kad geriamojo vandens apskaitos prietaisas ir (ar) nuotekų apskaitos prietaisas sugadintas, pažeistas, nustatyti požymiai, kad naudotos mechaninės ar kitos priemonės, siekiant sumažinti apskaitos prietaiso rodmenis, arba nustačius, kad fizinis ar juridinis asmuo savavališkai prijungė nuosavybės teise ar bendrosios dalinės nuosavybės teise priklausančias ar kitaip valdomas ir (arba) naudojamas geriamojo vandens tiekimo ir (arba) nuotekų išleidimo komunikacijas, geriamojo vandens naudojimo ir (arba) nuotekų tvarkymo įrenginius, paviršinių nuotekų šalinimo įrenginius prie geriamojo vandens tiekėjui nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros arba paviršinių nuotekų tvarkytojui nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos paviršinių nuotekų tvarkymo infrastruktūros arba į paviršinių nuotekų tvarkymo infrastruktūrą išleido paviršinėms nuotekoms nepriskiriamas nuotekas, suvartoto geriamojo vandens ir išleistų nuotekų kiekis apskaičiuojamas aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatyta tvarka, nuostoliai išieškomi Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. Geriamojo vandens tiekėjo įgaliotas atstovas pažeidimą, pažeidimo laikotarpį užfiksuoja akte, kurį pateikia susipažinti ir pasirašyti vartotojui, abonentui ar asmeniui, savavališkai prijungusiam šias komunikacijas ar įrenginius arba į paviršinių nuotekų tvarkymo infrastruktūrą išleidusiam paviršinėms nuotekoms nepriskiriamas nuotekas. Asmeniui ar jo atstovui atsisakius dalyvauti surašant šį aktą ir (ar) jį pasirašyti, jis galioja, tačiau geriamojo vandens tiekėjo įgaliotas atstovas apie atsisakymą dalyvauti surašant šį aktą ir (ar) jį pasirašyti turi pažymėti abiejuose akto egzemplioriuose, kurių vienas lieka geriamojo vandens tiekėjui, kitas egzempliorius išsiunčiamas registruotu laišku arba įteikiamas vartotojui, abonentui ar asmeniui, savavališkai prijungusiam nurodytas komunikacijas ar įrenginius arba į paviršinių nuotekų tvarkymo infrastuktūrą išleidusiam paviršinėms nuotekoms nepriskiriamas nuotekas. ^183014c608b6fafb141f7b4c
+
+
+27. Draudžiama nutraukti geriamojo vandens tiekimą ir (arba) nuotekų tvarkymą daugiabučiams namams dėl atskirų namo butų savininkų (nuomininkų) skolų už suvartotą geriamąjį vandenį ir (arba) nuotekų tvarkymo paslaugas. ^8ee4755b17f95c29564bb779
+
+
+28. Prioritetinių patalpų valdytojai (savininkai) ar jų paskirti prižiūrėtojai yra atsakingi už šių patalpų vidaus vandentiekio sistemų rizikos vertinimą. ^4ef41f2157042b6558798256
+
+
+
+### 17 straipsnis. Nuotekų tvarkymo informacinė sistema ir jos valdymas
+
+
+1. Nuotekų tvarkymo informacinė sistema yra valstybės informacinė sistema, skirta individualiojo nuotekų tvarkymo kontrolei užtikrinti. ^2bb90942a1f5b497b2961070
+
+
+2. Nuotekų tvarkymo informacinės sistemos valdytoja ir asmens duomenų valdytoja yra Aplinkos ministerija. Nuotekų tvarkymo informacinės sistemos tvarkytojas nurodomas aplinkos ministro tvirtinamuose Nuotekų tvarkymo informacinės sistemos nuostatuose. ^c3be395582c5a18073e76290
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
 
 
 
 ### KETVIRTASIS SKIRSNIS
-VANDENS TIEKĖJŲ LICENCIJAVIMAS. KVALIFIKACINIAI REIKALAVIMAI
+GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO EKONOMINĖS IR FINANSINĖS PRIEMONĖS
 
 
 
-### 19 straipsnis. Viešojo vandens tiekimo licencijavimas
+### 18 straipsnis. Sąnaudų susigrąžinimo ir „teršėjas moka“ principai
 
 
-1. Viešąjį vandens tiekimą galima vykdyti turint viešojo vandens tiekimo licenciją, išskyrus šio straipsnio 6 dalyje nustatytą išimtį. Savivaldybės teritorijoje išduodama tik viena licencija viešajam vandens tiekimui vykdyti. Kitoks (ne viešasis) geriamojo vandens tiekimas ir nuotekų tvarkymas bei individualus vandens išgavimas ir individualus nuotekų šalinimas nelicencijuojamas. ^49891747301af7db49a8edd9
+1. Geriamojo vandens tiekimo ir nuotekų (įskaitant paviršines nuotekas) tvarkymo paslaugų srityje taikomas sąnaudų susigrąžinimo principas reiškia, kad geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainos turi padengti būtinąsias sąnaudas, reikalingas geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugoms teikti, ilgalaikiam geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros eksploatavimui, renovacijai ir plėtrai užtikrinti, abonentams ir vartotojams priimtinoms sąlygoms naudotis geriamuoju vandeniu ir gauti tinkamos kokybės nuotekų tvarkymo paslaugas sudaryti, taip pat aplinkos taršai mažinti ir vandens ištekliams racionaliai naudoti. ^6ee32e2c71caad348027ab17
 
 
-2. Valstybės ar savivaldybės (savivaldybių) kontroliuojama įmonė, siekianti vykdyti viešąjį vandens tiekimą: ^19c77dce9e8202292aaa2773
-
-
-1) privalo turėti atitinkamus padalinius (specialistus), kurie galėtų organizuoti ir vykdyti geriamojo vandens tiekimą bei tvarkyti nuotekas pagal nustatytus reikalavimus, arba Viešojo vandens tiekimo licencijavimo taisyklėse nurodytai veiklai, susijusiai su geriamojo vandens tiekimu ir nuotekų tvarkymu, vykdyti turi sudaryti sutartį su kita įmone, kuri turi nurodytus padalinius (specialistus) ir sutinka vykdyti geriamojo vandens tiekimą ir tvarkyti nuotekas pagal nustatytus reikalavimus; ^65c1f37ab881e02e4133e30f
-
-
-2) turi laimėti konkursą viešajam vandens tiekimui vykdyti; ^5f8be5a91ad7f4d5c780f0d2
-
-
-3) privalo atitikti kitus Viešojo vandens tiekimo veiklos licencijavimo taisyklėse viešajam vandens tiekėjui nustatytus reikalavimus. ^6861b26176563b43b679aacc
-
-
-3. Valstybės ar savivaldybės (savivaldybių) kontroliuojama įmonė, siekianti gauti viešojo vandens tiekimo licenciją, Viešojo vandens tiekimo veiklos licencijavimo taisyklių nustatyta tvarka pateikia nustatytos formos prašymą ir kitus Viešojo vandens tiekimo veiklos licencijavimo taisyklėse nurodytus dokumentus. ^5139bd971db9b1d57cae6bae
-
-
-4. Viešojo vandens tiekimo licencija neišduodama, jeigu: ^55602a0b77fdcfed9ef2539a
-
-
-1) valstybės ar savivaldybės (savivaldybių) kontroliuojama įmonė neatitinka nustatytų reikalavimų; ^0210a407b0db80c9ced90547
-
-
-2) pateikiami ne visi pagal [[#^5139bd971db9b1d57cae6bae|šio straipsnio 3 dalį]] reikalingi dokumentai; ^fb066fc4d55cac90f055021e
-
-
-3) pateikti dokumentai užpildyti neteisingai ar neatitinka kitų jiems nustatytų reikalavimų; ^2d0187d386b708fd877d261a
-
-
-4) pateiktuose dokumentuose nurodyti klaidingi duomenys. ^553d5ee7563b9ecd8eb1a7d9
-
-
-5. Licencijas išduodanti institucija gali priimti sprendimą sustabdyti licencijos galiojimą Viešojo vandens tiekimo veiklos licencijavimo taisyklėse nustatytam terminui arba licencijos galiojimą panaikinti: ^04a918e14b2dc0f4ce1cd46f
-
-
-1) viešojo vandens tiekėjo prašymu; ^ff0f8d9608f44af1b8d541c2
-
-
-2) jeigu paaiškėja, kad viešasis vandens tiekėjas licencijas išduodančiai institucijai pateikė neteisingus ar suklastotus dokumentus; ^58f5bdd00eaa63d7d801b7df
-
-
-3) jeigu nustatoma, kad viešasis vandens tiekėjas nesilaiko šio įstatymo, Viešojo vandens tiekimo veiklos licencijavimo taisyklių ir kitų teisės aktų nustatytų licencijuojamos veiklos sąlygų; ^95e52a40e0f5623a99bb76dd
-
-
-4) jeigu viešasis vandens tiekėjas vykdo veiklą, nesusijusią su geriamojo vandens tiekimu ir nuotekų tvarkymu; ^39f2d5a6abc3383f0b91d1fa
-
-
-5) jeigu viešasis vandens tiekėjas per du mėnesius nuo Valstybinės kainų ir energetikos kontrolės komisijos sprendimu vienašališkai nustatytų geriamojo vandens ir nuotekų tvarkymo kainų įsigaliojimo nepašalina kainų nustatymo pažeidimų ar kitų aplinkybių, lėmusių vienašališką kainų nustatymą; ^ac93f26241445393272fc6a5
-
-
-6) jeigu viešojo vandens tiekėjo technologiniai, finansiniai ir vadybiniai pajėgumai neleidžia vykdyti licencijuojamos veiklos; ^87aca8023f7c655db5bd7e61
-
-
-7) jeigu viešasis vandens tiekėjas neužtikrina tiekiamo vandens ir visuomenės sveikatos saugos reikalavimų atitikties; ^db969aa942b7d8f6579bcb88
-
-
-8) jeigu viešasis vandens tiekėjas, kuriam licencijos galiojimas buvo sustabdytas, per nustatytą laiką nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas; ^ef8b7c3168070b54d0085a57
-
-
-9) kai viešasis vandens tiekėjas įgyja likviduojamo ar reorganizuojamo juridinio asmens teisinį statusą. 6. Jeigu viešojo vandens tiekimo licencija panaikinama, viešasis vandens tiekimas vykdomas pagal Lietuvos Respublikos koncesijų įstatymo 17 straipsnio 1 punktą, iki šio įstatymo nustatyta tvarka bus parinktas viešasis vandens tiekėjas. ^d5fc50299da2dca25519933f
+2. Nuotekų tvarkymo srityje taikomas principas „teršėjas moka“ reiškia, kad nuotekų (įskaitant paviršines nuotekas) tvarkymo išlaidas turi apmokėti asmenys, kuriems tiekiamas geriamasis vanduo ir (arba) teikiamos nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugos. ^becc3a05c85ab02764d01e00
 
 
 
-### 20 straipsnis. Kvalifikaciniai reikalavimai
+### 19 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo finansavimo šaltiniai
 
 
-1. Vandens tiekėjų darbuotojai, atsakingi už žmonių sveikatai ir (arba) aplinkai pavojingų geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros elementų eksploatavimą, privalo turėti nustatytus reikalavimus atitinkančią kvalifikaciją ir ją patvirtinantį kvalifikacijos atestatą. ^80c287643c7a8bc4c3ab35c5
+1. Pagrindinis geriamojo vandens tiekimo ir nuotekų (išskyrus paviršines nuotekas) tvarkymo finansavimo šaltinis – abonentų ir vartotojų lėšos, sumokėtos už suteiktas geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugas (geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kaina apskaičiuojama pagal šio įstatymo [[#33 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainų nustatymas|33 straipsnį]]). ^d619bcc9ee79d0be524c8182
 
 
-2. Žmonių sveikatai ir (arba) aplinkai pavojingų individualaus vandens išgavimo ir (arba) individualaus nuotekų šalinimo infrastruktūros elementų savininkai arba jų paskirti asmenys, atsakingi už žmonių sveikatai ir (arba) aplinkai pavojingų individualaus vandens išgavimo ir (arba) individualaus nuotekų šalinimo infrastruktūros elementų eksploatavimą, privalo turėti nustatytus reikalavimus atitinkančią kvalifikaciją ir ją patvirtinantį kvalifikacijos pažymėjimą. ^c251d618d02b2cd0f76c70b2
+2. Pagrindinis paviršinių nuotekų tvarkymo finansavimo šaltinis – abonentų lėšos, sumokėtos už suteiktas paviršinių nuotekų tvarkymo paslaugas (paviršinių nuotekų tvarkymo paslaugų kaina apskaičiuojama pagal šio įstatymo [[#33 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainų nustatymas|33 straipsnį]]), ir savivaldybių biudžetų lėšos. ^4014a0d126546934ecc087b5
+
+
+3. Papildomi geriamojo vandens tiekimo ir nuotekų finansavimo šaltiniai gali būti: ^196d0ea25004cc66cee04e54
+
+
+1) kreditai geriamojo vandens tiekimui ir nuotekų, paviršinių nuotekų tvarkymui finansuoti; ^255167afd2f38a05f1a283fb
+
+
+2) Europos Sąjungos struktūrinių fondų lėšos; ^cddd57929b5d08088398e360
+
+
+3) valstybės biudžeto lėšos; ^2a369b53f7758cf82d78b850
+
+
+4) užsienio šalių, tarptautinių organizacijų, finansinių institucijų ir Lietuvos Respublikos asmenų tiksliniai įnašai ir kitos teisės aktų, reguliuojančių finansinius šaltinius, nustatyta tvarka gautos lėšos. ^5e27547f90c760bae3ce5acf
 
 
 
 ### PENKTASIS SKIRSNIS
-VIEŠOSIOS VANDENS TIEKIMO SUTARTYS
+ASMENŲ TEISĖS IR PAREIGOS
 
 
 
-### 21 straipsnis. Viešosios vandens tiekimo sutarties sudarymas ir nutraukimas
+### 20 straipsnis. Geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų teisės ir pareigos
 
 
-1. Viešoji vandens tiekimo sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Civiliniu kodeksu, Geriamojo vandens įstatymu, šiuo įstatymu ir viešosios vandens tiekimo sutarties standartinėmis sąlygomis. Viešųjų vandens tiekimo sutarčių standartinėse sąlygose turi būti nurodyta: sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo tvarka bei sąlygos, geriamojo vandens ir nuotekų tvarkymo kainos nustatymo tvarka, vartotojo atsiskaitymo už geriamąjį vandenį ir už nuotekų tvarkymo paslaugas tvarka, šalių teisės, pareigos bei atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka. Viešosios vandens tiekimo sutarties standartinės sąlygos yra privalomos abiem šalims, tačiau viešojoje vandens tiekimo sutartyje gali būti nustatomos ir abiem šalims priimtinos bei teisės aktų nuostatoms neprieštaraujančios individualiai šalių aptartos sąlygos. ^de65ab933ad54bdccd4d6476
+1. Geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas turi teisę: ^6ee11ac3982f6b784324c18f
 
 
-2. Asmuo, pageidaujantis sudaryti viešąją vandens tiekimo sutartį, pateikia viešajam vandens tiekėjui prašymą raštu. ^97a7612528dbdd8fe7d0915a
+1) naudoti vandens išteklius, vadovaudamasis Vandens įstatyme numatytais reikalavimais, susijusiais su vandens telkinių naudojimu vandeniui išgauti; ^621bac3c63c1705c0ba00b9c
 
 
-3. Kai viešasis vandens tiekėjas įgyja teisę ir pareigą vykdyti viešąjį vandens tiekimą teritorijose, kuriose geriamojo vandens tiekimas buvo vykdomas ir (arba) nuotekų tvarkymo paslaugos teikiamos kitų geriamojo vandens tiekėjų ir (arba) nuotekų tvarkytojų, jis, nenutraukdamas geriamojo vandens tiekimo ir nuotekų tvarkymo, per 3 mėnesius privalo pateikti pasiūlymą sudaryti viešąsias vandens tiekimo sutartis buvusio vandens tiekėjo abonentams (vartotojams). Iki viešųjų vandens tiekimo sutarčių sudarymo geriamojo vandens tiekimas vykdomas ir (arba) nuotekų tvarkymo paslaugos teikiamos pagal buvusio vandens tiekėjo su abonentais (vartotojais) sudarytų sutarčių dėl geriamojo vandens pirkimo-pardavimo ir (arba) nuotekų tvarkymo sąlygas. ^f8cdc607f4269c4c7ca4693f
+2) pagal sutartį su valstybės įmone „Registrų centras“ gauti pagal Lietuvos Respublikos gyventojų registro duomenis parengtą informaciją apie gyvenamosiose patalpose gyvenamąją vietą deklaravusių asmenų skaičių. Geriamojo vandens tiekėjas, vadovaudamasis Gyventojų registro pateiktais duomenimis, turi teisę perskaičiuoti vartotojo geriamojo vandens tiekėjui mokėtinas sumas už praėjusį informavimo pareigos nevykdymo ataskaitinį laikotarpį ir atlikto perskaičiavimo pagrindu parengti mokėjimo dokumentą bei jį pateikti vartotojui; ^348a36f4912b30fd93231176
 
 
-4. Abonentas, savo iniciatyva nutraukęs viešąją vandens tiekimo sutartį, išskyrus atvejus, kai sutartis nutraukiama dėl viešojo vandens tiekėjo kaltės arba sutartį nutraukia vartotojas, turi kompensuoti viešajam vandens tiekėjui viešajai sutarčiai dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo vykdyti viešojo vandens tiekėjo pastatytos infrastruktūros statybos išlaidas, įvertinus liekamąją vertę. Taip pat viešasis vandens tiekėjas, nutraukdamas viešąją vandens tiekimo sutartį ar neįvykdydamas savo sutartinių įsipareigojimų, įstatymų nustatyta tvarka turi kompensuoti abonentui visas su tuo susijusias išlaidas. ^a6f71f249c7df02c0d8837f9
+3) nutraukti geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimą šio įstatymo [[#^17e6999eadc247a0d76151cf|31 straipsnio 4 dalyje]] ir Vyriausybės tvirtinamame viešosios sutarties standartinių sąlygų apraše nustatytais atvejais; ^622ee2be38002d93fa0676e5
 
 
-5. Jei asmuo nėra pasirašęs viešosios vandens tiekimo sutarties, tačiau jam nuosavybės teise priklausantys arba kitaip teisėtai valdomi ar naudojami geriamojo vandens naudojimo ir nuotekų šalinimo įrenginiai yra prijungti prie viešojo vandens tiekėjo vandens tiekimo ir nuotekų tvarkymo infrastruktūros, viešoji vandens tiekimo sutartis laikoma sudaryta pagal Vyriausybės nustatytas viešosios vandens tiekimo sutarties standartines sąlygas. ^1e5420c7d974cacd3d0c24c7
+4) už papildomą užmokestį atlikti pastatų vidaus vandentiekio sistemų rizikos vertinimą; ^5fd861999d66f63ae4e18a7a
+
+
+5) nustatęs, kad abonento išleidžiamų nuotekų, paviršinių nuotekų užterštumas viršijo viešojoje sutartyje nustatytą teršiančios medžiagos leidžiamą išleidžiamų nuotekų, paviršinių nuotekų užterštumą arba išleistos nedeklaruotos teršiančios medžiagos tris ar daugiau kartų per šešis mėnesius arba šešis ir daugiau kartų per dvylika mėnesių, arba nustatęs, kad abonentas nesilaiko taršos mažinimo plano arba neįgyvendina jame numatytų taršos mažinimo priemonių, savo nuožiūra taikyti poveikio priemones, apie tai Vyriausybės tvirtinamame viešosios sutarties standartinių sąlygų apraše nustatyta tvarka pranešęs abonentui raštu: vienašališkai nustatyti abonentui leidžiamą išleidžiamų nuotekų, paviršinių nuotekų užterštumą, laikinai sustabdyti paslaugų teikimą arba vienašališkai nutraukti viešąją sutartį. ^1ffc334b5786756e3710dfe5
+
+
+2. Geriamojo vandens tiekėjas, garantinis vandens tiekėjas privalo: ^93df342acad5d9b61a90fb87
+
+
+1) teikti informaciją visuomenei, valstybės ir savivaldybių institucijoms pagal šio įstatymo [[#37 straipsnis. Informacijos teikimas visuomenei, valstybės ir savivaldybių institucijoms|37 straipsnyje]] nustatytus reikalavimus; ^51a8f7d38900765465ae639e
+
+
+2) vykdyti geriamojo vandens ir nuotekų, paviršinių nuotekų stebėseną, tvarkyti apskaitą ir teikti geriamojo vandens ir nuotekų, paviršinių nuotekų stebėsenos duomenis aplinkos ministro nustatyta tvarka; ^ec17f6459a826f2cc7d76581
+
+
+3) užtikrinti geriamojo vandens saugą ir kokybę iki geriamojo vandens tiekimo ir vartojimo ribos; ^4beb22ee49b57125d1245ddf
+
+
+4) aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse, Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka naudoti, prižiūrėti ir atnaujinti nuosavybės teise ar kitaip teisėtai valdomą ir (arba) naudojamą geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, paviršinių nuotekų tvarkymo infrastruktūrą, bešeimininkę infrastruktūrą, naudojamą viešojo geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugoms teikti, kitą valdomą turtą, reikalingą geriamajam vandeniui tiekti ir nuotekoms, paviršinėms nuotekoms tvarkyti; ^74a6bbf69fe42ecaecf86440
+
+
+5) nepertraukiamai tiekti geriamąjį vandenį ir teikti nuotekų tvarkymo paslaugas, vadovaudamasis aplinkos ministro nustatytais geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimais, išskyrus atvejus, numatytus Vyriausybės tvirtinamame viešosios sutarties standartinių sąlygų apraše, kituose geriamojo vandens tiekimą ir nuotekų tvarkymą reglamentuojančiuose teisės aktuose ir (ar) geriamojo vandens tiekėjo su abonentais sudarytose viešosiose sutartyse; ^f65b6f4397463ae760153ab6
+
+
+6) teikti geriamojo vandens tiekimo ir nuotekų, paviršinių nuotekų tvarkymo paslaugas šio įstatymo [[#33 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainų nustatymas|33 straipsnyje]] nustatyta tvarka apskaičiuotomis kainomis; ^edda6d223fa05342a720293e
+
+
+7) viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas privalo pasiūlyti individualiųjų nuotekų turėtojui sudaryti viešąją sutartį dėl individualiųjų nuotekų transportavimo ir teikti nuotekų tvarkymo paslaugas arba nurodyti nuotekų transportavimo paslaugas teikiančius asmenis. Individualiųjų nuotekų turėtojui atsisakius sudaryti viešąją sutartį, už suteiktas nuotekų tvarkymo paslaugas išrašomas apmokėjimą už sukauptų nuotekų transportavimą patvirtinantis dokumentas; ^4cedb4ae50b99c71d1c8a53b
+
+
+8) sudaryti nuotekų tvarkymo sutartis su nuotekų transportavimo paslaugas teikiančiais asmenimis; ^9d9371ac791ab83e8b53e634
+
+
+9) Lietuvos Respublikos žemės gelmių įstatyme, Aplinkos apsaugos įstatyme nustatyta tvarka gauti leidimą (leidimus) išgauti vandens išteklius, į aplinką išleisti nuotekas, paviršines nuotekas; ^a7121185b58e4b86ee748bc3
+
+
+10) informuoti Valstybinę maisto ir veterinarijos tarnybą apie visas jo valdomas geriamojo vandens vandenvietes ir iš jų tiekiamu geriamuoju vandeniu aprūpinamas geriamojo vandens tiekimo teritorijas; ^7d07d378900a9f9b0e2f6f00
+
+
+11) užtikrinti, kad išvalytos nuotekos atitiktų taršos leidime arba taršos integruotos prevencijos ir kontrolės leidime nustatytus keliamus reikalavimus; ^750a346cfa3faaf077bc5a7b
+
+
+12) siekdamas užtikrinti individualiųjų nuotekų tvarkymo priežiūrą, aplinkos ministro nustatyta tvarka teikti Nuotekų tvarkymo informacinėje sistemoje informaciją apie asmenis, kurie gauna nuotekų transportavimo paslaugas; ^7b30783f93d6663c25846062
+
+
+13) viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas privalo aglomeracijose tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas centralizuotomis geriamojo vandens tiekimo ir (arba) nuotekų surinkimo sistemomis, išskyrus šio įstatymo [[#^8f9c9105ec4b561370c34e43|12 straipsnio 3 dalyje]] nustatytą atvejį; ^0a388042864702b5eacfd92c
+
+
+14) daugiabučio namo įvade, pastato vidaus vandentiekio sistemoje įrengti geriamojo vandens mėginių paėmimo vietą, skirtą geriamojo vandens saugai ir kokybei tikrinti; ^d91bcc6f2f741026f990f98e
+
+
+15) vykdyti geriamojo vandens tiekimo sistemos rizikos vertinimą ir rizikos valdymą sveikatos apsaugos ministro ir aplinkos ministro nustatyta tvarka; ^f69347f3fa2eafd31bbacd28
+
+
+16) vykdyti geriamojo vandens stebėseną sveikatos apsaugos ministro nustatyta tvarka; ^02415c34f33130300ddcfeb5
+
+
+17) nutiesęs geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, įrengęs vandentiekio įvadą, nuotekų išvadą iki turto ribos, taip pat ir kitu teisės aktuose nustatytu būdu įgijęs teisę į geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, vandentiekio įvadą, nuotekų išvadą iki turto ribos, privalo per 10 darbo dienų nuo statybos užbaigimo įregistravimo dienos arba nuo šios teisės įgijimo dienos registruotu laišku arba kitomis informavimo priemonėmis, kurias naudojant saugomi įrodymai apie atliktą informavimą, informuoti asmenį apie tai, kad asmuo turi sudaryti sąlygas prijungti jam nuosavybės teise priklausančią geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūrą prie viešojo vandens tiekėjo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros, nurodydamas 9 mėnesių laikotarpį, iki kurio pabaigos asmuo turi sudaryti šias sąlygas; ^b1a487ee09bc4f80c332b24b
+
+
+18) savo interneto svetainėje pateikti rekomendacijas, kaip sumažinti geriamojo vandens suvartojimą ir išvengti stovinčio geriamojo vandens keliamos rizikos žmonių sveikatai; ^e19e66ca6e1190b13e492043
+
+
+19) viešai skelbti gyventojams informaciją, kokių veiksmų reikia imtis, kai paaiškėja, kad geriamąjį vandenį galimai nesaugu naudoti, imasi priemonių geriamojo vandens saugai atkurti jam nuosavybės teise priklausančioje ar kitaip valdomoje ir (arba) naudojamoje geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūroje ir užtikrina alternatyvų geriamojo vandens tiekimą. Geriamojo vandens tiekėjas privalo atlyginti dėl aplinkos ministro nustatytų geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimų neatitinkančių paslaugų teikimo atsiradusius nuostolius; ^0bb9457a71e3937d42d587f8
+
+
+20) geriamojo vandens tiekėjas privalo sudaryti sąlygas paskirtam garantiniam vandens tiekėjui naudoti valdomą geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūrą, kai įsigalioja Valstybinės energetikos reguliavimo tarybos priimtas sprendimas panaikinti geriamojo vandens tiekėjui išduotos licencijos galiojimą; ^2a39af8837245cc68cab7bca
+
+
+21) tvarkyti geriamojo vandens tiekimo teritorijų erdvinius duomenis. ^fa6f203a950e88f08735da04
+
+
+3. Asmuo, tiekiantis geriamąjį vandenį, bet neteikiantis nuotekų tvarkymo paslaugų, turi vykdyti [[#^93df342acad5d9b61a90fb87|šio straipsnio 2 dalies]] 1–6, 9, 10, 14, 15, 16, 18 ir 19 punktuose priskirtas pareigas, susijusias su geriamojo vandens tiekimu. ^5b1f5b3e91163374df00167d
+
+
+4. Paviršinių nuotekų tvarkytojai turi vykdyti [[#^93df342acad5d9b61a90fb87|šio straipsnio 2 dalies]] 1, 2, 4, 6 ir 9 punktuose nurodytas pareigas. ^6cdce3dd509add21bb41fbf8
+
+
+
+### 21 straipsnis. Nuotekų valymo ir (arba) kaupimo įrenginius prižiūrinčių asmenų, nuotekų transportavimo ir nuotekų tvarkymo paslaugas teikiančių asmenų teisės ir pareigos ir šiems asmenims taikomi reikalavimai
+
+
+1. Nuotekų transportavimo paslaugas gali teikti geriamojo vandens tiekėjai, garantiniai vandens tiekėjai ir kiti asmenys, kurie nuosavybės teise ar kitaip teisėtai valdo nuotekoms transportuoti reikalingus įrenginius ir transportą, šią veiklą įregistravę Nuotekų tvarkymo informacinėje sistemoje aplinkos ministro nustatyta tvarka. ^aee31c2b97c163f5134cefbe
+
+
+2. Jeigu nuotekų transportavimo paslaugas teikia ne geriamojo vandens tiekėjas arba garantinis vandens tiekėjas, nuotekų transportavimo paslaugas teikiantys asmenys privalo su geriamojo vandens tiekėju arba garantiniu vandens tiekėju sudaryti sutartį dėl individualiųjų nuotekų išleidimo į šio geriamojo vandens tiekėjo arba garantinio vandens tiekėjo valdomą nuotekų tvarkymo infrastruktūrą ir sutartis su asmenimis, kuriems teikia nuotekų transportavimo paslaugas. Nuotekų transportavimo paslaugų sutartys sudaromos pagal Vyriausybės tvirtinamame viešosios sutarties standartinių sąlygų apraše nustatytus reikalavimus ir registruojamos Nuotekų tvarkymo informacinėje sistemoje. Individualiųjų nuotekų turėtojui atsisakius sudaryti nuotekų transportavimo paslaugų sutartį arba viešąją sutartį dėl individualiųjų nuotekų transportavimo, už suteiktas nuotekų tvarkymo paslaugas išrašomas apmokėjimą už sukauptų nuotekų transportavimą patvirtinantis dokumentas. Už individualiųjų nuotekų išleidimą į geriamojo vandens tiekėjo, garantinio vandens tiekėjo infrastruktūrą nuotekų transportavimo paslaugas teikiantys asmenys apmoka geriamojo vandens tiekėjui, garantiniam vandens tiekėjui. ^be4c9972af94873fe6df45e3
+
+
+3. Asmenys, netiekiantys geriamojo vandens, tačiau teikiantys nuotekų tvarkymo paslaugas,  gali išleisti išvalytas nuotekas į aplinką, vadovaudamiesi Vandens įstatyme nustatytais nuotekų išleidimo reikalavimais. ^9c4c9dcc5658334e1c2765e1
+
+
+4. Asmenys, netiekiantys geriamojo vandens, tačiau teikiantys nuotekų tvarkymo paslaugas, privalo: ^47016250bbc98b8250812d45
+
+
+1) teikti informaciją visuomenei, valstybės ir savivaldybių institucijoms pagal šio įstatymo [[#37 straipsnis. Informacijos teikimas visuomenei, valstybės ir savivaldybių institucijoms|37 straipsnyje]] nustatytus reikalavimus; ^aab8833f98be970af3a28f4a
+
+
+2) vykdyti nuotekų tvarkymo stebėseną, tvarkyti apskaitą ir teikti nuotekų tvarkymo stebėsenos duomenis aplinkos ministro nustatyta tvarka; ^f695c76e98375c4dbe789641
+
+
+3) aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse, Statybos įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka naudoti ir prižiūrėti nuosavybės teise ar kitaip teisėtai valdomą ir (arba) naudojamą nuotekų tvarkymo infrastruktūrą ir kitą valdomą turtą, reikalingą nuotekoms tvarkyti; ^1274bcbe4f0c87a301e974ef
+
+
+4) teikti nuotekų tvarkymo paslaugas pagal aplinkos ministro nustatytus geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimus; ^7cbceeddb308a3d14453330c
+
+
+5) teikti nuotekų tvarkymo paslaugas šio įstatymo [[#33 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainų nustatymas|33 straipsnyje]] nustatyta tvarka apskaičiuotomis kainomis; ^33f383a8114be5adb29cabdc
+
+
+6) aglomeracijos teritorijoje surinktas nuotekas perduoti tik į tos pačios aglomeracijos nuotekų valymo įrenginius; ^fa71b6e46df6e12cfba2bc2b
+
+
+7) siekdami užtikrinti individualiųjų nuotekų tvarkymo priežiūrą, aplinkos ministro nustatyta tvarka teikti informaciją apie asmenis, su kuriais pasirašytos individualiųjų nuotekų tvarkymo priežiūros ir (arba) nuotekų ir (arba) valant nuotekas susidariusių atliekų (dumblo) išvežimo sutartys. ^befca6b75ad7b9496b228932
+
+
+5. Siekdami užtikrinti individualiųjų nuotekų tvarkymo priežiūrą, nuotekų valymo ir (arba) kaupimo įrenginius įrengiantys ir (arba) prižiūrintys asmenys aplinkos ministro nustatyta tvarka privalo teikti informaciją apie įrengtų nuotekų valymo įrenginių skaičių ir jų įrengimo vietą. ^7bdee783a66146b5271e155d
+
+
+6. Nuotekų valymo ir (arba) kaupimo įrenginius įrengiantys ir (arba) prižiūrintys asmenys turi teisę iš individualius nuotekų valymo įrenginius eksploatuojančių asmenų tokiuose įrenginiuose susidarantį perteklinį dumblą paimti ir panaudoti tik naujų nuotekų valymo įrenginių perdavimui  eksploatuoti, eksploatuojamų nuotekų valymo įrenginių remontui (reikiamo dumblo kiekiui papildyti), likusį perteklinį ir veikloje nepanaudotą dumblą privalo perduoti nuotekų transportavimo paslaugas teikiančiam asmeniui, geriamojo vandens tiekėjui ar garantiniam vandens tiekėjui. ^369211f2593fb37e9dd3e03b
+
+
+
+### 22 straipsnis. Abonentų ir vartotojų teisės ir pareigos
+
+
+1. Abonentai ir vartotojai turi teisę: ^aecfcad27a53ed6debedb09f
+
+
+1) išleisti nuotekas į geriamojo vandens tiekėjo, garantinio vandens tiekėjo nuosavybės teise ar kitaip valdomą ir (arba) naudojamą nuotekų tvarkymo infrastruktūrą pagal viešojoje sutartyje nustatytas sąlygas ir aplinkos ministro nustatytus naujų abonentų ir vartotojų prijungimo prie geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros reikalavimus; ^004eb9c1103085ebeed80699
+
+
+2) nutraukti viešąją sutartį vienašališkai, apie tai pranešę geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui prieš 30 kalendorinių dienų, jeigu yra visiškai atsiskaitę už suvartotą geriamąjį vandenį ir (ar) nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugas ir geriamojo vandens tiekėjo, garantinio vandens tiekėjo, taip pat ir paviršinių nuotekų tvarkytojo infrastruktūra nesinaudoja; daugiabučio namo butų ir kitų patalpų savininkas šią teisę gali įgyvendinti tik tuo atveju, jeigu toks viešosios sutarties nutraukimas nesutrukdys gauti geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugas kitų to namo butų ir kitų patalpų savininkams; ^4733df72f460c5b37d4d4742
+
+
+3) kreiptis į teismą, jeigu mano, kad geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas pažeidė iš sutartinių santykių kylančias teises dėl geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų teikimo. ^e5a5ce1544abd8e829031268
+
+
+2. Abonentai ir vartotojai: ^ffe9db45fa660a57ae8d208d
+
+
+1) šio įstatymo [[#^5614b325565d549f89126f80|16 straipsnio 25 dalyje]] nustatyta tvarka suderinus datą ir laiką, privalo įleisti į jiems nuosavybės teise priklausantį butą (patalpas), bendrojo naudojimo patalpas ar teritoriją geriamojo vandens tiekėjo, garantinio vandens tiekėjo įgaliotą atstovą, pateikusį geriamojo vandens tiekėjo, garantinio vandens tiekėjo išduotą darbuotojo darbo pažymėjimą, atlikti geriamojo vandens apskaitos prietaisų ir (arba) nuotekų apskaitos prietaisų įrengimą, pakeitimą, priežiūrą, patikrinti vandentiekio įvadą ir (arba) nuotekų išvadą, sustabdyti geriamojo vandens tiekimą įsiskolinusiam asmeniui, paimti nuotekų mėginius ir sudaryti sąlygas atlikti geriamojo vandens apskaitos prietaisų ir (arba) nuotekų apskaitos prietaisų priežiūros, keitimo, remonto ir duomenų nurašymo darbus; ^d3876356ad96ede0c7409d95
+
+
+2) aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatyta tvarka privalo naudoti, prižiūrėti ir remontuoti nuosavybės teise priklausančius ar kitaip teisėtai valdomus ir (arba) naudojamus geriamojo vandens įrenginius, geriamajam vandeniui tiekti reikalingas komunikacijas ir (arba) nuotekų šalinimo įrenginius, paviršinių nuotekų šalinimo įrenginius; ^ea8284611042c74b518ae2ce
+
+
+3) Vyriausybės tvirtinamame atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos apraše bei viešosios sutarties standartinių sąlygų apraše ir viešosiose sutartyse nustatyta tvarka privalo atsiskaityti su geriamojo vandens tiekėju, garantiniu vandens tiekėju, paviršinių nuotekų tvarkytoju už suteiktas geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugas; ^7d8d1d314bec2ed2c8a974ba
+
+
+4) abonentai privalo pasitvirtinti avarinių situacijų likvidavimo tvarkos aprašą, kad nevalytos nuotekos nepatektų į aplinką; ^b34443506b9e0ef9f302872b
+
+
+5) ne vėliau kaip per vieną darbo dieną privalo pranešti geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui apie pastebėtą avariją, gaisrą, geriamojo vandens apskaitos prietaisų ir (ar) nuotekų apskaitos prietaisų gedimą ar kitokius pažeidimus naudojant geriamąjį vandenį, išleidžiant nuotekas, paviršines nuotekas; ^540fcf0ad71c8f7681c51da1
+
+
+6) privalo neišleisti į geriamojo vandens tiekėjo, garantinio vandens tiekėjo eksploatuojamą nuotekų tvarkymo infrastruktūrą, paviršinių nuotekų tvarkytojo eksploatuojamą paviršinių nuotekų tvarkymo infrastruktūrą nuodingų medžiagų ar jų mišinių, galinčių sukelti sprogimą, užkimšti tinklus ar kitaip sutrikdyti infrastruktūros darbą, ar kitokių sutartyje nenumatytų medžiagų ar jų mišinių; ^21fd31f6292c30014d7b1693
+
+
+7) abonentas, sudarydamas viešąją sutartį arba matydamas, kad dėl veiklos pokyčių kinta nuotekų sudėtis ir kiekis, privalo raštu pranešti geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui labiausiai tikėtinas, dažniausiai abonento veikloje pasitaikančias nuotekų teršalų koncentracijas; ^6ce76f02161ed58526fd00f7
+
+
+8) abonentas, savo veikloje naudojantis chemines medžiagas ar preparatus, kurie nuotekomis patenka arba gali patekti į centralizuotąją nuotekų surinkimo sistemą, privalo vadovautis konkrečios cheminės medžiagos ar preparato saugos duomenų lapo nuostatomis, jeigu kituose teisės aktuose cheminei medžiagai ar preparatui nenustatyti kitokie reikalavimai; privalo informuoti geriamojo vandens tiekėją, garantinį vandens tiekėją apie planuojamas išleisti chemines medžiagas ar preparatus, suderinti su jais šį klausimą ir išleidimo sąlygas nustatyti viešojoje sutartyje; ^28dd7022c070d54697e7ea94
+
+
+9) abonentai privalo vykdyti išleidžiamų nuotekų ir teršalų stebėseną, tvarkyti jų apskaitą, teikti išleistų nuotekų ir teršalų stebėsenos duomenis aplinkos ministro nustatyta tvarka; ^15a00cb4b32522700596b249
+
+
+10) abonentai privalo sudaryti sąlygas geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui bet kuriuo paros metu viešojoje sutartyje nurodytoje mėginių paėmimo vietoje arba ties nuotekų, paviršinių nuotekų atidavimo riba paimti išleidžiamų nuotekų mėginius, įrengti vietą automatiniam nuotekų mėginių semtuvui pastatyti, kai geriamojo vandens tiekėjas teikia padidėjusios ir savitosios taršos nuotekų tvarkymo paslaugas. Jeigu abonentas nesudaro galimybės bet kuriuo paros metu viešojoje sutartyje nurodytoje mėginių paėmimo vietoje arba ties nuotekų, paviršinių nuotekų atidavimo riba paimti išleidžiamų nuotekų mėginius, nuotekų mėginys imamas tik tada, kai nuotekų mėginio paėmime dalyvauja ir nuotekų mėginio paėmimo aktą kartu su geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinio nuotekų tvarkytojo įgaliotu atstovu pasirašo savivaldybės arba policijos pareigūnas arba antstolis, kuris konstatuoja abonento nuotekų mėginio paėmimo faktines aplinkybes ir surašo faktinių aplinkybių konstatavimo protokolą. Abonento nedalyvavimo ir (arba) atsisakymo dalyvauti faktas nurodomas nuotekų mėginio paėmimo akte. Siekiant nustatyti, ar neviršijamas abonentui leidžiamas išleidžiamų nuotekų užterštumas, nuotekų užterštumas, kuris negali būti viršytas dėl nuotekų tvarkymo infrastruktūros galimybių, paviršinių nuotekų atveju – abonentui leidžiamas išleidžiamų paviršinių nuotekų užterštumas, gali būti imami momentiniai mėginiai. Šių tyrimų rezultatai naudojami sprendžiant dėl šio įstatymo [[#^5196144d22f7f5201bfdbb64|39 straipsnio 20 dalyje]] nustatytų baudų už sutartinių sąlygų, numatytų viešojoje sutartyje, nesilaikymą skyrimo; ^004ceacc8ec1510bf2120173
+
+
+11) abonentai privalo apmokėti už mėginio paėmimą ir nuotekų mėginio tyrimus, padengti geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo išlaidas už antstolio faktinių aplinkybių konstatavimą, kai nustatoma didelė tarša, nuotekų užterštumas, kuris negali būti viršytas dėl nuotekų tvarkymo infrastruktūros galimybių, kai viršijamas leidžiamas išleidžiamų nuotekų, paviršinių nuotekų užterštumas (bent vienos teršiančios medžiagos leistina ribinė vertė) ar kai nustatomas viešojoje sutartyje nedeklaruotų teršiančių medžiagų išleidimas, padengti geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo išlaidas už antstolio faktinių aplinkybių konstatavimą, kai abonentas pažeidžia [[#^004ceacc8ec1510bf2120173|šios dalies 10 punkte]] numatytą pareigą; ^6c0e8b9ca7d6bbc434322f2a
+
+
+12) abonentai, nustačius šio įstatymo [[#^5196144d22f7f5201bfdbb64|39 straipsnio 20 dalies]] 2–[[#^540fcf0ad71c8f7681c51da1|5 punktuose]] nurodytus pažeidimus, geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo reikalavimu privalo per 3 mėnesius parengti taršos mažinimo planą ir parengę per 6 mėnesius jį įgyvendinti. Vieną taršos mažinimo plano egzempliorių abonentas privalo pateikti geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui. Abonentui per šioje dalyje nurodytą terminą nepateikus taršos mažinimo plano arba neįgyvendinus jame numatytų taršos mažinimo priemonių, geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas turi teisę laikinai nepriimti nuotekų iš abonento tol, kol bus įgyvendintos taršos mažinimo plane numatytos priemonės; ^220b5b708fe239366b393dc8
+
+
+13) vartotojas, gavęs šio įstatymo [[#^348a36f4912b30fd93231176|20 straipsnio 1 dalies 2 punkte]] nurodytą ir geriamojo vandens tiekėjo, garantinio vandens tiekėjo pateiktą mokėjimo dokumentą, privalo jį apmokėti per 10 darbo dienų nuo mokėjimo dokumento gavimo dienos. ^e96effc1b360cab964aa832b
+
+
+
+### 23 straipsnis. Asmenų, individualiai apsirūpinančių geriamuoju vandeniu ir (arba) individualiai tvarkančių nuotekas, teisės ir pareigos
+
+
+1. Asmenys, individualiai apsirūpinantys geriamuoju vandeniu ir (arba) individualiai tvarkantys nuotekas, turi teisę: ^a0362a529a06d7ed9c525136
+
+
+1) išgauti geriamąjį vandenį ir (arba) individualiai tvarkyti nuotekas savivaldybės teritorijoje, nepriskirtoje viešojo geriamojo vandens tiekimo teritorijai; ^eaca2e55ec1f0777fef9c857
+
+
+2) viešojo geriamojo vandens tiekimo teritorijoje individualiai išgauti ir naudoti geriamąjį vandenį ir (arba) individualiai tvarkyti nuotekas, kai individualusis geriamojo vandens išgavimas, naudojimas ir (ar) individualusis nuotekų tvarkymas buvo vykdomas iki viešojo geriamojo vandens tiekimo teritorijos nustatymo ir atitinka įstatymuose ir kituose teisės aktuose nustatytus geriamojo vandens išgavimo ir nuotekų tvarkymo, nuotekų tvarkymo įrenginių priežiūros, geriamojo vandens saugos ir kokybės, sveikatos apsaugos ir aplinkos apsaugos reikalavimus; ^28b536d6a0e3cf813faf284b
+
+
+3) viešojo geriamojo vandens tiekimo teritorijoje individualiai išgauti ir naudoti geriamąjį vandenį ir (arba) individualiai tvarkyti nuotekas, kai teritorijų planavimo dokumentuose numatyta geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtra neįvykdyta arba individualusis geriamojo vandens išgavimas, naudojimas ir (ar) individualusis nuotekų tvarkymas numatytas infrastruktūros plėtros plane; ^744e5c3674a7f556014eff5f
+
+
+4) nuosavybės teise priklausančius ar kitaip valdomus ir (arba) naudojamus geriamojo vandens naudojimo įrenginius, geriamajam vandeniui tiekti reikalingas komunikacijas ir (arba) nuotekų tvarkymo, paviršinių nuotekų tvarkymo įrenginius prijungti prie geriamojo vandens tiekėjo valdomos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros, paviršinių nuotekų tvarkytojo infrastruktūros, kaip nustatyta šio įstatymo [[#16 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros statyba, priežiūra ir naudojimas|16 straipsnio]] 19 ir 20 dalyse. ^a6b44ce59d5525a648d80620
+
+
+2. Asmenys, individualiai apsirūpinantys geriamuoju vandeniu ir (arba) individualiai tvarkantys nuotekas, privalo: ^d8c8046b7159e93d120f98cd
+
+
+1) geriamajam vandeniui išgauti skirtą požeminio vandens gręžinį projektuoti, įrengti, konservuoti ir likviduoti aplinkos ministro nustatyta tvarka; ^31fe66df8f32a469277b1ad5
+
+
+2) teikti informaciją apie nuotekų valymo arba kaupimo įrenginius aplinkos ministro nustatyta tvarka; ^3abdfe6b432126aeea406f4a
+
+
+3) ne rečiau kaip vieną kartą per kalendorinius metus savo lėšomis organizuoti į aplinką išleidžiamų nuotekų laboratorinę kontrolę laboratorijose, turinčiose teisę atlikti individualiems nuotekų valymo įrenginiams pagal aplinkos ministro tvirtinamą nuotekų tvarkymo reglamentą privalomų parametrų tyrimus. Laboratorijos, atlikusios mėginių tyrimus, jų rezultatus per vieną darbo dieną paskelbia Nuotekų tvarkymo informacinėje sistemoje; ^1608ea979079832a03db7882
+
+
+4) per 9 mėnesius nuo geriamojo vandens tiekėjo, garantinio vandens tiekėjo registruotu laišku arba kitomis informavimo priemonėmis, kurias naudojant saugomi įrodymai apie atliktą informavimą, gauto pranešimo dienos sudaryti sąlygas (gauti iš geriamojo vandens tiekėjo, garantinio vandens tiekėjo prisijungimo sąlygas, nutiesti geriamojo vandens, tiekimo ir (arba) nuotekų išleidimo tinklus nuosavybės teise ar kitais pagrindais valdomame žemės sklype) prijungti jiems nuosavybės teise priklausančią ar kitaip valdomą ir (arba) naudojamą geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūrą prie geriamojo vandens tiekėjo, garantinio vandens tiekėjo nuosavybės teise priklausančios ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros, kai, vadovaujantis šio įstatymo, Statybos įstatymo ir kitų teisės aktų reikalavimais, yra sukurta infrastruktūra, ji nuosavybės teise priklauso savivaldybei ar geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, vandentiekio įvadas, nuotekų išvadas nutiesti iki turto ribos (vandentiekio šulinys, nuotekų priėmimo šulinys, nuotekų siurblinė (kai yra slėginė nuotekų linija), individualaus namo nuotekų valykla, žemės sklypo riba ar statinio, ar daugiabučio namo įvadas, nuotekų išvadas) ir kai teisės aktų, reguliuojančių geriamojo vandens išgavimo ir (arba) nuotekų tvarkymo reikalavimų ir nuotekų tvarkymo įrenginių priežiūrą, nustatyta tvarka nustatoma, kad asmens vykdomas individualus apsirūpinimas geriamuoju vandeniu ir (ar) nuotekų tvarkymas neatitinka teisės aktuose nustatytų geriamojo vandens išgavimo ir (arba) nuotekų tvarkymo reikalavimų ir nuotekų tvarkymo įrenginių priežiūros reikalavimų. Ši pareiga galioja, kai yra visos šiame punkte išvardytos aplinkybės; ^f56ef216d39a625b00f36f1b
+
+
+5) užtikrinti individualiųjų nuotekų tvarkymo įrenginių priežiūrą (eksploataciją) aplinkos ministro tvirtinamuose nuotekų tvarkymo reglamente, nuotekų valymo įrenginių taikymo reglamente ir nuotekų kaupimo rezervuarų ir septikų įrengimo, eksploatavimo ir kontrolės tvarkos apraše nustatyta tvarka, kai tokie įrenginiai įrengti ir naudojami, ir sudaryti viešąją sutartį su geriamojo vandens tiekėju, garantiniu vandens tiekėju arba sutartį su nuotekų transportavimo paslaugas teikiančiu asmeniu dėl nuotekų ir (arba) nuotekų valymo metu susidarančių atliekų (dumblo) transportavimo į geriamojo vandens tiekėjo, garantinio vandens tiekėjo valdomus nuotekų valymo įrenginius ir (arba) sudaryti sutartį dėl individualiųjų nuotekų valymo ar kaupimo įrenginių priežiūros su nuotekų valymo ir (arba) kaupimo įrenginius prižiūrinčiu asmeniu, sudariusiu ir turinčiu galiojančią sutartį su geriamojo vandens tiekėju, garantiniu vandens tiekėju dėl nuotekų perteklinio dumblo perdavimo geriamojo vandens tiekėjui, garantiniam vandens tiekėjui. Saugoti nuotekų transportavimo į geriamojo vandens tiekėjo, garantinio vandens tiekėjo valdomus nuotekų valymo įrenginius apmokėjimą patvirtinančius dokumentus 3 metus nuo jų išrašymo dienos; ^3e2e5eaeeb6f02f3cf55a6ee
+
+
+6) atiduoti nuotekas ir (arba) nuotekų valymo metu susidarančias atliekas (dumblą) geriamojo vandens tiekėjui, garantiniam vandens tiekėjui arba geriamojo vandens tiekėjo, garantinio vandens tiekėjo nurodytam nuotekų transportavimo paslaugas teikiančiam  asmeniui arba individualiųjų nuotekų valymo ir (arba) kaupimo įrenginių priežiūrą vykdančiam asmeniui, sudariusiam ir turinčiam galiojančią sutartį su geriamojo vandens tiekėju, garantiniu vandens tiekėju dėl nuotekų perteklinio dumblo perdavimo geriamojo vandens tiekėjui, garantiniam vandens tiekėjui aplinkos ministro nustatyta tvarka. Jeigu geriamojo vandens tiekėjas, garantinis  vandens tiekėjas yra pasirašę sutartis su daugiau kaip vienu nuotekas transportuojančiu asmeniu, asmenys nuotekas gali atiduoti vienam iš geriamojo vandens tiekėjo, garantinio vandens tiekėjo nurodytų nuotekų transportavimo paslaugas teikiančių asmenų pasirinktinai. Asmenys už nuotekų transportavimo paslaugas apmoka nuotekų transportavimo paslaugas teikiančiam asmeniui, kuriam atiduoda nuotekas transportuoti į geriamojo vandens tiekėjo, garantinio vandens tiekėjo valdomus nuotekų valymo įrenginius. Jeigu viešoji sutartis nesudaryta, asmuo turi turėti apmokėjimą už sukauptų nuotekų transportavimą patvirtinančius dokumentus; ^0212645825a678d1ac7dfe5d
+
+
+7) užtikrinti, kad individualus apsirūpinimas geriamuoju vandeniu atitiktų Žemės gelmių įstatyme nustatytus geriamojo vandens išgavimo reikalavimus, o individualusis nuotekų tvarkymas atitiktų aplinkos ministro tvirtinamuose nuotekų tvarkymo reglamente, nuotekų kaupimo rezervuarų ir septikų įrengimo, eksploatavimo ir kontrolės tvarkos apraše ir nuotekų valymo įrenginių taikymo reglamente nustatytus nuotekų tvarkymo reikalavimus, savivaldybių tarybų patvirtintose aglomeracijose individualusis nuotekų tvarkymas turi atitikti nuotekų išvalymą pagal toje aglomeracijoje viešojo vandens tiekėjo taršos leidime arba taršos integruotos prevencijos ir kontrolės leidime nustatytus reikalavimus. ^5ce6e0832645491753f8d3fa
 
 
 
 ### ŠEŠTASIS SKIRSNIS
-KAINODARA
+GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO LICENCIJAVIMAS
 
 
 
-### 22 straipsnis. Kainų nustatymas
+### 24 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo licencijavimas
 
 
-1. Jeigu vandens tiekėjas yra viešasis vandens tiekėjas bent vienoje savivaldybėje, jis visiems tos pačios kategorijos abonentams (vartotojams) tiekia geriamąjį vandenį ir teikia nuotekų tvarkymo paslaugas vienodomis kainomis. ^9633c8869ab385abcfc73048
+1. Geriamojo vandens tiekimas ir nuotekų tvarkymas, išskyrus paviršinių nuotekų tvarkymą ir nuotekų transportavimą, yra licencijuojamas. ^162d0bc64694e7a74a22e37b
 
 
-2. Vandens tiekėjas sąnaudas ir pajamas planuoja pagal įmonės veiklos ir plėtros planus, kuriuos privalo suderinti su savivaldybėmis. Veiklos ir plėtros planai rengiami ne trumpesniam kaip 3 metų laikotarpiui. ^7ffa81c7bcf991eeb7f4b1af
-
-
-3. Viešųjų vandens tiekėjų tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kaina turi būti pagrįsta būtinosiomis sąnaudomis, susijusiomis su viešojo vandens tiekimo veikla. Geriamojo vandens ir nuotekų tvarkymo paslaugų kaina turi užtikrinti ilgalaikį viešajam geriamojo vandens tiekimui ir nuotekų tvarkymui skirtos infrastruktūros eksploatavimą, jos atnaujinimą bei sudaryti abonentams (vartotojams) priimtinas sąlygas naudotis viešuoju geriamojo vandens tiekimu ir nuotekų tvarkymu, taip pat mažinti aplinkos taršą ir racionaliai naudoti vandens išteklius. ^5a6770a9ac2916cafa8b8cc9
-
-
-4. Viešųjų vandens tiekėjų tiekiamo geriamojo vandens ir nuotekų tvarkymo paslaugų kainodara nustatoma vadovaujantis nediskriminavimo, sąnaudų susigrąžinimo principais ir principu „teršėjas moka“. Kainos gali būti diferencijuojamos pagal atskiras abonentų (vartotojų) kategorijas, atsižvelgiant į kriterijus, susijusius su būtinosiomis sąnaudomis, reikalingomis vandeniui patiekti ir (arba) nuotekų tvarkymo paslaugoms teikti tam tikros kategorijos abonentams (vartotojams). Nuotekų tvarkymo paslaugų kainos turi priklausyti nuo abonento (vartotojo) išleidžiamų teršalų kiekio ir taršos pobūdžio. ^10f9e34638ab6c3e6926256a
-
-
-5. Viešieji vandens tiekėjai, vadovaudamiesi geriamojo vandens ir nuotekų tvarkymo paslaugų kainų nustatymo metodika, apskaičiuoja tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kainas ir, suderinę su Valstybine kainų ir energetikos kontrolės komisija, teikia tvirtinti savivaldybių, kurių teritorijose tiekia geriamąjį vandenį ir teikia nuotekų tvarkymo paslaugas, taryboms. Kiti (ne viešieji) vandens tiekėjai tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kainas nustato vadovaudamiesi geriamojo vandens ir nuotekų tvarkymo paslaugų kainų nustatymo metodika, suderinę su Valstybine kainų ir energetikos kontrolės komisija. Geriamojo vandens ir nuotekų tvarkymo paslaugų kainos turi būti skaičiuojamos pagal sąnaudas atskiroms geriamojo vandens tiekimo ir nuotekų tvarkymo veiklos dalims, kurias nustato Valstybinė kainų ir energetikos kontrolės komisija. Geriamojo vandens ir nuotekų tvarkymo paslaugų kainos nustatomos ne trumpesniam kaip 3 metų laikotarpiui. Kartu su kainų apskaičiavimais vandens tiekėjas privalo pateikti Valstybinei kainų ir energetikos kontrolės komisijai įmonės veiklos ir plėtros planus, sudarytus ne trumpesniam kaip kainų galiojimo laikotarpiui. Derindama kainas, Valstybinė kainų ir energetikos kontrolės komisija įvertina investicijų atsipirkimo ir veiklos išlaidų pagrįstumą. Tuo atveju, kai veiklos ir plėtros planai nevykdomi arba keičiami, vandens tiekėjas privalo apie tai informuoti savivaldybės tarybą ir Valstybinę kainų ir energetikos kontrolės komisiją, kuri priima sprendimą dėl kainų keitimo poreikio. ^9d6b4570f6dd4aa688d0e498
-
-
-6. Viešieji vandens tiekėjai praneša Valstybinei kainų ir energetikos kontrolės komisijai savivaldybių tarybų nustatytas kainas bei jų pagrindimą per 10 dienų nuo kainų nustatymo, tačiau ne vėliau kaip likus 30 dienų iki jų įsigaliojimo. Valstybinė kainų ir energetikos kontrolės komisija, nustačiusi kainų nustatymo pažeidimus, juos nurodo savivaldybėms. Savivaldybės nurodytus pažeidimus privalo pašalinti ne vėliau kaip per 30 dienų. ^9589759e0807225266ece8a9
-
-
-7. Valstybinė kainų ir energetikos kontrolės komisija kontroliuoja, ar savivaldybių tarybų nustatytos ir vandens tiekėjų taikomos geriamojo vandens ir nuotekų tvarkymo paslaugų kainos nustatytos pagal metodiką ir [[#^10f9e34638ab6c3e6926256a|šio straipsnio 4 dalyje]] nurodytus kainodaros principus, taip pat ar kainos padengia geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo bei kitas su šia veikla susijusias būtinąsias vandens tiekėjo sąnaudas. Jei savivaldybių tarybos nustato kitokias kainas, negu vandens tiekėjai suderino su Valstybine kainų ir energetikos kontrolės komisija, Valstybinė kainų ir energetikos kontrolės komisija turi teisę pareikalauti, kad savivaldybės pateiktų nustatytų geriamojo vandens ir nuotekų tvarkymo paslaugų kainų apskaičiavimus. Nustačiusi, kad savivaldybių tarybų nustatytos kainos neatitinka metodikos arba pažeidžia [[#^10f9e34638ab6c3e6926256a|šio straipsnio 4 dalyje]] nustatytus kainodaros principus, arba nepadengia geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo bei kitų su šia veikla susijusių būtinųjų vandens tiekėjo sąnaudų, Valstybinė kainų ir energetikos kontrolės komisija turi teisę pareikalauti, kad savivaldybių tarybos kainų nustatymo pažeidimus per 2 mėnesius pašalintų arba šio įstatymo nustatyta tvarka pateiktų derinti naujas kainas. ^2c4d5f1acf4112ae95ab7ab1
-
-
-8. Valstybinė kainų ir energetikos kontrolės komisija turi teisę savo sprendimu, nurodydama sprendimo galiojimo laiką, vienašališkai nustatyti vandens tiekėjui geriamojo vandens ir nuotekų tvarkymo paslaugų kainas, kai savivaldybių tarybos nepašalina kainų nustatymo pažeidimų ilgiau kaip per 2 mėnesius nuo Valstybinės kainų ir energetikos kontrolės komisijos [[#^2c4d5f1acf4112ae95ab7ab1|šio straipsnio 7 dalyje]] nustatyta tvarka priimto sprendimo, kad tokie pažeidimai yra, įsigaliojimo. ^b4daba5458a6e3e2448f6d3d
-
-
-9. Valstybinė kainų ir energetikos kontrolės komisija nustatytas geriamojo vandens ir nuotekų tvarkymo paslaugų kainas skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“. Vandens tiekėjai nustatytas geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kainas skelbia vietos spaudoje. Kainos įsigalioja ne anksčiau kaip po 30 dienų nuo jų paskelbimo ir taikomos nuo kito mėnesio (einančio po mėnesio, kai kainos įsigalioja) pirmos dienos. ^a0f5ff7aef1b2aaad18aa8d1
-
-
-10. Laikinai sustabdžius geriamojo vandens tiekimą abonento (vartotojo) prašymu, viešieji vandens tiekėjai gali reikalauti sumokėti už atjungimo (prijungimo) paslaugą. Atjungimo (prijungimo) paslaugos kainas pagal Valstybinės kainų ir energetikos kontrolės komisijos metodiką nustato viešasis vandens tiekėjas. ^9bd6a199e2ba95090dd0d728
+2. Garantinis geriamojo vandens tiekimas ir nuotekų tvarkymas nelicencijuojamas, tačiau turi būti užtikrintas nepertraukiamas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimas. ^f39ed6a984d8e14d9a9b4d76
 
 
 
-### 23 straipsnis.       Atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarka
+### 25 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo veiklos reguliavimo principai
 
 
-1. Abonentai (vartotojai) už vandens tiekėjo patiektą geriamąjį vandenį atsiskaito pagal geriamojo vandens apskaitos prietaisų, įrengtų ties tiekimo ir vartojimo riba, rodmenis, jei sutartis nenustato ko kita. Geriamojo vandens apskaitos prietaisus ties tiekimo ir vartojimo riba įrengia ir eksploatuoja vandens tiekėjas savo lėšomis. Apskaitos prietaisų įsigijimo, įrengimo ir eksploatavimo sąnaudos įtraukiamos į vandens kainą. Atsiskaityti už geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas daugiabučiuose namuose tiekimo vartojimo riba yra kiekvienas butas ar kita patalpa. Daugiabučio namo butų ir kitų patalpų savininkai turi teisę tiekimo ir vartojimo ribą pasirinkti įvade, sudarydami rašytinį visų savininkų, kuriems geriamasis vanduo tiekiamas iš to įvado, susitarimą, ir tai numatydami sutartyse su vandens tiekėju. ^437e6585af07c9b5a2f12b73
+Geriamojo vandens tiekimo ir nuotekų tvarkymo veiklos valstybinis valdymas, reguliavimas, priežiūra ir kontrolė grindžiami šiais principais:
 
 
-2. Vandens tiekėjo priimtų tvarkyti nuotekų kiekis, kai nėra nustatyta tvarka įrengtų nuotekų apskaitos prietaisų, prilyginamas patiekto vandens kiekiui. Nuotekų apskaitos prietaisai įrengiami tais atvejais, kai dėl gamybos ir (ar) vandens naudojimo ypatybių, nurodytų Atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos apraše, iš esmės skiriasi suvartojamo vandens ir išleidžiamų nuotekų kiekiai. ^f8657904265cfeac68abbb55
+1) saugumo. Šis principas reiškia, kad turi būti užtikrinama nepertraukiama, stabili ir saugi geriamojo vandens tiekimo ir nuotekų tvarkymo veikla, darbuotojų ir aplinkinių žmonių sveikata ir saugumas, sumažintas neigiamas veiklos poveikis aplinkai; ^7164973c6c9962a303d461a6
 
 
-3. Abonentas (vartotojas), kuriam pagal [[#^f8657904265cfeac68abbb55|šio straipsnio 2 dalį]] gali būti įrengtas nuotekų apskaitos prietaisas, pageidaujantis už viešojo vandens tiekėjo suteiktas nuotekų tvarkymo paslaugas atsiskaityti pagal faktiškai išleidžiamą nuotekų kiekį, Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatyta tvarka nuotekų tvarkymo paslaugas teikiančiam viešajam vandens tiekėjui pateikia prašymą įrengti nuotekų apskaitos prietaisą, kad už nuotekų tvarkymo paslaugas būtų galima atsiskaityti pagal jo rodmenis. Daugiabučiuose namuose ir kituose gyvenamuosiuose pastatuose nuotekų apskaitos prietaisai neįrengiami, o jei ir yra įrengti, atsiskaitymui nenaudojami, jei šalys raštu nesusitaria kitaip. ^318a01a04ba72b407645e5f3
+2) patikimumo. Šiuo principu apibūdinami geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo abonentams ir vartotojams nutraukimo dažnis ir trukmė; ^4d89e37b9aa469fcdf2689d0
 
 
-4. Vandens tiekėjas turi teisę ties nuotekų perdavimo riba įrengti nuotekų apskaitos prietaisą ir už nuotekų tvarkymo paslaugas reikalauti atsiskaityti pagal jo rodmenis. ^456ae116d1f01abf96ea7a7e
+3) efektyvumo. Šiuo principu apibūdinami sąnaudų, reikalingų geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugoms teikti, dydis ir pasiekto rezultato santykis; ^de10284e4cf2bb21d989670f
 
 
-5. Nuotekų apskaitos prietaisus įrengia vandens tiekėjas savo lėšomis. Nuotekų apskaitos prietaisų įrengimo išlaidos įtraukiamos į nuotekų tvarkymo kainą. ^579dad2f9f5da8a2b0854d30
+4) nediskriminavimo. Šis principas reiškia, kad turi būti užtikrinama, jog visiems tos pačios kategorijos abonentams ir vartotojams paslaugos būtų teikiamos vienodomis sąlygomis ir kainomis. ^360f1f01e0f63394391074fb
 
 
-6. Atsiskaitymo už viešojo vandens tiekėjo patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas sąlygos detalizuojamos Atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos apraše. ^e584d93da992dd7b214d58ce
+
+### 26 straipsnis. Reikalavimai geriamojo vandens tiekėjams
+
+
+Geriamojo vandens tiekėjai privalo:
+
+
+1) vykdyti licencijoje nurodytą veiklą; ^0be09b797e69924e060c93fa
+
+
+2) užtikrinti geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros plėtrą pagal infrastruktūros plėtros plane numatytas geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros kryptis ir etapus, prijungti savo prižiūrimoje viešojo geriamojo vandens tiekimo teritorijoje esančius abonentų ir vartotojų įrenginius prie geriamojo vandens tiekimo ir nuotekų tvarkymo tinklų, vadovaudamiesi aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatytais reikalavimais ir aplinkos ministro nustatytais naujų abonentų ir vartotojų prijungimo prie geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros reikalavimais; ^6c14304eb776a09b7a3fbca3
+
+
+3) tiekti geriamąjį vandenį ir teikti nuotekų tvarkymo paslaugas šio įstatymo [[#33 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainų nustatymas|33 straipsnyje]] nustatyta tvarka apskaičiuotomis kainomis; ^0eca05c2158dec552635fac6
+
+
+4) užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaudamiesi šio įstatymo [[#32 straipsnis. Sąnaudų apskaita ir kontrolė|32 straipsnio]] 9–15 dalių nuostatomis; ^83ef38d789f866abb184b19e
+
+
+5) tiekti geriamąjį vandenį ir teikti nuotekų tvarkymo paslaugas, vadovaudamiesi aplinkos ministro nustatytais geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimais. ^261ff5e74b7b6bf81e345d80
+
+
+
+### 27 straipsnis. Licencijų išdavimo sąlygos
+
+
+1. Licencijos šio įstatymo [[#^162d0bc64694e7a74a22e37b|24 straipsnio 1 dalyje]] nurodytoms veikloms išduodamos neterminuotam laikui juridiniams asmenims, atitinkantiems [[#^1bba8121d469aabb1acc6670|šio straipsnio 2 dalyje]] nustatytus reikalavimus. ^2bc193fac3306baf394319c7
+
+
+2. Licencijos geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo veiklai išduodamos juridiniams asmenims, kurie: ^1bba8121d469aabb1acc6670
+
+
+1) neturi mokestinės nepriemokos Lietuvos Respublikos biudžetui, savivaldybės biudžetui ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai juridiniam asmeniui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir nėra skolingi Valstybinio socialinio draudimo fondo biudžetui; ^4775124175a8dd99d9484787
+
+
+2) turi licencijuojamos veiklos sąlygas atitinkančius technologinius, finansinius ir vadybinius pajėgumus tiekti geriamąjį vandenį ir (arba) teikti nuotekų tvarkymo paslaugas tam tikroje savivaldybės teritorijoje pagal geriamojo vandens tiekimą ir nuotekų tvarkymą reguliuojančių teisės aktų reikalavimus. Juridinių asmenų technologinių, finansinių ir vadybinių pajėgumų ir jų įvertinimo tvarką nustato Valstybinė energetikos reguliavimo taryba, atsižvelgdama į šiuos reikalavimus juridiniams asmenims, siekiantiems gauti licenciją geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugų teikimo veiklai vykdyti: ^be520971272c767a41fe45e6
+
+
+a) juridiniai asmenys turi nuosavybės teise ar kitaip teisėtai valdo ir (arba) naudoja geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą, skirtą paslaugoms vartotojams, abonentams teikti tam tikroje teritorijoje;
+
+
+b) juridiniai asmenys yra užtikrinę geriamojo vandens saugą ir kokybę jų nuosavybės teise ar kitaip teisėtai valdomoje ir (arba) naudojamoje infrastruktūroje;
+
+
+c) juridiniai asmenys yra užtikrinę, kad nuotekų tvarkymas atitiktų aplinkos ministro tvirtinamame nuotekų tvarkymo reglamente nustatytus reikalavimus;
+
+
+d) juridinių asmenų finansinis pajėgumas yra pakankamas. Juridinių asmenų finansinis pajėgumas vertinamas pagal jo dvejų paskutinių ataskaitinių finansinių metų (arba nuo juridinio asmens veiklos pradžios, jeigu juridinis asmuo veiklą vykdė trumpiau negu dvejus finansinius metus) balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi Valstybinės energetikos reguliavimo tarybos nustatyti finansinio pajėgumo rodikliai;
+
+
+e) juridiniai asmenys turi žmogiškųjų išteklių geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklai vykdyti ir ataskaitoms rengti, atskirai veiklos apskaitai tvarkyti, vartotojams ir abonentams informuoti ir konsultuoti, skundams ir ginčams dėl veiklos sąlygų nagrinėti.
+
+
+3. Juridinis asmuo, siekiantis gauti licenciją, Vyriausybės patvirtintose geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencijavimo taisyklėse nustatyta tvarka Valstybinei energetikos reguliavimo tarybai pateikia nustatytos formos prašymą ir kitus geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo licencijavimo taisyklėse nurodytus dokumentus. ^334f77258315a8421ece3119
+Straipsnio dalies pakeitimai:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
+
+
+
+4. Valstybinė energetikos reguliavimo taryba per 5 darbo dienas nuo prašymo išduoti licenciją ir kitų licencijai gauti reikalingų dokumentų gavimo dienos pateikia juridiniam asmeniui, kuris kreipėsi dėl licencijos išdavimo, dokumentą, patvirtinantį, kad prašymas ir kiti dokumentai gauti. Šiame dokumente nurodoma: ^f46e3aa68c6235b2aafa1b08
+
+
+1) terminas, per kurį bus išnagrinėtas prašymas; ^ba3432559627d0db1b7b7bbb
+
+
+2) juridinio asmens teisių gynimo priemonės, kuriomis galima naudotis, jeigu kiltų ginčas tarp Valstybinės energetikos reguliavimo tarybos ir juridinio asmens, kuris kreipėsi dėl licencijos išdavimo. ^64994edf7d4c368179b21283
+
+
+5. Valstybinė energetikos reguliavimo taryba per 30 kalendorinių dienų nuo reikiamų dokumentų gavimo dienos privalo išduoti licenciją arba juridiniam asmeniui, pateikusiam prašymą išduoti licenciją, motyvuotai atsisakyti išduoti licenciją. ^846665ba1b6d797f05ddcf6e
+
+
+6. [[#^846665ba1b6d797f05ddcf6e|Šio straipsnio 5 dalyje]] nurodytas terminas, per kurį turi būti išduota licencija arba motyvuotai atsisakyta ją išduoti, gali būti pratęstas. Valstybinė energetikos reguliavimo taryba, nusprendusi pratęsti [[#^846665ba1b6d797f05ddcf6e|šio straipsnio 5 dalyje]] nurodytą terminą, privalo iki termino, per kurį turi būti išduota licencija arba motyvuotai atsisakyta ją išduoti, pabaigos apie tai informuoti juridinį asmenį, pateikusį prašymą išduoti licenciją, nurodydama priežastis, dėl kurių terminas pratęsiamas, ir terminą, kuris gali būti ne ilgesnis kaip 30 kalendorinių dienų. [[#^846665ba1b6d797f05ddcf6e|Šio straipsnio 5 dalyje]] nurodytas terminas gali būti pratęstas dėl šių priežasčių: ^91dc74b6405f429033c62b36
+
+
+1) gaunama naujos informacijos ar paaiškėja naujų faktų, reikšmingų, priimant sprendimą dėl licencijos išdavimo; ^a6dabce7e114e7e24d3788b0
+
+
+2) dokumentų svarstymo metu pasikeičia teisinis geriamojo vandens tiekimo ir nuotekų tvarkymo reglamentavimas. ^5bd709c41b1ff1898d2d7e59
+
+
+7. Jeigu pateiktas neišsamus ar netinkamai įformintas prašymas arba pateikti ne visi dokumentai ir (arba) informacija, kurių reikia licencijai išduoti, Valstybinė energetikos reguliavimo taryba per 5 darbo dienas nuo tokio prašymo gavimo dienos praneša juridiniam asmeniui apie būtinybę pateikti trūkstamus dokumentus ir (arba) reikiamą informaciją, nurodo terminą, per kurį būtina pateikti trūkstamus dokumentus ir (arba) reikiamą informaciją, ir nurodo, kad terminas licencijai išduoti skaičiuojamas nuo visų tinkamai įformintų dokumentų ir (arba) reikiamos informacijos pateikimo dienos. ^ae25e9b006838e87636b26d6
+
+
+8. Jeigu juridinio asmens prašymas pateiktas nesilaikant [[#^334f77258315a8421ece3119|šio straipsnio 3 dalyje]] nustatytų reikalavimų, [[#^60ef5469549d8e333c658751|šio straipsnio 9 dalyje]] nustatyta tvarka juridinis asmuo neištaiso prašymo išduoti licenciją pateikimo trūkumų ar nepateikia trūkstamų dokumentų ir (arba) reikiamos informacijos ir dėl to licencija neišduodama, Valstybinė energetikos reguliavimo taryba per 15 darbo dienų nuo nutarimo, kuriuo nebuvo išduota licencija, priėmimo dienos išsiunčia juridiniam asmeniui pranešimą, nurodydama priežastis, dėl kurių atsisakyta išduoti licenciją. ^dae9613e22636e8b37efd256
+
+
+9. Licencija neišduodama, jeigu: ^60ef5469549d8e333c658751
+
+
+1) juridinis asmuo neatitinka [[#^1bba8121d469aabb1acc6670|šio straipsnio 2 dalyje]] nustatytų reikalavimų; ^3e689258a57fb739fc81e4a2
+
+
+2) pateikiami ne visi [[#^334f77258315a8421ece3119|šio straipsnio 3 dalyje]] nurodyti dokumentai arba dokumentai netinkamai įforminti ir per nustatytą terminą trūkumai nepašalinami; ^af2d23c0a94007a03f87d652
+
+
+3) neištaisyti prašymo išduoti licenciją pateikimo trūkumai ir nepateikta trūkstama informacija ar dokumentai [[#^ae25e9b006838e87636b26d6|šio straipsnio 7 dalyje]] nustatyta tvarka. ^e47744aa62298f144c0e91aa
+
+
+
+### 28 straipsnis. Licencijų keitimo sąlygos
+
+
+1. Licencija gali būti keičiama licenciją turinčio geriamojo vandens tiekėjo iniciatyva, kai pasikeičia licencijoje nurodyti geriamojo vandens tiekėjo duomenys ar planuojama keisti teritoriją, kurioje vykdoma veikla. Jeigu pasikeičia licencijoje nurodyti geriamojo vandens tiekėjo duomenys ar planuojama keisti teritoriją, kurioje vykdoma veikla, geriamojo vandens tiekėjas privalo pranešti Valstybinei energetikos reguliavimo tarybai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo dienos, kai informacija jam tapo ar turėjo tapti žinoma. ^01820049cac96a33bd9458e4
+
+
+2. Valstybinė energetikos reguliavimo taryba per 30 kalendorinių dienų nuo reikiamų dokumentų, patvirtinančių [[#^01820049cac96a33bd9458e4|šio straipsnio 1 dalyje]] nurodytą informaciją, gavimo dienos privalo pakeisti licenciją arba motyvuotai, vadovaudamasi mutatis mutandis šio įstatymo [[#27 straipsnis. Licencijų išdavimo sąlygos|27 straipsnio]] 4, 7 ir 8 dalių nuostatomis, prašymą pateikusiam juridiniam asmeniui atsisakyti pakeisti licenciją. ^d589190ca37471f418d88a40
+
+
+3. Jeigu Valstybinė energetikos reguliavimo taryba per [[#^d589190ca37471f418d88a40|šio straipsnio 2 dalyje]] nurodytą terminą nepateikia juridiniam asmeniui, pateikusiam prašymą pakeisti licenciją, atsakymo, nelaikoma, kad licencija yra pakeista. ^6ac7a22631fcb551456db596
+
+
+4. [[#^d589190ca37471f418d88a40|Šio straipsnio 2 dalyje]] nurodytas terminas, per kurį turi būti pakeista licencija arba motyvuotai atsisakyta pakeisti licenciją, gali būti pratęstas. Valstybinė energetikos reguliavimo taryba, nusprendusi pratęsti [[#^d589190ca37471f418d88a40|šio straipsnio 2 dalyje]] nurodytą terminą, privalo iki termino, per kurį turi būti pakeista licencija arba motyvuotai atsisakyta ją pakeisti, pabaigos apie tai informuoti prašymą pateikusį juridinį asmenį, nurodydama priežastis, dėl kurių terminas pratęsiamas, ir terminą, kuris negali būti ilgesnis kaip 30 kalendorinių dienų. ^3ee81dad4d6e7ac5aadc963d
+
+
+5. Valstybinė energetikos reguliavimo taryba gali atsisakyti pakeisti licenciją, jeigu: ^b7f442f89092a949775ba6e9
+
+
+1) naujoje teritorijoje planuojamas geriamojo vandens tiekimas ir nuotekų tvarkymas neatitinka šio įstatymo [[#13 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo organizavimas|13 straipsnio]] 4 ir 7 dalyse nustatytų reikalavimų; ^8bf9669d96fdd99fba406ea3
+
+
+2) prašymas pakeisti licenciją įformintas netinkamai arba pateikti ne visi dokumentai ir (arba) informacija, kurių reikia licencijai pakeisti, ir per nustatytą terminą šie trūkumai nepašalinti; ^9b0f53ad92f865441a1cecc0
+
+
+3) prašyme pakeisti licenciją pateikti neteisingi duomenys. ^f4c192a57ec44bac249f2abc
+
+
+
+### 29 straipsnis. Įspėjimas dėl licencijų galiojimo panaikinimo
+
+
+1. Valstybinė energetikos reguliavimo taryba, nustačiusi [[#^e0acf1ea551a261fa526dcfb|šio straipsnio 2 dalyje]] nurodytas aplinkybes ir (arba) pažeidimus, per 5 darbo dienas įspėja geriamojo vandens tiekėją apie galimą licencijos galiojimo panaikinimą. Duomenims patikslinti ir (arba) papildyti skiriamas 20 darbo dienų terminas, kitais atvejais skiriamas 12 mėnesių terminas nustatytų aplinkybių ir (arba) pažeidimų priežastims pašalinti. ^f0e658d57e9fcc46de97315b
+
+
+2. Geriamojo vandens tiekėjas įspėjamas apie galimą licencijos galiojimo panaikinimą, kai yra bent viena iš šių aplinkybių: ^e0acf1ea551a261fa526dcfb
+
+
+1) paaiškėja, kad geriamojo vandens tiekėjas Valstybinei energetikos reguliavimo tarybai pateikė neteisingus duomenis (metinių  reguliuojamos veiklos ataskaitų rinkinį, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinių kainų projektą ir (arba) perskaičiuotų bazinių kainų projektą ir kitas ataskaitas, nurodytas Valstybinės energetikos reguliavimo tarybos patvirtintose geriamojo vandens tiekėjo ir nuotekų tvarkytojo informacijos teikimo taisyklėse); ^1a41d5912a232d46e70d164f
+
+
+2) nustatoma, kad geriamojo vandens tiekėjas pažeidė šio įstatymo [[#26 straipsnis. Reikalavimai geriamojo vandens tiekėjams|26 straipsnyje]] nurodytus reikalavimus; ^93b40c555d04b9998acafb0b
+
+
+3) geriamojo vandens tiekėjas nebeatitinka šio įstatymo [[#^1bba8121d469aabb1acc6670|27 straipsnio 2 dalyje]] nurodytų reikalavimų, taikomų geriamojo vandens tiekėjui, norinčiam gauti licenciją; ^2c63d558cae666ae84dafaa3
+
+
+4) nuotekų tvarkymo apskaitos metinėje ataskaitoje, teikiamoje aplinkos ministro nustatyta tvarka, nustatoma, kad viršijami taršos leidime ar taršos integruotos prevencijos ir kontrolės leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos) normatyvai, ir  geriamojo vandens tiekėjas neturi patvirtinto taršos mažinimo plano, kurio investicinės priemonės įtrauktos į patvirtintą veiklos planą, kuriame numatytos pažeidimams pašalinti reikalingos investicijos ir terminai. Aplinkos ministro įgaliota institucija Valstybinei energetikos reguliavimo tarybai teikia nuotekų tvarkymo apskaitos metinių ataskaitų duomenis apie taršos leidimo ar taršos integruotos prevencijos ir kontrolės leidimo sąlygų neatitinkančius geriamojo vandens tiekėjus; ^e86cff2da3e508f99a52f1f9
+
+
+5) pasibaigus nukrypti leidžiančios nuostatos (išlygos) terminui, geriamojo vandens kokybės rodikliai neatitinka teisės aktuose nustatytų reikalavimų, o veiklos plane nenumatytos investicinės priemonės geriamojo vandens saugai ir kokybei užtikrinti. ^81147c3ce67793c49a8e1add
+
+
+
+
+### 30 straipsnis. Licencijų galiojimo panaikinimas
+
+
+1. Valstybinė energetikos reguliavimo taryba priima sprendimą panaikinti licencijos galiojimą: ^ce2852ff13424642912a6c2d
+
+
+1) geriamojo vandens tiekėjo prašymu; ^af5bb6e54f48bfc7b51b5548
+
+
+2) kai geriamojo vandens tiekėjas, gavęs įspėjimą apie licencijos galiojimo panaikinimą, nepašalina pažeidimų per šio įstatymo [[#^f0e658d57e9fcc46de97315b|29 straipsnio 1 dalyje]] nustatytus įspėjimo terminus; ^4df5c8024de5764cdbf6dd0a
+
+
+3) kai geriamojo vandens tiekėjas įgyja likviduojamo juridinio asmens statusą. ^82f92d1cd0e531332c4e6a4b
+
+
+2. Valstybinė energetikos reguliavimo taryba ne vėliau kaip per 2 darbo dienas nuo sprendimo panaikinti licencijos galiojimą priėmimo dienos apie licencijos galiojimo panaikinimą informuoja geriamojo vandens tiekėją, paskirtąjį garantinį vandens tiekėją, savivaldybes ir Valstybinę maisto ir veterinarijos tarnybą. ^3e7104624d5c33c9975bd6af
+
+
+3. Savivaldybės taryba užtikrina, kad viešasis vandens tiekėjas, kurio licencijos galiojimas panaikintas, įstatymuose nustatyta tvarka būtų reorganizuojamas. ^bcb0286415b84e0d5939dc3b
 
 
 
 ### SEPTINTASIS SKIRSNIS
-INFORMACIJOS APIE GERIAMOJO VANDENS TIEKIMĄ IR NUOTEKŲ TVARKYMĄ VALDYMAS
+VIEŠOSIOS SUTARTYS
 
 
 
-### 24 straipsnis. Informacija apie viešuosius vandens tiekėjus
+### 31 straipsnis. Viešosios sutarties sudarymas ir nutraukimas
 
 
-Visa informacija, susijusi su vandens tiekimu, yra vieša, išskyrus ta, kuri pagal Lietuvos Respublikos įstatymus negali būti viešoji informacija. Valstybės ir savivaldybių institucijos, vandens vartotojų teises ginančios organizacijos, fiziniai ir juridiniai asmenys turi teisę gauti iš vandens teikėjų duomenis apie vandens tiekimo veiklą ir teikti pasiūlymus. Informacija apie viešuosius vandens tiekėjus, jų metinė veiklos ataskaita rengiama ir skelbiama Vyriausybės ar jos įgaliotojos institucijos nustatyta tvarka.
+1. Viešosios sutartys sudaromos, keičiamos ir nutraukiamos vadovaujantis Civiliniu kodeksu, Geriamojo vandens įstatymu, šiuo įstatymu, Vyriausybės tvirtinamu viešosios sutarties standartinių sąlygų aprašu. ^08ec8cb3311a205cb4e656a4
 
 
-
-### 25 straipsnis.       Visuomenės informavimas apie tiekiamą geriamąjį vandenį ir nuotekų tvarkymo paslaugas
-
-
-1. Tiekiamo geriamojo vandens kokybės kontrolės rezultatai kasmet viešai skelbiami Geriamojo vandens įstatymo nustatyta tvarka. ^6f0df8a0dafc7a49d1e9dfa7
+2. Vyriausybės tvirtinamame viešosios sutarties standartinių sąlygų apraše turi būti nurodyta: sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų teikimo tvarka ir sąlygos, geriamojo vandens tiekimo ir vartojimo riba, abonento ir vartotojo atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugas tvarka, suvartoto geriamojo vandens ir išleistų nuotekų kiekio nustatymo tvarka, mėginių ėmimo tvarka ir vieta, šalių teisės ir pareigos, pretenzijų teikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka. ^67e09e7d18df84e370a28b36
 
 
-2. Vandens tiekėjai aplinkos ministro nustatyta tvarka privalo teikti abonentams (vartotojams) informaciją apie tiekiamo geriamojo vandens kokybę, jos pablogėjimą, avarijas, planuojamus geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų pertrūkius ir kitus pokyčius, galinčius turėti įtakos abonentams (vartotojams), vandens naudojimą, saugų ir efektyvų vandens tiekimo infrastruktūros naudojimą, jos plėtrą, vandens kainas ir abonentams (vartotojams) teikiamas paslaugas. ^dcd1a4cc273680abd7f13107
+3. Jeigu asmuo nėra pasirašęs viešosios sutarties arba atsisako ją pasirašyti, tačiau jam nuosavybės teise priklausantys ar kitaip valdomi ir (arba) naudojami geriamojo vandens naudojimo įrenginiai, geriamajam vandeniui tiekti reikalingos komunikacijos ir (arba) nuotekų šalinimo įrenginiai įstatymuose, aplinkos ministro patvirtintuose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse ir naujų abonentų ir vartotojų prijungimo prie geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros reikalavimų apraše nustatyta tvarka prijungti prie geriamojo vandens tiekėjo nuosavybės teise ar kitaip valdomos ir (arba) naudojamos geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros ar per paviršinių nuotekų tvarkymo sistemas paviršinės nuotekos išleidžiamos į paviršinių nuotekų tvarkytojo paviršinių nuotekų tvarkymo sistemas, viešoji sutartis laikoma sudaryta pagal Vyriausybės tvirtinamą viešosios sutarties standartinių sąlygų aprašą. Šiuo atveju sunaudoto geriamojo vandens ir išleistų nuotekų kiekis nustatomas pagal Vyriausybės tvirtinamą atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos aprašą. Priimtų tvarkyti paviršinių nuotekų kiekis nustatomas aplinkos ministro tvirtinamame paviršinių nuotekų tvarkymo reglamente nustatyta tvarka. ^7ed934be242a9be0babc65c3
+
+
+4. Abonentai, kuriems geriamojo vandens tiekėjas teikia padidėjusios ir savitosios taršos nuotekų tvarkymo paslaugas, privalo sudaryti rašytinę viešąją sutartį. Geriamojo vandens tiekėjas abonentui jo buveinės adresu arba oficialioje interneto svetainėje skelbiamu elektroniniu paštu išsiunčia pasirašyti parengtą viešąją sutartį. Jeigu abonentas negrąžina geriamojo vandens tiekėjui pasirašytos viešosios sutarties per 20 darbo dienų nuo jos išsiuntimo dienos arba raštu pateikia atsisakymą pasirašyti viešąją sutartį, laikoma, kad abonentas atsisako pasirašyti viešąją sutartį ir geriamojo vandens tiekėjas turi teisę nebetiekti paslaugų. ^17e6999eadc247a0d76151cf
 
 
 
 ### AŠTUNTASIS SKIRSNIS
-GINČŲ (SKUNDŲ) NAGRINĖJIMAS. ATSAKOMYBĖ
+SĄNAUDŲ APSKAITOS IR KONTROLĖS, KAINŲ NUSTATYMO IR ATSISKAITYMO TVARKA
 
 
 
-### 26 straipsnis. Ginčų (skundų) nagrinėjimas
+### 32 straipsnis. Sąnaudų apskaita ir kontrolė
 
 
-Ginčai (skundai) dėl geriamojo vandens tiekimo ir nuotekų tvarkymo nagrinėjami vandens tiekėjo ir abonento (vartotojo) tarpusavio susitarimu arba įstatymų nustatyta tvarka.
+1. Geriamojo vandens tiekėjų, garantinių vandens tiekėjų tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kaina, vadovaujantis šio įstatymo [[#18 straipsnis. Sąnaudų susigrąžinimo ir „teršėjas moka“ principai|18 straipsnyje]] nurodytais principais, turi būti pagrįsta būtinosiomis sąnaudomis, susijusiomis su viešojo geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veikla, atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą. Jeigu geriamojo vandens tiekėjams, užtikrinantiems saugos ir kokybės reikalavimus atitinkantį geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimą, trūksta lėšų investicijoms, kurios būtinos kokybės reikalavimus atitinkančioms geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugoms teikti, gali būti nustatoma papildoma geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainos dedamoji. Geriamojo vandens tiekėjai, garantiniai vandens tiekėjai turi pagrįsti lėšų trūkumą šioms investicijoms vykdyti ir Valstybinės energetikos reguliavimo tarybos patvirtintame investicijų vertinimo ir derinimo tvarkos apraše numatyta tvarka jas suderinti su Valstybine energetikos reguliavimo taryba. ^d26126484a47f99eb15bf991
+
+
+2. Geriamojo vandens tiekėjas, garantinis vandens tiekėjas vadovaudamasis [[#^d26126484a47f99eb15bf991|šio straipsnio 1 dalies]] nuostatomis, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka užtikrina geriamojo vandens tiekimo ir nuotekų tvarkymo sektoriuje vykdomos veiklos efektyvumą ir sąnaudų pagrįstumą. ^801281dbf48134f798b1b6b9
+
+
+3. Paviršinių nuotekų tvarkytojų teikiamų paviršinių nuotekų tvarkymo paslaugų kaina nustatoma vadovaujantis šio įstatymo [[#18 straipsnis. Sąnaudų susigrąžinimo ir „teršėjas moka“ principai|18 straipsnyje]] nurodytais principais ir turi būti pagrįsta būtinosiomis sąnaudomis, susijusiomis su paviršinių nuotekų tvarkymo veikla ir paslaugų organizavimu abonentams, atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą. Jeigu paviršinių nuotekų tvarkytojams, užtikrinantiems kokybišką paviršinių nuotekų tvarkymo paslaugų teikimą, trūksta lėšų investicijoms, gali būti nustatoma papildoma paviršinių nuotekų tvarkymo paslaugos kainos dedamoji. Paviršinių nuotekų tvarkytojai turi pagrįsti lėšų trūkumą šioms investicijoms vykdyti ir Valstybinės energetikos reguliavimo tarybos patvirtintame investicijų vertinimo ir derinimo tvarkos apraše numatyta tvarka jas suderinti su Valstybine energetikos reguliavimo taryba. Paviršinių nuotekų tvarkytojas šio įstatymo įgyvendinamuosiuose teisės aktuose nustatyta tvarka užtikrina paviršinių nuotekų tvarkymo sektoriuje vykdomos veiklos efektyvumą ir sąnaudų pagrįstumą. ^f28079b22833efdc67ae3996
+
+
+4. Efektyvaus paslaugų teikimo sąnaudos apskaičiuojamos Geriamojo vandens tiekimo ir nuotekų tvarkymo apskaitos atskyrimo taisyklėse ir su apskaitos atskyrimu susijusių reikalavimų sąvade nustatyta tvarka. ^e188b875d12a520047acbc5b
+
+
+5. Apskaitos atskyrimo tikslai yra šie: ^35823d0ba4503e40f60849e2
+
+
+1) atskleisti geriamojo vandens tiekėjo, garantinio vandens tiekėjo vykdomos geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinio nuotekų tvarkytojo vykdomos paviršinių nuotekų tvarkymo veiklos, kaip atskiros veiklos, rezultatus per ataskaitinį laikotarpį, įskaitant faktiškai gautą investicijų grąžą; ^c1c878159c469c7b7a5d08ae
+
+
+2) atskleisti geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo sektoriuje teikiamų reguliuojamų paslaugų sąnaudų formavimąsi. ^2843b98d7cd3c67f17ecf507
+
+
+6. Geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas, įgyvendindamas apskaitos atskyrimą, privalo vadovautis šiais principais: ^918679b29f1ba21c1b6d3f29
+
+
+1) priežastingumo – ataskaitinio laikotarpio būtinąsias sąnaudas paskirstyti veiklai, kuri nulėmė tų sąnaudų atsiradimą, pajamas, turto įsigijimą ar įsipareigojimų vykdymą; ^f9dab1eed8d04466c20a1676
+
+
+2) objektyvumo – per ataskaitinį laikotarpį uždirbtų pajamų, patirtų sąnaudų paskirstymą turi atlikti nešališkai; ^797d4dacbd96b0d13cdf2587
+
+
+3) pastovumo – skirtingais ataskaitiniais laikotarpiais turi taikyti tą pačią apskaitos sistemą; ^69358187a64fd23468f4c493
+
+
+4) skaidrumo – per ataskaitinį laikotarpį uždirbtų pajamų, patirtų sąnaudų paskirstymą turi atlikti taip, kad kiekvienu pajamų, sąnaudų paskirstymo etapu ir galutinėse ataskaitinio laikotarpio suvestinėse būtų galima aiškiai, skaidriai ir nesudėtingai nustatyti geriamojo vandens tiekėjo pajamas ir sąnaudas; ^2348e84681cc27a741d5bc0d
+
+
+5) patikimumo – užtikrinti, kad pateikiama informacija tiksliai atspindėtų geriamojo vandens tiekėjo, garantinio vandens tiekėjo finansinę būklę, joje nebūtų klaidų ir nukrypimų. ^65ce3420f0e4558f6a37283a
+
+
+7. Pajamas, sąnaudas leidžiama įtraukti į apskaitą tik vieną kartą, sudarant apskaitos atskyrimo ataskaitas. ^100cabe065f6c4aaddf7aa87
+
+
+8. Valstybinė energetikos reguliavimo taryba gali reikalauti pakeisti geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo naudojamą apskaitos atskyrimo ir sąnaudų paskirstymo sistemą, kai pastaroji neatitinka geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų teikimą, atsiskaitymą už suteikiamas paslaugas, apskaitą reglamentuojančių teisės aktų nuostatų. ^3596ffbc61187f9b396e2af1
+
+
+9. Geriamojo vandens tiekėjas, garantinis vandens tiekėjas,  paviršinių nuotekų tvarkytojas privalo rengti reguliuojamosios veiklos ataskaitas ir užtikrinti, kad, pasibaigus kiekvieniems finansiniams metams, per 4 mėnesius pagal Valstybinės energetikos reguliavimo tarybos patvirtintą ar pratęstą galioti techninę užduotį būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Valstybinės energetikos reguliavimo tarybos patvirtintiems reguliavimo apskaitos sistemos reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Valstybinei energetikos reguliavimo tarybai. ^7b36926cde85cc0d2289d7e5
+
+
+10. Reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada ir reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada, išskyrus konfidencialią informaciją, yra viešos ir skelbiamos geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo interneto svetainėje arba Valstybinės energetikos reguliavimo tarybos interneto svetainėje, jeigu geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas neturi savo interneto svetainės. Informacija apie reguliuojamų veiklų sąnaudas negali būti pripažįstama konfidencialia. ^a1ad5533705af1facbd95b7a
+
+
+11. Jeigu Valstybinė energetikos reguliavimo taryba turi informacijos ar Valstybinei energetikos reguliavimo tarybai kyla pagrįstų įtarimų, kad geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų tvarkoma reguliavimo apskaitos sistema neatitinka teisės aktuose įtvirtintų reikalavimų, ar paaiškėja aplinkybės dėl netinkamai vykdomos reguliuojamosios veiklos, Valstybinė energetikos reguliavimo taryba motyvuotu sprendimu gali nustatyti reikalavimą geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui ne vėliau kaip per 12 mėnesių nuo Valstybinės energetikos reguliavimo tarybos sprendimo priėmimo dienos pagal Valstybinės energetikos reguliavimo tarybos patvirtintą techninę užduotį atlikti reguliavimo apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojantiems teisės aktų reikalavimams ir per 10 darbo dienų nuo minėtos patikros atlikimo dienos pateikti reguliavimo apskaitos sistemos patikros ataskaitą ir (ar) išvadą Valstybinei energetikos reguliavimo tarybai. ^4ce2541e588beab61b0e9c62
+
+
+12. Valstybinė energetikos reguliavimo taryba, rengdama techninę užduotį, konsultuojasi su Lietuvos auditorių rūmais. ^112c44e73f9f05505c4847eb
+
+
+13. Reguliuojamosios veiklos ataskaitų patikrą ir reguliavimo apskaitos sistemos patikrą gali atlikti auditorius, audito įmonė, turintys teisę atlikti finansinių ataskaitų auditą Lietuvos Respublikos finansinių ataskaitų audito įstatymo nustatyta tvarka. ^d785e7d11a6201d587b31fc3
+
+
+14. Jeigu Valstybinė energetikos reguliavimo taryba turi informacijos ar Valstybinei energetikos reguliavimo tarybai kyla pagrįstų įtarimų dėl netinkamai atliktos reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros, Lietuvos Respublikos Vyriausybės įgaliota atlikti auditorių ir audito įmonių viešąją priežiūrą įstaiga pagal Finansinių ataskaitų audito įstatymą atlieka reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros kokybės tyrimą (toliau – reguliuojamosios veiklos patikros kokybės tyrimas) ir parengia reguliuojamosios veiklos patikros kokybės tyrimo ataskaitą. Jeigu reguliuojamosios veiklos patikros kokybės tyrimo ataskaitoje nurodyta, kad auditorius, audito įmonė, atlikdami atitinkamą patikrą, nesilaikė tokiai patikrai techninėje užduotyje nurodytų profesinių standartų ir tarptautinių audito standartų taikymo atliekant reguliuojamosios veiklos ataskaitų patikrą ir (arba) reguliavimo apskaitos sistemos patikrą metodinėse rekomendacijose apibrėžtų arba nurodytų tarptautinių audito standartų, kaip tai yra nustatyta Finansinių ataskaitų audito įstatymo 521 straipsnio 3 dalyje, tos patikros sąnaudos negali būti pripažintos būtinosiomis nustatant valstybės reguliuojamas kainas ir Valstybinė energetikos reguliavimo taryba turi teisę įpareigoti geriamojo vandens tiekėją, garantinį vandens tiekėją, paviršinių nuotekų tvarkytoją ne vėliau kaip per 6 mėnesius atlikti pakartotinę reguliuojamosios veiklos ataskaitų patikrą ir (ar) pakartotinę reguliavimo apskaitos sistemos patikrą šio įstatymo nustatyta tvarka. ^ccfcc04eae8bae563fd8532e
+
+
+15. Valstybinė energetikos reguliavimo taryba šio įstatymo [[#9 straipsnis. Valstybinės energetikos reguliavimo tarybos kompetencija ir finansavimo tvarka geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje|9 straipsnyje]] nurodytoms funkcijoms vykdyti turi teisę gauti iš auditoriaus, audito įmonės, atlikusių reguliuojamosios veiklos ataskaitų patikrą ir (ar) reguliavimo apskaitos sistemos patikrą, paaiškinimus, susijusius su atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, paaiškinimus pagrindžiančius duomenis ir dokumentus. ^11b254b7360843f46e0913fe
+
+
+
+### 33 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainų nustatymas
+
+
+1. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų kainos nustatomos vadovaujantis nediskriminavimo ir šio įstatymo [[#18 straipsnis. Sąnaudų susigrąžinimo ir „teršėjas moka“ principai|18 straipsnyje]] nurodytais principais. ^de397d4452492f9b1493dab6
+
+
+2. Vadovaudamasi šiuo įstatymu ir savo patvirtintomis geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodika bei paviršinių nuotekų tvarkymo paslaugų kainų nustatymo metodika, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainas, paviršinių nuotekų tvarkymo paslaugų kainas nustato Valstybinė energetikos reguliavimo taryba. ^af2c75cb111a19485568ad33
+
+
+3. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainos turi būti apskaičiuojamos pagal sąnaudas atskiroms geriamojo vandens tiekimo ir nuotekų tvarkymo veiklos dalims, kurios nustatytos Valstybinės energetikos reguliavimo tarybos patvirtintoje geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodikoje. ^524ccade74edfb94adc87762
+
+
+4. Geriamojo vandens tiekėjai, paviršinių nuotekų tvarkytojai sąnaudas ir pajamas planuoja pagal savivaldybių tarybų patvirtintus infrastruktūros plėtros planus ir veiklos planus, parengtus pagal aplinkos ministro tvirtinamas geriamojo vandens tiekėjų ir nuotekų tvarkytojų veiklos planų rengimo taisykles. Veiklos planai rengiami ne trumpesniam kaip 5 metų laikotarpiui ir tvirtinami geriamojo vandens tiekėjo arba paviršinių nuotekų tvarkytojo valdybos (jeigu valdyba nesudaroma, – savivaldybės vykdomosios institucijos). Veiklos planuose aprašoma vykdoma veikla, nuosavybės teise valdomas turtas, veiklos kryptys, reikalingos investicijos, infrastruktūros eksploatavimo sąlygos, racionalaus gamtos išteklių naudojimo, aplinkos taršos mažinimo, paslaugų kokybės gerinimo, geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros, išpirkimo, renovacijos priemonės ir įgyvendinus šias priemones geriamojo vandens tiekėjo, paviršinių nuotekų tvarkytojo planuojamų eksploatacinių sąnaudų ir pardavimo pokyčiai, nurodomas lėšų poreikis veiklos planams įgyvendinti, finansavimo šaltiniai ir prognozuojamas poveikis geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainoms, pateikiama kita informacija, reikalinga patikimam ir saugiam abonentų ir vartotojų aprūpinimui geriamuoju vandeniu ir nuotekų tvarkymo paslaugomis, paviršinių nuotekų tvarkymo paslaugomis užtikrinti. ^a8f67f533eaa8235659d43c0
+
+
+5. Geriamojo vandens tiekėjai, garantiniai vandens tiekėjai, paviršinių nuotekų tvarkytojai investicijas privalo derinti su Valstybine energetikos reguliavimo taryba. Jeigu geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų investicijos nesuderintos su Valstybine energetikos reguliavimo taryba, jos negali būti pripažintos pagrįstomis valstybės reguliuojamoms kainoms nustatyti. ^55b4b7bad8fcce3708699f9f
+
+
+6. Šio įstatymo [[#14 straipsnis. Viešųjų vandens tiekėjų paskyrimas|14 straipsnyje]] nustatyta tvarka įsteigtam regioniniam viešajam vandens tiekėjui nustatoma pereinamojo laikotarpio geriamojo vandens tiekimo ir nuotekų tvarkymo kaina, kai tos pačios kategorijos vartotojai ir abonentai moka skirtingą paslaugų kainą, kuri nustatyta reorganizuotiems viešiesiems vandens tiekėjams iki regioninio viešojo vandens tiekėjo įsteigimo,  kol bus įgyvendintos veiklos efektyvinimo priemonės, bet ne ilgiau kaip 3 metus nuo regioninio viešojo vandens tiekėjo įsteigimo dienos. ^3f4860b96f4009751da6a1c2
+
+
+7.  Šio įstatymo [[#^f63338a474ac70bae0664ac3|14 straipsnio 1 dalyje]] nustatyta tvarka įsteigtam regioniniam viešajam vandens tiekėjui taikomi investicijų planavimo kriterijai: ^f3b1f00c1c11a92226e49925
+
+
+1) investicijos į prijungto viešojo vandens tiekėjo naudojamą geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrą neturėtų būti mažesnės už prijungto viešojo vandens tiekėjo iki prijungimo turėtas investicijų iš nuosavų finansavimo šaltinių lėšas (3 paskutinių metų lėšų, skirtų investicijoms, vidurkis); ^ef1bcc0971470d5c994cdb57
+
+
+2) investicijos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrai atnaujinti skiriamos proporcingai eksploatuojamiems geriamojo vandens ir nuotekų tinklų ilgiams, ilgalaikio turto amžiui, nusidėvėjimo lygiui ir reguliuojamo turto vertei; ^61bc261a6da48c1ec93d1da9
+
+
+3) investicijos geriamojo vandens kokybei gerinti skiriamos proporcingai geriamojo vandens kokybės rodiklių nuokrypiams, įvertinus geriamojo vandens kokybės parametrus ir jų poveikį  žmonių sveikatai; ^a7ee3ed8e7128bde42e7a35c
+
+
+4) prijungto viešojo vandens tiekėjo geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai ir atnaujinimui investicijų grynoji nauda (sumažintos veiklos sąnaudos, turinčios įtakos geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainos mažėjimui), Valstybinės energetikos reguliavimo tarybos patvirtintoje geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodikoje nustatyta tvarka paskirstoma viešajam vandens tiekėjui ir jo geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugas gaunantiems vartotojams ir abonentams; ^25b73ab402cc2a619086f188
+
+
+5) regioniniam viešajam vandens tiekėjui Valstybinės energetikos reguliavimo tarybos gali būti skiriama papildoma investicinė grąža, jeigu lėšos, skirtos prijungto viešojo vandens tiekėjo geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrai atnaujinti viršija [[#^ef1bcc0971470d5c994cdb57|šios dalies 1 punkte]] nustatytą vidurkį. ^6b48f7d2ce4d79a344e03e5f
+
+
+8. Geriamojo vandens tiekėjų tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų bazinė kaina nustatoma remiantis šiais principais: ^9e861e4035087cf43ec259e1
+
+
+1) vadovaujantis šio įstatymo [[#18 straipsnis. Sąnaudų susigrąžinimo ir „teršėjas moka“ principai|18 straipsnio]] nuostatomis, numatomos būtinosios geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo sąnaudos; ^4f0f41fcaf5d1cb6dd829b79
+
+
+2) vadovaujantis Valstybinės energetikos reguliavimo tarybos patvirtintomis geriamojo vandens tiekimo ir nuotekų tvarkymo apskaitos atskyrimo taisyklėmis, nustatoma licencijuojamoje veikloje naudojamo turto vertė; ^fc648f14165fbb3ee4d48474
+
+
+3) atsižvelgiant į šio įstatymo [[#^801281dbf48134f798b1b6b9|32 straipsnio 2 dalies]] nuostatas, nustatoma protingumo kriterijų atitinkanti investicijų grąža; ^b5b592b1a95865250c3f82d9
+
+
+4) Valstybinės energetikos reguliavimo tarybos nustatyta tvarka suderinamos investicijos; ^bf14999d1404bf090541ec54
+
+
+5) vadovaujantis Valstybinės energetikos reguliavimo tarybos patvirtintu geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų lyginamosios analizės aprašu, nustatomi geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo efektyvumo rodikliai; ^bbaf4787659fc463ee65371a
+
+
+6) regioniniam viešajam vandens tiekėjui Valstybinės energetikos reguliavimo tarybos nustatoma papildoma investicijų grąža. ^f60f774e33abce8dcc074135
+
+
+9. Paviršinių nuotekų tvarkymo paslaugų bazinė kaina nustatoma remiantis šiais principais: ^b4752ffb8118ca34611e1666
+
+
+1) Valstybinės energetikos reguliavimo tarybos nustatyta tvarka suderinamos investicijos; ^3bcad5038c4af6ca18c6c5b9
+
+
+2) numatomos paviršinių nuotekų tvarkymo paslaugų teikimo sąnaudos, tiesiogiai susijusios su paviršinių nuotekų tvarkymo paslaugų abonentams organizavimo veikla; ^ed46388473807b50c66a8bda
+
+
+3) atsižvelgiant į šio įstatymo [[#^801281dbf48134f798b1b6b9|32 straipsnio 2 dalies]] nuostatas, nustatoma protingumo kriterijų atitinkanti investicijų grąža, susijusi su paviršinių nuotekų tvarkymo paslaugų abonentams organizavimo veikla. ^0805f611cf11187e301f5f7a
+
+
+10. Nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų kainos abonentams (išskyrus vartotojus) nustatomos atsižvelgiant į išleidžiamų teršalų kiekį, pobūdį ir koncentraciją. ^0ed532bd7cc0ba69166ccd4e
+
+
+11. Geriamojo vandens tiekėjai, vadovaudamiesi Valstybinės energetikos reguliavimo tarybos patvirtinta geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodika, parengia ir teikia Valstybinei energetikos reguliavimo tarybai geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinių kainų projektą. Paviršinių nuotekų tvarkymo paslaugų bazinių kainų projektą, vadovaudamiesi Valstybinės energetikos reguliavimo tarybos patvirtinta paviršinių nuotekų tvarkymo paslaugų kainų nustatymo metodika, Valstybinei energetikos reguliavimo tarybai teikia paviršinių nuotekų tvarkytojai. Kartu su teikiamais derinti geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų bazinių kainų projektais geriamojo vandens tiekėjai, paviršinių nuotekų tvarkytojai pateikia kainų projektų pagrindimą ir įmonės veiklos planus. Valstybinė energetikos reguliavimo taryba, gavusi bazinių kainų projektus, ne vėliau kaip per 2 mėnesius nustato geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazines kainas, paviršinių nuotekų tvarkymo paslaugų bazines kainas, vadovaudamasi šio straipsnio 8 ir [[#^b4752ffb8118ca34611e1666|9 dalyse]] nustatytais kainų nustatymo principais, vertina, ar kainos padengia Valstybinės energetikos reguliavimo tarybos nustatytus efektyvumo rodiklius atitinkančias geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo, paviršinių nuotekų tvarkymo paslaugų teikimo ir kitas susijusias būtinąsias sąnaudas, įskaitant investicijų grąžą. Jeigu pateikti ne visi duomenys ir (arba) dokumentai arba gaunama papildomos informacijos, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinių kainų nustatymo terminas skaičiuojamas nuo visų duomenų ir (arba) dokumentų ir informacijos pateikimo dienos. Nustatydama kainas, Valstybinė energetikos reguliavimo taryba įvertina investicijų atsipirkimo ir veiklos išlaidų pagrįstumą, nustato geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų teikimo efektyvumo rodiklius. ^5750df063a04aa0d9bad3b82
+
+
+12. Pirmaisiais bazinių kainų galiojimo metais taikomos geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainos, paviršinių nuotekų tvarkymo paslaugų kainos lygios geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų bazinėms kainoms. ^d851257bebbdbfae704e6c30
+
+
+13. Valstybinės energetikos reguliavimo tarybos nustatytos geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinės kainos, paviršinių nuotekų tvarkymo paslaugų bazinės kainos perskaičiuojamos kiekvienais metais. Bazinės kainos neperskaičiuojamos, jeigu išlaikomi Valstybinės energetikos reguliavimo tarybos patvirtintoje geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodikoje nustatyti kriterijai. Perskaičiuotos geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinės kainos, perskaičiuotos paviršinių nuotekų tvarkymo paslaugų bazinės kainos galioja 12 mėnesių nuo šių kainų įsigaliojimo dienos. ^69623e9937645e2befc425b9
+
+
+14. Geriamojo vandens tiekėjai, vadovaudamiesi Valstybinės energetikos reguliavimo tarybos patvirtinta geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodika, parengia ir pateikia Valstybinei energetikos reguliavimo tarybai perskaičiuotų geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinių kainų projektą. Perskaičiuotų paviršinių nuotekų tvarkymo paslaugų kainų projektą, vadovaudamiesi Valstybinės energetikos reguliavimo tarybos patvirtinta paviršinių nuotekų tvarkymo paslaugų kainų nustatymo metodika, Valstybinei energetikos reguliavimo tarybai teikia paviršinių nuotekų tvarkytojai. Su teikiamais derinti perskaičiuotų kainų projektais geriamojo vandens tiekėjai, paviršinių nuotekų tvarkytojai pateikia kainų projektų pagrindimą. Valstybinė energetikos reguliavimo taryba, gavusi perskaičiuotų geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinių kainų projektą, ne vėliau kaip per 2 mėnesius nustato perskaičiuotas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazines kainas ir perskaičiuotas paviršinių nuotekų tvarkymo paslaugų bazines kainas. Jeigu pateikti ne visi duomenys ir (arba) dokumentai arba gaunama papildomos informacijos, geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinių kainų perskaičiavimo terminas skaičiuojamas nuo visų duomenų ir (arba) dokumentų ir informacijos pateikimo dienos. ^2c1bb8fbc1db58a97df4e0e1
+
+
+15. Valstybinė energetikos reguliavimo taryba, nustatydama geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazines kainas, kiekvienais metais perskaičiuotas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazines kainas, įvertina, ar nustačius naujas kainas vartotojų kiekvieną mėnesį mokama suma už paslaugas neviršys 4 procentų vidutinių mėnesio šeimos pajamų. Duomenys gaunami iš Valstybės duomenų agentūros. Įvertinusi, kad nustačius naujas paslaugų kainas vartotojų mokama suma už paslaugas viršys 4 procentus vidutinių mėnesio šeimos pajamų, Valstybinė energetikos reguliavimo taryba nustato geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinę, kiekvienais metais perskaičiuotą kainą, atitinkančią 4 procentus vidutinių šeimos pajamų. ^518369d13f4dd37f126ca169
+
+
+16. Geriamojo vandens tiekėjų veiklos, šio įstatymo [[#18 straipsnis. Sąnaudų susigrąžinimo ir „teršėjas moka“ principai|18 straipsnyje]] nurodytų principų įgyvendinimą ir vertinimą, ar, nustačius naujas kainas, vartotojų mokama suma už paslaugas neviršys 4 procentų vidutinių mėnesio šeimos pajamų, atitinkamoje savivaldybėje kiekvienais metais, iki kalendorinių metų gruodžio 31 dienos, atlieka Valstybinė energetikos reguliavimo taryba, vadovaudamasi savo patvirtintu geriamojo vandens tiekėjų ir nuotekų tvarkytojų technologinio, finansinio ir vadybinio pajėgumų vertinimo tvarkos aprašu ir geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodika. Apie vertinimo rezultatus Valstybinė energetikos reguliavimo taryba per 10 darbo dienų nuo atlikto vertinimo informuoja reikiamą savivaldybę ir Aplinkos ministeriją. ^a6c333ca3e1ed7126ddbb237
+
+
+17. Viešasis vandens tiekėjas, regioninis viešasis vandens tiekėjas, vykdantis viešąjį geriamojo vandens tiekimą ir (arba) teikiantis nuotekų tvarkymo paslaugas bent vienoje savivaldybės viešojo geriamojo vandens tiekimo teritorijoje, išskyrus [[#^3f4860b96f4009751da6a1c2|šio straipsnio 6 dalyje]] numatytą laikotarpį, visiems tos pačios kategorijos abonentams ir vartotojams tiekia geriamąjį vandenį ir teikia nuotekų tvarkymo paslaugas vienodomis sąlygomis ir kainomis. Paviršinių nuotekų tvarkytojas visiems tos pačios kategorijos abonentams paslaugas teikia vienodomis sąlygomis ir kainomis. ^483dbebeb383f949b6deefa7
+
+
+18. Geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainos, paviršinių nuotekų tvarkymo paslaugų kainos, atsižvelgiant į sąnaudas, gali būti diferencijuojamos pagal abonentų ir vartotojų kategorijas, pirkimo ir pardavimo vietą, tiekimo ir vartojimo ribą, vartojimo sezoniškumą, išleidžiamų teršalų kiekį, pobūdį ir koncentraciją. Diferencijavimo principai turi būti pagrįsti, objektyvūs, skaidrūs ir nediskriminaciniai. ^73846f1c37deca5487e1f57c
+
+
+19. Abonentai ir vartotojai į kategorijas skirstomi atsižvelgiant į geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugų teikimo būdus, ekonomiškai pagrįstus abonentų sprendimus dėl eksploatuojamos infrastruktūros atsisakymo ir nuotekų perdavimo tvarkyti nuotekų tvarkytojui, siekiant mažinti neigiamą poveikį žmonių sveikatai ir aplinkai, atsiskaitymą  už suteiktas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugas (bute ar kitose patalpose, įvade), sezoniškumą. ^7ae282068d028189c3168e9b
+
+
+20. Jeigu geriamojo vandens tiekėjas teikia padidėjusios ir savitosios taršos nuotekų valymo paslaugas, jų kainai nustatyti geriamojo vandens tiekėjas, vadovaudamasis Valstybinės energetikos reguliavimo tarybos patvirtintu nuotekų valymo kainos už padidėjusią ir savitąją taršą skaičiavimo tvarkos aprašu, teikia Valstybinei energetikos reguliavimo tarybai padidėjusios ir savitosios taršos nuotekų valymo kainos projektą ir tai pagrindžiančius dokumentus. Valstybinė energetikos reguliavimo taryba, vadovaudamasi nuotekų valymo kainos už padidėjusią ir savitąją taršą skaičiavimo tvarkos aprašu, nustato padidėjusios ir savitosios taršos nuotekų valymo kainą. Lėšos, gautos už padidėjusios ir savitosios taršos nuotekų tvarkymo paslaugas, skiriamos geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtrai ir (arba) nuotekų tvarkymo paslaugų kokybei gerinti. ^d85dffedea0f92fda19e7cea
+
+
+21. Bazinis nuotekų užterštumas, kurį viršijus konkretiems abonentams skaičiuojama papildoma kaina už nuotekų valymą, nustatomas Vyriausybės tvirtinamame atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos apraše. ^c2f77d6e297ae28d1792ab40
+
+
+22. Valstybinė energetikos reguliavimo taryba sprendimus dėl geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinių kainų, paviršinių nuotekų tvarkymo paslaugų bazinių kainų ir kiekvienais metais perskaičiuojamų geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų, paviršinių nuotekų tvarkymo paslaugų bazinių kainų derinimo skelbia savo interneto svetainėje. Geriamojo vandens tiekėjai, paviršinių nuotekų tvarkytojai per 10 darbo dienų privalo apie Valstybinės energetikos reguliavimo tarybos nustatytas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazines kainas, paviršinių nuotekų tvarkymo paslaugų bazines kainas ir kiekvienais metais perskaičiuojamas geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų,  paviršinių nuotekų tvarkymo paslaugų bazines kainas viešai (savo interneto svetainėje) informuoti abonentus ir vartotojus. Kainos įsigalioja ne anksčiau kaip po 30 kalendorinių dienų, kai jas viešai paskelbia geriamojo vandens tiekėjas, paviršinių nuotekų tvarkytojas, ir taikomos nuo kito mėnesio (einančio po mėnesio, kai kainos įsigalioja) pirmosios dienos. ^907ecb696d6ebd102598921d
+
+
+23. Jeigu elektros ir (arba) dujų, naudojamų geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugoms teikti, tarifų ir įkainių vidutinis pokytis viršija 30 procentų, geriamojo vandens tiekėjai, paviršinių nuotekų tvarkytojai, vadovaudamiesi Valstybinės energetikos reguliavimo tarybos patvirtinta geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų nustatymo metodika, parengia ir teikia Valstybinei energetikos reguliavimo tarybai papildomos elektros ir (arba) dujų sąnaudų pokyčio kainų dedamosios pagrindimą. Valstybinė energetikos reguliavimo taryba, gavusi šį pagrindimą, nustato papildomą kainų dedamąją dėl elektros ir (arba) dujų sąnaudų pokyčio, kuri galioja iki tų metų geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų bazinės, kiekvienais metais perskaičiuojamos, kainos galiojimo termino pabaigos. ^01e08fd4a6045df48d40cdb6
+
+
+24. Kai dėl geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros ar paviršinių nuotekų tvarkymo infrastruktūros išpirkimo arba perdavimo viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ar paviršinių nuotekų tvarkytojo nuosavybėn susitarti nepavyksta ir kai viešojo vandens tiekėjo, regioninio viešojo vandens tiekėjo ar paviršinių nuotekų tvarkytojo iniciatyva sudaromos sutartys dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūros naudojimo (nuomos, panaudos, jungtinės veiklos), šios infrastruktūros naudojimo sąnaudos priskiriamos būtinosioms sąnaudoms. ^1ea8ad03e86e6803195ead9d
+
+
+25. Neteko galios nuo 2024-10-01 ^0b2a028d7754598feeafc13d
+Straipsnio dalies naikinimas:
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+
+
+
+### 34 straipsnis. Geriamojo vandens tiekėjo, garantinio vandens tiekėjo ir paviršinių nuotekų tvarkytojo veiklos patikrinimai
+
+
+1. Valstybinė energetikos reguliavimo taryba, vadovaudamasi šio įstatymo [[#^46417b50719e39b213db5468|9 straipsnio 1 dalies 20 punktu]] ir Lietuvos Respublikos viešojo administravimo įstatymo IV skyriaus nuostatomis, prižiūrėdama, kaip geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas vykdo reguliuojamąją veiklą, turi teisę tikrinti geriamojo vandens tiekėjo, paviršinių nuotekų tvarkytojo veiklą. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir šiuo įstatymu. Atlikdama patikrinimus, Valstybinė energetikos reguliavimo taryba turi teisę: ^953e7ea6b1a1a27086e92179
+
+
+1) gauti visą patikrinimui atlikti reikalingą informaciją, asmens duomenis, dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus; ^fcd533dd5c5394a6ff083790
+
+
+2) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamo geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo veikla, reikalauti, kad jie atvyktų į Valstybinės energetikos reguliavimo tarybos patalpas pateikti paaiškinimų; ^246271168585ad27e68e91f7
+
+
+3) gauti patikrinimui atlikti būtiną informaciją, asmens duomenis ir dokumentus, jų kopijas apie juridinių asmenų turtą ir pajamas, ūkines, finansines ir kitas operacijas iš valstybės ir savivaldybių institucijų, taip pat iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansų įstaigų, auditorių, kitų juridinių ir fizinių asmenų, nepaisant to, ar informacija laikoma konfidencialia, gauti informaciją iš valstybės ar kitų juridinių asmenų valdomų ar tvarkomų registrų ar duomenų bazių; ^5473c6713206f0a7f6b35ecd
+
+
+4) pagal patikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas; ^8ae323bc5e8d45d8dd7bc93e
+
+
+5) patikrinimui atlikti pasitelkti specialistų ir ekspertų; ^79b5a5750fea0daef5c1fc98
+
+
+6) sudaryti sutartis su audito įmonėmis, kitais juridiniais ar fiziniais asmenimis, kurių paslaugomis Valstybinė energetikos reguliavimo taryba naudosis atlikdama patikrinimą; ^d21fb025392001bbe8024f52
+
+
+7) atlikdama patikrinimą, naudoti visą Valstybinės energetikos reguliavimo tarybos turimą informaciją, įskaitant ir informaciją, gautą kitų patikrinimų metu; ^a281a78991fc5e976e4c3676
+
+
+8) naudotis kitomis įstatymų suteiktomis teisėmis. ^e66f52fc642a3f1b6b12e30d
+
+
+2. Valstybinės energetikos reguliavimo tarybos įgalioti Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, užtikrindami jiems pavestų uždavinių ir funkcijų vykdymą, atlikdami patikrinimus, turi šias teises, kurias įgyvendina Valstybinės energetikos reguliavimo tarybos vardu: ^009ad026425722b55ebe920c
+
+
+1) nekliudomai įeiti į geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo ir kitų juridinių asmenų naudojamas patalpas ar teritoriją ir atlikti patikrinimo veiksmus juridinių asmenų darbo metu, ne darbo laiku – jeigu yra pagrįstų įtarimų, kad pažeidžiami įstatymai, dalyvaujant juridinio asmens atstovui, patalpų, teritorijos savininkui ar jo įgaliotam atstovui, taip pat įeiti į kitų juridinių asmenų naudojamas patalpas ar teritoriją, gavę bei pateikę teismo išduotą leidimą arba  gavę juridinio asmens sutikimą; ^8f2d21bee59dbdb87fd4836c
+
+
+2) užfiksuoti faktines aplinkybes; ^ca148aa2977e07cb5e4705ba
+
+
+3) patikrinimo metu naudoti technines priemones; ^232aa43878c036b4891c276a
+
+
+4) pasitelkti [[#^953e7ea6b1a1a27086e92179|šio straipsnio 1 dalies]] 5 ir [[#^80e8861def0de65e9a2c8a8a|6 punktuose]] nurodytus asmenis patikrinimo veiksmams atlikti; ^f3ea68ed3422b025f88e10ba
+
+
+5) tikrinti asmenų tapatybę patvirtinančius dokumentus; ^3ed4533670f8554f31a0783e
+
+
+6) funkcijoms atlikti teisės aktų nustatyta tvarka pasitelkti teisėsaugos institucijas. ^80e8861def0de65e9a2c8a8a
+
+
+3. Asmenys, nurodyti [[#^953e7ea6b1a1a27086e92179|šio straipsnio 1 dalies]] 5 ir 6 punktuose, turi teises, nustatytas [[#^953e7ea6b1a1a27086e92179|šio straipsnio 1 dalies]] 1, 2 ir 7 punktuose ir 2 dalies 1 punkte. ^63084452f1e754624f42c1c6
+
+
+4. Valstybinės energetikos reguliavimo tarybos įgalioti Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, prieš atlikdami šiame straipsnyje nurodytus veiksmus, turi pateikti Valstybinės energetikos reguliavimo tarybos išduotą dokumentą, patvirtinantį jų įgaliojimus, patikrinimo tikslus ir terminus. ^22d9c3eb8260ed06fe276287
+
+
+5. Tikrinamas geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas privalo: ^3596537f415a264b4296391d
+
+
+1) paskirti įgaliotus atsakingus asmenis, kurie dalyvautų atliekant patikrinimą ir bendradarbiautų su Valstybine energetikos reguliavimo taryba; ^ca5a29fa26a089447d524eae
+
+
+2) pateikti Valstybinei energetikos reguliavimo tarybai visą patikrinimui atlikti reikalingą informaciją, duomenis ir dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus; ^026a262608033f4e8b2033a1
+
+
+3) teikti žodinius ir rašytinius paaiškinimus, Valstybinei energetikos reguliavimo tarybai pareikalavus, paaiškinimus duoti Valstybinės energetikos reguliavimo tarybos patalpose; ^ae5043b1fef607bccb14000f
+
+
+4) sudaryti reikiamas sąlygas patikrinimui atlikti, kai patikrinimas atliekamas geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo patalpose ar teritorijoje; ^dd04999aab88a7c603289242
+
+
+5) vykdyti kitus Valstybinės energetikos reguliavimo tarybos ir jos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, teisėtus reikalavimus. ^0346c15fddd01943756c07fa
+
+
+6. Tikrinamas geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas turi teisę: ^00e6b1601248d8af4831d219
+
+
+1) informuoti Valstybinę energetikos reguliavimo tarybą apie neteisėtus Valstybinės energetikos reguliavimo tarybos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, veiksmus; ^a93c918078f564c3299fbce9
+
+
+2) apskųsti neteisėtus Valstybinės energetikos reguliavimo tarybos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų veiksmus; ^bc558c64cacda645964141c2
+
+
+3) raštu ir (ar) žodžiu teikti pastabas ir paaiškinimus dėl patikrinimo akte ir jo prieduose nurodytos informacijos; ^82115b2228fb0fd2f47ecfc1
+
+
+4) dalyvauti Valstybinės energetikos reguliavimo tarybos posėdyje svarstant patikrinimo aktą. ^a863001d25cc4a08395bd631
+
+
+7. Kiti juridiniai asmenys patikrinimų metu turi [[#^3596537f415a264b4296391d|šio straipsnio 5 dalies]] 2–5 punktuose ir [[#^00e6b1601248d8af4831d219|6 dalies]] 1 ir 2 punktuose nustatytas teises ir pareigas. ^c48376cbd5dd747acbc4178c
+
+
+8. Valstybinės energetikos reguliavimo tarybos įgalioti Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus), išdėsto reikalavimus. Jų formas patvirtina ir pildymo tvarką nustato Valstybinė energetikos reguliavimo taryba. ^84fbdfecab8f0157efd6b633
+
+
+9. Valstybinės energetikos reguliavimo tarybos ir jos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, reikalavimai, duoti atliekant šiame straipsnyje nurodytus veiksmus, yra privalomi juridiniams ir fiziniams asmenims, kurie privalo tinkamai bendradarbiauti su Valstybine energetikos reguliavimo taryba, jos įgaliotais Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, ir [[#^953e7ea6b1a1a27086e92179|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodytais asmenimis. Už reikalavimų nevykdymą, netinkamą bendradarbiavimą ar trukdymą atlikti patikrinimo veiksmus taikomos šio įstatymo nustatytos sankcijos. ^dfbadf7b0fe2ac5133cf8f6b
+
+
+10. Tikrinamas geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas, juridiniai ir fiziniai asmenys Valstybinei energetikos reguliavimo tarybai, jos įgaliotiems Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, ir [[#^953e7ea6b1a1a27086e92179|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodytiems asmenims privalo pateikti patikrinimui atlikti reikalingą informaciją, net jeigu tokia informacija sudaro tikrinamo geriamojo vandens tiekėjo, garantinio vandens tiekėjo ir paviršinių nuotekų tvarkytojo komercinę (gamybinę) paslaptį arba yra konfidenciali dėl kitų priežasčių. Valstybinė energetikos reguliavimo taryba, jos įgalioti Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, ir [[#^953e7ea6b1a1a27086e92179|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti patikrinimo metu gautos konfidencialios informacijos konfidencialumą. ^bc14bbea7610a7eb6b4bd678
+
+
+11. Valstybinės energetikos reguliavimo tarybos tikrinamas geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas turi teisę paduoti [[#^bc558c64cacda645964141c2|šio straipsnio 6 dalies 2 punkte]] nurodytą skundą pirmosios instancijos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Valstybinės energetikos reguliavimo tarybos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip. ^ae4433c820ab1e8f8eb21312
+Straipsnio dalies pakeitimai:
+Nr. XIV-1590, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25159
+
+
+
+12. Už [[#^953e7ea6b1a1a27086e92179|šio straipsnio 1 dalies]] 3, 4 ir 5 punktuose nurodytas paslaugas, jeigu jos pagal galiojančius teisės aktus yra teikiamos atlygintinai, Valstybinė energetikos reguliavimo taryba atsiskaito teisės aktų nustatyta tvarka. ^d13a771bc6c27f0c3a19970c
+
+
+13. Lietuvos bankas, komerciniai bankai ar kitos kredito bei finansų įstaigos [[#^5473c6713206f0a7f6b35ecd|šio straipsnio 1 dalies 3 punkte]] nurodytą informaciją Valstybinei energetikos reguliavimo tarybai teikia Viešojo administravimo įstatymo [[#^0587ee93f6faa2eece14909c|35 straipsnio 3 dalyje]] nustatyta tvarka. ^72c8bb73dd150b78a13c7fca
+
+
+
+### 35 straipsnis. Atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarka
+
+
+1. Abonentai ir vartotojai už geriamojo vandens tiekėjo patiektą geriamąjį vandenį ir nuotekų tvarkymo paslaugas atsiskaito pagal pirkimo ir pardavimo vietoje (geriamojo vandens apskaitos mazguose) įrengtų geriamojo vandens apskaitos prietaisų ir nuotekų apskaitos prietaisų (jeigu tokie įrengti, išskyrus [[#^6eaf0b5d7b2451b3e0d9ffce|šio straipsnio 9 dalį]]) rodmenis, jeigu sutartyje nenustatyta kitaip. ^a7793a60fb34bb3d7d8142d2
+
+
+2. Karštam vandeniui ruošti patiekto geriamojo vandens kiekis nustatomas pagal pastate prieš karšto vandens ruošimo įrenginius įrengto geriamojo vandens apskaitos prietaiso rodmenis. Kai geriamasis vanduo tiekiamas karštam vandeniui ruošti daugiabučio namo karšto vandens ruošimo įrenginiuose, geriamojo vandens pirkimo ir pardavimo vieta yra geriamojo vandens apskaitos prietaisas, įrengtas pastate prieš karšto vandens ruošimo įrenginius. ^4cdd4515b95224576620ade3
+
+
+3. Geriamojo vandens apskaitos prietaisus ir nuotekų apskaitos prietaisus pirkimo ir pardavimo vietose (įvade, butuose ar kitose patalpose (geriamojo vandens apskaitos mazguose), nuotekų išvade įrengia ir naudoja geriamojo vandens tiekėjas, garantinis vandens tiekėjas savo lėšomis. Šių apskaitos prietaisų įsigijimo, įrengimo ir eksploatavimo sąnaudos įtraukiamos į geriamojo vandens apskaitos prietaisų ir nuotekų apskaitos prietaisų įsigijimo, įrengimo, eksploatavimo užmokestį. Geriamojo vandens apskaitos prietaisų ir nuotekų apskaitos prietaisų įsigijimo, įrengimo, eksploatavimo užmokestis skaičiuojamas pagal Valstybinei energetikos reguliavimo tarybos tvirtinamą geriamojo vandens apskaitos prietaisų ir nuotekų apskaitos prietaisų įsigijimo, įrengimo ir eksploatavimo užmokesčio apskaičiavimo metodiką ir jo dydį tvirtina geriamojo vandens tiekėjo, garantinio vandens tiekėjo valdyba, o kai ji nesudaroma, – įmonės vadovas. ^0587ee93f6faa2eece14909c
+
+
+4. Atsiskaitant už geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas daugiabučiuose namuose geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų pirkimo ir pardavimo vieta yra kiekvienas butas ar kita patalpa, išskyrus šio straipsnio 2 ir [[#^0e10bafdb7a26f0fbb9e33e7|6 dalyse]] numatytus atvejus. ^0529c94e9056c840ecbd284d
+
+
+5. Jeigu geriamojo vandens nuostoliai daugiabučiuose namuose susidaro perkant geriamojo vandens tiekimo paslaugas butų savininkams bendrosios dalinės nuosavybės teise priklausančiais tinklais, jie pagal Civilinio kodekso 4.76 ir 4.82 straipsnius turi apmokėti geriamojo vandens tiekėjui, garantiniam vandens tiekėjui šio vandens kainą. Tokia butų savininkų pareiga atsiranda tuo atveju, jeigu geriamojo vandens tiekėjas, garantinis vandens tiekėjas įrodo, kad geriamojo vandens nuostoliai susidaro dėl butų savininkų kaltės. ^8cecc40b0cb3ef50ed5688d2
+
+
+6. Daugiabučio namo butų ir kitų patalpų savininkai turi teisę pirkimo ir pardavimo vietą pasirinkti įvade, sudarydami rašytinį visų savininkų, kuriems geriamasis vanduo tiekiamas iš to įvado, susitarimą ir tai numatydami sutartyse su geriamojo vandens tiekėju, garantiniu vandens tiekėju. Tokiu atveju daugiabučio namo butų ir kitų patalpų savininkai bendru rašytiniu susitarimu nusprendžia, kaip bus nustatomas kiekvieno vartotojo suvartoto geriamojo vandens kiekis, įskaitant skirtumą, nurodytą [[#^8cecc40b0cb3ef50ed5688d2|šio straipsnio 5 dalyje]], kai pasirenkamas sprendimas atsiskaityti pagal įvade įrengto geriamojo vandens apskaitos prietaiso rodmenis, ir apie šį sprendimą praneša raštu geriamojo vandens tiekėjui, garantiniam vandens tiekėjui. ^0e10bafdb7a26f0fbb9e33e7
+
+
+7. Abonentai ir vartotojai, kuriems dėl techninių priežasčių nėra galimybės įrengti geriamojo vandens apskaitos prietaisų, už geriamojo vandens tiekėjo patiektą geriamąjį vandenį atsiskaito Vyriausybės tvirtinamame viešosios sutarties standartinių sąlygų apraše nustatyta tvarka. ^feb2ef1593395813228804fc
+
+
+8. Priimtų tvarkyti nuotekų, išskyrus paviršines nuotekas, kiekis, kai nėra nustatyta tvarka įrengtų nuotekų apskaitos prietaisų, prilyginamas patiekto geriamojo vandens kiekiui. Nuotekų apskaitos prietaisai įrengiami abonento pageidavimu jo lėšomis. Abonentams, savo lėšomis įsirengusiems teisės aktų reikalavimus atitinkančius nuotekų apskaitos prietaisus, nuotekų faktinį užterštumą nustatančias sistemas, geriamojo vandens tiekėjo, garantinio vandens tiekėjo įgaliotam atstovui šias sistemas patikrinus ir užplombavus, tai užfiksavus akte, kurį geriamojo vandens tiekėjo, garantinio vandens tiekėjo įgaliotas atstovas pateikia susipažinti ir pasirašyti abonentui, mokestis už nuotekų tvarkymo paslaugas nustatomas vadovaujantis abonentų lėšomis įsirengtų nuotekų apskaitos prietaisų ir faktinį nuotekų užterštumą nustatančių prietaisų duomenimis. Abonentui atsiskaitant už nuotekų tvarkymą pagal faktinį nuotekų užterštumą, nuotekų mėginiai imami nepertraukiamai, už nuotekų mėginių paėmimą ir tyrimus sumoka abonentas. ^fae829e1b6b1399e983752ba
+
+
+9. Abonentai, kurie pageidauja už geriamojo vandens tiekėjo suteiktas nuotekų tvarkymo paslaugas atsiskaityti pagal faktiškai išleidžiamą nuotekų kiekį, aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatyta tvarka geriamojo vandens tiekėjui, garantiniam vandens tiekėjui teikia prašymą įrengti nuotekų apskaitos prietaisą, kad už nuotekų tvarkymo paslaugas būtų galima atsiskaityti pagal jo rodmenis. Daugiabučiuose namuose ir kituose gyvenamuosiuose pastatuose nuotekų apskaitos prietaisai neįrengiami, o jeigu yra įrengti, atsiskaitymui nenaudojami, jeigu abonentai arba vartotojai ir geriamojo vandens tiekėjas, garantinis vandens tiekėjas sutartyje nesusitaria kitaip. ^6eaf0b5d7b2451b3e0d9ffce
+
+
+10. Geriamojo vandens tiekėjas turi teisę ties nuotekų atidavimo riba įrengti nuotekų apskaitos prietaisą ir už nuotekų tvarkymo paslaugas reikalauti atsiskaityti pagal jo rodmenis, kai iš esmės skiriasi suvartojamo geriamojo vandens ir išleidžiamų nuotekų kiekiai. ^a8e9c4cc2a74192087a6f4c9
+
+
+11. Geriamojo vandens tiekėjas, garantinis vandens tiekėjas privalo sudaryti galimybę abonentams ir vartotojams už jiems patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas atsiskaityti Vyriausybės tvirtinamame atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos apraše nustatytais atsiskaitymo būdais (bankuose, kitose įmokas priimančiose įstaigose ir įmonėse, internetu, pagal bendrąją atsiskaitomąją knygelę ar jos elektroninį atitikmenį arba kitaip). Atsiskaitymo būdą pasirenka abonentas ir vartotojas. ^a8856031d8f2742b7a81bb35
+
+
+12. Atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų (ir paviršinių nuotekų) tvarkymo paslaugas sąlygos nustatomos Vyriausybės tvirtinamame atsiskaitymo už patiektą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas tvarkos apraše. ^6abe02e865d42c4961441b70
+
+
+13. Priimtų tvarkyti paviršinių nuotekų kiekis nustatomas aplinkos ministro tvirtinamame paviršinių nuotekų tvarkymo reglamente nustatyta tvarka. ^1230aac7d942bb4eb18dbbd7
+
+
+
+### 36 straipsnis. Už suvartotą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas susidariusių vartotojo skolų ir permokų apmokėjimo tvarka
+
+
+Dėl geriamojo vandens tiekėjo kaltės vykdant teisės aktuose įtvirtintus licencijuojamos veiklos įpareigojimus susidariusi vartotojo skola už suvartotą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas iš vartotojo gali būti išieškoma ne daugiau kaip už 2 mėnesius, ėjusius prieš einamąjį mėnesį, neskaičiuojant netesybų (delspinigių ar baudų) už visą klaidingai apskaičiuoto mokesčio už suvartotą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas laikotarpį. Permoka už suvartotą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas vartotojui skaičiuojama už visą klaidingai apskaičiuotą laikotarpį.
+
 
 
 
 ### DEVINTASIS SKIRSNIS
+INFORMACIJOS TEIKIMAS VISUOMENEI, VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJOMS
+
+
+
+### 37 straipsnis. Informacijos teikimas visuomenei, valstybės ir savivaldybių institucijoms
+
+
+1. Informacija apie geriamojo vandens tiekėją, garantinį vandens tiekėją, paviršinių nuotekų tvarkytoją, tiekiamo geriamojo vandens ir teikiamų nuotekų tvarkymo paslaugų kokybę, geriamojo vandens saugą ir kokybę, paviršinių nuotekų tvarkymą, paslaugų teikimo sąlygas ir planuojamus sutarčių pakeitimus, geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros eksploatavimą, modernizavimą, plėtrą, renovaciją, investicijas į geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo infrastruktūros plėtrą ir renovaciją, paslaugų kainas ir tarifus, jų struktūrą ir aplinkos ministro tvirtinamame geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kokybės reikalavimų apraše nurodyta informacija yra vieša, skelbiama geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų interneto svetainėse. Geriamojo vandens tiekėjų, garantinių vandens tiekėjų ir paviršinių nuotekų tvarkytojų interneto svetainėse skelbiama informacija atnaujinama, jeigu yra pakeitimų, bet ne rečiau kaip kartą per metus. Informacija apie prieigą prie geriamojo vandens viešosiose erdvėse skelbiama savivaldybės interneto svetainėse. Informacija atnaujinama, jeigu yra pasikeitimų, bet ne rečiau kaip kartą per metus. ^de509a3a8b68f2e2158e4a63
+
+
+2. Geriamojo vandens tiekėjų, garantinių vandens tiekėjų informacija apie šiuo įstatymu reglamentuojamą licencijuojamą veiklą ar veiklą, kurios kainos reguliuojamos, yra vieša. Paviršinių nuotekų tvarkytojų informacija apie veiklą, kurios kainos reguliuojamos, yra vieša. Valstybės ir savivaldybių institucijos turi teisę gauti iš geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų visus finansinės atskaitomybės, kitus dokumentus ir informaciją, reikalingą teisės aktų nustatytoms pareigoms vykdyti. Geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas privalo pateikti reikiamą informaciją per 10 darbo dienų nuo reikalavimo gavimo dienos, jeigu geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas nenurodo pagrįstų priežasčių, dėl kurių valstybės ir savivaldybių institucijos gali nustatyti ilgesnį terminą informacijai pateikti. ^0f38c67a1173a1c2ae1d1642
+
+
+3. Keičiantis geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo paslaugų teikimo kainoms, paviršinių nuotekų tvarkymo paslaugų kainoms, geriamojo vandens tiekėjai, garantiniai vandens tiekėjai, paviršinių nuotekų tvarkytojai viešai (savo interneto svetainėje ar regioninėje spaudoje) informuoja abonentus ir vartotojus apie pasikeitusias ir nustatytas kainas. ^5a42d9afb99d391d4f86ac88
+
+
+4. Abonentų ir vartotojų teises ginančios valstybės institucijos teisės aktų nustatyta tvarka turi teisę gauti iš geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų informaciją, reikalingą abonentų ir vartotojų teisėms ginti. ^61a44d46910f278a2fd0f3c3
+
+
+5. Geriamojo vandens tiekėjai, garantiniai vandens tiekėjai, paviršinių nuotekų tvarkytojai, kurie pagal Lietuvos Respublikos įmonių atskaitomybės įstatymo reikalavimus privalo atlikti finansinių ataskaitų auditą, užtikrina, kad pasibaigus kiekvieniems finansiniams metams, per 4 mėnesius būtų atliktas metinių finansinių ataskaitų auditas ir auditoriaus išvada kartu su finansinėmis ataskaitomis pateikta Valstybinei energetikos reguliavimo tarybai ir paskelbta geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų interneto svetainėse. ^890e10c9f74c30408b6aa621
+
+
+
+### DEŠIMTASIS SKIRSNIS
+GINČŲ IR SKUNDŲ NAGRINĖJIMAS. SANKCIJŲ SKYRIMO TVARKA
+
+
+
+### 38 straipsnis. Vartotojų ar abonentų, geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų ginčų sprendimas ne teismo tvarka. Abonentų ir vartotojų skundų nagrinėjimas
+
+
+1. Iš sutartinių santykių kylančius vartotojo ar abonento ir geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo  ginčus dėl geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų, garantinių geriamojo vandens tiekimo ir nuotekų tvarkymo paslaugų kainų, paviršinių nuotekų tvarkymo paslaugų kainų, laikino atjungimo nuo (prijungimo prie) geriamojo vandens tiekimo tinklų paslaugų kainų ir jų taikymo ne teismo tvarka sprendžia Valstybinė energetikos reguliavimo taryba. Kitus vartotojo ir geriamojo vandens tiekėjo, garantinio vandens tiekėjo ginčus ne teismo tvarka sprendžia Valstybinė vartotojų teisių apsaugos tarnyba. Vartotojas ar abonentas, manantis, kad geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas pažeidė jo teises ar teisėtus interesus, pirmiausia privalo raštu kreiptis į geriamojo vandens tiekėją, garantinį vandens tiekėją, paviršinių nuotekų tvarkytoją ir nurodyti savo reikalavimus. ^cdc5311d3a098e444e79dd8a
+
+
+2. Vartotojų ir geriamojo vandens tiekėjų, garantinių vandens tiekėjų ginčai sprendžiami ne teismo tvarka pagal Vartotojų teisių apsaugos įstatymą. ^a07f5de19a1b680061761ae0
+
+
+3. Abonentų ir vartotojų skundus nagrinėja šios institucijos: ^ff62a67b2a9684583cc12962
+
+
+1) Valstybinė maisto ir veterinarijos tarnyba – abonentų ir vartotojų skundus dėl abonentams ir vartotojams tiekiamo geriamojo vandens saugos ir kokybės reikalavimų nesilaikymo; ^537ff97af1170e93cf956dc6
+
+
+2) Valstybinė vartotojų teisių apsaugos tarnyba – vartotojų skundus dėl geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo sutarčių nesąžiningų sąlygų taikymo, geriamojo vandens ir nuotekų apskaitos, vandentiekio avarijų, geriamojo vandens tiekimo nutraukimo, sustabdymo ar ribojimo ir sąskaitų pateikimo; ^e213d7ae6e59d77873edd9ae
+
+
+3) savivaldybių vykdomosios institucijos – abonentų ir vartotojų skundus dėl geriamojo vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų teikimo organizavimo ir koordinavimo, geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros objektų, būtinų viešajam geriamojo vandens tiekimui ir (arba) nuotekų tvarkymui, perdavimo ar naudojimo šiame įstatyme nurodytais būdais organizavimo. ^9c47681cfa3fda4934d166b0
+
+
+4. [[#^ff62a67b2a9684583cc12962|Šio straipsnio 3 dalies]] 1–3 punktuose nurodyti abonentų ir vartotojų skundai nagrinėjami Viešojo administravimo įstatyme nustatyta tvarka. ^5468e6a5f6e0cf4f906951e0
+
+
+
+### 39 straipsnis. Sankcijos ir jų skyrimo tvarka
+
+
+1. Geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui už pažeidimus vykdant reguliuojamąją veiklą užtikrinant atitiktį teisės aktų nustatytoms reguliuojamosios veiklos sąlygoms, Valstybinė energetikos reguliavimo taryba skiria baudas: ^046e7691852de0abe81bcd23
+
+
+1) už viešai privalomos skelbti informacijos apie šiuo įstatymu reglamentuojamą reguliuojamąją veiklą nepaskelbimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki vieno tūkstančio eurų; ^68c1bae745fef27014afb0ed
+
+
+2) už teisės aktuose nustatytos informacijos nepateikimą šio įstatymo [[#37 straipsnis. Informacijos teikimas visuomenei, valstybės ir savivaldybių institucijoms|37 straipsnyje]] nurodytiems asmenims, už neteisingos ar ne visos informacijos pateikimą – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 0,5 procento geriamojo vandens tiekėjo, garantinio vandens tiekėjo ar paviršinių nuotekų tvarkytojo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio; ^c1dc3261733e1bc807899cd5
+
+
+21) Neteko galios nuo 2024-10-01 ^c32923ac2357c2cd6e3457b8
+Straipsnio punkto naikinimas:
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+Papildyta straipsnio punktu:
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
+
+
+
+3) už Valstybinės energetikos reguliavimo tarybos įpareigojimų (nurodymų) nutraukti neteisėtą veiklą, pakeisti naudojamą apskaitos atskyrimo ir sąnaudų paskirstymo sistemą, už reguliuojamosios veiklos sąlygų pažeidimus – nuo dviejų šimtų aštuoniasdešimt devynių eurų iki vieno procento geriamojo vandens tiekėjo, garantinio vandens tiekėjo ar paviršinių nuotekų tvarkytojo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio. ^b2ea24c01e7b95d06c2962e1
+
+
+2. Baudos nepriskiriamos būtinosioms sąnaudoms ir neįskaičiuojamos į geriamojo vandens tiekimo ir nuotekų tvarkymo, garantinio vandens tiekimo ir nuotekų tvarkymo, paviršinių nuotekų tvarkymo paslaugų kainas. ^894c0187940e3909a96cf8b3
+
+
+3. Geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui už Valstybinės energetikos reguliavimo tarybos, jos įgaliotų Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, ar asmenų, nurodytų šio įstatymo [[#^953e7ea6b1a1a27086e92179|34 straipsnio 1 dalies]] 5 ir 6 punktuose, reikalavimų, duotų atliekant šio įstatymo [[#34 straipsnis. Geriamojo vandens tiekėjo, garantinio vandens tiekėjo ir paviršinių nuotekų tvarkytojo veiklos patikrinimai|34 straipsnyje]] nurodytus veiksmus, nevykdymą Valstybinė energetikos reguliavimo taryba skiria baudą nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 0,5 procento geriamojo vandens tiekėjo, garantinio vandens tiekėjo ar paviršinių nuotekų tvarkytojo metinių reguliuojamosios veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio. Kitiems juridiniams asmenims už šioje dalyje nurodytus pažeidimus Valstybinė energetikos reguliavimo taryba skiria baudą nuo dviejų šimtų aštuoniasdešimt devynių eurų iki šešių tūkstančių eurų. ^4dde4655fdf2d16ba054f8a7
+
+
+4. Juridiniams asmenims, vykdantiems geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veiklą be geriamojo vandens tiekimo ir nuotekų tvarkymo licencijos, skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių eurų iki 3 procentų metinių veiklos pajamų, gautų praėjusiais finansiniais metais, dydžio. ^9e32edfdce02730bde7b9b40
+
+
+5. Valstybinė energetikos reguliavimo taryba, skirdama baudą, kartu nustato protingą, ne ilgesnį kaip 2 mėnesių, terminą pažeidimui pašalinti, jeigu pažeidimo pašalinimas yra objektyviai įmanomas. Jeigu pažeidimas yra mažareikšmis, tai yra geriamojo vandens  tiekėjas, garantinis vandens tiekėjas ar  paviršinių nuotekų tvarkytojas nepadarė esminės žalos kitų asmenų interesams, nutraukė pažeidimą, pašalino pažeidimo padarinius, o teisės aktų reikalavimų laikymasis, atsižvelgiant į faktines aplinkybes, gali būti užtikrintas kitais būdais ir (arba) kitomis priemonėmis, Valstybinė energetikos reguliavimo taryba, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti įspėjimą, neskirdama baudos. ^764320dcd1286e8bbff41692
+
+
+6. Geriamojo vandens tiekėjams, garantiniams vandens tiekėjams, paviršinių nuotekų tvarkytojams skiriamos baudos dydis nustatomas pagal numatytą minimalios ir maksimalios baudų vidurkį, įvertinus: ^0908fec2a15dc0a097d23677
+
+
+1) pažeidimo pavojingumą; ^9061969bd037b5c57e18310d
+
+
+2) pažeidimo trukmę; ^ebc1a2f7228de87516ed5f35
+
+
+3) pažeidimo padarinius; ^30760a2ec6d3761e72cc9976
+
+
+4) geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo atsakomybę lengvinančias ar sunkinančias aplinkybes. ^1aef3ba1a9219f7eb631402a
+
+
+7. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės: ^7bddc17c028cfe4acb5ed7e9
+
+
+1) geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas savo noru užkirto kelią žalingiems pažeidimo padariniams; ^450b9c62b247468b55b2c7ed
+
+
+2) geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas padėjo atskleisti pažeidimo aplinkybes; ^39b2a67de4aa5be81f0ba0b1
+
+
+3) geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas nedelsdamas ėmėsi priemonių pažeidimui pašalinti. ^56a1879f2ba3622df80b24f9
+
+
+4) kitos šiame įstatyme nenurodytos, Valstybinės energetikos reguliavimo tarybos pripažintos lengvinančiomis aplinkybės. ^81f2d181b2e8d397894a405c
+
+
+8. Atsakomybę sunkinančiomis aplinkybėmis laikoma, kai geriamojo vandens tiekėjas, garantinis vandens tiekėjas, paviršinių nuotekų tvarkytojas: ^a37278f9afc06bcae70499d0
+
+
+1) trukdė nustatyti pažeidimo aplinkybes, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydamas Valstybinės energetikos reguliavimo tarybos nurodymo nutraukti neteisėtą veiklą; ^2b603e4c230c860bebd63e50
+
+
+2) padarė pažeidimą, dėl kurio per paskutinius 12 mėnesių jam buvo skirta sankcija. ^c4fe7f5f50c89d1379b1893e
+
+
+9. Skiriamos sankcijos dydis nustatomas įvertinus [[#^0908fec2a15dc0a097d23677|šio straipsnio 6 dalies]] 1, 2 ir 3 punktuose nurodytas aplinkybes. Nustatytos sankcijos mažinamos nuo vidurkio iki minimumo, jeigu yra atsakomybę lengvinančių aplinkybių, arba didinamos nuo vidurkio iki maksimumo, jeigu yra atsakomybę sunkinančių aplinkybių. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, sankcijos dydis nustatomas atsižvelgiant į jų kiekį ir reikšmingumą. ^ec2cd8b9c73b8b6050bdf17f
+
+
+10. Valstybinei energetikos reguliavimo tarybai svarstant sankcijos skyrimo klausimą, dalyvauja geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo, kuris įtariamas padaręs pažeidimą ir kuriam gali būti skiriama sankcija, vadovas ir (arba) jo įgaliotas atstovas, kurie turi teisę būti išklausyti ir pasiaiškinti. Įtraukus sankcijos skyrimo klausimą į Valstybinės energetikos reguliavimo tarybos posėdžio darbotvarkę, apie posėdžio datą ir laiką geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui, dėl kurio veiksmų yra pradėta sankcijos skyrimo procedūra, raštu pranešama ne vėliau kaip prieš 10 darbo dienų iki posėdžio. Nustatant sankcijos skyrimo svarstymo datą, geriamojo vandens tiekėjui, garantiniam vandens tiekėjui, paviršinių nuotekų tvarkytojui turi būti suteikta teisė pateikti paaiškinimus ne trumpiau kaip per 14 darbo dienų iki sankcijos skyrimo klausimo svarstymo datos. Jeigu šie asmenys nedalyvauja, sankcijos skyrimo klausimas gali būti išnagrinėtas tik tais atvejais, kai yra duomenų, kad jiems laiku pranešta apie šio klausimo nagrinėjimo vietą, laiką ir negautas prašymas atidėti klausimo nagrinėjimą. Tinkamu pranešimu laikytinas pranešimas, išsiųstas registruotu paštu Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba pranešimas, išsiųstas Juridinių asmenų registre nurodytu juridinio asmens Nacionalinės elektroninių siuntų pristatymo naudojant pašto tinklą informacinės sistemos elektroninio pristatymo dėžutės adresu. Kai gautas prašymas atidėti klausimo nagrinėjimą, klausimas gali būti išnagrinėtas asmeniui nedalyvaujant, jeigu Valstybinė energetikos reguliavimo taryba, pripažinusi neatvykimo į posėdį, kuriame bus nagrinėjamas klausimas, priežastis nesvarbiomis, atmeta asmens prašymą atidėti klausimo nagrinėjimą. ^80a9b6298149519aed3b3791
+
+
+11. Sankcijos skyrimo klausimo svarstymas posėdyje yra viešas. Valstybinės energetikos reguliavimo tarybos iniciatyva ar geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo vadovo ar (ir) jo įgalioto asmens motyvuotu prašymu Valstybinė energetikos reguliavimo taryba procedūriniu sprendimu gali paskelbti žodinį sankcijos skyrimo klausimo svarstymo posėdį uždaru, kai Valstybinė energetikos reguliavimo taryba nori apsaugoti geriamojo vandens tiekėjo, garantinio vandens tiekėjo, paviršinių nuotekų tvarkytojo komercines paslaptis, asmens duomenis ar kitą konfidencialią informaciją. Uždarame Valstybinės energetikos reguliavimo tarybos posėdyje dalyvaujantys asmenys privalo neatskleisti posėdžio metu sužinotos komercinės paslapties, asmens duomenų ar kitos konfidencialios informacijos. Už tokios informacijos atskleidimą asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka. ^d7757e25bbe8c4a548d9878a
+
+
+12. Sankcijų skyrimo klausimai svarstomi, pažeidimų tyrimo procedūros vykdomos Valstybinės energetikos reguliavimo tarybos nustatytose sankcijų skyrimo taisyklėse nurodyta tvarka. ^74e8209f2ed7e49f5c89869f
+
+
+13. Valstybinės energetikos reguliavimo tarybos sprendimas dėl sankcijos skyrimo turi būti priimtas per 6 mėnesius nuo pažeidimo nustatymo dienos. Tęstinio pažeidimo atveju sankcija gali būti paskirta ne vėliau kaip per 6 mėnesius nuo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip 5 metai, sankcijos negali būti skiriamos. ^c2a5fd424221ccfec9939242
+
+
+14. Už tą patį pažeidimą gali būti skiriama tik viena sankcija. Sankcijos skyrimas neatleidžia asmens nuo pareigos, už kurios nevykdymą paskirta sankcija, vykdymo. ^5c2e7fa708d5d0796766909f
+
+
+15. Valstybinės energetikos reguliavimo tarybos paskirta bauda į valstybės biudžetą sumokama Valstybinės energetikos reguliavimo tarybos nustatyta tvarka ir terminais. ^65e649673b8a3a4fc2c1b690
+
+
+16. Valstybinės energetikos reguliavimo tarybos sprendimas dėl sankcijos skyrimo per 30 kalendorinių dienų nuo jo priėmimo dienos gali būti skundžiamas teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. ^20f73d81452447a4f528c6b5
+
+
+17. Valstybinės energetikos reguliavimo tarybos sprendimas dėl sankcijos skyrimo įsigalioja po 30 kalendorinių dienų nuo jo priėmimo dienos, jeigu per šį laiką Administracinių bylų teisenos įstatymo nustatyta tvarka sprendimas neapskundžiamas teismui. Jeigu Valstybinė energetikos reguliavimo taryba sprendimu ne tik skiria sankciją, bet ir nustato įpareigojimus, Valstybinės energetikos reguliavimo tarybos sprendimo dalis dėl įpareigojimų nustatymo įsigalioja sprendimo priėmimo dieną, jeigu sprendime nenustatyta vėlesnė jos įsigaliojimo data. Valstybinės energetikos reguliavimo tarybos sprendimo dėl įpareigojimų nustatymo apskundimas teismui įpareigojimų vykdymo nesustabdo, jeigu teismas nenusprendžia kitaip. ^e9e9e64ebb1e504cf366448f
+
+
+18. Valstybinės energetikos reguliavimo tarybos sprendimas dėl baudos skyrimo yra vykdytinas ir vykdomasis dokumentas. ^85e0a857c49c4c7482d939d3
+
+
+19. Valstybinės energetikos reguliavimo tarybos sprendimo dėl sankcijos skyrimo ir įpareigojimų nustatymo nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo jo priėmimo. ^fb1c85a18e7883ce2011c3a3
+
+
+20. Abonentui už viešojoje sutartyje numatytų sąlygų nesilaikymą skiriama bauda: ^5196144d22f7f5201bfdbb64
+
+
+1) geriamojo vandens tiekėjui, garantiniam vandens tiekėjui nustačius, kad abonento išleidžiamų nuotekų užterštumas yra iki 3 kartų didesnis už viešojoje sutartyje nustatytą nuotekų užterštumą, kuris negali būti viršytas dėl nuotekų tvarkymo infrastruktūros galimybių, už kiekvienos teršiančios medžiagos viršijimą skaičiuojama bauda. Bauda apskaičiuojama 1 m3 nuotekų tvarkymo paslaugų bazinę kainą ir nuotekų valymo kainą už padidėjusią ir savitąją nuotekų taršą padidinus santykiu, kokiu faktinis nuotekų užterštumas viršijo viešojoje sutartyje nustatytą nuotekų užterštumą, kuris negali būti viršytas dėl nuotekų tvarkymo infrastruktūros galimybių. Baudos už kiekvienos teršiančios medžiagos koncentracijos viršijimą nuotekose sumuojamos. Baudos taikymo laikotarpis nustatomas nuo mėginio, nustatančio, kad teršiančių medžiagų parametras viršija viešojoje sutartyje nustatytą užterštumą, paėmimo datos iki mėginio, kai viršijimas nebefiksuojamas, paėmimo datos. Visais atvejais šis laikotarpis yra ne trumpesnis kaip trys paros, o kai geriamojo vandens tiekėjas, garantinis vandens tiekėjas abonento išleidžiamų nuotekų kokybės kontrolę atlieka imdamas vidutinius paros mėginius visą ataskaitinį laikotarpį, šiame punkte nurodytų teršiančių medžiagų išleidimo laikotarpis sutampa su ataskaitiniu laikotarpiu, kuris nurodytas viešojoje sutartyje, tačiau yra ne trumpesnis kaip vienas mėnuo. Per šį laikotarpį išleistų nuotekų kiekis nustatomas pagal nuotekų apskaitos prietaisų rodmenis; jeigu šie prietaisai neįrengti ar jų rodmenys nuotekų mėginių paėmimo metu nenustatyti, – pagal apskaitomo mėnesio vidutinį paros nuotekų kiekį. Baudos taikymas neatleidžia abonento nuo pareigos pašalinti taršos priežastis; ^a6a4bc7e200ab3d5b7a027d0
+
+
+2) abonentui išleidus viešojoje sutartyje nedeklaruotas, bet ūkinėje veikloje naudojamas medžiagas ir preparatus, išskyrus numatytas [[#^014f5255893f901e159eafb1|šios dalies 3 punkte]], arba nustačius didelę taršą, skaičiuojama bauda, lygi 1 m3 nuotekų tvarkymo paslaugų bazinę kainą, nuotekų valymo kainą už padidėjusią ir savitąją nuotekų taršą padidinus santykiu, kokiu faktinė tarša viršijo viešojoje sutartyje nustatytą abonentui nuotekų užterštumą, kuris negali būti viršytas dėl nuotekų tvarkymo infrastruktūros galimybių. Baudos už kiekvienos teršiančios medžiagos koncentracijos viršijimą nuotekose sumuojamos. Šiame punkte nurodytų teršiančių medžiagų išleidimo laikotarpis sutampa su ataskaitiniu laikotarpiu, kuris nurodytas viešojoje sutartyje, tačiau yra ne trumpesnis kaip vienas mėnuo. Abonentui lieka prievolė, pašalinus taršos priežastis, prašyti geriamojo vandens tiekėją, garantinį vandens tiekėją paimti pakartotinį nuotekų mėginį, iš naujo įvertinti realią išleidžiamų nuotekų užterštumo koncentraciją ir raštu pranešti geriamojo vandens tiekėjui, garantiniam vandens tiekėjui apie jo veiklos metu naudojamas ir į nuotekas galinčias patekti medžiagas ir preparatus, numatomą jų koncentraciją nuotekose ir planuojamą išleisti nuotekų kiekį. Atsižvelgdamas į šį pranešimą, geriamojo vandens tiekėjas, garantinis vandens tiekėjas turi teisę iš naujo nustatyti abonentui leidžiamą išleisti nuotekų užterštumą; ^a5a8e70cfd4e9060ad1a6572
+
+
+3) abonentui išleidus viešojoje sutartyje nedeklaruotas prioritetines pavojingas medžiagas, nurodytas aplinkos ministro tvirtinamo nuotekų tvarkymo reglamento 1 priede, pagal šio straipsnio [[#^a5a8e70cfd4e9060ad1a6572|2 punktą]] apskaičiuota baudų už nedeklaruotą (-as) teršiančią (-ias) medžiagą (-as) suma indeksuojama taikant koeficientą 4; ^014f5255893f901e159eafb1
+
+
+4) paviršinių nuotekų tvarkytojui nustačius, kad abonento išleidžiamų paviršinių nuotekų užterštumas yra iki 3 kartų didesnis už viešojoje sutartyje nustatytą leidžiamą išleidžiamų paviršinių nuotekų užterštumą, už kiekvienos teršiančios medžiagos viršijimą skaičiuojama bauda. Bauda apskaičiuojama 1 m3 paviršinių nuotekų tvarkymo paslaugų kainą padidinus santykiu, kokiu faktinis paviršinių nuotekų užterštumas viršijo viešojoje sutartyje nustatytą abonentui leidžiamą paviršinių nuotekų užterštumą. Baudos už kiekvienos teršiančiosios medžiagos parametro viršijimą paviršinėse nuotekose sumuojamos. Baudos taikymo laikotarpis nustatomas nuo mėginio, nustatančio, kad teršiančių medžiagų parametras viršija viešojoje sutartyje nustatytą leidžiamą paviršinių nuotekų užterštumą, paėmimo datos iki mėginio, kai viršijimas nebefiksuojamas, paėmimo datos. Visais atvejais šis laikotarpis yra ne trumpesnis kaip trys paros. Per šį laikotarpį išleistų paviršinių nuotekų kiekis apskaičiuojamas vadovaujantis aplinkos ministro tvirtinamu paviršinių nuotekų tvarkymo reglamentu, pagal apskaitomo mėnesio vidutinį paros paviršinių nuotekų kiekį arba išmatuojamas nuotekų apskaitos prietaisais, jeigu jie įrengti ir jų rodmenys paviršinių nuotekų mėginių paėmimo metu buvo nustatyti. Jeigu į paviršinių nuotekų tvarkymo infrastruktūrą išleistos ne paviršinės nuotekos, o kitos nuotekos, išleistų į paviršinių nuotekų tvarkymo infrastruktūrą nuotekų kiekis nustatomas vadovaujantis aplinkos ministro tvirtinamose geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros naudojimo ir priežiūros taisyklėse nustatyta tvarka. Baudos taikymas neatleidžia abonento nuo pareigos pašalinti taršos priežastis; ^dc7bd6fad2fd30a14fc63232
+
+
+5) abonentui išleidus viešojoje sutartyje nedeklaruotas, teršiančias medžiagas, išskyrus numatytas [[#^0383381955cf82c01f40ad38|šios dalies 6 punkte]], arba nustačius didelės taršos viršijimą, skaičiuojama bauda. Bauda apskaičiuojama 1 m3 paviršinių nuotekų tvarkymo paslaugų kainą padidinus tokiu santykiu, kokiu faktinė tarša viršijo viešojoje sutartyje nustatytą abonentui leidžiamą paviršinių nuotekų užterštumą. Baudos už kiekvienos teršiančios medžiagos parametro viršijimą paviršinėse nuotekose sumuojamos. Šiame punkte nurodytų teršiančių medžiagų išleidimo laikotarpis sutampa su atsiskaitymo terminu, kuris nurodytas viešojoje sutartyje, tačiau yra ne trumpesnis kaip vienas mėnuo. Abonentui lieka prievolė, pašalinus taršos priežastis, prašyti paviršinių nuotekų tvarkytoją paimti pakartotinį nuotekų mėginį. Paviršinių nuotekų tvarkytojas turi teisę iš naujo nustatyti abonentui leidžiamą išleisti paviršinių nuotekų užterštumą; ^446584e216100bb5008ce959
+
+
+6) abonentui išleidus viešojoje sutartyje nedeklaruotas prioritetines pavojingas medžiagas, nurodytas aplinkos ministro tvirtinamo nuotekų tvarkymo reglamento 1 priede, pagal šio straipsnio [[#^446584e216100bb5008ce959|5 punktą]] apskaičiuota bauda už nedeklaruotos (-ų) prioritetinės (-ių) teršiančios (-ių) medžiagos  (-ų) išleidimą suma indeksuojama, taikant koeficientą 4. ^0383381955cf82c01f40ad38
+
+
+21. Vartotojui per teisės aktuose ar sutartyje nustatytą terminą neatsiskaičius su geriamojo vandens tiekėju, garantiniu vandens tiekėju už suteiktas paslaugas, už kiekvieną uždelstą kalendorinę dieną nuo laiku nesumokėtos sumos skaičiuojami Lietuvos Respublikos įstatyme [[latest/TAR.8EA9B23666E2|„Dėl delspinigių už nesumokėtus paslaugų mokesčius skaičiavimo fiziniams asmenims“]] nustatyto dydžio delspinigiai. Delspinigiai pradedami skaičiuoti kitą dieną, kai baigiasi apmokėjimo už paslaugą terminas. Abonentui per teisės aktuose ar sutartyje nustatytą terminą neatsiskaičius su geriamojo vandens tiekėju, garantiniu vandens tiekėju, paviršinių nuotekų tvarkytoju už suteiktas paslaugas, skaičiuojami viešojoje sutartyje nustatyti delspinigiai, jeigu sutartyje delspinigiai nenumatyti, – 0,02 procento dydžio delspinigiai už kiekvieną uždelstą kalendorinę dieną nuo laiku nesumokėtos sumos. ^f2ebf70ad6fe4370f748e30c
+
+
+
+VIENUOLIKTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
 
 
 
-### 27 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+### 40 straipsnis. Geriamojo vandens tiekėjų, paviršinių nuotekų tvarkytojų privatizavimas
 
 
-Šio įstatymo įsigaliojimo ir įgyvendinimo tvarką nustato Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo įsigaliojimo ir įgyvendinimo įstatymas.
+1. Valstybės ar savivaldybės valdomi geriamojo vandens tiekėjai, paviršinių nuotekų tvarkytojai negali būti privatizuojami. ^e204be9048a1a9aac93f47c1
+
+
+2. Nuosavybės teise valstybei ar savivaldybei priklausantys geriamojo vandens tiekėjai, paviršinių nuotekų tvarkytojai negali būti perduodami valdyti koncesijos pagrindais. ^5a1d18f7dc5ad1681d58008b
+
+
+
+### 41 straipsnis. Įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas
+
+
+1. Aplinkos ministerija atlieka šiame įstatyme nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą (toliau – ex post vertinimas). ^60a8be9b6c2c3c0521ad8c68
+
+
+2. Atliekant ex post vertinimą, turi būti įvertinta, ar viešųjų geriamojo vandens tiekėjų ir nuotekų tvarkytojų vykdoma veikla efektyvi ir užtikrinamas sąnaudų susigrąžinimo principo įgyvendinimas. ^9e7bfcafab2b9215d18e26b9
+
+
+3. Ex post vertinimo laikotarpis – 5 metai nuo šio įstatymo įsigaliojimo dienos. ^6add055affc44945effda08d
+
+
+4. Ex post vertinimas turi būti atliktas iki 2029 m. sausio 1 d ^08ce7e33f75fc9b0eaf9bf0a
 
 
 
@@ -726,3 +1940,108 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
 RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+
+
+
+
+
+
+
+Lietuvos Respublikos
+geriamojo vandens tiekimo ir
+nuotekų tvarkymo įstatymo
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+
+
+1. 1991 m. gegužės 21 d. Tarybos direktyva 91/271/EEB dėl miesto nuotekų valymo su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008. ^84baaa1983aa97933935dd7a
+
+
+2. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/2184 dėl žmonėms vartoti skirto vandens kokybės. ^04625aa9d0fbfbb5f69eafc8
+
+
+
+
+Pakeitimai:
+
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1246, 2010-12-22, Žin., 2010, Nr. 157-7978 (2010-12-31), i. k. [[latest/TAR.3E3DBAEE289D|1101010ISTA0XI-1246]]
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 5, 9 ir [[#12 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo planavimas|12 straipsnių]] pakeitimo įstatymas
+
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-939, 2014-06-12, paskelbta TAR 2014-06-17, i. k. 2014-07685
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas
+
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1312, 2014-11-06, paskelbta TAR 2014-11-14, i. k. 2014-16875
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 [[#38 straipsnis. Vartotojų ar abonentų, geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų ginčų sprendimas ne teismo tvarka. Abonentų ir vartotojų skundų nagrinėjimas|38 straipsnio]] pakeitimo įstatymas
+
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1618, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06063
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 [[#9 straipsnis. Valstybinės energetikos reguliavimo tarybos kompetencija ir finansavimo tvarka geriamojo vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje|9 straipsnio]] pakeitimo įstatymas
+
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2093, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19416
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 [[#37 straipsnis. Informacijos teikimas visuomenei, valstybės ir savivaldybių institucijoms|37 straipsnio]] pakeitimo įstatymas
+
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2292, 2016-04-07, paskelbta TAR 2016-04-12, i. k. 2016-08688
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 [[#12 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo planavimas|12 straipsnio]] pakeitimo įstatymas
+
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-999, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01011
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 [[#3 straipsnis. Pagrindinės šio įstatymo sąvokos|3 straipsnio]] pakeitimo įstatymas
+
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3, 10, 12, 13 ir [[#14 straipsnis. Viešųjų vandens tiekėjų paskyrimas|14 straipsnių]] pakeitimo įstatymas
+
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3, 9, 26, 33 ir [[#36 straipsnis. Už suvartotą geriamąjį vandenį ir suteiktas nuotekų tvarkymo paslaugas susidariusių vartotojo skolų ir permokų apmokėjimo tvarka|36 straipsnių]] pakeitimo įstatymas
+
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1892, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00098
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 2, 3, 6, 9, 10, 12, 16, 20, 21, 22, 23, 32, 33, 34, 35, [[#38 straipsnis. Vartotojų ar abonentų, geriamojo vandens tiekėjų, garantinių vandens tiekėjų, paviršinių nuotekų tvarkytojų ginčų sprendimas ne teismo tvarka. Abonentų ir vartotojų skundų nagrinėjimas|38 straipsnių]] ir dešimtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 34-1, 35-1 straipsniais ir priedu įstatymas
+
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2897, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10871
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3 ir [[#16 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros statyba, priežiūra ir naudojimas|16 straipsnių]] pakeitimo įstatymas
+
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-731, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25849
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 13, 14 ir [[#16 straipsnis. Geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros statyba, priežiūra ir naudojimas|16 straipsnių]] pakeitimo įstatymas
+
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1466, 2022-10-27, paskelbta TAR 2022-11-15, i. k. 2022-22945
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas
+
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1590, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25159
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 [[#34 straipsnis. Geriamojo vandens tiekėjo, garantinio vandens tiekėjo ir paviršinių nuotekų tvarkytojo veiklos patikrinimai|34 straipsnio]] pakeitimo įstatymas
+
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2283, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23062
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 9, 14, 15, 16, 17, 27, [[#39 straipsnis. Sankcijos ir jų skyrimo tvarka|39 straipsnių]] pakeitimo ir įstatymo papildymo 14-1 straipsniu įstatymas
+
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2872, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12658
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 9, 15, 33 ir [[#39 straipsnis. Sankcijos ir jų skyrimo tvarka|39 straipsnių]] pakeitimo įstatymas

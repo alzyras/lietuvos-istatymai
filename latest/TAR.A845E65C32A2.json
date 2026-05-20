@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.A845E65C32A2.md",
   "latest_revision": "2000-01-01",
-  "latest_sha256": "841f439e9bd40652e1ca3434629ae1ce9bdae1007885858a0993f86fb3724853",
+  "latest_sha256": "0fda30ff8bccc21aea8fa760e5748c17d8f08203c25df4f083858a97cdc1c2b8",
   "metadata_path": "latest/TAR.A845E65C32A2.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos produktų saugos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-05-20T10:59:37Z"
 }

@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-07-23"
 latest_path: "latest/TAR.B77E00EAEBEB.md"
-latest_sha256: "8cbf64287202e741ecc0c48855a16253f7227988e54caaf6ad319b8c6c174f5b"
+latest_sha256: "b3b3888ded50e932fac84a028d24477d6758f5886f7420afa3c525f1153023b9"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
@@ -569,7 +569,7 @@ Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 1) kai paaiškėja, kad buvo pateikti neteisingi duomenys; ^b3d08ac6eba047e1ce15a8c8
 
 
-2) kai nustatoma, kad atestatą turintis asmuo nepateikė ataskaitų su duomenimis apie  F-dujų naudojimą praėjusiais kalendoriniais metais aplinkos ministro įgaliotai institucijai ir (ar) Europos Komisijai pagal Reglamento (ES) 2024/573 [[#26 straipsnis. Ekonominių sankcijų skyrimo terminai|26 straipsnio]] reikalavimus dvejus metus iš eilės; ^11b13c4f7749d71a876f8a76
+2) kai nustatoma, kad atestatą turintis asmuo nepateikė ataskaitų su duomenimis apie  F-dujų naudojimą praėjusiais kalendoriniais metais aplinkos ministro įgaliotai institucijai ir (ar) Europos Komisijai pagal Reglamento (ES) 2024/573 [[#26 straipsnis. Ekonominių piniginių sankcijų skyrimo terminai|26 straipsnio]] reikalavimus dvejus metus iš eilės; ^11b13c4f7749d71a876f8a76
 
 
 3) kai nustatoma, kad atestato turėtojas nebeatitinka [[#^baf18f42d254fb006e2609e2|šio straipsnio 3 dalyje]] nustatytų reikalavimų; ^7d474eebdbd220cf90439948
@@ -817,180 +817,233 @@ ATSAKOMYBĖ
 
 
 
-### 23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos
+### 23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos
+Pakeistas straipsnio pavadinimas:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
 
-Skiriama vieno šimto eurų atitinkamai pagal Europos vartotojų kainų indeksą indeksuojama ekonominė sankcija:
 
+Skiriama vieno šimto eurų atitinkamai pagal Europos vartotojų kainų indeksą indeksuojama ekonominė piniginė sankcija:
+Straipsnio dalies pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-1) veiklos vykdytojams, kurie pagal šio įstatymo [[#^6511b4575374fe80684b0e97|6 straipsnio 3 dalį]] privalo atsidaryti sąskaitą Sąjungos šiltnamio efektą sukeliančių dujų registre, – už kiekvieną į atmosferą išmestą anglies dioksido ekvivalentą neatsidarius sąskaitos Sąjungos šiltnamio efektą sukeliančių dujų registre; ^d840d0e031a490c647f5a48e
 
+1) veiklos vykdytojams, kurie pagal šio įstatymo [[#^6511b4575374fe80684b0e97|6 straipsnio 3 dalį]] privalo atsidaryti sąskaitą Sąjungos šiltnamio efektą sukeliančių dujų registre, – už kiekvieną į atmosferą išmestą anglies dioksido ekvivalentą neatsidarius sąskaitos Sąjungos šiltnamio efektą sukeliančių dujų registre; ^7fbeea8febf5563984a93362
 
-2) veiklos vykdytojams, kurie išmeta į atmosferą ŠESD neturėdami pagal šio įstatymo [[#^8c220a134142ce2edc13fabd|6 straipsnio 1 dalį]] galiojančio aplinkos ministro įgaliotos institucijos išduoto leidimo išmesti ŠESD, – už kiekvieną į atmosferą išmestą anglies dioksido ekvivalentą; ^6d8723d7fb13124135f58431
 
+2) veiklos vykdytojams, kurie išmeta į atmosferą ŠESD neturėdami pagal šio įstatymo [[#^8c220a134142ce2edc13fabd|6 straipsnio 1 dalį]] galiojančio aplinkos ministro įgaliotos institucijos išduoto leidimo išmesti ŠESD, – už kiekvieną į atmosferą išmestą anglies dioksido ekvivalentą; ^c986597df2ebf259fc5a0470
 
-3) veiklos vykdytojams už kiekvieną išmestą į atmosferą anglies dioksido ekvivalentą, dėl kurio iki aplinkos ministro, vadovaujantis šio įstatymo [[#^6511b4575374fe80684b0e97|6 straipsnio 3 dalimi]], nustatyto termino jie neatsisako apyvartinių taršos leidimų. ^18f9791eaa99d327e2fef399
 
+3) veiklos vykdytojams už kiekvieną išmestą į atmosferą anglies dioksido ekvivalentą, dėl kurio iki aplinkos ministro, vadovaujantis šio įstatymo [[#^6511b4575374fe80684b0e97|6 straipsnio 3 dalimi]], nustatyto termino jie neatsisako apyvartinių taršos leidimų. ^ba739645c3c7c69fc1ba0e8f
 
 
-### 24 straipsnis. Ekonomines sankcijas skiriantys pareigūnai
 
+### 24 straipsnis. Ekonomines pinigines sankcijas skiriantys pareigūnai
 
-Ekonomines sankcijas už šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnyje]] numatytas veikas skiria Aplinkos apsaugos departamento aplinkos apsaugos valstybinės kontrolės pareigūnai (toliau – aplinkos apsaugos valstybinės kontrolės pareigūnai).
 
+Ekonomines pinigines sankcijas už šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnyje]] numatytas veikas skiria Aplinkos apsaugos departamento aplinkos apsaugos valstybinės kontrolės pareigūnai (toliau – aplinkos apsaugos valstybinės kontrolės pareigūnai).
 
 
-### 25 straipsnis. Bylų dėl ekonominių sankcijų skyrimo iškėlimo tvarka
+Straipsnio pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
 
-1. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnyje]] nurodytą (-us) pažeidimą (-us), ne vėliau kaip per 5 darbo dienas iškelia bylą dėl ekonominės sankcijos skyrimo ir surašo aplinkos ministro patvirtintos formos neteisėto ŠESD išmetimo į atmosferą aktą (toliau – aktas). Akte nurodoma: ^951b50976647592eb585c616
 
+### 25 straipsnis. Bylų dėl ekonominių piniginių sankcijų skyrimo iškėlimo tvarka
+Pakeistas straipsnio pavadinimas:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-1) įtariamas padaręs pažeidimą asmuo (juridinio asmens pavadinimas, teisinė forma, buveinė, kodas arba fizinio asmens (jeigu pažeidėjas fizinis asmuo) vardas, pavardė, asmens kodas, nuolatinė gyvenamoji vieta); ^1cec7631f9f72dcd60d006e4
 
 
-2) pažeidimo esmė ir pažeidimą nustatantis šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnio]] punktas; ^47be63b1c7c4cd448456aa88
+1. Aplinkos apsaugos valstybinės kontrolės pareigūnas, nustatęs šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnyje]] nurodytą (-us) pažeidimą (-us), ne vėliau kaip per 5 darbo dienas iškelia bylą dėl ekonominės piniginės sankcijos skyrimo ir surašo aplinkos ministro patvirtintos formos neteisėto ŠESD išmetimo į atmosferą aktą (toliau – aktas). Akte nurodoma: ^59b6fc32a9f19d6f5fa652da
 
 
-3) skirtinos įtariamam padariusiam pažeidimą asmeniui ekonominės sankcijos dydis ir jį pagrindžiantys skaičiavimai ir motyvai; ^dede857d4919aa0cca93c48a
+1) įtariamas padaręs pažeidimą asmuo (juridinio asmens pavadinimas, teisinė forma, buveinė, kodas arba fizinio asmens (jeigu pažeidėjas fizinis asmuo) vardas, pavardė, asmens kodas, nuolatinė gyvenamoji vieta); ^d64eddddbd07eae812905516
 
 
-4) bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vieta, data ir laikas; ^1233577585ced8bb332d47a6
+2) pažeidimo esmė ir pažeidimą nustatantis šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnio]] punktas; ^447dcbda98df9035514cb730
 
 
-5) aktą surašęs aplinkos apsaugos valstybinės kontrolės pareigūnas (vardas, pavardė, tarnybos vieta, pareigos, parašas). ^94716867d22a9c26d24ae77c
+3) skirtinos įtariamam padariusiam pažeidimą asmeniui ekonominės piniginės sankcijos dydis ir jį pagrindžiantys skaičiavimai ir motyvai; ^a93e1e5ba5b88f1e20ffcf51
 
 
-2. Ne vėliau kaip per 3 darbo dienas nuo akto surašymo dienos jį surašęs aplinkos apsaugos valstybinės kontrolės pareigūnas jo kopiją įteikia arba  registruotąja pašto siunta išsiunčia įtariamam padariusiam pažeidimą asmeniui. Kartu su aktu šiam asmeniui įteikiamas (išsiunčiamas) pasiūlymas pasiaiškinti raštu dėl įtariamo pažeidimo padarymo, pateikti įrodymus ir prašymus per 10 darbo dienų. ^aa81de840a55b9ab190c2a3c
+4) bylos dėl ekonominės piniginės sankcijos skyrimo nagrinėjimo vieta, data ir laikas; ^f1514858300a14c0048a24a0
 
 
+5) aktą surašęs aplinkos apsaugos valstybinės kontrolės pareigūnas (vardas, pavardė, tarnybos vieta, pareigos, parašas). ^eedd123a94c271eea6d039e5
 
-### 26 straipsnis. Ekonominių sankcijų skyrimo terminai
 
+Straipsnio dalies pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-Ekonominės sankcijos už veikas, numatytas šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnyje]], skiriamos per vienus metus nuo pažeidimo nustatymo dienos, bet ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos.
 
 
+2. Ne vėliau kaip per 3 darbo dienas nuo akto surašymo dienos jį surašęs aplinkos apsaugos valstybinės kontrolės pareigūnas jo kopiją įteikia arba  registruotąja pašto siunta išsiunčia įtariamam padariusiam pažeidimą asmeniui. Kartu su aktu šiam asmeniui įteikiamas (išsiunčiamas) pasiūlymas pasiaiškinti raštu dėl įtariamo pažeidimo padarymo, pateikti įrodymus ir prašymus per 10 darbo dienų. ^64a222b21e6261fa357a37af
 
-### 27 straipsnis. Ekonominių sankcijų skyrimo bylų proceso dalyviai
 
 
-1. Nagrinėjant šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnyje]] nurodytų pažeidimų bylas, dalyvauja: ^83f41b85e8ed342c447de395
+### 26 straipsnis. Ekonominių piniginių sankcijų skyrimo terminai
 
 
-1) įtariamas padaręs pažeidimą asmuo (jeigu įtariamas padaręs pažeidimą juridinis asmuo, – jo įgaliotas atstovas ir (ar) gynėjas); ^d9c6859cb0d3a93b04d590db
+Ekonominės piniginės sankcijos už veikas, numatytas šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnyje]], skiriamos per vienus metus nuo pažeidimo nustatymo dienos, bet ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos.
 
 
-2) aplinkos apsaugos valstybinės kontrolės pareigūno sprendimu – kiti asmenys, kurių interesai tiesiogiai susiję su nagrinėjama byla; ^5fc0b3d4f01bcdde877e05fe
+Straipsnio pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
 
-3) aplinkos apsaugos valstybinės kontrolės pareigūno sprendimu – liudytojai, ekspertai, specialistai ir kiti asmenys ar valstybės institucijų atstovai. ^adbec2460c46147910f94f23
 
+### 27 straipsnis. Ekonominių piniginių sankcijų skyrimo bylų proceso dalyviai
+Pakeistas straipsnio pavadinimas:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-2. [[#^83f41b85e8ed342c447de395|Šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodyti asmenys yra laikomi proceso dalyviais. ^57baca721e7ba209cc4386e4
 
 
-3. Įtariamas padaręs pažeidimą asmuo ir proceso dalyviai apie ekonominės sankcijos skyrimo bylos nagrinėjimo vietą, datą ir laiką informuojami raštu. ^431b843f5d1cd29455a86db6
+1. Nagrinėjant šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnyje]] nurodytų pažeidimų bylas, dalyvauja: ^6b7b58abc24a0e03d19dc9ac
 
 
+1) įtariamas padaręs pažeidimą asmuo (jeigu įtariamas padaręs pažeidimą juridinis asmuo, – jo įgaliotas atstovas ir (ar) gynėjas); ^487437596c7f02f72b7803c2
 
-### 28 straipsnis. Bylos dėl ekonominės sankcijos skyrimo nagrinėjimas ir ekonominės sankcijos skyrimo bylos nagrinėjimo atidėjimas
 
+2) aplinkos apsaugos valstybinės kontrolės pareigūno sprendimu – kiti asmenys, kurių interesai tiesiogiai susiję su nagrinėjama byla; ^77da2956c2d903f3b2e8915b
 
-1. Byla dėl ekonominės sankcijos skyrimo nagrinėjama dalyvaujant įtariamam padariusiam pažeidimą asmeniui ir proceso dalyviams. ^fefb6dc336c5b9ef72bdfd28
 
+3) aplinkos apsaugos valstybinės kontrolės pareigūno sprendimu – liudytojai, ekspertai, specialistai ir kiti asmenys ar valstybės institucijų atstovai. ^414f5219928101ab2cd829b5
 
-2. Ekonominės sankcijos skyrimo bylos nagrinėjimo metu įtariamas padaręs pažeidimą asmuo turi teisę susipažinti su surinkta bylos medžiaga, duoti paaiškinimus žodžiu ir raštu, pateikti įrodymus, teikti prašymus. ^00f5fc858f7aafe723e77e2c
 
+2. [[#^6b7b58abc24a0e03d19dc9ac|Šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodyti asmenys yra laikomi proceso dalyviais. ^400adcfde85b3a7f5808a9d9
 
-3. Ekonominės sankcijos skyrimo byla nagrinėjama ir neatvykus įtariamam padariusiam pažeidimą asmeniui ir (ar) proceso dalyviams, jeigu žinoma, kad apie bylos dėl ekonominės sankcijos skyrimo nagrinėjimą jie informuoti ir raštu nepateikė motyvuoto prašymo atidėti bylos nagrinėjimą. ^ae8d155e09353fa4158155ce
 
+3. Įtariamas padaręs pažeidimą asmuo ir proceso dalyviai apie ekonominės piniginės sankcijos skyrimo bylos nagrinėjimo vietą, datą ir laiką informuojami raštu. ^01c5f767edf3afffb7d9227f
+Straipsnio dalies pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-4. Sprendimą atidėti bylos dėl ekonominės sankcijos skyrimo nagrinėjimą Aplinkos apsaugos įstatymo 48 straipsnyje nustatyta tvarka priima šią bylą nagrinėjantis aplinkos apsaugos valstybinės kontrolės pareigūnas, priimdamas motyvuotą aplinkos ministro nustatytos formos nutarimą. Šiuo nutarimu aplinkos apsaugos valstybinės kontrolės pareigūnas, nagrinėjantis ekonominės sankcijos skyrimo bylą, nustato naują ekonominės sankcijos skyrimo bylos nagrinėjimo vietą, datą ir laiką. ^8ff383845842bef591d0183d
 
 
-5. [[#^8ff383845842bef591d0183d|Šio straipsnio 4 dalyje]] nurodytas nutarimas įtariamam padariusiam pažeidimą asmeniui ir proceso dalyviams įteikiamas registruotąja pašto siunta. ^8f2cf9add5adc85758780c43
+### 28 straipsnis. Bylos dėl ekonominės piniginės sankcijos skyrimo nagrinėjimas ir ekonominės piniginės sankcijos skyrimo bylos nagrinėjimo atidėjimas
 
 
+1. Byla dėl ekonominės piniginės sankcijos skyrimo nagrinėjama dalyvaujant įtariamam padariusiam pažeidimą asmeniui ir proceso dalyviams. ^5b14d83f3170c9c8e45efa18
 
-### 29 straipsnis. Nutarimai, priimami išnagrinėjus bylą dėl ekonominės sankcijos skyrimo, ir jų apskundimas
 
+2. Ekonominės piniginės sankcijos skyrimo bylos nagrinėjimo metu įtariamas padaręs pažeidimą asmuo turi teisę susipažinti su surinkta bylos medžiaga, duoti paaiškinimus žodžiu ir raštu, pateikti įrodymus, teikti prašymus. ^db2d31a1408f2440fe6fcdf2
 
-1. Aplinkos apsaugos valstybinės kontrolės pareigūnas, išnagrinėjęs ekonominės sankcijos skyrimo bylą, priima atitinkamą nutarimą: ^5411a3947e5530bc6f0fdbac
 
+3. Ekonominės piniginės sankcijos skyrimo byla nagrinėjama ir neatvykus įtariamam padariusiam pažeidimą asmeniui ir (ar) proceso dalyviams, jeigu žinoma, kad apie bylos dėl ekonominės piniginės sankcijos skyrimo nagrinėjimą jie informuoti ir raštu nepateikė motyvuoto prašymo atidėti bylos nagrinėjimą. ^96caef6dcec4627ccd006e9a
 
-1) skirti ekonominę sankciją; ^5bdfdcc56e09fe353456c61f
 
+4. Sprendimą atidėti bylos dėl ekonominės piniginės sankcijos skyrimo nagrinėjimą Aplinkos apsaugos įstatymo 48 straipsnyje nustatyta tvarka priima šią bylą nagrinėjantis aplinkos apsaugos valstybinės kontrolės pareigūnas, priimdamas motyvuotą aplinkos ministro nustatytos formos nutarimą. Šiuo nutarimu aplinkos apsaugos valstybinės kontrolės pareigūnas, nagrinėjantis ekonominės piniginės sankcijos skyrimo bylą, nustato naują ekonominės piniginės sankcijos skyrimo bylos nagrinėjimo vietą, datą ir laiką. ^37e79688ae1867b08e6ba386
 
-2) nutraukti ekonominės sankcijos skyrimo bylą, jeigu nėra pažeidimų, numatytų šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnyje]], sudėties; ^36363cf13b53a3b46961691d
 
+5. [[#^37e79688ae1867b08e6ba386|Šio straipsnio 4 dalyje]] nurodytas nutarimas įtariamam padariusiam pažeidimą asmeniui ir proceso dalyviams įteikiamas registruotąja pašto siunta. ^dbd6df306cd072fe417f8fcf
 
-3) nutraukti bylą suėjus šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnyje]] nustatytiems terminams; ^53c6cfe10e9d19bd31a6abcd
 
+Straipsnio pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-4) ekonominės sankcijos skyrimo byloje atlikti papildomą tyrimą. ^f1f6854dcdecc4f6a9c3943b
 
 
-2. [[#^5411a3947e5530bc6f0fdbac|Šio straipsnio 1 dalyje]] nurodytame nutarime įrašoma: ^cc5eab1b6a42435ed22e5789
+### 29 straipsnis. Nutarimai, priimami išnagrinėjus bylą dėl ekonominės piniginės sankcijos skyrimo, ir jų apskundimas
+Pakeistas straipsnio pavadinimas:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
 
-1) nutarimą priėmęs aplinkos apsaugos valstybinės kontrolės pareigūnas (vardas, pavardė, tarnybos vieta); ^e22ed119b0df0f7ba6cccab1
 
+1. Aplinkos apsaugos valstybinės kontrolės pareigūnas, išnagrinėjęs ekonominės piniginės sankcijos skyrimo bylą, priima atitinkamą nutarimą: ^0807a01ca9a05f6abcbf1727
 
-2) bylos dėl ekonominės sankcijos skyrimo nagrinėjimo vieta, data, laikas; ^00e27e4e9077827ded84259f
 
+1) skirti ekonominę piniginę sankciją; ^2eef6f3a532ee923e7de57d1
 
-3) šio įstatymo 23 straipsnio 1 dalies 1 punkte nurodyti pažeidėjo duomenys; ^1c9624bdab3f67597b2e4dde
 
+2) nutraukti ekonominės piniginės sankcijos skyrimo bylą, jeigu nėra pažeidimų, numatytų šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnyje]], sudėties; ^103f4eb244d21c2db5d69249
 
-4) pažeidimo esmė, pažeidimo padarymo aplinkybės ir motyvuotas jų įvertinimas; ^0233d7d6203b1243760a58a5
 
+3) nutraukti bylą suėjus šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnyje]] nustatytiems terminams; ^27c244db86046b2224cba177
 
-5) pažeidėjo kaltę pagrindžiantys įrodymai; ^4954b59f4bc78fb09535ed37
 
+4) ekonominės piniginės sankcijos skyrimo byloje atlikti papildomą tyrimą. ^c58de43e9b5f5c7deea2f7fc
 
-6) pažeidėjo paaiškinimai dėl padaryto pažeidimo; ^5636da4550fd9cdd7a0e5a48
 
+Straipsnio dalies pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-7) šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnio]] punktas, kuriame numatoma atsakomybė už pažeidėjo padarytą veiką; ^7eb43a3198af4553dc8d0efc
 
 
-8) aplinkos apsaugos valstybinės kontrolės pareigūno priimtas nutarimas (skiriamos ekonominės sankcijos dydis, jeigu ji skiriama), nutarimo apskundimo terminai ir tvarka. ^98e32bca073227c60a32049d
+2. [[#^0807a01ca9a05f6abcbf1727|Šio straipsnio 1 dalyje]] nurodytame nutarime įrašoma: ^41dbf756f93f025c6d83132f
 
 
-3. [[#^5411a3947e5530bc6f0fdbac|Šio straipsnio 1 dalyje]] nurodyto nutarimo formą tvirtina aplinkos ministras. ^270270171931125d4452341e
+1) nutarimą priėmęs aplinkos apsaugos valstybinės kontrolės pareigūnas (vardas, pavardė, tarnybos vieta); ^3eb14f9957976e0d9afdb8b2
 
 
-4. Nutarimas ne vėliau kaip per 5 darbo dienas nuo jo priėmimo dienos įteikiamas arba registruotąja pašto siunta išsiunčiamas asmeniui, dėl kurio jis priimtas. ^c7cb21ac29ab5904a6e6f9db
+2) bylos dėl ekonominės piniginės sankcijos skyrimo nagrinėjimo vieta, data, laikas; ^feab685bc0faee03a0844a2b
+Straipsnio punkto pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
 
-5. [[#^5411a3947e5530bc6f0fdbac|Šio straipsnio 1 dalies]] 1–3 punktuose nurodyti nutarimai įsigalioja nuo jų priėmimo dienos ir skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatyme nustatyta tvarka administraciniam teismui. ^ee090157d2bdcc79600c472c
 
+3) šio įstatymo 23 straipsnio 1 dalies 1 punkte nurodyti pažeidėjo duomenys; ^5b46d80437e9231b1fc9c563
 
-6. [[#^f1f6854dcdecc4f6a9c3943b|Šio straipsnio 1 dalies 4 punkte]] nurodytas nutarimas įsigalioja nuo jo priėmimo dienos. ^2b89c447cfc0499a9f755747
 
+4) pažeidimo esmė, pažeidimo padarymo aplinkybės ir motyvuotas jų įvertinimas; ^42e872b7a02fd85c9f4c0ce2
 
 
-### 30 straipsnis. Papildomo tyrimo atlikimas byloje dėl ekonominės sankcijos skyrimo
+5) pažeidėjo kaltę pagrindžiantys įrodymai; ^04d1984c1531cfa45b3a3af7
 
 
-1. Jeigu aplinkos apsaugos valstybinės kontrolės pareigūnas priima šio įstatymo [[#^f1f6854dcdecc4f6a9c3943b|29 straipsnio 1 dalies 4 punkte]] nurodytą nutarimą, papildomas tyrimas turi būti atliktas ne vėliau kaip per 2 mėnesius nuo nutarimo priėmimo dienos. ^ac12664927ac7537021b71de
+6) pažeidėjo paaiškinimai dėl padaryto pažeidimo; ^43dcddb150da4d7a28ef94bc
 
 
-2. Atlikus papildomą tyrimą, ekonominės sankcijos skyrimo byla nagrinėjama šio įstatymo 25–[[#29 straipsnis. Nutarimai, priimami išnagrinėjus bylą dėl ekonominės sankcijos skyrimo, ir jų apskundimas|29 straipsniuose]] nustatyta tvarka. ^53932c43c96f506daa9eb9d2
+7) šio įstatymo [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnio]] punktas, kuriame numatoma atsakomybė už pažeidėjo padarytą veiką; ^3e45aca416dabb8eb2a2c9aa
 
 
+8) aplinkos apsaugos valstybinės kontrolės pareigūno priimtas nutarimas (skiriamos ekonominės piniginės sankcijos dydis, jeigu ji skiriama), nutarimo apskundimo terminai ir tvarka. ^f69ffdefd4b148f6923ebed6
+Straipsnio punkto pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
 
-### 31 straipsnis. Ekonominių sankcijų sumokėjimas ir išieškojimas
 
 
-1. Asmenys paskirtas baudas sumoka į šio įstatymo [[#^cb4a6c8815731f35902b0c68|14 straipsnio 1 dalyje]] nurodytą valstybės iždo sąskaitą ne vėliau kaip per 3 mėnesius nuo nutarimo skirti ekonominę sankciją įsigaliojimo dienos. ^b0ff08ac916e55834457db88
+3. [[#^0807a01ca9a05f6abcbf1727|Šio straipsnio 1 dalyje]] nurodyto nutarimo formą tvirtina aplinkos ministras. ^d9e21b1698fcf70ec7514548
 
 
-2. Nutarimas skirti ekonominę sankciją gali būti perduotas vykdyti Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per 3 metus nuo jo įsigaliojimo dienos. Jeigu bauda nesumokama per [[#^8aa7033f0c2b0944f6c4126e|šio straipsnio 1 dalyje]] nustatytą terminą, ne vėliau kaip per vieną mėnesį nuo termino pabaigos perduodama antstoliams vykdyti baudos išieškojimą Civilinio proceso kodekso nustatyta tvarka. ^2294b0366aa07548a435456c
+4. Nutarimas ne vėliau kaip per 5 darbo dienas nuo jo priėmimo dienos įteikiamas arba registruotąja pašto siunta išsiunčiamas asmeniui, dėl kurio jis priimtas. ^ba4a1f1375f9a25124f24dfe
 
 
-3. Asmenys, kuriems paskirta ekonominė sankcija už šio įstatymo [[#^18f9791eaa99d327e2fef399|23 straipsnio 3 punkte]] nurodytas veikas, neatleidžiami nuo įsipareigojimo atsisakyti apyvartinių taršos leidimų, atitinkančių tą perteklinį išmetamų ŠESD kiekį, kuris susidarytų, jeigu būtų atsisakoma kitų kalendorinių metų apyvartinių taršos leidimų ^4cbec637552eca728121bf98
+5. [[#^0807a01ca9a05f6abcbf1727|Šio straipsnio 1 dalies]] 1–3 punktuose nurodyti nutarimai įsigalioja nuo jų priėmimo dienos ir skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatyme nustatyta tvarka administraciniam teismui. ^c94df5aeeb8337aed72df9a6
+
+
+6. [[#^c58de43e9b5f5c7deea2f7fc|Šio straipsnio 1 dalies 4 punkte]] nurodytas nutarimas įsigalioja nuo jo priėmimo dienos. ^d537262653709572babb802b
+
+
+
+### 30 straipsnis. Papildomo tyrimo atlikimas byloje dėl ekonominės piniginės sankcijos skyrimo
+
+
+1. Jeigu aplinkos apsaugos valstybinės kontrolės pareigūnas priima šio įstatymo [[#^c58de43e9b5f5c7deea2f7fc|29 straipsnio 1 dalies 4 punkte]] nurodytą nutarimą, papildomas tyrimas turi būti atliktas ne vėliau kaip per 2 mėnesius nuo nutarimo priėmimo dienos. ^d51610ee7d3faf51cbbb9d64
+
+
+2. Atlikus papildomą tyrimą, ekonominės piniginės sankcijos skyrimo byla nagrinėjama šio įstatymo 25–[[#29 straipsnis. Nutarimai, priimami išnagrinėjus bylą dėl ekonominės piniginės sankcijos skyrimo, ir jų apskundimas|29 straipsniuose]] nustatyta tvarka. ^2750ae4a18a7b3328b31f6c6
+
+
+Straipsnio pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
+
+
+
+### 31 straipsnis. Ekonominių piniginių sankcijų sumokėjimas ir išieškojimas
+
+
+1. Asmenys paskirtas baudas sumoka į šio įstatymo [[#^cb4a6c8815731f35902b0c68|14 straipsnio 1 dalyje]] nurodytą valstybės iždo sąskaitą ne vėliau kaip per 3 mėnesius nuo nutarimo skirti ekonominę piniginę sankciją įsigaliojimo dienos. ^eea81d37a2b863d300b96603
+
+
+2. Nutarimas skirti ekonominę piniginę sankciją yra vykdomasis dokumentas. Jeigu bauda nesumokama per [[#^4e2d34801b5632390d86f4fa|šio straipsnio 1 dalyje]] nustatytą terminą, nutarimas skirti ekonominę piniginę sankciją vykdomas Lietuvos Respublikos mokesčių administravimo įstatyme ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^47688e3caf5ff944cb68ace7
+
+
+3. Asmenys, kuriems paskirta ekonominė piniginė sankcija už šio įstatymo [[#^ba739645c3c7c69fc1ba0e8f|23 straipsnio 3 punkte]] nurodytas veikas, neatleidžiami nuo įsipareigojimo atsisakyti apyvartinių taršos leidimų, atitinkančių tą perteklinį išmetamų ŠESD kiekį, kuris susidarytų, jeigu būtų atsisakoma kitų kalendorinių metų apyvartinių taršos leidimų. ^c993fb23f795776f6f0aa831
+
+
+Straipsnio pakeitimai:
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
+
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -1012,7 +1065,7 @@ VEIKLOS RŪŠIŲ SĄRAŠAS IR JO TAIKYMO TAISYKLĖS
 
 
 
-1. Veiklos rūšys, patenkančios į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą (toliau – ES ATLPS): ^889ceb9bce1de1a9e83b1ab5
+1. Veiklos rūšys, patenkančios į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą (toliau – ES ATLPS): ^4d915848e5ec63a767c0c00c
 
 
  Eil. Nr.
@@ -1176,31 +1229,31 @@ Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 
 
 
-2. Atsižvelgiant į šio priedo 1 punkte nurodytas veiklos rūšis, ES ATLPS reikalavimai netaikomi: ^20d2451d6a373cad9a446eb2
+2. Atsižvelgiant į šio priedo 1 punkte nurodytas veiklos rūšis, ES ATLPS reikalavimai netaikomi: ^9ae1f5a932a43300229d20f1
 
 
-2.1. įrenginiams arba jų dalims, kurie naudojami naujiems gaminiams ir procesams tirti, plėtoti ir bandyti; ^1f605d243d4b01799db2a908
+2.1. įrenginiams arba jų dalims, kurie naudojami naujiems gaminiams ir procesams tirti, plėtoti ir bandyti; ^3876e521872e49f9ebbc9050
 
 
-2.2. įrenginiams, kai per atitinkamą ankstesnį 5 metų laikotarpį deginant biomasę, atitinkančią Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme nustatytus biomasės naudojimo tvarumo ir išmetamo šiltnamio efektą sukeliančių dujų (toliau – ŠESD) kiekio sumažėjimo kriterijus, išmetamas ŠESD kiekis vidutiniškai viršija 95 procentus įrenginio bendro vidutinio išmetamo ŠESD kiekio. ^964fe5c03b99d232b0fc4b3c
+2.2. įrenginiams, kai per atitinkamą ankstesnį 5 metų laikotarpį deginant biomasę, atitinkančią Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme nustatytus biomasės naudojimo tvarumo ir išmetamo šiltnamio efektą sukeliančių dujų (toliau – ŠESD) kiekio sumažėjimo kriterijus, išmetamas ŠESD kiekis vidutiniškai viršija 95 procentus įrenginio bendro vidutinio išmetamo ŠESD kiekio. ^2d86bb888f840ed55c0d1f5e
 
 
-3. Šio priedo 1 punkte nurodytų veiklos rūšių slenkstiniai dydžiai apibūdina gamybos pajėgumus arba našumą. Jeigu tame pačiame įrenginyje vykdoma tos pačios kategorijos kelių rūšių veikla, tokių veiklos rūšių pajėgumai sudedami. ^da6b296108474fb211ff41ef
+3. Šio priedo 1 punkte nurodytų veiklos rūšių slenkstiniai dydžiai apibūdina gamybos pajėgumus arba našumą. Jeigu tame pačiame įrenginyje vykdoma tos pačios kategorijos kelių rūšių veikla, tokių veiklos rūšių pajėgumai sudedami. ^55179b02e44c1651a8a5ba0f
 
 
-4. Jeigu norima apskaičiuoti įrenginio bendrą vardinę šiluminę galią siekiant nustatyti, ar jį galima įtraukti į ES ATLPS, sudedamas visų jo techninių mazgų, kuriuose deginamas kuras, vardinė šiluminė galia. Šie mazgai gali būti įvairių tipų katilai, degikliai, turbinos, šildytuvai, kūryklos, atliekų deginimo įrenginiai, kalkių deginimo krosnys, džiovinimo krosnys, krosnys, džiovyklos, varikliai, degalų elementai, cheminio deginimo mazgai, deglai ir terminio arba katalizinio deginimo įrenginiai. Skaičiuojant įrenginio bendrą vardinę šiluminę galią, neatsižvelgiama į mazgus, kurių vardinė šiluminė galia mažesnė kaip 3 MW. ^f8e2770193fdd71cec152adb
+4. Jeigu norima apskaičiuoti įrenginio bendrą vardinę šiluminę galią siekiant nustatyti, ar jį galima įtraukti į ES ATLPS, sudedamas visų jo techninių mazgų, kuriuose deginamas kuras, vardinė šiluminė galia. Šie mazgai gali būti įvairių tipų katilai, degikliai, turbinos, šildytuvai, kūryklos, atliekų deginimo įrenginiai, kalkių deginimo krosnys, džiovinimo krosnys, krosnys, džiovyklos, varikliai, degalų elementai, cheminio deginimo mazgai, deglai ir terminio arba katalizinio deginimo įrenginiai. Skaičiuojant įrenginio bendrą vardinę šiluminę galią, neatsižvelgiama į mazgus, kurių vardinė šiluminė galia mažesnė kaip 3 MW. ^f75d5c8327973a76ae6a30b4
 
 
-5. Jeigu mazgas skirtas veiklai, kurios ribinė vertė neišreiškiama bendra vardine šilumine galia, vykdyti, šios veiklos ribinė vertė laikoma svarbesne priimant sprendimą dėl įtraukimo į ES ATLPS. ^180c238487127c81794537b0
+5. Jeigu mazgas skirtas veiklai, kurios ribinė vertė neišreiškiama bendra vardine šilumine galia, vykdyti, šios veiklos ribinė vertė laikoma svarbesne priimant sprendimą dėl įtraukimo į ES ATLPS. ^bb4292657b99e1972d00ef9c
 
 
-6. Jeigu įrenginio pajėgumų ribinė bet kokios veiklos vertė šiame priede viršijama, visi mazgai, kuriuose deginamas kuras, išskyrus mazgus pavojingoms arba komunalinėms atliekoms deginti, įrašomi į leidimą išmesti šiltnamio efektą sukeliančias dujas. ^6fc5a7da3fa9796fe9787658
+6. Jeigu įrenginio pajėgumų ribinė bet kokios veiklos vertė šiame priede viršijama, visi mazgai, kuriuose deginamas kuras, išskyrus mazgus pavojingoms arba komunalinėms atliekoms deginti, įrašomi į leidimą išmesti šiltnamio efektą sukeliančias dujas. ^eeed9b837eeb0e00f35e63a0
 
 
-7. Kai pasikeičia įrenginio, kuris į ES ATLPS taikymo sritį įtrauktas dėl jame veikiančių kuro deginimo įrenginių, kurių bendra vardinė šiluminė galia viršija 20 MW, gamybos procesai, siekiant sumažinti jo išmetamą ŠESD kiekį ir tam, kad jis nebesiektų tos ribos, įrenginio valdytojui leidžiama pasirinkti, kad, pakeitus įrenginio gamybos procesus, būtų tebetaikomi ES ATLPS reikalavimai iki šio įstatymo [[#^abb136ff85a2d66e93384c77|7 straipsnio 2 dalyje]] nurodyto dabartinio ir kito 5 metų laikotarpio pabaigos. Tokio įrenginio valdytojas gali nuspręsti, ar, pakeitus šio įrenginio gamybos procesus, ES ATLPS jam būtų taikoma tik iki dabartinio 5 metų laikotarpio pabaigos, ar ir kitą 5 metų laikotarpį. Apie tokius pasikeitimus Europos Komisijai praneša aplinkos ministro paskirta atsakinga institucija, kai teikiamas ES ATLPS dalyvaujančių veiklos vykdytojų, kuriems suteikiami nemokami apyvartiniai taršos leidimai, sąrašas pagal šio įstatymo [[#7 straipsnis. Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų, kuriems suteikiami nemokami apyvartiniai taršos leidimai, sąrašo rengimas ir tvirtinimas|7 straipsnį]]. ^9f5b3ab93da3bbfcd4e2bdda
+7. Kai pasikeičia įrenginio, kuris į ES ATLPS taikymo sritį įtrauktas dėl jame veikiančių kuro deginimo įrenginių, kurių bendra vardinė šiluminė galia viršija 20 MW, gamybos procesai, siekiant sumažinti jo išmetamą ŠESD kiekį ir tam, kad jis nebesiektų tos ribos, įrenginio valdytojui leidžiama pasirinkti, kad, pakeitus įrenginio gamybos procesus, būtų tebetaikomi ES ATLPS reikalavimai iki šio įstatymo [[#^abb136ff85a2d66e93384c77|7 straipsnio 2 dalyje]] nurodyto dabartinio ir kito 5 metų laikotarpio pabaigos. Tokio įrenginio valdytojas gali nuspręsti, ar, pakeitus šio įrenginio gamybos procesus, ES ATLPS jam būtų taikoma tik iki dabartinio 5 metų laikotarpio pabaigos, ar ir kitą 5 metų laikotarpį. Apie tokius pasikeitimus Europos Komisijai praneša aplinkos ministro paskirta atsakinga institucija, kai teikiamas ES ATLPS dalyvaujančių veiklos vykdytojų, kuriems suteikiami nemokami apyvartiniai taršos leidimai, sąrašas pagal šio įstatymo [[#7 straipsnis. Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų, kuriems suteikiami nemokami apyvartiniai taršos leidimai, sąrašo rengimas ir tvirtinimas|7 straipsnį]]. ^3656401f587c9044bdb7b3c4
 
 
-8. Prie šio priedo 1.29 papunktyje nurodytų aviacijos veiklos rūšių priskiriami visi skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą ir iš jo, išskyrus nukrypti leidžiančias 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 421/2014, kuriuo iš dalies keičiama Direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje, siekiant iki 2020 m. įgyvendinti tarptautinį susitarimą, kuriuo tarptautinės aviacijos išmetamiesiems teršalams nustatoma viena pasaulinė rinkos priemonė, nurodytas nuostatas. ^c631bbdb8dd05fa70549e83e
+8. Prie šio priedo 1.29 papunktyje nurodytų aviacijos veiklos rūšių priskiriami visi skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą ir iš jo, išskyrus nukrypti leidžiančias 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 421/2014, kuriuo iš dalies keičiama Direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje, siekiant iki 2020 m. įgyvendinti tarptautinį susitarimą, kuriuo tarptautinės aviacijos išmetamiesiems teršalams nustatoma viena pasaulinė rinkos priemonė, nurodytas nuostatas. ^e1280aa0f252e91ca860ab8b
 
 
 ____________________________
@@ -1264,91 +1317,91 @@ klimato kaitos valdymo įstatymo
 
 
 
-1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/958 ir 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/959. ^8aa7033f0c2b0944f6c4126e
+1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/958 ir 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/959. ^4e2d34801b5632390d86f4fa
 
 
-2. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011, su paskutiniais pakeitimais, padarytais 2019 m. kovo 12 d. Komisijos deleguotuoju reglamentu (ES) 2019/1123. ^33efe8f31245ceb68b9315d3
+2. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011, su paskutiniais pakeitimais, padarytais 2019 m. kovo 12 d. Komisijos deleguotuoju reglamentu (ES) 2019/1123. ^0d6c0a4851b02e8918251e79
 
 
-3. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/957. ^851adeb39215569fe57ec1bb
+3. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/957. ^1548d96b891cbd1a3ab47a0b
 
 
-4. 2015 m. spalio 6 d. Europos Parlamento ir Tarybos sprendimas (ES) 2015/1814 dėl Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos rinkos stabilumo rezervo sukūrimo ir veikimo bei kuriuo iš dalies keičiama Direktyva 2003/87/EB, su paskutiniais pakeitimais, padarytais 2023 m. balandžio 19 d. Europos Parlamento ir Tarybos sprendimu (ES) 2023/852. ^3dbb8d49c92ba1f3a927bf4c
+4. 2015 m. spalio 6 d. Europos Parlamento ir Tarybos sprendimas (ES) 2015/1814 dėl Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos rinkos stabilumo rezervo sukūrimo ir veikimo bei kuriuo iš dalies keičiama Direktyva 2003/87/EB, su paskutiniais pakeitimais, padarytais 2023 m. balandžio 19 d. Europos Parlamento ir Tarybos sprendimu (ES) 2023/852. ^8cb171beb6a608d996b4eb49
 
 
-5. Neteko galios nuo 2025-12-05 ^247b9066b95699131a73f515
+5. Neteko galios nuo 2025-12-05 ^c00018961094962ea2c38aa1
 Punkto naikinimas:
 Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 
 
 
-6. 2017 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2392, kuriuo iš dalies keičiama Direktyva 2003/87/EB, siekiant išlaikyti dabartinius jos taikymo aviacijos veiklai apribojimus ir pasirengti nuo 2021 m. įgyvendinti pasaulinę rinkos priemonę. ^2ac83ab7ecd3e4773dd3152b
+6. 2017 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2392, kuriuo iš dalies keičiama Direktyva 2003/87/EB, siekiant išlaikyti dabartinius jos taikymo aviacijos veiklai apribojimus ir pasirengti nuo 2021 m. įgyvendinti pasaulinę rinkos priemonę. ^9aa1190e119bb3c57f2bd8d4
 
 
-7. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/841 dėl šiltnamio efektą sukeliančių dujų, išmetamų ir absorbuojamų dėl žemės naudojimo, žemės naudojimo keitimo ir miškininkystės, kiekio įtraukimo į 2030 m. klimato ir energetikos politikos strategiją, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 525/2013 ir Sprendimas Nr. 529/2013/ES, su paskutiniais pakeitimais, padarytais 2023 m. balandžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/839. ^a60bba1d3bc35cb296609b77
+7. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/841 dėl šiltnamio efektą sukeliančių dujų, išmetamų ir absorbuojamų dėl žemės naudojimo, žemės naudojimo keitimo ir miškininkystės, kiekio įtraukimo į 2030 m. klimato ir energetikos politikos strategiją, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 525/2013 ir Sprendimas Nr. 529/2013/ES, su paskutiniais pakeitimais, padarytais 2023 m. balandžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/839. ^eb3e047801bb530751f7095c
 
 
-8. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/842, kuriuo, prisidedant prie klimato politikos veiksmų, kad būtų vykdomi įsipareigojimai pagal Paryžiaus susitarimą, valstybėms narėms nustatomi įpareigojimai 2021–2030 m. laikotarpiu sumažinti išmetamų šiltnamio efektą sukeliančių dujų metinį kiekį, ir iš dalies keičiamas Reglamentas (ES) Nr. 525/2013, su paskutiniais pakeitimais, padarytais 2023 m. balandžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/857. ^0c790556b206f0fc7c2e14d8
+8. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/842, kuriuo, prisidedant prie klimato politikos veiksmų, kad būtų vykdomi įsipareigojimai pagal Paryžiaus susitarimą, valstybėms narėms nustatomi įpareigojimai 2021–2030 m. laikotarpiu sumažinti išmetamų šiltnamio efektą sukeliančių dujų metinį kiekį, ir iš dalies keičiamas Reglamentas (ES) Nr. 525/2013, su paskutiniais pakeitimais, padarytais 2023 m. balandžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/857. ^18d6b8c3c5646a9422ceaad0
 
 
-9. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1999 dėl energetikos sąjungos ir klimato politikos veiksmų valdymo, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 663/2009 ir (EB) Nr. 715/2009, Europos Parlamento ir Tarybos direktyvos 94/22/EB, 98/70/EB, 2009/31/EB, 2009/73/EB, 2010/31/ES, 2012/27/ES ir 2013/30/ES, Tarybos direktyvos 2009/119/EB ir (ES) 2015/652 ir panaikinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 525/2013, su paskutiniais pakeitimais, padarytais 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2413. ^2e57cf66f278a4824ee44eae
+9. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1999 dėl energetikos sąjungos ir klimato politikos veiksmų valdymo, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 663/2009 ir (EB) Nr. 715/2009, Europos Parlamento ir Tarybos direktyvos 94/22/EB, 98/70/EB, 2009/31/EB, 2009/73/EB, 2010/31/ES, 2012/27/ES ir 2013/30/ES, Tarybos direktyvos 2009/119/EB ir (ES) 2015/652 ir panaikinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 525/2013, su paskutiniais pakeitimais, padarytais 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2413. ^af8b00c6dd9c251e7d92f373
 
 
-10. 2018 m. gruodžio 19 d. Komisijos įgyvendinimo reglamentas (ES) 2018/2067 dėl duomenų patikros ir tikrintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 14 d. Komisijos įgyvendinimo reglamentu (ES) 2020/2084. ^9e92ed6190d19313ef8e02fe
+10. 2018 m. gruodžio 19 d. Komisijos įgyvendinimo reglamentas (ES) 2018/2067 dėl duomenų patikros ir tikrintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 14 d. Komisijos įgyvendinimo reglamentu (ES) 2020/2084. ^c70dea22220861877f1c5865
 
 
-11. 2018 m. gruodžio 19 d. Komisijos įgyvendinimo reglamentas (ES) 2018/2066 dėl išmetamų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB, kuriuo iš dalies keičiamas Komisijos reglamentas (ES) Nr. 601/2012, su paskutiniais pakeitimais, padarytais 2023 m. spalio 12 d. Komisijos įgyvendinimo reglamentu (ES) 2023/2122. ^53fd292fcc87074c4f83c3e2
+11. 2018 m. gruodžio 19 d. Komisijos įgyvendinimo reglamentas (ES) 2018/2066 dėl išmetamų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB, kuriuo iš dalies keičiamas Komisijos reglamentas (ES) Nr. 601/2012, su paskutiniais pakeitimais, padarytais 2023 m. spalio 12 d. Komisijos įgyvendinimo reglamentu (ES) 2023/2122. ^d90ab9516e37ff2fd72372cd
 
 
-12. 2018 m. gruodžio 19 d. Komisijos deleguotasis reglamentas (ES) 2019/331, kuriuo nustatomos suderinto nemokamų apyvartinių taršos leidimų suteikimo pagal Europos Parlamento ir Tarybos direktyvos 2003/87/EB 10a straipsnį pereinamojo laikotarpio Sąjungos taisyklės. ^cdfab4116273b78da4c303db
+12. 2018 m. gruodžio 19 d. Komisijos deleguotasis reglamentas (ES) 2019/331, kuriuo nustatomos suderinto nemokamų apyvartinių taršos leidimų suteikimo pagal Europos Parlamento ir Tarybos direktyvos 2003/87/EB 10a straipsnį pereinamojo laikotarpio Sąjungos taisyklės. ^adf9a1f5628ca48f39588e48
 
 
-13. 2020 m. gegužės 18 d. Komisijos deleguotasis sprendimas (ES) 2020/1071, kuriuo dėl ES šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos netaikymo atvykstamiesiems skrydžiams iš Šveicarijos iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2003/87/EB. ^79df4cdb487fac5bd1728568
+13. 2020 m. gegužės 18 d. Komisijos deleguotasis sprendimas (ES) 2020/1071, kuriuo dėl ES šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos netaikymo atvykstamiesiems skrydžiams iš Šveicarijos iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2003/87/EB. ^4a3218f1d9b62ffeba9096f3
 
 
-14. 2020 m. rugpjūčio 7 d. Komisijos įgyvendinimo reglamentas (ES) 2020/1208 dėl informacijos, valstybių narių teikiamos pagal Europos Parlamento ir Tarybos reglamentą (ES) 2018/1999, struktūros, formato, teikimo tvarkos ir peržiūros, kuriuo panaikinamas Komisijos įgyvendinimo reglamentas (ES) Nr. 749/2014. ^56b41b419446fd05dc6ec62f
+14. 2020 m. rugpjūčio 7 d. Komisijos įgyvendinimo reglamentas (ES) 2020/1208 dėl informacijos, valstybių narių teikiamos pagal Europos Parlamento ir Tarybos reglamentą (ES) 2018/1999, struktūros, formato, teikimo tvarkos ir peržiūros, kuriuo panaikinamas Komisijos įgyvendinimo reglamentas (ES) Nr. 749/2014. ^b53ba07ed807fc9a0681266a
 
 
-15. 2021 m. birželio 17 d. Komisijos deleguotasis reglamentas (ES) 2021/1416, kuriuo dėl Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos netaikymo atvykstamiesiems skrydžiams iš Jungtinės Karalystės iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2003/87/EB. ^85256c030f2b11fcef623c02
+15. 2021 m. birželio 17 d. Komisijos deleguotasis reglamentas (ES) 2021/1416, kuriuo dėl Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos netaikymo atvykstamiesiems skrydžiams iš Jungtinės Karalystės iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2003/87/EB. ^76333ab4d82e99bb10589743
 
 
-16. 2021 m. birželio 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/1119, kuriuo nustatoma poveikio klimatui neutralumo pasiekimo sistema ir iš dalies keičiami reglamentai (EB) Nr. 401/2009 ir (ES) 2018/1999 (Europos klimato teisės aktas). ^80c18e8d6c02ca7737dbd8be
+16. 2021 m. birželio 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/1119, kuriuo nustatoma poveikio klimatui neutralumo pasiekimo sistema ir iš dalies keičiami reglamentai (EB) Nr. 401/2009 ir (ES) 2018/1999 (Europos klimato teisės aktas). ^12efcdd30d7d87bf1ce6762a
 
 
-17. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/955, kuriuo įsteigiamas Socialinis klimato fondas ir iš dalies keičiamas Reglamentas (ES) 2021/1060. ^706e45de2fb23f10d92847d9
+17. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/955, kuriuo įsteigiamas Socialinis klimato fondas ir iš dalies keičiamas Reglamentas (ES) 2021/1060. ^b53ce1234a671ed59138e8d5
 
 
-18. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/956, kuriuo nustatomas pasienio anglies dioksido korekcinis mechanizmas. ^f845718d59c5027860a222a0
+18. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/956, kuriuo nustatomas pasienio anglies dioksido korekcinis mechanizmas. ^5cd48a85a19c22339ef30636
 
 
-19. 2023 m. lapkričio 6 d. Komisijos įgyvendinimo reglamentas (ES) 2023/2449, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) 2015/757 taikymo taisyklės, susijusios su stebėsenos planų, išmetamųjų teršalų kiekio ataskaitų, dalinių išmetamųjų teršalų kiekio ataskaitų, atitikties patvirtinimo dokumentų ir bendrovės lygmens ataskaitų šablonais, ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2016/1927. ^bd5e26564f3c2fd253a5f5f4
+19. 2023 m. lapkričio 6 d. Komisijos įgyvendinimo reglamentas (ES) 2023/2449, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) 2015/757 taikymo taisyklės, susijusios su stebėsenos planų, išmetamųjų teršalų kiekio ataskaitų, dalinių išmetamųjų teršalų kiekio ataskaitų, atitikties patvirtinimo dokumentų ir bendrovės lygmens ataskaitų šablonais, ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2016/1927. ^990b22ff8c75d2482207fc23
 
 
-20. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014. ^432ffaa6c79e2796dd28072c
+20. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/573 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo iš dalies keičiama Direktyva (ES) 2019/1937 ir panaikinamas Reglamentas (ES) Nr. 517/2014. ^a7b1bdf3a7e5f2411cc9008c
 
 
-21. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/590 dėl ozono sluoksnį ardančių medžiagų, kuriuo panaikinamas Reglamentas (EB) Nr. 1005/2009. ^ff02f0d5fa8784d290fd5e1d
+21. 2024 m. vasario 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/590 dėl ozono sluoksnį ardančių medžiagų, kuriuo panaikinamas Reglamentas (EB) Nr. 1005/2009. ^f00eaae2dbb8006feb986457
 
 
-22. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^02a178de2110c800de1b36e4
+22. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^d16ea0eaba6aeab18b62f9bb
 Papildyta punktu:
 Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 
 
 
-23. 2024 m. rugsėjo 6 d. Komisijos įgyvendinimo reglamentas (ES) 2024/2215, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi minimalieji sertifikatų, susijusių su stacionaria šaldymo, oro kondicionavimo ir šilumos siurblių įranga, organiniais Rankino ciklais ir izoterminių sunkvežimių, izoterminių priekabų, izoterminių lengvųjų transporto priemonių, įvairiarūšio vežimo konteinerių ir traukinių vagonų šaldymo įrenginiais, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų arba jų alternatyvų, išdavimo fiziniams ir juridiniams asmenims reikalavimai bei tokių sertifikatų tarpusavio pripažinimo sąlygos ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2067. ^e77e739b9d9409b36843b824
+23. 2024 m. rugsėjo 6 d. Komisijos įgyvendinimo reglamentas (ES) 2024/2215, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi minimalieji sertifikatų, susijusių su stacionaria šaldymo, oro kondicionavimo ir šilumos siurblių įranga, organiniais Rankino ciklais ir izoterminių sunkvežimių, izoterminių priekabų, izoterminių lengvųjų transporto priemonių, įvairiarūšio vežimo konteinerių ir traukinių vagonų šaldymo įrenginiais, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų arba jų alternatyvų, išdavimo fiziniams ir juridiniams asmenims reikalavimai bei tokių sertifikatų tarpusavio pripažinimo sąlygos ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2067. ^4e02410eccd43bfde228ed19
 Papildyta punktu:
 Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 
 
 
-24. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/625, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi fizinių ir juridinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, susiję su stacionaria gaisro gesinimo įranga, kurioje yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų arba atitinkamų fluorintų šiltnamio efektą sukeliančių dujų alternatyvų, ir panaikinamas Komisijos reglamentas (EB) Nr. 304/2008. ^54681b1138212490a4ad38b3
+24. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/625, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi fizinių ir juridinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, susiję su stacionaria gaisro gesinimo įranga, kurioje yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų arba atitinkamų fluorintų šiltnamio efektą sukeliančių dujų alternatyvų, ir panaikinamas Komisijos reglamentas (EB) Nr. 304/2008. ^c4ecd811fc11e19b04eaa8f7
 Papildyta punktu:
 Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 
 
 
-25. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/627, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi su stacionarių elektros skirstomųjų įrenginių, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų, montavimu, aptarnavimu arba technine priežiūra, remontu arba eksploatacijos nutraukimu ir fluorintų šiltnamio efektą sukeliančių dujų surinkimu iš stacionarių elektros skirstomųjų įrenginių susiję fizinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2066. ^bc5740bbc93029d245df88d7
+25. 2025 m. kovo 28 d. Komisijos įgyvendinimo reglamentas (ES) 2025/627, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2024/573 nustatomi su stacionarių elektros skirstomųjų įrenginių, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų, montavimu, aptarnavimu arba technine priežiūra, remontu arba eksploatacijos nutraukimu ir fluorintų šiltnamio efektą sukeliančių dujų surinkimu iš stacionarių elektros skirstomųjų įrenginių susiję fizinių asmenų sertifikatų minimalieji reikalavimai ir tokių sertifikatų tarpusavio pripažinimo sąlygos, ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2015/2066. ^eb0b77f0f9e5b6f6f68e5d3e
 Papildyta punktu:
 Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 
@@ -1403,7 +1456,7 @@ Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
-Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 antrojo skirsnio pavadinimo, 3, 4, 9, [[#10 straipsnis. Specialios išimtys orlaivių naudotojams|10 straipsnių]] pakeitimo ir [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės sankcijos|23 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 antrojo skirsnio pavadinimo, 3, 4, 9, [[#10 straipsnis. Specialios išimtys orlaivių naudotojams|10 straipsnių]] pakeitimo ir [[#23 straipsnis. Veikos, už kurias skiriamos ekonominės piniginės sankcijos|23 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1419,3 +1472,8 @@ Lietuvos Respublikos klimato kaitos valdymo įstatymo Nr. XI-329 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-625, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20664
 Lietuvos Respublikos klimato kaitos valdymo įstatymo Nr. XI-329 10, 12, 14, 18, 19, [[#20 straipsnis. Mokymų teikėjų leidimų vykdyti fizinių asmenų, dirbančių su fluorintomis šiltnamio efektą sukeliančiomis dujomis, ozono sluoksnį ardančiomis medžiagomis ir jų turinčia įranga, programas išdavimas, jų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas|20 straipsnių]] ir 1, 3 priedų pakeitimo įstatymas
+
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-919, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08253
+Lietuvos Respublikos klimato kaitos valdymo įstatymo Nr. XI-329 23, 24, 25, 26, 27, 28, 29, 30 ir [[#31 straipsnis. Ekonominių piniginių sankcijų sumokėjimas ir išieškojimas|31 straipsnių]] pakeitimo įstatymas

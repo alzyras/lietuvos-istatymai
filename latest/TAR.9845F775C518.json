@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.9845F775C518.md",
   "latest_revision": "1999-10-01",
-  "latest_sha256": "7a6850892c4896358b3bfcf1974af962f3425c5b8c7bf246cf356f51a949a0c6",
+  "latest_sha256": "a1aa248eb7b937d1af3f8c3c6810c6ea46158628069ffe0f9be9ae645a848690",
   "metadata_path": "latest/TAR.9845F775C518.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

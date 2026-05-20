@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1996-02-07"
 latest_path: "latest/TAR.F8090E375DA0.md"
-latest_sha256: "bcecc2716af573864cb8c2130e8870e0d00dd479b66385cdc0c8c408741c1640"
+latest_sha256: "8f6e80f77040bf6a9e10be0b7c60f502162b380cbdd953b210f6d984f41d0d14"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymas
@@ -23,7 +23,7 @@ parser_version: "0.1.0"
 Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
-Suvestinė redakcija nuo 2025-11-29
+Suvestinė redakcija nuo 2025-11-29 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
 

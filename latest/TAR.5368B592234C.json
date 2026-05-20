@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.5368B592234C.md",
   "latest_revision": "1996-07-03",
-  "latest_sha256": "286d903d53316c5334673df14b5fcd923c2d12ae8be0909170482f9a07bdba7a",
+  "latest_sha256": "83f8d3c0e9815466eeaa97c5114a7750b4436a69f2e64f2d3bd9469cb020058d",
   "metadata_path": "latest/TAR.5368B592234C.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

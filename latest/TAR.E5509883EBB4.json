@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.E5509883EBB4.md",
   "latest_revision": "2001-07-01",
-  "latest_sha256": "f1a16d0f0089b2d6120c1dd245374aa289efbafaf7c41eaeb2c72b7d883b0b3c",
+  "latest_sha256": "1add61f2e5eff1a29370d195f4a0e117003ca91c7faf1c1dede868968bf891d1",
   "metadata_path": "latest/TAR.E5509883EBB4.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos azartinių lošimų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

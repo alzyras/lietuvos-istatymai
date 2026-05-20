@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.CB941ADCC055.md",
   "latest_revision": "2003-01-01",
-  "latest_sha256": "bf7edf26c15f5dcdc48f1fbd2a4089c5445bca302e1d29b8c84a42d79e6c9763",
+  "latest_sha256": "48f5e7f8e28ac4549363fcb980b85cbab46d7204a225dbb6387afeda53a0448d",
   "metadata_path": "latest/TAR.CB941ADCC055.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-05-20T10:59:27Z"
 }

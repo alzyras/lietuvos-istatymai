@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.55FFE350795A.md",
   "latest_revision": "2008-02-01",
-  "latest_sha256": "d589558e096fd451bc7261f4278e1d38d764800d9962b849ea208a792251f57e",
+  "latest_sha256": "a5dbd895c80b7c23d39977808898577053ba8055e4e6a93a2eb67d70ea7a4830",
   "metadata_path": "latest/TAR.55FFE350795A.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-05-20T10:58:27Z"
 }

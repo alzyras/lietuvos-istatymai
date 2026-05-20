@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-23"
 latest_path: "latest/TAR.1B4D7B687895.md"
-latest_sha256: "5644acf315b1023f031234b9fb61dd094982c694c19dff1aca23b1d9054d26a9"
+latest_sha256: "ff29710edf05f6282dda3ec74203ead1ffa9570937776958178c96ec83e6e4af"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos Lietuvos banko įstatymas
@@ -1810,9 +1810,10 @@ Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
 2. Jeigu yra motyvuotas asmens prašymas, Lietuvos bankas turi teisę baudos ar jos dalies mokėjimą išdėstyti per laikotarpį iki 2 metų, jeigu asmuo negali laiku sumokėti baudos dėl objektyvių priežasčių. ^f0638752900f6e032017fa64
 
 
-3. Lietuvos banko sprendimas dėl baudos skyrimo ir (arba) kitų išieškotinų sumų yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Lietuvos banko sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos ar, jeigu Lietuvos banko sprendimas buvo apskųstas, teismo sprendimo įsiteisėjimo dienos. Kai baudos sumokėjimas buvo išdėstytas [[#^f0638752900f6e032017fa64|šio straipsnio 2 dalyje]] nustatyta tvarka, Lietuvos banko sprendimas gali būti pateikiamas vykdyti per 3 metus nuo išdėstymo termino pabaigos. ^90e6dd1c107926529c90de96
+3. Lietuvos banko sprendimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos mokesčių administravimo įstatyme ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. Lietuvos banko sprendimas dėl kitų išieškotinų sumų yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekse nustatyta tvarka. Lietuvos banko sprendimas dėl kitų išieškotinų sumų gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos. ^23429c229b6b4853bf408c9a
 Straipsnio dalies pakeitimai:
 Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
+Nr. XV-909, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08240
 
 
 
@@ -1832,16 +1833,16 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 
 
-1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros; ^2853c9110a9ee37b17701808
+1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros; ^5d5976ff74cae50257eaf198
 
 
-2) užtikrinamas asmens, kuris praneša apie padarytus pažeidimus, konfidencialumas, išskyrus atvejus, kai atskleisti tokią informaciją reikalaujama įstatymų nustatytais atvejais ir tvarka; ^340958ce8033412cc047e033
+2) užtikrinamas asmens, kuris praneša apie padarytus pažeidimus, konfidencialumas, išskyrus atvejus, kai atskleisti tokią informaciją reikalaujama įstatymų nustatytais atvejais ir tvarka; ^4c5071c90c41861bc8779795
 
 
-3) asmens duomenys tvarkomi asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka; ^16d9303fbb899f69c2d4020c
+3) asmens duomenys tvarkomi asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka; ^8eafe58de614e78988b587cf
 
 
-4) užtikrinama tinkama finansų rinkos dalyvio darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio. ^f25e569f2b512527f19caf99
+4) užtikrinama tinkama finansų rinkos dalyvio darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio. ^44e061fd0eb365315647764c
 
 
 Straipsnio pakeitimai:
@@ -1859,28 +1860,28 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 ### 45 straipsnis. Lietuvos banko ir Lietuvos banko tarnautojų neteisėtais veiksmais padarytos žalos atlyginimas ir kompensacija Lietuvos banko tarnautojams dėl išlaidų, susijusių su jiems iškeltomis bylomis ar pareikštais ieškiniais
 
 
-1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su finansų rinkos priežiūros atlikimu, atlyginama tik tuo atveju, jeigu nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų tyčios ar didelio neatsargumo. ^373ffa3090a70d8060c62e35
+1. Žala, atsiradusi dėl Lietuvos banko ar Lietuvos banko tarnautojų neteisėtų veiksmų, susijusių su finansų rinkos priežiūros atlikimu, atlyginama tik tuo atveju, jeigu nukentėjęs asmuo įrodo, kad žala padaryta dėl Lietuvos banko ar Lietuvos banko tarnautojų tyčios ar didelio neatsargumo. ^bb20dbf6fa15fe29488f53bd
 Straipsnio dalies pakeitimai:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
 
 
-2. Lietuvos bankas Lietuvos banko tarnautojams ir jame dirbusiems tarnautojams išmoka kompensaciją, lygią jų išlaidoms, turėtoms dėl iškeltos baudžiamosios bylos ar pradėtos administracinio nusižengimo teisenos, ar kitų su tokiomis veikomis susijusių teisėsaugos institucijų veiksmų arba dėl jiems pareikštų civilinių ieškinių už vykdant tarnybos pareigas, susijusias su finansų rinkos priežiūros atlikimu, padarytas veikas. Kompensacijos išmokėjimo tvarką nustato Lietuvos banko valdyba. ^c1d9bcdcb2c89b19f51dab30
+2. Lietuvos bankas Lietuvos banko tarnautojams ir jame dirbusiems tarnautojams išmoka kompensaciją, lygią jų išlaidoms, turėtoms dėl iškeltos baudžiamosios bylos ar pradėtos administracinio nusižengimo teisenos, ar kitų su tokiomis veikomis susijusių teisėsaugos institucijų veiksmų arba dėl jiems pareikštų civilinių ieškinių už vykdant tarnybos pareigas, susijusias su finansų rinkos priežiūros atlikimu, padarytas veikas. Kompensacijos išmokėjimo tvarką nustato Lietuvos banko valdyba. ^fd8b16ee1a203156b58110ee
 Straipsnio dalies pakeitimai:
 Nr. XII-2450, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17718
 
 
 
-3. Lietuvos banko tarnautojas ar jame dirbęs tarnautojas privalo grąžinti Lietuvos banko jam išmokėtą [[#^c1d9bcdcb2c89b19f51dab30|šio straipsnio 2 dalyje]] nustatytą kompensaciją šiais atvejais: ^bc538f98db5913cb9c16b667
+3. Lietuvos banko tarnautojas ar jame dirbęs tarnautojas privalo grąžinti Lietuvos banko jam išmokėtą [[#^fd8b16ee1a203156b58110ee|šio straipsnio 2 dalyje]] nustatytą kompensaciją šiais atvejais: ^ac7f222b6262039acf3514d2
 
 
-1) kai jis, išnagrinėjus baudžiamąją ar administracinio nusižengimo bylą, pripažintas kaltu dėl nusikalstamos veikos ar administracinio nusižengimo padarymo arba teismo sprendimu pripažintas kaltu dėl žalos padarymo; ^e98cb26bdbb7cb3a6bc600cf
+1) kai jis, išnagrinėjus baudžiamąją ar administracinio nusižengimo bylą, pripažintas kaltu dėl nusikalstamos veikos ar administracinio nusižengimo padarymo arba teismo sprendimu pripažintas kaltu dėl žalos padarymo; ^a6c07b11c93c420f32be6a75
 Straipsnio punkto pakeitimai:
 Nr. XII-2450, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17718
 
 
 
-2) kai jo turėtas ir teismo iš kito asmens jam priteistas išlaidas sumoka asmuo, iš kurio priteistos išlaidos. Jeigu jam sumokėtų teismo priteistų išlaidų suma mažesnė už kompensaciją, kompensacija grąžinama tokio dydžio, kokią sumą sumoka asmuo, iš kurio priteistos išlaidos. ^e6bf2208ab04501093d083cc
+2) kai jo turėtas ir teismo iš kito asmens jam priteistas išlaidas sumoka asmuo, iš kurio priteistos išlaidos. Jeigu jam sumokėtų teismo priteistų išlaidų suma mažesnė už kompensaciją, kompensacija grąžinama tokio dydžio, kokią sumą sumoka asmuo, iš kurio priteistos išlaidos. ^d65df3acf4f7b38170cb3c5c
 
 
 Straipsnio pakeitimai:
@@ -1922,67 +1923,67 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 ### 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimas ne teismo tvarka
 
 
-1. Lietuvos bankas nagrinėja [[#^8b477458c02d25ec7ff174ee|šio straipsnio 5 dalyje]] nurodytų vartotojų (toliau – vartotojai) ginčus su šiais subjektais: ^07ed6b2872b9022f22622efb
+1. Lietuvos bankas nagrinėja [[#^da13b20b7b822a061348f7b2|šio straipsnio 5 dalyje]] nurodytų vartotojų (toliau – vartotojai) ginčus su šiais subjektais: ^6ded96793903c4e681ba904e
 
 
-1) šio įstatymo [[#42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą|42 straipsnyje]] nurodytais finansų rinkos dalyviais, taip pat juridiniais asmenimis, kurie turėjo teisę kaip šio įstatymo [[#42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą|42 straipsnyje]] nurodyti finansų rinkos dalyviai teikti licencines finansines ar draudimo paslaugas, tačiau ją prarado; ^b44c1ab3a1cbd18c86226b72
+1) šio įstatymo [[#42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą|42 straipsnyje]] nurodytais finansų rinkos dalyviais, taip pat juridiniais asmenimis, kurie turėjo teisę kaip šio įstatymo [[#42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą|42 straipsnyje]] nurodyti finansų rinkos dalyviai teikti licencines finansines ar draudimo paslaugas, tačiau ją prarado; ^9fe41e474a577852a300e328
 
 
-2) šio įstatymo [[#42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą|42 straipsnyje]] nenurodytais, tačiau Lietuvos Respublikoje teisę teikti finansines ar draudimo paslaugas turinčiais subjektais, jeigu jie Lietuvos Respublikoje turi įgaliotus atstovus pretenzijoms nagrinėti. Su Lietuvos Respublikoje neįsisteigusiais transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo paslaugas teikiančiais, tačiau Lietuvos Respublikoje įgaliotus atstovus pretenzijoms nagrinėti turinčiais subjektais ginčai nagrinėjami tik tuo atveju, jeigu eismo įvykis įvyko Lietuvos Respublikoje; ^31c1ac93dacadc5007760e2e
+2) šio įstatymo [[#42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą|42 straipsnyje]] nenurodytais, tačiau Lietuvos Respublikoje teisę teikti finansines ar draudimo paslaugas turinčiais subjektais, jeigu jie Lietuvos Respublikoje turi įgaliotus atstovus pretenzijoms nagrinėti. Su Lietuvos Respublikoje neįsisteigusiais transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo paslaugas teikiančiais, tačiau Lietuvos Respublikoje įgaliotus atstovus pretenzijoms nagrinėti turinčiais subjektais ginčai nagrinėjami tik tuo atveju, jeigu eismo įvykis įvyko Lietuvos Respublikoje; ^a7b96da8267647f74deadd17
 
 
-3) kitais subjektais dėl ginčų, nurodytų [[#^58f5452547ba8de825d3df2e|šio straipsnio 3 dalies 3 punkte]]. ^45459798bece6ce08989c3c2
+3) kitais subjektais dėl ginčų, nurodytų [[#^9588495f36c072166f943868|šio straipsnio 3 dalies 3 punkte]]. ^f2b3986a1a303c061fd93c26
 
 
-2. Šio straipsnio taikymo tikslais [[#^07ed6b2872b9022f22622efb|šio straipsnio 1 dalyje]] nurodyti subjektai toliau šiame straipsnyje vadinami finansų rinkos dalyviais. ^f4be294690e5ca842741ffea
+2. Šio straipsnio taikymo tikslais [[#^6ded96793903c4e681ba904e|šio straipsnio 1 dalyje]] nurodyti subjektai toliau šiame straipsnyje vadinami finansų rinkos dalyviais. ^fbbe7d90a664ac8f8a22c7b0
 
 
-3. Lietuvos bankas nagrinėja ginčus su finansų rinkos dalyviais dėl sutarčių, kurioms taikytina Lietuvos Respublikos teisė, kylančius iš: ^9b4bbe54aba3888de7700a59
+3. Lietuvos bankas nagrinėja ginčus su finansų rinkos dalyviais dėl sutarčių, kurioms taikytina Lietuvos Respublikos teisė, kylančius iš: ^2d4d840ec7318899a7a77951
 
 
-1) finansinių ir (arba) papildomų investicinių paslaugų teikimo; ^954f88408c98cda1be16eb7d
+1) finansinių ir (arba) papildomų investicinių paslaugų teikimo; ^32821ed97f073174f10a3aed
 
 
-2) draudimo sutarčių ar susijusius su jomis; ^90d1309f0cc6c2b568b5768f
+2) draudimo sutarčių ar susijusius su jomis; ^d3f31dbd7bad2e7b7449cf3a
 
 
-3) mokėjimo paslaugų teikimo ir kitų Lietuvos Respublikos mokėjimų įstatyme reglamentuotų santykių; ^58f5452547ba8de825d3df2e
+3) mokėjimo paslaugų teikimo ir kitų Lietuvos Respublikos mokėjimų įstatyme reglamentuotų santykių; ^9588495f36c072166f943868
 
 
-4) pensijų anuitetų mokėjimo santykių; ^b778007642fb7b166de14832
+4) pensijų anuitetų mokėjimo santykių; ^d609f071e99f8244d2180900
 
 
-5) su finansinėmis paslaugomis susijusių hipotekos ir laidavimo sutarčių; ^e06c873789977a4ecca7cf05
+5) su finansinėmis paslaugomis susijusių hipotekos ir laidavimo sutarčių; ^0938f7d797f362c713f45cfc
 
 
-6) Reglamente (ES) 2023/1114 nurodyto kriptoturto, kuris nėra su turtu susieti žetonai arba elektroninių pinigų žetonai, viešo siūlymo ar įtraukimo į prekybą, kaip tai nurodyta Reglamento (ES) 2023/1114 4 ir [[#5 straipsnis. Lietuvos banko užsienio ryšiai ir atstovavimas valstybei|5 straipsniuose]]. ^292a70e688d8873d08767bb0
+6) Reglamente (ES) 2023/1114 nurodyto kriptoturto, kuris nėra su turtu susieti žetonai arba elektroninių pinigų žetonai, viešo siūlymo ar įtraukimo į prekybą, kaip tai nurodyta Reglamento (ES) 2023/1114 4 ir [[#5 straipsnis. Lietuvos banko užsienio ryšiai ir atstovavimas valstybei|5 straipsniuose]]. ^b0758109872922a894ab9346
 Papildyta straipsnio punktu:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 
 
 
-4. Šio straipsnio taikymo tikslais [[#^9b4bbe54aba3888de7700a59|šio straipsnio 3 dalyje]] nurodytų santykių pagrindu finansų rinkos dalyvių teikiamos paslaugos šiame straipsnyje vadinamos finansinėmis paslaugomis. ^12e88eec75b572c0061a1373
+4. Šio straipsnio taikymo tikslais [[#^2d4d840ec7318899a7a77951|šio straipsnio 3 dalyje]] nurodytų santykių pagrindu finansų rinkos dalyvių teikiamos paslaugos šiame straipsnyje vadinamos finansinėmis paslaugomis. ^2c8bd134cc9b2c8c88783d59
 
 
-5. Šiame straipsnyje vartotoju laikomas fizinis asmuo: ^8b477458c02d25ec7ff174ee
+5. Šiame straipsnyje vartotoju laikomas fizinis asmuo: ^da13b20b7b822a061348f7b2
 
 
-1) sudarantis su finansų rinkos dalyviu finansinių paslaugų sutartį, įskaitant investuotojus, kurie su emitentu, savo jėgomis vykdančiu pirminę vertybinių popierių emisiją, sudaro vertybinių popierių įsigijimo sutartį su verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais), išskyrus profesionaliuosius klientus ir informuotuosius investuotojus; ^249a984b4b9fea19da42b545
+1) sudarantis su finansų rinkos dalyviu finansinių paslaugų sutartį, įskaitant investuotojus, kurie su emitentu, savo jėgomis vykdančiu pirminę vertybinių popierių emisiją, sudaro vertybinių popierių įsigijimo sutartį su verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais), išskyrus profesionaliuosius klientus ir informuotuosius investuotojus; ^da01c5a4bbabca41de39c2ef
 
 
-2) apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ar kitas asmuo, kuris santykiuose su finansų rinkos dalyviu nesiekia tikslų, susijusių su verslu ar profesine veikla. ^848aaeae47f4245da998a5da
+2) apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ar kitas asmuo, kuris santykiuose su finansų rinkos dalyviu nesiekia tikslų, susijusių su verslu ar profesine veikla. ^92df1a849759bdea17aef445
 
 
-6. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, turi teisę kreiptis į teismą arba į vartojimo ginčus ne teismo tvarka nagrinėjančią instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą. ^18d370e2235fcac854f4a0f1
+6. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jais susijusių santykių, turi teisę kreiptis į teismą arba į vartojimo ginčus ne teismo tvarka nagrinėjančią instituciją – Lietuvos banką. Vartotojo kreipimasis į Lietuvos banką neatima vartotojo teisės kreiptis į teismą. ^8d00bf0a3b662dec71cf8ec4
 
 
-7. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jomis susijusių santykių, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti rašytinį vartotojo kreipimąsi ir ne vėliau kaip per 15 darbo dienų nuo kreipimosi gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė vartotojas ir finansų rinkos dalyvis. Išskirtiniais atvejais, kai dėl priežasčių, kurių finansų rinkos dalyvis negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą, aiškiai nurodydamas atsakymo į vartotojo kreipimąsi vėlavimo priežastis ir terminą, iki kurio vartotojas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Finansų rinkos dalyvis vartotojų kreipimusis nagrinėja neatlygintinai. ^310c63259d79d9cf86172dc6
+7. Vartotojas, manantis, kad finansų rinkos dalyvis pažeidė jo teises ar teisėtus interesus, atsirandančius iš sutarčių ar su jomis susijusių santykių, ir ketinantis dėl kilusio ginčo nagrinėjimo kreiptis į Lietuvos banką, prieš kreipdamasis į Lietuvos banką privalo raštu kreiptis į finansų rinkos dalyvį, nurodydamas ginčo aplinkybes ir savo reikalavimą. Finansų rinkos dalyvis privalo išnagrinėti rašytinį vartotojo kreipimąsi ir ne vėliau kaip per 15 darbo dienų nuo kreipimosi gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodamas kitą patvariąją laikmeną, jeigu dėl to susitarė vartotojas ir finansų rinkos dalyvis. Išskirtiniais atvejais, kai dėl priežasčių, kurių finansų rinkos dalyvis negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, jis turi išsiųsti negalutinį atsakymą, aiškiai nurodydamas atsakymo į vartotojo kreipimąsi vėlavimo priežastis ir terminą, iki kurio vartotojas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Finansų rinkos dalyvis vartotojų kreipimusis nagrinėja neatlygintinai. ^b06384b4b4376cee6dfd99cc
 
 
-8. Lietuvos banko sprendimas dėl ginčo esmės yra rekomendacinio pobūdžio ir teismui neskundžiamas. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų. ^b0521792adb77774c65cbfcf
+8. Lietuvos banko sprendimas dėl ginčo esmės yra rekomendacinio pobūdžio ir teismui neskundžiamas. Lietuvos bankas savo interneto svetainėje skelbia informaciją apie finansų rinkos dalyvius, nevykdančius Lietuvos banko sprendimų. ^428ab087f4ecce0f1db089cf
 
 
-9. Vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo tvarką reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas ir Lietuvos banko patvirtintos vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo procedūros Lietuvos banke taisyklės. ^2b14910405b8ea442452be87
+9. Vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo tvarką reglamentuoja Lietuvos Respublikos vartotojų teisių apsaugos įstatymas ir Lietuvos banko patvirtintos vartotojų ir finansų rinkos dalyvių ginčų neteisminio sprendimo procedūros Lietuvos banke taisyklės. ^e2d7cc80fc5cd44cb7e566ce
 
 
 Straipsnio pakeitimai:
@@ -1999,43 +2000,43 @@ MAKROPRUDENCINĖ POLITIKA
 ### 471 straipsnis. Lietuvos banko funkcijos ir teisės vykdant makroprudencinę politiką
 
 
-1. Lietuvos bankas makroprudencinę politiką vykdo savo iniciatyva arba atsižvelgdamas į Europos sisteminės rizikos valdybos rekomendacijas ar įspėjimus dėl sisteminės rizikos. Kai Lietuvos bankas į Europos sisteminės rizikos valdybos rekomendacijas neatsižvelgia, to priežastis pateikia Europos sisteminės rizikos valdybai. ^0b4952e160bd901f9082610c
+1. Lietuvos bankas makroprudencinę politiką vykdo savo iniciatyva arba atsižvelgdamas į Europos sisteminės rizikos valdybos rekomendacijas ar įspėjimus dėl sisteminės rizikos. Kai Lietuvos bankas į Europos sisteminės rizikos valdybos rekomendacijas neatsižvelgia, to priežastis pateikia Europos sisteminės rizikos valdybai. ^fdd1f646ab0f64e06c07c621
 
 
-2. Makroprudencinės politikos priemones ir jų taikymo tvarką nustato Lietuvos banko teisės aktai. ^033dc085dd88ab0f796ca5e3
+2. Makroprudencinės politikos priemones ir jų taikymo tvarką nustato Lietuvos banko teisės aktai. ^a6c3a127a2662a48d79b2a8e
 
 
-3. Lietuvos bankas, vykdydamas makroprudencinę politiką: ^919a166a9b7c6681915c4fb8
+3. Lietuvos bankas, vykdydamas makroprudencinę politiką: ^5f40345c33f98b3c683d419b
 
 
-1) nustato, stebi ir vertina šalies finansų sistemos stabilumui kylančią grėsmę; ^240d4cdcdaee43bc5cf9a7d6
+1) nustato, stebi ir vertina šalies finansų sistemos stabilumui kylančią grėsmę; ^dc3fe89f82f07deda683c46c
 
 
-2) nustato ir skelbia makroprudencinės politikos strategiją; ^9b62298e1adbc931308d4075
+2) nustato ir skelbia makroprudencinės politikos strategiją; ^cc2a30c06ee49d531b421e2f
 
 
-3) taiko reikalingas teisės aktuose nustatytas makroprudencinės politikos priemones; ^cfaf159f5d81bb51afcb486c
+3) taiko reikalingas teisės aktuose nustatytas makroprudencinės politikos priemones; ^6d4d5fa12d8fe204e64383a1
 
 
-4) nustato valstybės mastu sistemiškai svarbių finansų įstaigų atrankos metodus; ^fd5b460140fecc4a8026511d
+4) nustato valstybės mastu sistemiškai svarbių finansų įstaigų atrankos metodus; ^e0eed3edb7063fe4b24e551d
 
 
-5) nedelsdamas, kiek tai reikalinga siekiant finansinio stabilumo užtikrinimo, skelbia priimtus sprendimus, įskaitant jų motyvus, išskyrus atvejus, kai tai kelia pavojų finansiniam stabilumui ir (ar) yra susiję su konfidencialia informacija. ^7fa5356f3b658f494ec31ec8
+5) nedelsdamas, kiek tai reikalinga siekiant finansinio stabilumo užtikrinimo, skelbia priimtus sprendimus, įskaitant jų motyvus, išskyrus atvejus, kai tai kelia pavojų finansiniam stabilumui ir (ar) yra susiję su konfidencialia informacija. ^4b8d591111a9425e4851f3a6
 
 
-4. Lietuvos bankas, vykdydamas makroprudencinę politiką, turi teisę: ^2b0c6f15547c8aef4d60fca3
+4. Lietuvos bankas, vykdydamas makroprudencinę politiką, turi teisę: ^6d3e03cb618fe3540ef9d54a
 
 
-1) leisti teisės aktus ir rekomendacijas finansų rinkos dalyviams; ^90d8656f3169151908f5786d
+1) leisti teisės aktus ir rekomendacijas finansų rinkos dalyviams; ^804039c94a2fc14e2374cbaa
 
 
-2) pateikęs prašymą, gauti makroprudencinei politikai vykdyti reikalingą informaciją ir duomenis iš valstybės institucijų, finansų rinkos dalyvių ir kitų įmonių, įstaigų, organizacijų, įskaitant duomenis apie konkrečias institucijas, finansų rinkos dalyvius ir kitas įmones, įstaigas, organizacijas ir informaciją, netiesiogiai susijusią su Lietuvos banko vykdoma makroprudencine politika (informaciją apie nekilnojamojo turto rinką, kitus veiksnius, darančius įtaką finansų įstaigų veiklai); ^7fd4a60205161bb603825918
+2) pateikęs prašymą, gauti makroprudencinei politikai vykdyti reikalingą informaciją ir duomenis iš valstybės institucijų, finansų rinkos dalyvių ir kitų įmonių, įstaigų, organizacijų, įskaitant duomenis apie konkrečias institucijas, finansų rinkos dalyvius ir kitas įmones, įstaigas, organizacijas ir informaciją, netiesiogiai susijusią su Lietuvos banko vykdoma makroprudencine politika (informaciją apie nekilnojamojo turto rinką, kitus veiksnius, darančius įtaką finansų įstaigų veiklai); ^28113ed331df1902dfcf39e3
 
 
-3) Lietuvos banko teisės aktuose nustatytais atvejais ir tvarka taikyti makroprudencinės politikos priemones finansų rinkos dalyviams; ^e3b8d6cb2bc0fd818fb59ba6
+3) Lietuvos banko teisės aktuose nustatytais atvejais ir tvarka taikyti makroprudencinės politikos priemones finansų rinkos dalyviams; ^22c4aa40decc9b865588f32d
 
 
-4) daryti viešus ir konkretiems asmenims skirtus neviešus pranešimus dėl sisteminės rizikos. ^e88e7f5dbce9a64d5a38349c
+4) daryti viešus ir konkretiems asmenims skirtus neviešus pranešimus dėl sisteminės rizikos. ^26f49fe65e0fba1c2d5a470f
 
 
 
@@ -2056,10 +2057,10 @@ Informacija, kurią Lietuvos bankas gauna vykdydamas makroprudencinę politiką,
 ### 474 straipsnis. Bendradarbiavimas su kitomis institucijomis makroprudencinės politikos srityje
 
 
-1. Vykdydamas makroprudencinę politiką ir prieš priimdamas sprendimus dėl makroprudencinės politikos priemonių taikymo, Lietuvos bankas turi teisę konsultuotis su Lietuvos Respublikos finansų ministerija, nepažeisdamas atitinkamų jos įgaliojimų ir savo nepriklausomumo. ^b9764fd56ff0c31b0694e771
+1. Vykdydamas makroprudencinę politiką ir prieš priimdamas sprendimus dėl makroprudencinės politikos priemonių taikymo, Lietuvos bankas turi teisę konsultuotis su Lietuvos Respublikos finansų ministerija, nepažeisdamas atitinkamų jos įgaliojimų ir savo nepriklausomumo. ^76141f984bb389f035f9f5c7
 
 
-2. Lietuvos bankas bendradarbiauja, keičiasi informacija ir turi teisę sudaryti sutartis su Europos centriniu banku, Europos sisteminės rizikos valdyba, kitų valstybių makroprudencinę politiką vykdančiomis institucijomis ir finansų rinkos priežiūros institucijomis, kitomis Lietuvos Respublikos, užsienio valstybių, Europos Sąjungos ir (ar) tarptautinėmis institucijomis. Lietuvos bankas informuoja Europos sisteminės rizikos valdybą apie veiksmus, kurių buvo imtasi sprendžiant klausimus dėl sisteminės rizikos valstybės mastu. ^7b1da9baac55d27debe669ff
+2. Lietuvos bankas bendradarbiauja, keičiasi informacija ir turi teisę sudaryti sutartis su Europos centriniu banku, Europos sisteminės rizikos valdyba, kitų valstybių makroprudencinę politiką vykdančiomis institucijomis ir finansų rinkos priežiūros institucijomis, kitomis Lietuvos Respublikos, užsienio valstybių, Europos Sąjungos ir (ar) tarptautinėmis institucijomis. Lietuvos bankas informuoja Europos sisteminės rizikos valdybą apie veiksmus, kurių buvo imtasi sprendžiant klausimus dėl sisteminės rizikos valstybės mastu. ^a3fbffec92101f3f4f8cfcd9
 
 
 Papildyta skirsniu:
@@ -2075,99 +2076,99 @@ GRYNŲJŲ PINIGŲ TVARKYTOJŲ VEIKLOS PRIEŽIŪRA
 ### 475 straipsnis. Lietuvos banko teisės ir pareigos atliekant grynųjų pinigų tvarkymo veiklos priežiūrą
 
 
-1. Lietuvos bankas grynųjų pinigų tvarkytojų grynųjų pinigų tvarkymo veiklą prižiūri ir poveikio priemones grynųjų pinigų tvarkytojams taiko vadovaudamasis šio įstatymo, Reglamento (EB) Nr. 1338/2001, Reglamento (ES) Nr. 1210/2010, Sprendimo ECB/2010/14 ir Lietuvos banko teisės aktų dėl grynųjų pinigų tvarkytojų veiklos priežiūros nuostatomis. Ši priežiūra neapima kitos grynųjų pinigų tvarkytojų vykdomos veiklos, kurios nereglamentuoja šis įstatymas. ^0f0eb7266a5e67edf0352134
+1. Lietuvos bankas grynųjų pinigų tvarkytojų grynųjų pinigų tvarkymo veiklą prižiūri ir poveikio priemones grynųjų pinigų tvarkytojams taiko vadovaudamasis šio įstatymo, Reglamento (EB) Nr. 1338/2001, Reglamento (ES) Nr. 1210/2010, Sprendimo ECB/2010/14 ir Lietuvos banko teisės aktų dėl grynųjų pinigų tvarkytojų veiklos priežiūros nuostatomis. Ši priežiūra neapima kitos grynųjų pinigų tvarkytojų vykdomos veiklos, kurios nereglamentuoja šis įstatymas. ^4fe18067d50b5d3b5cd1bf16
 
 
-2. Lietuvos bankas, atlikdamas grynųjų pinigų tvarkytojų grynųjų pinigų tvarkymo veiklos priežiūrą, turi teisę duoti privalomus nurodymus grynųjų pinigų tvarkytojams, taip pat jam mutatis mutandis taikomos šio įstatymo [[#^370a8eb9cb918f9bacfb9df8|42 straipsnio 4 dalies]] 1–10 punktų nuostatos. ^f9cff593fe557ef7a4e9e2d4
+2. Lietuvos bankas, atlikdamas grynųjų pinigų tvarkytojų grynųjų pinigų tvarkymo veiklos priežiūrą, turi teisę duoti privalomus nurodymus grynųjų pinigų tvarkytojams, taip pat jam mutatis mutandis taikomos šio įstatymo [[#^370a8eb9cb918f9bacfb9df8|42 straipsnio 4 dalies]] 1–10 punktų nuostatos. ^0d7dea4aaed865f0192f85ee
 
 
 
 ### 476 straipsnis. Lietuvos banko rengiami grynųjų pinigų tvarkytojų patikrinimai
 
 
-1. Lietuvos bankas organizuoja ir atlieka patikrinimus, kad nustatytų, kaip laikomasi šio įstatymo [[#^b91e5f07d9aae614aa54a0ed|6 straipsnio 3 dalyje]] nurodytuose teisės aktuose nustatytų reikalavimų. ^c087c7fb46ceb17f23359322
+1. Lietuvos bankas organizuoja ir atlieka patikrinimus, kad nustatytų, kaip laikomasi šio įstatymo [[#^b91e5f07d9aae614aa54a0ed|6 straipsnio 3 dalyje]] nurodytuose teisės aktuose nustatytų reikalavimų. ^4346bb7b386124b863e475b0
 
 
-2. Patikrinimų rūšis, periodiškumą, jų atlikimo ir įforminimo tvarką nustato Lietuvos banko teisės aktai. ^1c89e56efd67560f43528baf
+2. Patikrinimų rūšis, periodiškumą, jų atlikimo ir įforminimo tvarką nustato Lietuvos banko teisės aktai. ^b460bfe9355d4adf8cfe1b32
 
 
-3. Atliekant patikrinimą, Lietuvos banko įgaliotų tarnautojų teisėms mutatis mutandis taikomos šio įstatymo [[#^499ae9e6fa36284c5963d885|421 straipsnio 5 dalies]] 1, 2, 3, 6, 8 ir 11 punktų nuostatos. Lietuvos banko įgalioti atstovai taip pat turi teisę laikinai paimti tikrinamo grynųjų pinigų tvarkytojo sutvarkytų eurų banknotų ar monetų ne ilgesniam kaip 30 kalendorinių dienų laikotarpiui, kad būtų galima juos patikrinti Lietuvos banko patalpose. ^94f0347cc5297056d03c58e5
+3. Atliekant patikrinimą, Lietuvos banko įgaliotų tarnautojų teisėms mutatis mutandis taikomos šio įstatymo [[#^499ae9e6fa36284c5963d885|421 straipsnio 5 dalies]] 1, 2, 3, 6, 8 ir 11 punktų nuostatos. Lietuvos banko įgalioti atstovai taip pat turi teisę laikinai paimti tikrinamo grynųjų pinigų tvarkytojo sutvarkytų eurų banknotų ar monetų ne ilgesniam kaip 30 kalendorinių dienų laikotarpiui, kad būtų galima juos patikrinti Lietuvos banko patalpose. ^79f4c9af2fbb6ed76c101561
 
 
-4. Lietuvos banko tarnautojų reikalavimai įgyvendinant [[#^94f0347cc5297056d03c58e5|šio straipsnio 3 dalyje]] nustatytas teises yra privalomi grynųjų pinigų tvarkytojui. Už šių reikalavimų nevykdymą grynųjų pinigų tvarkytojui taikomos šio įstatymo [[#477 straipsnis. Lietuvos banko duodami privalomi nurodymai ir poveikio priemonių taikymas|477 straipsnyje]] nustatytos poveikio priemonės. ^8bd81f434c4a2506d9d4ffcf
+4. Lietuvos banko tarnautojų reikalavimai įgyvendinant [[#^79f4c9af2fbb6ed76c101561|šio straipsnio 3 dalyje]] nustatytas teises yra privalomi grynųjų pinigų tvarkytojui. Už šių reikalavimų nevykdymą grynųjų pinigų tvarkytojui taikomos šio įstatymo [[#477 straipsnis. Lietuvos banko duodami privalomi nurodymai ir poveikio priemonių taikymas|477 straipsnyje]] nustatytos poveikio priemonės. ^9838fb5e1fc192d709e14bb2
 
 
-5. Lietuvos bankas [[#^94f0347cc5297056d03c58e5|šio straipsnio 3 dalyje]] nustatytoms teisėms, išskyrus teisę, nustatytą šio įstatymo [[#^58cb06fa7de101f128c2c849|421 straipsnio 5 dalies 2 punkte]], įgyvendinti gali pasitelkti policijos pareigūnus. ^abe8a5927115d71412d929e5
+5. Lietuvos bankas [[#^79f4c9af2fbb6ed76c101561|šio straipsnio 3 dalyje]] nustatytoms teisėms, išskyrus teisę, nustatytą šio įstatymo [[#^58cb06fa7de101f128c2c849|421 straipsnio 5 dalies 2 punkte]], įgyvendinti gali pasitelkti policijos pareigūnus. ^aff9df48c43b3ab364aab863
 
 
-6. Informacijos, kurią Lietuvos bankas gauna grynųjų pinigų tvarkytojų grynųjų pinigų tvarkymo veiklos priežiūros tikslais, apsaugai taikomos šio įstatymo [[#43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga|43 straipsnio]] nuostatos. ^ce793d6ad5b7db7512a22d61
+6. Informacijos, kurią Lietuvos bankas gauna grynųjų pinigų tvarkytojų grynųjų pinigų tvarkymo veiklos priežiūros tikslais, apsaugai taikomos šio įstatymo [[#43 straipsnis. Finansų rinkos priežiūros tikslais gautos informacijos apsauga|43 straipsnio]] nuostatos. ^1a2d0699bab39a8d14f8ee57
 
 
 
 ### 477 straipsnis. Lietuvos banko duodami privalomi nurodymai ir poveikio priemonių taikymas
 
 
-1. Lietuvos bankas, nustatęs pažeidimų, grynųjų pinigų tvarkytojui duoda vieną ar kelis privalomus nurodymus: ^7df844410ceaa766b92903a3
+1. Lietuvos bankas, nustatęs pažeidimų, grynųjų pinigų tvarkytojui duoda vieną ar kelis privalomus nurodymus: ^c3b77c40d6c21f5344c61fcc
 
 
-1) laikinai Europos Centrinio Banko vardu uždrausti pakartotinai išleisti į apyvartą tam tikrų serijų ir nominalų eurų banknotus ar monetas; ^86364d0b2da518f71480e8ec
+1) laikinai Europos Centrinio Banko vardu uždrausti pakartotinai išleisti į apyvartą tam tikrų serijų ir nominalų eurų banknotus ar monetas; ^ed1da4f27adbba1bfaf1304e
 
 
-2) per Lietuvos banko nustatytą terminą pašalinti pažeidimus. ^aa854854dad51d5238cf9df4
+2) per Lietuvos banko nustatytą terminą pašalinti pažeidimus. ^b4175fe8338a3c82e5e72f9b
 
 
-2. Grynųjų pinigų tvarkytojai privalo vykdyti Lietuvos banko privalomus nurodymus jo nustatytais terminais ir nedelsdami, ne vėliau kaip kitą dieną po įvykdymo, apie tai raštu pranešti Lietuvos bankui. ^595db5d77bf5783b0418a4df
+2. Grynųjų pinigų tvarkytojai privalo vykdyti Lietuvos banko privalomus nurodymus jo nustatytais terminais ir nedelsdami, ne vėliau kaip kitą dieną po įvykdymo, apie tai raštu pranešti Lietuvos bankui. ^fad133a5ae7185838c5a11f8
 
 
-3. Privalomų nurodymų davimas neatima teisės Lietuvos bankui kartu taikyti ir [[#^5de2b96395b9fe400d3c8c3c|šio straipsnio 4 dalyje]] nustatytų poveikio priemonių. ^26cb525a8cf7bc39639cceea
+3. Privalomų nurodymų davimas neatima teisės Lietuvos bankui kartu taikyti ir [[#^c631534e0fcc02419dc39a05|šio straipsnio 4 dalyje]] nustatytų poveikio priemonių. ^7e895b96e389ae75311adddc
 
 
-4. Lietuvos bankas taiko tam pačiam asmeniui, padariusiam pažeidimus, vieną ar kelias poveikio priemones: ^5de2b96395b9fe400d3c8c3c
+4. Lietuvos bankas taiko tam pačiam asmeniui, padariusiam pažeidimus, vieną ar kelias poveikio priemones: ^c631534e0fcc02419dc39a05
 
 
-1) įspėja dėl pažeidimų; ^33d42aa24938f251da392bf0
+1) įspėja dėl pažeidimų; ^14406a41018647cf91c17169
 
 
-2) skiria šiame straipsnyje nustatytas baudas. ^a89c87774df83f19ace3ecad
+2) skiria šiame straipsnyje nustatytas baudas. ^7d6da60f38c7b18b56fa86b4
 
 
-5. Poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių pagrindų: ^a22b8bdf145acb8836a3eabb
+5. Poveikio priemonės gali būti taikomos, kai yra bent vienas iš šių pagrindų: ^8c12559dd8f7d513bc55093c
 
 
-1) nustatytais terminais nepateikiama Sprendime ECB/2010/14 nustatyta ar Lietuvos banko pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija; ^361bfc9a7c49dd0af8e65e0b
+1) nustatytais terminais nepateikiama Sprendime ECB/2010/14 nustatyta ar Lietuvos banko pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija; ^14832fa31f25801769aaa772
 
 
-2) nustatyta tvarka nevykdomi arba netinkamai vykdomi Lietuvos banko duoti privalomi nurodymai; ^594aaead0390d74da7e89027
+2) nustatyta tvarka nevykdomi arba netinkamai vykdomi Lietuvos banko duoti privalomi nurodymai; ^ee8f7574a2074a930cf94d40
 
 
-3) trukdoma Lietuvos bankui atlikti patikrinimus; ^4699bd85934c342ea781cf0f
+3) trukdoma Lietuvos bankui atlikti patikrinimus; ^0440ffc59ce799712ab85513
 
 
-4) nesilaikoma Reglamento (ES) Nr. 1210/2010 ar Sprendimo ECB/2010/14 reikalavimų, susijusių su eurų banknotų ir monetų autentiškumo ir tinkamumo apyvartai tikrinimu. ^2af23c2533aebda89c488d19
+4) nesilaikoma Reglamento (ES) Nr. 1210/2010 ar Sprendimo ECB/2010/14 reikalavimų, susijusių su eurų banknotų ir monetų autentiškumo ir tinkamumo apyvartai tikrinimu. ^673a10bcd74e8fcc1f98e7d2
 
 
-6. Lietuvos bankas skiria juridiniam asmeniui iki 10 procentų bendrųjų metinių pajamų baudą. ^bc1bd6141a5bef5c7ccac2f1
+6. Lietuvos bankas skiria juridiniam asmeniui iki 10 procentų bendrųjų metinių pajamų baudą. ^7343c961f4d9958dab8dfe19
 
 
-7. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. ^e50272c4449e1a81bd70ba8b
+7. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. ^13b26033550b7c294e793b68
 
 
-8. Jeigu dėl [[#^a22b8bdf145acb8836a3eabb|šio straipsnio 5 dalyje]] nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 6 arba [[#^4bb8e4063f3f69d1eb66e9e2|9 dalyje]] nurodytą baudos dydį, Lietuvos bankas skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio. ^ab37ca1fd69969ebacc44580
+8. Jeigu dėl [[#^8c12559dd8f7d513bc55093c|šio straipsnio 5 dalyje]] nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 6 arba [[#^006c420376a08aaf7a960c1f|9 dalyje]] nurodytą baudos dydį, Lietuvos bankas skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio. ^98068fbfbd441d9c19ed81d9
 
 
-9. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, Lietuvos bankas vietoj [[#^bc1bd6141a5bef5c7ccac2f1|šio straipsnio 6 dalyje]] nurodytos baudos skiria juridiniams asmenims baudą iki 100 000 eurų. ^4bb8e4063f3f69d1eb66e9e2
+9. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, Lietuvos bankas vietoj [[#^7343c961f4d9958dab8dfe19|šio straipsnio 6 dalyje]] nurodytos baudos skiria juridiniams asmenims baudą iki 100 000 eurų. ^006c420376a08aaf7a960c1f
 
 
-10. [[#^594aaead0390d74da7e89027|Šio straipsnio 5 dalies 2 punkte]] nurodytais atvejais Lietuvos bankas už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento juridinio asmens bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. ^f0dedf9ed0f537dcb6a5a5c8
+10. [[#^ee8f7574a2074a930cf94d40|Šio straipsnio 5 dalies 2 punkte]] nurodytais atvejais Lietuvos bankas už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento juridinio asmens bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. ^50ce887a4b6cefa10a7e9609
 
 
-11. Lietuvos banko sprendimui dėl poveikio priemonių taikymo, jų rūšių, dydžių ir taikymo terminų, informavimui apie pritaikytas poveikio priemones, teisei neskirti poveikio priemonių, juridinio asmens patraukimo atsakomybėn senaties terminui ir piniginių baudų išieškojimui mutatis mutandis taikomos šio įstatymo [[#433 straipsnis. Poveikio priemonių taikymas|433 straipsnio]] 2–13, 15 ir 16 dalių ir 434, 435, 436, [[#437 straipsnis. Piniginių baudų išieškojimas|437 straipsnių]] nuostatos. ^c1e0716da28f79b196597b4a
+11. Lietuvos banko sprendimui dėl poveikio priemonių taikymo, jų rūšių, dydžių ir taikymo terminų, informavimui apie pritaikytas poveikio priemones, teisei neskirti poveikio priemonių, juridinio asmens patraukimo atsakomybėn senaties terminui ir piniginių baudų išieškojimui mutatis mutandis taikomos šio įstatymo [[#433 straipsnis. Poveikio priemonių taikymas|433 straipsnio]] 2–13, 15 ir 16 dalių ir 434, 435, 436, [[#437 straipsnis. Piniginių baudų išieškojimas|437 straipsnių]] nuostatos. ^78fc693a9846a31e05ae57da
 Straipsnio dalies pakeitimai:
 Nr. XIV-2721, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11244
 
 
 
-12. Baudos apskaičiavimo taisykles nustato Lietuvos banko teisės aktai. ^ccdde85d5c4fd2f7a36598a5
+12. Baudos apskaičiavimo taisykles nustato Lietuvos banko teisės aktai. ^d70ef36203b40a0f4bba7fe6
 
 
 Papildyta skirsniu:
@@ -2190,10 +2191,10 @@ Lietuvos banko finansiniai metai prasideda sausio mėnesio 1 dieną ir baigiasi 
 ### 49 straipsnis. Finansinė apskaita ir metinių finansinių ataskaitų rinkinys
 
 
-1. Lietuvos bankas finansinę apskaitą tvarko ir metinių finansinių ataskaitų rinkinį (balansą, pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) rengia vadovaudamasis Europos centrinio banko rekomendacijomis, nustatytomis Europos centrinių bankų sistemoje dalyvaujantiems centriniams bankams. ^c89133f84ed2e568c3966963
+1. Lietuvos bankas finansinę apskaitą tvarko ir metinių finansinių ataskaitų rinkinį (balansą, pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) rengia vadovaudamasis Europos centrinio banko rekomendacijomis, nustatytomis Europos centrinių bankų sistemoje dalyvaujantiems centriniams bankams. ^69867a01d59001ae64d22474
 
 
-2. Metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada per keturis mėnesius nuo finansinių metų pabaigos Lietuvos bankas pateikia Seimui ir paskelbia jas viešai. ^9e7b6ef2b31110b0dcb047f4
+2. Metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada per keturis mėnesius nuo finansinių metų pabaigos Lietuvos bankas pateikia Seimui ir paskelbia jas viešai. ^58cfab56d6063fc6e8cca6d5
 
 
 Straipsnio pakeitimai:
@@ -2245,13 +2246,13 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 ### 521 straipsnis. Lietuvos banko Lietuvos Respublikos Seimui teikiama informacija makroprudencinės politikos klausimais
 
 
-1. Lietuvos bankas motyvuotu Seimo Biudžeto ir finansų komiteto prašymu teikia konfidencialią informaciją apie vykdant makroprudencinę politiką teikiamus įspėjimus ir (ar) rekomendacijas. Ši informacija teikiama tokia apimtimi ir būdu, kurie leistų užtikrinti konfidencialios informacijos apsaugą. ^8b045698012004cbe35729aa
+1. Lietuvos bankas motyvuotu Seimo Biudžeto ir finansų komiteto prašymu teikia konfidencialią informaciją apie vykdant makroprudencinę politiką teikiamus įspėjimus ir (ar) rekomendacijas. Ši informacija teikiama tokia apimtimi ir būdu, kurie leistų užtikrinti konfidencialios informacijos apsaugą. ^5cccb83423fb539094a79af3
 
 
-2. Lietuvos banko valdybos pirmininkas kartą per metus, finansinės krizės atveju – dar dažniau, kviečiamas į Seimo Biudžeto ir finansų komiteto klausymus dėl Lietuvos banko vykdomos makroprudencinės politikos. ^78ba41a33bb9ecc6c0f1099e
+2. Lietuvos banko valdybos pirmininkas kartą per metus, finansinės krizės atveju – dar dažniau, kviečiamas į Seimo Biudžeto ir finansų komiteto klausymus dėl Lietuvos banko vykdomos makroprudencinės politikos. ^701abd3a2715d40a891c3b32
 
 
-3. Lietuvos bankas prireikus teikia Seimo Biudžeto ir finansų komiteto pirmininkui pasiūlymus dėl makroprudencinę politiką reglamentuojančių įstatymų ir kitų teisės aktų tobulinimo, taip pat pastabas ir pasiūlymus dėl prevencinių priemonių finansų sistemos makrolygio rizikai sumažinti. ^b5fbda6a87c88c07229f48cd
+3. Lietuvos bankas prireikus teikia Seimo Biudžeto ir finansų komiteto pirmininkui pasiūlymus dėl makroprudencinę politiką reglamentuojančių įstatymų ir kitų teisės aktų tobulinimo, taip pat pastabas ir pasiūlymus dėl prevencinių priemonių finansų sistemos makrolygio rizikai sumažinti. ^87ba4a17b0f8d3ca1fc197ff
 
 
 Papildyta straipsniu:
@@ -2268,13 +2269,13 @@ BAIGIAMOSIOS NUOSTATOS
 įsipareigojimų
 
 
-1. Lietuvos bankas turi teisę be finansų įstaigos nurodymo nurašyti lėšas iš finansų įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse nustatytu laiku neįvykdo savo įsipareigojimų Lietuvos bankui. ^ae96890275b3ec953ce661bc
+1. Lietuvos bankas turi teisę be finansų įstaigos nurodymo nurašyti lėšas iš finansų įstaigos sąskaitų, jeigu ši įstaiga Lietuvos banko teisės aktuose ar sutartyse nustatytu laiku neįvykdo savo įsipareigojimų Lietuvos bankui. ^cba64d3a6f8b928734662d78
 
 
-2. Jeigu finansų įstaigai iškelta bankroto byla ar priimtas sprendimas, kuris susijęs su draudimu disponuoti lėšomis, Lietuvos bankas turi teisę be teismo ar kitos įgaliotos institucijos sprendimo panaudoti Lietuvos banke finansų įstaigos sąskaitose esančias lėšas įstaigos piniginiams įsipareigojimams Lietuvos bankui įvykdyti. ^094bc2ad60d1d2d755739dc8
+2. Jeigu finansų įstaigai iškelta bankroto byla ar priimtas sprendimas, kuris susijęs su draudimu disponuoti lėšomis, Lietuvos bankas turi teisę be teismo ar kitos įgaliotos institucijos sprendimo panaudoti Lietuvos banke finansų įstaigos sąskaitose esančias lėšas įstaigos piniginiams įsipareigojimams Lietuvos bankui įvykdyti. ^b4af4bfda4b68e68af972f02
 
 
-3. Jeigu skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas buvo užtikrintas finansiniu užstatu (įkaitu), Lietuvos bankas turi teisę perimti pateiktą finansinį užstatą (įkaitą) ir jį realizuoti teisės aktų nustatyta tvarka. Tokią teisę Lietuvos bankas gali įgyvendinti net ir tada, kai skolininkui iškelta bankroto byla ar draudžiama disponuoti pateiktu finansiniu užstatu (įkaitu). ^eded7e85a4756d9f4d679a70
+3. Jeigu skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas buvo užtikrintas finansiniu užstatu (įkaitu), Lietuvos bankas turi teisę perimti pateiktą finansinį užstatą (įkaitą) ir jį realizuoti teisės aktų nustatyta tvarka. Tokią teisę Lietuvos bankas gali įgyvendinti net ir tada, kai skolininkui iškelta bankroto byla ar draudžiama disponuoti pateiktu finansiniu užstatu (įkaitu). ^e3e39b0b0e790a1fbfadaec7
 
 
 Straipsnio pakeitimai:
@@ -2287,11 +2288,11 @@ Nr. X-569, 2006-04-25, Žin., 2006, Nr. 48-1699 (2006-04-29)
 ### 54 straipsnis. Informacijos gavimas ir teikimas
 
 
-1. Valstybės ir savivaldybių institucijos ir ūkio subjektai privalo teikti Lietuvos bankui informaciją, reikalingą jo funkcijoms atlikti. ^d9b70db9ad4bd85d02de63d1
+1. Valstybės ir savivaldybių institucijos ir ūkio subjektai privalo teikti Lietuvos bankui informaciją, reikalingą jo funkcijoms atlikti. ^8e9834831477bb07b784d40e
 
 
-2. Lietuvos bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją Europos centriniam bankui, – šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos [[#8 straipsnis. Lietuvos banko funkcijos ir veikla|8 straipsnyje]] nustatyta konfidencialumo tvarka. ^6b5f6c2a89366dc31db9b688
-3. Lietuvos Respublikos juridinių asmenų registre įregistruotų juridinių asmenų be valstybės garantijos gaunamos paskolos iš fizinių ar juridinių asmenų, kurių nuolatinė gyvenamoji vieta ar buveinė yra ne Lietuvos Respublikoje, ir jiems suteikiamos paskolos registruojamos Lietuvos banke Lietuvos banko nustatyta tvarka. ^974589fbb941f16e21c3fdf6
+2. Lietuvos bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją Europos centriniam bankui, – šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos [[#8 straipsnis. Lietuvos banko funkcijos ir veikla|8 straipsnyje]] nustatyta konfidencialumo tvarka. ^850abed15f7fb0b1d3d33d65
+3. Lietuvos Respublikos juridinių asmenų registre įregistruotų juridinių asmenų be valstybės garantijos gaunamos paskolos iš fizinių ar juridinių asmenų, kurių nuolatinė gyvenamoji vieta ar buveinė yra ne Lietuvos Respublikoje, ir jiems suteikiamos paskolos registruojamos Lietuvos banke Lietuvos banko nustatyta tvarka. ^5f7f80c0e80f9e0d478fa463
 
 
 Straipsnio pakeitimai:
@@ -2343,16 +2344,16 @@ Nr. IX-2139, 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 ### 58 straipsnis. Lietuvos banko 2000 metų pelno paskirstymas
 
 
-1. Lietuvos banko 2000 metų pelnas skirstomas šia eile: ^ef3ff5db5620e52b538d4d42
+1. Lietuvos banko 2000 metų pelnas skirstomas šia eile: ^fd817ad69bb2250ac23bf1b4
 
 
-1) 10 procentų – Lietuvos banko įstatiniam kapitalui sudaryti; ^46c2b0a42da7cf321517c51c
+1) 10 procentų – Lietuvos banko įstatiniam kapitalui sudaryti; ^6c16a21655e090a527bddb75
 
 
-2) 50 procentų – Lietuvos banko atsargos kapitalui sudaryti. ^d09debd41e3330432d441e8a
+2) 50 procentų – Lietuvos banko atsargos kapitalui sudaryti. ^8dd2c7c3f36868815a363f7c
 
 
-2. Likęs pelnas sumokamas į valstybės biudžetą iki 2001 metų gegužės 1 dienos. ^2099889c2f7e020bda74c924
+2. Likęs pelnas sumokamas į valstybės biudžetą iki 2001 metų gegužės 1 dienos. ^42f620201bd4e8b7d2ca64e4
 
 
 
@@ -2781,88 +2782,88 @@ Lietuvos banko įstatymo
 
 
 
-1. 1957 m. kovo 25 d. Europos Bendrijos steigimo sutartis su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi. ^b8e49a6c6d597bf9c6614146
+1. 1957 m. kovo 25 d. Europos Bendrijos steigimo sutartis su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi. ^65c1b02d55bd5adc21430516
 
 
-2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi. ^0cc6eeea94ad720ae3a86f5c
+2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi. ^5f6e0f0bef5a9ab0539f5d1d
 
 
-3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu. ^0d03a279dfda62748f1ab573
+3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu. ^95a2584694291f7d3d2e4540
 
 
-4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu. ^2de91844a6b2a105e16eae68
+4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu. ^184a0379555037e924a59144
 
 
-5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo, su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009. ^5b928307ede1fd8a2c0c6672
+5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo, su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009. ^d65834c05c30889ce86cec12
 
 
-6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos, su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 45/2009. ^f4d350473d7947fb7f455f3c
+6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos, su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 45/2009. ^36dd9f86c886f4192c0a2d1c
 
 
-7. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES. ^a5e8b7ccf93935731abbb5ba
+7. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES. ^87b0ce0388fb1a5389ad2a1a
 
 
-8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2869. ^795b877ab9f6a7cbe9d29b0a
+8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2869. ^88e2696419c085254d0fdfd2
 Punkto pakeitimai:
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-9. 2010 m. rugsėjo 16 d. Europos Centrinio Banko sprendimas ECB/2010/14 dėl eurų banknotų autentiškumo ir tinkamumo apyvartai tikrinimo bei pakartotinio išleidimo į apyvartą su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 5 d. Europos Centrinio Banko sprendimu (ES) 2019/2195. ^53bd2aeb81fda679b4cbe483
+9. 2010 m. rugsėjo 16 d. Europos Centrinio Banko sprendimas ECB/2010/14 dėl eurų banknotų autentiškumo ir tinkamumo apyvartai tikrinimo bei pakartotinio išleidimo į apyvartą su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 5 d. Europos Centrinio Banko sprendimu (ES) 2019/2195. ^b799c88bfb4adb086517acba
 
 
-10. 2010 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1210/2010 dėl euro monetų autentiškumo tikrinimo ir apyvartai netinkamų euro monetų tvarkymo. ^6bbe640b21d4424629fa0c6c
+10. 2010 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1210/2010 dėl euro monetų autentiškumo tikrinimo ir apyvartai netinkamų euro monetų tvarkymo. ^9209b357e71c421d598060cf
 
 
-11. 2011 m. gruodžio 22 d. Europos sisteminės rizikos valdybos rekomendacija ESRV/2011/3 dėl nacionalinių institucijų įgaliojimų makrolygio rizikos ribojimo srityje. ^8b19697e4448e30a9ed2420c
+11. 2011 m. gruodžio 22 d. Europos sisteminės rizikos valdybos rekomendacija ESRV/2011/3 dėl nacionalinių institucijų įgaliojimų makrolygio rizikos ribojimo srityje. ^c7dfc63b8541829084ea57b4
 
 
-12. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/1114. ^0cb40cae460331aae0894bb7
+12. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/1114. ^6145f8bf1111ba106ab69761
 Punkto pakeitimai:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 
 
 
-13. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879. ^8da09370896317306f411617
+13. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879. ^37719e82070e1313e5d19474
 
 
-14. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^68a98609a5075df5dce5a72b
+14. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^6ed1ec009a71ff668e522222
 Punkto pakeitimai:
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-15. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2809. ^7bc719b846e3c655c95dd350
+15. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2809. ^1912e336523a74542dcf00eb
 Punkto pakeitimai:
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2987. ^3871607fddff33f7bf289df3
+16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2987. ^800496cf7e8082fbafb53ace
 Punkto pakeitimai:
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-17. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su paskutiniais pakeitimais, padarytais 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3228. ^4fec948acac1770e5c1bd296
+17. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su paskutiniais pakeitimais, padarytais 2024 m. gruodžio 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3228. ^07435943c5e9e6ffad5f3632
 Punkto pakeitimai:
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-18. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2021 m. kovo 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/557. ^37d6ea5aa4acc5dd2b1c466b
+18. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2021 m. kovo 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/557. ^61efbb0b4ccb996111fd509e
 Papildyta punktu:
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 
 
 
-19. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES. ^3f032e8b9c7a67f3c9edd489
+19. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES. ^f0d5e8f05671b4ca9a270af0
 Punkto numeracijos pakeitimas:
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 
 
 
-20. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1238 dėl visos Europos asmeninės pensijos produkto (PEPP) su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^ac4e8deb333ee1f21da41322
+20. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1238 dėl visos Europos asmeninės pensijos produkto (PEPP) su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^4325cc36b978676edc9c2493
 Papildyta punktu:
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 Punkto pakeitimai:
@@ -2870,13 +2871,13 @@ Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-201. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^04b0a8886e421a7657eca046
+201. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^8ab8ca03bb43188644aefb41
 Papildyta punktu:
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-21. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, su paskutiniais pakeitimais, padarytais 2022 m. liepos 12 d. Komisijos deleguotuoju reglamentu (ES) 2022/1988. ^03634effe87d10b700202872
+21. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, su paskutiniais pakeitimais, padarytais 2022 m. liepos 12 d. Komisijos deleguotuoju reglamentu (ES) 2022/1988. ^cc020f555d9bf099ca801d27
 Papildyta punktu:
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Punkto pakeitimai:
@@ -2887,25 +2888,25 @@ Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 
 
 
-22. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132. ^e93b2490fdd74a3e4b103b15
+22. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132. ^d161eed1b64298d05913c8f1
 Papildyta punktu:
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
 
 
 
-23. 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167 dėl kredito administratorių ir kredito pirkėjų, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2014/17/ES. ^a46b6761a001f5577bbfd8c4
+23. 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167 dėl kredito administratorių ir kredito pirkėjų, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2014/17/ES. ^c72ff0c4bfe754041ef0656f
 Papildyta straipsnio dalimi:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 
 
 
-231. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^275bf8386370ef0c02787b87
+231. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^01cce104bc8729da0396577c
 Papildyta punktu:
 Nr. XV-293, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11961
 
 
 
-24. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, su pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^dcce019c269e7f418981a917
+24. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, su pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^b5061180ecee66e666295658
 Papildyta straipsnio dalimi:
 Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 Straipsnio dalies numeracijos pakeitimas:
@@ -2913,7 +2914,7 @@ Nr. XIV-2880, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13490
 
 
 
-25. 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2859, kuriuo sukuriamas Europos bendras prieigos punktas, užtikrinantis centralizuotą prieigą prie viešai skelbiamos informacijos, kuri yra aktuali finansinių paslaugų, kapitalo rinkų ir tvarumo srityse. ^8debcebced906c981ccdd2af
+25. 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2859, kuriuo sukuriamas Europos bendras prieigos punktas, užtikrinantis centralizuotą prieigą prie viešai skelbiamos informacijos, kuri yra aktuali finansinių paslaugų, kapitalo rinkų ir tvarumo srityse. ^f29d8ef1b6c9242cabec217f
 Papildyta punktu:
 Nr. XV-327, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11987
 Punkto pakeitimai:
@@ -2921,7 +2922,7 @@ Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
 
 
-26. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/3005 dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami reglamentai (ES) 2019/2088 ir (ES) 2023/2859. ^0fa4c8e853b9f8e4000cdf58
+26. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/3005 dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami reglamentai (ES) 2019/2088 ir (ES) 2023/2859. ^4b0cfa571581d1ba120a01cb
 Papildyta punktu:
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 
@@ -3004,13 +3005,13 @@ Nr. IX-2139, 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-569, 2006-04-25, Žin., 2006, Nr. 48-1699 (2006-04-29)
 LIETUVOS BANKO ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), [[#55 straipsnis. Informacijos skelbimas|55 STRAIPSNIŲ]], KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28, 29, 30, 32, [[#37 straipsnis. Neteko galios nuo 2015-01-01.|37 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus 6 ir [[#7 straipsnis. Lietuvos banko pagrindinis tikslas|7 straipsnius]], įsigalioja dieną, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir [[#^0cc6eeea94ad720ae3a86f5c|2 dalies]] pirmojoje pastraipoje nustatytą procedūrą (2015-01-01).
+Šis įstatymas, išskyrus 6 ir [[#7 straipsnis. Lietuvos banko pagrindinis tikslas|7 straipsnius]], įsigalioja dieną, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir [[#^5f6e0f0bef5a9ab0539f5d1d|2 dalies]] pirmojoje pastraipoje nustatytą procedūrą (2015-01-01).
 Šio įstatymo pakeitimai:
 12.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-556, 2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
 LIETUVOS BANKO ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), [[#55 straipsnis. Informacijos skelbimas|55 STRAIPSNIŲ]], KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28, 29, 30, 32, [[#37 straipsnis. Neteko galios nuo 2015-01-01.|37 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO [[#4 straipsnis. Lietuvos banko skyriai, atstovybės, įstaigos, įmonės|4 STRAIPSNIO]] PAKEITIMO IR [[#25 straipsnis. Sąskaitų atidarymas ir pinigų politikos priemonės|25 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-12.2. (pakeista įstatymo įsigaliojimo sąlyga) ^790101528c4baf3ea8e9b5ae
+12.2. (pakeista įstatymo įsigaliojimo sąlyga) ^1d6a9b94860cfec696a6f11a
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1320, 2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
 LIETUVOS BANKO ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), [[#55 straipsnis. Informacijos skelbimas|55 STRAIPSNIŲ]], KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28, 29, 30, 32, [[#37 straipsnis. Neteko galios nuo 2015-01-01.|37 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO 5, 21, 26, 27 IR [[#33 straipsnis. Užsienio atsargos|33 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
@@ -3056,7 +3057,7 @@ LIETUVOS BANKO ĮSTATYMO [[#17 straipsnis. Lietuvos banko valdybos pirmininkas|1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1319, 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
 LIETUVOS BANKO ĮSTATYMO 10, 11, 16, 17, 35, 49 IR [[#50 straipsnis. Lietuvos banko metinių finansinių ataskaitų rinkinių auditas|50 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
-Šio įstatymo 1 ir [[#3 straipsnis. Lietuvos banko nepriklausomumas|3 straipsniai]] taikomi po šio įstatymo įsigaliojimo paskirtiems Lietuvos banko valdybos pirmininko pavaduotojams ir valdybos nariams; šio įstatymo [[#3 straipsnis. Lietuvos banko nepriklausomumas|3 straipsnio]] ir [[#4 straipsnis. Lietuvos banko skyriai, atstovybės, įstaigos, įmonės|4 straipsnio]] 3 ir [[#^2de91844a6b2a105e16eae68|4 dalių]] nuostatos taikomos šio įstatymo įsigaliojimo dieną ir po to pradedančiam eiti pareigas Lietuvos banko valdybos pirmininkui.
+Šio įstatymo 1 ir [[#3 straipsnis. Lietuvos banko nepriklausomumas|3 straipsniai]] taikomi po šio įstatymo įsigaliojimo paskirtiems Lietuvos banko valdybos pirmininko pavaduotojams ir valdybos nariams; šio įstatymo [[#3 straipsnis. Lietuvos banko nepriklausomumas|3 straipsnio]] ir [[#4 straipsnis. Lietuvos banko skyriai, atstovybės, įstaigos, įmonės|4 straipsnio]] 3 ir [[#^184a0379555037e924a59144|4 dalių]] nuostatos taikomos šio įstatymo įsigaliojimo dieną ir po to pradedančiam eiti pareigas Lietuvos banko valdybos pirmininkui.
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3070,7 +3071,7 @@ Nr. XI-1800, 2011-12-15, Žin., 2011, Nr. 160-7567 (2011-12-28)
 LIETUVOS BANKO ĮSTATYMO [[#23 straipsnis. Lietuvos banko nuostolio padengimas ir pelno paskirstymas|23 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 Šio įstatymo [[#1 straipsnis. Lietuvos bankas|1 straipsniu]] pakeisto Lietuvos banko įstatymo [[#23 straipsnis. Lietuvos banko nuostolio padengimas ir pelno paskirstymas|23 straipsnio]] nuostatos taikomos skirstant (dengiant) 2012 metų ir vėlesnių finansinių metų Lietuvos banko paskirstytinąjį pelną (nuostolį).
 Patvirtinus Lietuvos banko 2011 metų finansinių ataskaitų rinkinį, dalis Lietuvos banko 2011 metų pelno įmokos, kuri bus skiriama įmokėti į valstybės biudžetą 2012 metais, Lietuvos banko valdybos sprendimu gali būti atidedama ir skiriama Lietuvos banko nebenaudojamo nekilnojamojo turto, Lietuvos banko valdybos sprendimu pripažinto nereikalingu ir Lietuvos Respublikos įstatymų nustatyta tvarka numatyto perduoti valstybės įmonei Valstybės turto fondui ir (arba) kitoms valstybės institucijoms, rinkos vertės kompensavimui užtikrinti. Ši atidėta pelno įmokos suma yra lygi perduotino Lietuvos banko turto rinkos vertei, kuri nustatoma turtą įvertinus vadovaujantis Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nuostatomis. Ši atidėta suma pripažįstama Lietuvos banko 2012 metų pajamomis tuo pačiu metu, kai turtas perduodamas valstybės įmonei Valstybės turto fondui ir (arba) kitoms valstybės institucijoms.
-[[#^0cc6eeea94ad720ae3a86f5c|Šio straipsnio 2 dalies]] nuostatos taikomos tik tuo atveju, jeigu skirstant Lietuvos banko 2011 metų pelną į valstybės biudžetą įmokamos Lietuvos banko pelno įmokos dydis bus pakankamas kompensuoti Lietuvos banko nebenaudojamo nekilnojamojo turto, Lietuvos banko valdybos sprendimu pripažinto nereikalingu ir Lietuvos Respublikos įstatymų nustatyta tvarka numatyto perduoti valstybės įmonei Valstybės turto fondui ir (arba) kitoms valstybės institucijoms, rinkos vertei.
+[[#^5f6e0f0bef5a9ab0539f5d1d|Šio straipsnio 2 dalies]] nuostatos taikomos tik tuo atveju, jeigu skirstant Lietuvos banko 2011 metų pelną į valstybės biudžetą įmokamos Lietuvos banko pelno įmokos dydis bus pakankamas kompensuoti Lietuvos banko nebenaudojamo nekilnojamojo turto, Lietuvos banko valdybos sprendimu pripažinto nereikalingu ir Lietuvos Respublikos įstatymų nustatyta tvarka numatyto perduoti valstybės įmonei Valstybės turto fondui ir (arba) kitoms valstybės institucijoms, rinkos vertei.
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 
 20.
@@ -3302,3 +3303,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, [[#46 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-845, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06954
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42, 43-3, 47-4 straipsnių ir 3 priedo pakeitimo įstatymas
+
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-909, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08240
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43-7 straipsnio pakeitimo įstatymas
