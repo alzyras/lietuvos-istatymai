@@ -4,32 +4,32 @@ pavadinimas: "Linking"
 ---
 # Linking
 
-- Total citations found: 653,952
-- Resolved links: 237,278
-- Unresolved citations: 416,674
-- Sections: 528,317
+- Total citations found: 667,879
+- Resolved links: 243,952
+- Unresolved citations: 423,927
+- Sections: 537,240
 - Chunks: 0
 
 ## Resolved by resolver
 
-- internal_section: 234050
-- tar_code: 2864
+- internal_section: 240470
+- tar_code: 3116
 - type_date_number: 213
-- title: 151
+- title: 153
 
 ## Top unresolved patterns
 
-- internal_section: 360676
-- title: 54523
-- type_date_number: 1408
-- tar_code: 67
+- internal_section: 367355
+- title: 55089
+- type_date_number: 1413
+- tar_code: 70
 
 ## Coverage pagal section tipą
 
-- dalis: 249833
-- punktas: 169604
-- straipsnis: 91987
-- papunktis: 9234
-- section: 4211
-- skyrius: 3231
+- dalis: 254374
+- punktas: 172599
+- straipsnis: 93256
+- papunktis: 9297
+- section: 4221
+- skyrius: 3276
 - document: 217

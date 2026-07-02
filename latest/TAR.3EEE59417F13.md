@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2004-01-01"
 latest_path: "latest/TAR.3EEE59417F13.md"
-latest_sha256: "418761b62ac1a0fb81b5ca1313ebf91e6d8b26afd7679f93b685f74824433097"
+latest_sha256: "bdbd289167e581f912f1d18a689e4575e25277b9c7227bb22b7b7b1514f41988"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-05-31
+Suvestinė redakcija nuo 2026-01-01 iki 2026-05-21
 
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
 

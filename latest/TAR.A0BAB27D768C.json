@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.A0BAB27D768C.md",
   "latest_revision": "1997-01-08",
-  "latest_sha256": "82f9db47ce8a62469affc390b41563434ef70697654ea3ad4fb7fd2330314e3c",
+  "latest_sha256": "f787bc69fc9cc50d26740bf4d2f2887ad3e0b2fb41e3b76a5fed8adb3884b9c4",
   "metadata_path": "latest/TAR.A0BAB27D768C.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2009-05-12"
 latest_path: "latest/TAR.C595FF45F869.md"
-latest_sha256: "1e6815be6d555bcca60d8ad41aba211e40c6cb0a48385530fbfa4147c441e6db"
+latest_sha256: "b28a5a7f97aba7b9b2510f18d41ca174e1073599a2774da1099dd2fe2068419c"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos mokslo ir studijų įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2029-01-01
+Suvestinė redakcija nuo 2027-07-01 iki 2027-12-31
 
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
 
@@ -481,7 +481,7 @@ Nr. XIV-2986, 2024-09-26, paskelbta TAR 2024-10-03, i. k. 2024-17426
 5. Universitetas negali vykdyti koleginių studijų ir teikti aukštojo koleginio išsilavinimo, išskyrus: ^b0620a91866132dd13846889
 
 
-1) šio įstatymo [[#^7bcb4b9f6c9835de44cdd5ff|53 straipsnio 18 dalyje]] nustatytus atvejus; ^25688552651c7577957ecc9c
+1) šio įstatymo [[#^0d65cd890a3033e134f12338|53 straipsnio 18 dalyje]] nustatytus atvejus; ^25688552651c7577957ecc9c
 
 
 2) jeigu Vyriausybės nustatyta tvarka ir sąlygomis, įvertinus atliktų išorinio studijų vertinimo ir išorinio mokslo ir studijų institucijų vertinimo rezultatus, mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos vertinimo rezultatus, specialistų poreikį, valstybės ūkinės, socialinės, kultūrinės plėtros poreikius ir ateities perspektyvas, universiteto statute yra numatytas koleginių studijų vykdymas pagal Vyriausybės nustatytos studijų krypties (krypčių, krypčių grupės) trumposios ir pirmosios pakopų koleginių studijų programas; ^73af79bfc73050db0b505115
@@ -512,7 +512,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 3. Daugiau kaip pusė kolegijos dėstytojų turi turėti ne mažesnę kaip 3 metų praktinio darbo patirtį, susijusią su dėstomuoju dalyku. Dėstytojų dėstomojo dalyko ir mokymo kompetencija turi būti tobulinama kolegijos nustatyta tvarka. ^6330c6103480f57ceb529aef
 
 
-4. Šią veiklą vykdančios aukštosios mokyklos pavadinime lietuvių kalba negali būti žodžio „universitetas“. Aukštosios mokyklos, vykdančios ne mažiau kaip dviejų studijų krypčių antrosios pakopos koleginių studijų programas, gali vartoti aukštosios mokyklos statute įtvirtintą pavadinimą anglų kalba su žodžiais „taikomųjų mokslų universitetas“. Kolegijos negali vykdyti universitetinių studijų, išskyrus šio įstatymo [[#^7bcb4b9f6c9835de44cdd5ff|53 straipsnio 18 dalyje]] nustatytus atvejus. ^e079d6a824511951b3ff762c
+4. Šią veiklą vykdančios aukštosios mokyklos pavadinime lietuvių kalba negali būti žodžio „universitetas“. Aukštosios mokyklos, vykdančios ne mažiau kaip dviejų studijų krypčių antrosios pakopos koleginių studijų programas, gali vartoti aukštosios mokyklos statute įtvirtintą pavadinimą anglų kalba su žodžiais „taikomųjų mokslų universitetas“. Kolegijos negali vykdyti universitetinių studijų, išskyrus šio įstatymo [[#^0d65cd890a3033e134f12338|53 straipsnio 18 dalyje]] nustatytus atvejus. ^e079d6a824511951b3ff762c
 
 
 Straipsnio pakeitimai:
@@ -601,7 +601,7 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 3. Mokslinių tyrimų instituto ir jo darbuotojų teisėms į intelektinės veiklos rezultatus mutatis mutandis taikomos šio įstatymo [[#89 straipsnis. Teisės, atsirandančios iš intelektinės veiklos rezultatų|89 straipsnio]] nuostatos. ^03a8a9f65bd20a56bd91af2c
 
 
-4. Valstybiniams mokslinių tyrimų institutams, kurių teisinė forma yra viešosios įstaigos, valstybės turtas perduodamas, valdomas, naudojamas ir juo disponuojama mutatis mutandis taikant šio įstatymo [[#87 straipsnis. Valstybės turto perdavimas pagal patikėjimo sutartis valstybinėms aukštosioms mokykloms|87 straipsnio]] nuostatas, išskyrus [[#^4b318afec62c73e56c453c10|87 straipsnio 2 dalyje]] nustatytą valstybės turto patikėjimo sutarties maksimalų terminą: su valstybiniais mokslinių tyrimų institutais valstybės turto patikėjimo sutartis sudaroma ne ilgesniam kaip 20 metų terminui. ^14525b407850699859b6076a
+4. Valstybiniams mokslinių tyrimų institutams, kurių teisinė forma yra viešosios įstaigos, valstybės turtas perduodamas, valdomas, naudojamas ir juo disponuojama mutatis mutandis taikant šio įstatymo [[#87 straipsnis. Valstybės turto perdavimas pagal patikėjimo sutartis valstybinėms aukštosioms mokykloms|87 straipsnio]] nuostatas, išskyrus [[#^0c4fd19ede0c2962eae942d1|87 straipsnio 2 dalyje]] nustatytą valstybės turto patikėjimo sutarties maksimalų terminą: su valstybiniais mokslinių tyrimų institutais valstybės turto patikėjimo sutartis sudaroma ne ilgesniam kaip 20 metų terminui. ^14525b407850699859b6076a
 
 
 
@@ -1851,132 +1851,163 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 1) pakopinės studijos – kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį, kvalifikaciniam laipsniui arba mokslo, meno daktaro laipsniui įgyti; ^b5ece844d5eb0fb024d1a076
+Straipsnio punkto pakeitimai:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-2) profesinės studijos – kvalifikacijai įgyti ir pasirengti savarankiškai praktinei veiklai. ^e2d288e5f813450875f309f1
+
+2) profesinės studijos – kvalifikacijai įgyti ir pasirengti savarankiškai praktinei veiklai. ^28303e426f83ba66c6fb1b70
 
 
-2. Pakopinės studijos gali būti šių pakopų: trumpoji – kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį įgyti, pirmoji ir antroji – kvalifikaciniam (profesinio bakalauro, bakalauro, profesinio magistro, magistro) laipsniui įgyti, trečioji – mokslo, meno daktaro laipsniui įgyti. ^997f239bee51b0622ba7bb72
+2. Pakopinės studijos gali būti šių pakopų: trumpoji – kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį įgyti, pirmoji ir antroji – kvalifikaciniam (profesinio bakalauro, bakalauro, magistro) laipsniui įgyti, trečioji – mokslo, meno daktaro laipsniui įgyti. ^16bcd7d59852cb344a197073
+Straipsnio dalies pakeitimai:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-3. Trumposios pakopos studijos grindžiamos profesine praktika. Asmenims, baigusiems trumposios pakopos studijas, suteikiama kvalifikacija, suteikianti teisę užsiimti profesine veikla ir (arba) tęsti studijas pagal pirmosios pakopos ir vientisųjų studijų programas. ^f0272bc3091eaf456c71255a
+
+4. Asmenims, baigusiems pirmosios pakopos kolegines studijas, suteikiamas profesinio bakalauro, baigusiems universitetines studijas – bakalauro kvalifikaciniai laipsniai, suteikiantys teisę užsiimti profesine veikla ir (arba) tęsti studijas magistrantūroje. ^c1f1b1f08b7fafa4cfecdae6
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-4. Pirmosios pakopos koleginės studijos grindžiamos profesine praktika ir ne žemesnio kaip patenkinamo lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) taikomaisiais moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka. Pirmosios pakopos universitetinės studijos grindžiamos ne žemesnio kaip patenkinamo lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka. Asmenims, baigusiems pirmosios pakopos kolegines studijas, suteikiamas profesinio bakalauro kvalifikacinis laipsnis, baigusiems universitetines studijas, – bakalauro kvalifikacinis laipsnis, suteikiantys teisę užsiimti profesine veikla ir (arba) tęsti studijas aukštosios mokyklos nustatyta tvarka antrojoje studijų pakopoje. ^50feb961d8b82815053f008e
+
+5. Asmenims, baigusiems antrosios pakopos studijas, suteikiamas magistro kvalifikacinis laipsnis, suteikiantis teisę užsiimti profesine veikla ir (arba) tęsti studijas doktorantūroje; studijas magistro kvalifikaciniam laipsniui įgyti gali vykdyti universitetai. ^e81f372540c921fd0903cbe0
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-5. Antrosios pakopos koleginės studijos grindžiamos profesine praktika ir ne žemesnio kaip gero lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) taikomaisiais moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka. Antrosios pakopos universitetinės studijos grindžiamos ne žemesnio kaip gero lygio tam tikros (tam tikrų) mokslo (meno) krypties (krypčių) moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla  švietimo, mokslo ir sporto ministro nustatyta tvarka, išskyrus [[#^896fbf83ed0a8dbc4df3b76c|šio straipsnio 9 dalyje]] nurodytą atvejį. Asmenims, baigusiems antrosios pakopos kolegines studijas, suteikiamas profesinio magistro, baigusiems universitetines studijas, – magistro kvalifikaciniai laipsniai, suteikiantys teisę užsiimti profesine veikla ir (arba) universiteto nustatyta tvarka tęsti studijas doktorantūroje. ^459823fa100acff9704eb883
+
+6. Pagal Lietuvos Respublikos ir Šventojo Sosto sutartį dėl bendradarbiavimo švietimo ir kultūros srityje gali būti suteikiamas teologijos licenciato kvalifikacinis laipsnis; studijas teologijos licenciato kvalifikaciniam laipsniui įgyti gali vykdyti universitetai. ^26589e4d3aa0ef68a2af7546
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-6. Pagal Lietuvos Respublikos ir Šventojo Sosto sutartį dėl bendradarbiavimo švietimo ir kultūros srityje gali būti suteikiamas teologijos licenciato kvalifikacinis laipsnis. Studijas teologijos licenciato kvalifikaciniam laipsniui įgyti gali vykdyti universitetai. ^2b4ce3094dad795e89ea481c
+
+7. Teisės aktų nustatytais atvejais studijos magistro kvalifikaciniam laipsniui įgyti gali būti vientisosios – apimti pirmosios ir antrosios pakopos studijas. ^4e6b8df86afba0447f8794b4
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-7. Teisės aktų nustatytais atvejais studijos magistro kvalifikaciniam laipsniui įgyti gali būti vientisosios – apimti universitetines pirmosios ir antrosios pakopų studijas. ^32aa1fc8571093fe624b30e2
+
+8. Asmenims, baigusiems trečiosios pakopos studijas (doktorantūrą) ir apgynusiems disertaciją, meno projektą, suteikiami mokslo daktaro, meno daktaro laipsniai. Doktorantūrą gali vykdyti doktorantūros teisę turinčios mokslo ir studijų institucijos, taip pat kitos mokslo ir studijų institucijos ir įmonės šio įstatymo [[#^3882d4b980af235b89790ec7|77 straipsnio 10 dalyje]] nurodytais atvejais. Doktorantūros teisę, tai yra teisę vykdyti doktorantūrą, organizuoti disertacijų (meno projektų) gynimą, teikti mokslo (meno) daktaro laipsnius, išduoti mokslo (meno) daktaro diplomus, suteikia švietimo ir mokslo ministras. ^1c04c2dc6e5d4bc2e556a3b2
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-8. Trečiosios pakopos studijos grindžiamos ne žemesnio kaip labai gero lygio tam tikros mokslo (meno) krypties moksliniais tyrimais ir eksperimentine plėtra ir (arba) meno veikla švietimo, mokslo ir sporto ministro nustatyta tvarka, išskyrus [[#^896fbf83ed0a8dbc4df3b76c|šio straipsnio 9 dalyje]] nurodytą atvejį. Asmenims, baigusiems trečiosios pakopos studijas (doktorantūrą) ir apgynusiems disertaciją, meno projektą, suteikiami mokslo daktaro, meno daktaro laipsniai. Doktorantūrą gali vykdyti doktorantūros teisę turinčios mokslo ir studijų institucijos, taip pat doktorantūros teisę turinčios mokslo ir studijų institucijos kartu su doktorantūros teisės neturinčiomis mokslo ir studijų institucijomis ar įmonėmis, įstaigomis, organizacijomis šio įstatymo [[#^ff496dae9f012e8c1f867f43|77 straipsnio 10 dalyje]] nurodytais atvejais. Doktorantūros teisę, tai yra teisę vykdyti doktorantūrą, organizuoti disertacijų (meno projektų) gynimą, teikti mokslo (meno) daktaro laipsnius, išduoti mokslo (meno) daktaro diplomus, suteikia švietimo, mokslo ir sporto ministras. ^66de1f12191dcec6a4a76194
+
+9. Aukštojo mokslo kvalifikacijų atitiktį Lietuvos kvalifikacijų sandaros lygiams nustato Vyriausybė. ^5bf3a8ee3818736cb896e1c3
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-9. Universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra nustatomas atliekant šio įstatymo [[#^05a1d187185508461479f1ac|751 straipsnio 2 dalyje]] nurodytą kas penkerius metus atliekamą ekspertinį mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Kolegijų taikomųjų mokslinių tyrimų ir eksperimentinės plėtros lygis yra nustatomas atliekant kas 5 metus vykdomą ekspertinį taikomųjų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą, remiantis taikomųjų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos kokybės, ekonominio ir socialinio poveikio, veiklos perspektyvumo kriterijais, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis apskaičiuojamas nustačius mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos kokybės vertinimo balų reikšmes pagal atitinkamas mokslo (meno) kryptis ir vertinamas pagal penkių balų skalę, kur 5 balai reiškia, kad vykdomi puikaus lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 4 balai reiškia, kad vykdomi labai gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 3 balai reiškia, kad vykdomi gero lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 2 balai reiškia, kad vykdomų mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos lygis yra patenkinamas, 1 balas reiškia, kad vykdomi žemo lygio moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla, 0 balų reiškia, kad nevykdomi moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla. Jeigu nėra nė vienos aukštosios mokyklos, kurioje įvertintos mokslo (meno) krypties moksliniai tyrimai ir eksperimentinė plėtra ir (arba) meno veikla atitiktų šio straipsnio 5 ir [[#^66de1f12191dcec6a4a76194|8 dalyse]] nustatytus reikalavimus, švietimo, mokslo ir sporto ministras Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali nustatyti vienoje ar keliose mokslo ir studijų institucijose tos mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos stiprinimo priemones. Šios priemonės įgyvendinamos vadovaujantis šio įstatymo [[#831 straipsnis. Specialiosios sutartys su mokslo ir studijų institucijomis|831 straipsnio]] nuostatomis. Tai pačiai aukštajai mokyklai antrą kartą tos pačios mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos stiprinimo priemonės  gali būti taikomos ne anksčiau kaip po 5 metų. Sudariusios specialiąsias sutartis, aukštosios mokyklos gali vykdyti studentų priėmimą į aukštąsias mokyklas studijuoti pagal tų mokslo (meno) krypčių, dėl kurių mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos stiprinimo susitarta, studijų programas. Pasibaigus sutarties galiojimo laikotarpiui, atliekamas pakartotinis tos mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimas. Jeigu atlikus pakartotinį mokslo (meno) krypties mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veiklos vertinimą paaiškėja, kad aukštosios mokyklos mokslinių tyrimų ir eksperimentinės plėtros ir (arba) meno veikla neatitinka šio straipsnio 5 ir [[#^66de1f12191dcec6a4a76194|8 dalyse]] nustatytų reikalavimų, aukštoji mokykla nebegali vykdyti studentų priėmimo į aukštąją mokyklą studijuoti pagal tos krypties ir pakopos studijų programą. ^896fbf83ed0a8dbc4df3b76c
+
+10. Kartu su kvalifikaciniu laipsniu gali būti suteikiama kvalifikacija. Kvalifikaciją suteikia aukštoji mokykla, turinti kompetentingos institucijos pritarimą tai kvalifikacijai teikti. ^d682cff1b537d87fa07ddbbc
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-10. Kartu su kvalifikaciniu laipsniu gali būti suteikiama kvalifikacija. Kvalifikaciją suteikia aukštoji mokykla, turinti kompetentingos institucijos pritarimą tai kvalifikacijai teikti. Aukštojo mokslo kvalifikacijų atitiktį Lietuvos kvalifikacijų sandaros lygiams nustato Vyriausybė. ^b209bc99b725fd577504399d
+
+12. Profesinės studijos yra medicinos, odontologijos, veterinarinės medicinos studijų krypčių rezidentūra, taip pat kitų Vyriausybės nustatytų krypčių studijos. ^67e291e79a003363bd3cac7d
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-11. Suteikiamų kvalifikacijų ir studijų krypčių, kuriose gali būti vykdomos trumposios pakopos studijos, sąrašą tvirtina švietimo, mokslo ir sporto ministras, įvertinęs Lietuvos kolegijų direktorių konferencijos ir sektorinių profesinių komitetų, kaip jie suprantami Lietuvos Respublikos profesinio mokymo įstatyme, siūlymus. ^ab9f3a9263bbd3348d030368
+
+13. Išsilavinimo ir kvalifikacijų, susijusių su aukštuoju mokslu ir įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, akademinį pripažinimą Vyriausybės nustatyta tvarka atlieka Studijų kokybės vertinimo centras, Lietuvos mokslo taryba ir švietimo ir mokslo ministro įgaliotosios aukštosios mokyklos. Akademiniu pripažinimu laikomas kompetentingos institucijos sprendimas, kuriuo įvardijama kvalifikacijos (išsilavinimo) vertinimo metu nustatyta tos kvalifikacijos (išsilavinimo) vertė ketinant studijuoti ir (ar) dirbti Lietuvos Respublikoje. Tarptautinių sutarčių nustatytais atvejais galimas automatinis akademinis pripažinimas. ^948f1c7cdaefbaa9e886066a
+Straipsnio dalies pakeitimai:
+Nr. XIII-1171, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08265
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
-12. Profesinės studijos yra medicinos, odontologijos, veterinarinės medicinos studijų krypčių rezidentūra, taip pat kitų Vyriausybės nustatytų krypčių studijos. ^f7698bca3f30eb7b9612bf05
 
-
-13. Išsilavinimo ir kvalifikacijų, susijusių su aukštuoju mokslu ir įgytų pagal užsienio valstybių ir tarptautinių organizacijų švietimo programas, akademinį pripažinimą Vyriausybės nustatyta tvarka atlieka Studijų kokybės vertinimo centras, Lietuvos mokslo taryba ir švietimo, mokslo ir sporto ministro įgaliotosios aukštosios mokyklos. Akademiniu pripažinimu laikomas kompetentingos institucijos sprendimas, kuriuo įvardijama kvalifikacijos (išsilavinimo) vertinimo metu nustatyta tos kvalifikacijos (išsilavinimo) vertė ketinant studijuoti ir (ar) dirbti Lietuvos Respublikoje. Tarptautinėse sutartyse nustatytais atvejais galimas automatinis akademinis pripažinimas. ^9a71f552758101f5bd917437
-
-
-14. Įgytos aukštojo mokslo kvalifikacijos priskyrimą atitinkamai studijų krypčiai, kai studijų kryptis išsilavinimo dokumentuose nenurodyta, atlieka kvalifikaciją suteikusi aukštoji mokykla, jeigu tokios mokyklos nėra arba išsilavinimas įgytas užsienyje, – konsultacijas dėl priskyrimo atitinkamai studijų krypčiai teikia Studijų kokybės vertinimo centras. ^622b2c1a4977f13643de9bd5
-
-
-Straipsnio pakeitimai:
-Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+14. Įgytos aukštojo mokslo kvalifikacijos priskyrimą atitinkamai studijų krypčiai, kai studijų kryptis išsilavinimo dokumentuose nenurodyta, atlieka kvalifikaciją suteikusi aukštoji mokykla, jeigu tokios mokyklos nėra arba išsilavinimas įgytas užsienyje, – konsultacijas dėl priskyrimo atitinkamai studijų krypčiai teikia Studijų kokybės vertinimo centras. ^9cc5efd9623ecdb0461076cc
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
 ### 53 straipsnis. Trumposios, pirmosios ir antrosios pakopų, vientisųjų ir profesinių studijų vykdymo reikalavimai
 
 
-1. Studijų metų pradžią ir pabaigą nustato aukštoji mokykla. Per studijų metus studentams turi būti suteikiamos ne trumpesnės kaip vieno mėnesio nepertraukiamos atostogos. ^288fceee66a7f95f3d428ee5
+1. Studijų metų pradžią ir pabaigą nustato aukštoji mokykla. Per studijų metus studentams turi būti suteikiamos ne trumpesnės kaip vieno mėnesio nepertraukiamos atostogos. ^a93a0e1857013ebd0f368068
 
 
-2. Bendruosius studijų vykdymo reikalavimus tvirtina švietimo, mokslo ir sporto ministras. ^5470525b328e5bd769d6b19a
+2. Bendruosius studijų vykdymo reikalavimus tvirtina švietimo ir mokslo ministras. ^16fd365bececde022fc666fd
 
 
-3. Studijos yra nuolatinės formos ir ištęstinės formos. Baigus skirtingų formų studijas įgytas išsilavinimas yra lygiavertis. ^2d36d3c33cef0a82bdf9c65f
+3. Studijos yra nuolatinės formos ir ištęstinės formos. Baigus skirtingų formų studijas įgytas išsilavinimas yra lygiavertis. ^a446c9b77a45c59ba796aa10
 
 
-4. Įprastinė nuolatinės formos studijų vienų metų apimtis yra 60 studijų kreditų, bet ne mažiau kaip 45 studijų kreditai. Ištęstinės formos studijų vienų metų apimtis gali būti mažesnė kaip 45 studijų kreditai, bet bendra jų trukmė neturi būti daugiau kaip pusantro karto ilgesnė negu nuolatinės formos studijų trukmė, nuolatinėms studijoms taikant 60 studijų kreditų normą. ^6f75fbd1e3d97f8621be11ef
+4. Nuolatinės formos studijų vienų metų įprastinė apimtis yra 60 kreditų, bet ne mažiau kaip 45 kreditai. Ištęstinės formos studijų vienų metų apimtis gali būti mažesnė kaip 45 studijų kreditai, bet bendra jų trukmė neturi būti daugiau kaip pusantro karto ilgesnė negu nuolatinės formos studijų trukmė, nuolatinėms studijoms taikant 60 studijų kreditų normą. ^b3dad48d16ea56cf1ef2209a
 
 
-5. Trumposios pakopos studijų programų apimtis gali būti 90 arba 120 studijų kreditų. ^96a9480266af128548b8ebdb
+5. Trumpųjų studijų programų apimtis gali būti 90 arba 120 (studijų krypties (krypčių) apraše nustatytais atvejais) studijų kreditų. ^fbee1639035716aafb0b510e
 
 
-6. Pirmosios pakopos studijų programų apimtis gali būti 180, 210 arba 240 studijų kreditų. ^c39037e71f7a389cc34c69b5
+6. Pirmosios pakopos studijų programų apimtis gali būti 180, 210 arba 240 (studijų krypties (krypčių) apraše nustatytais atvejais) studijų kreditų. ^60ab985c18d5d75514e2fe62
 
 
-7. Vientisųjų studijų programos apimtis gali būti 300 arba 360 studijų kreditų. ^56fc0e7649bdc13f45269a3f
+7. Vientisųjų studijų programos apimtis gali būti 300 arba 360 (studijų krypties (krypčių) apraše nustatytais atvejais) studijų kreditų. ^0847b79c9b18a1c8ce1e9059
 
 
-8. Antrosios pakopos universitetinių studijų programos apimtis gali būti 60, 90 arba 120 studijų kreditų, koleginių studijų – 120 studijų kreditų. ^8da4f4cbeca7a8e2b200a5d4
+8. Magistrantūros studijų programos apimtis gali būti 60, 90 arba 120 studijų kreditų. ^383bace735a341df3f8efbef
 
 
-9. Profesinių studijų (išskyrus rezidentūrą) apimtis yra nuo 60 iki 120 studijų kreditų. Rezidentūros apimtį (trukmę) nustato Vyriausybė arba jos įgaliota institucija. ^26f6ffb3f3ff59cc9060f507
+9. Profesinių studijų (išskyrus rezidentūrą) apimtis yra nuo 60 iki 120 studijų kreditų. Rezidentūros apimtį (trukmę) nustato Vyriausybė arba jos įgaliota institucija. ^f3b0a093bb47556274a95f03
+Straipsnio dalies pakeitimai:
+Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
-10. Studijos vykdomos pagal studijų programas. Studijų programos yra universitetinės ir koleginės. ^2999a57342f62c76d4b7391d
+
+10. Studijos vykdomos pagal studijų programas. Studijų programos yra universitetinės ir koleginės. ^1f31c1746688e22eb54dcc15
 
 
-11. Trumposios, pirmosios, antrosios pakopų, vientisųjų ir profesinių studijų programų studijų rezultatai turi derėti su tam tikros studijų krypties (krypčių, krypčių grupės) apraše nustatytais studijų rezultatais. Studijų pakopų ir studijų krypčių (krypčių, krypčių grupės) aprašus rengia Studijų kokybės vertinimo centras, juos tvirtina švietimo, mokslo ir sporto ministras. ^8029c41142a5fbc25c9efbbe
+11. Numatyti pirmosios, antrosios, vientisųjų ir profesinių studijų pagal atitinkamą studijų programą rezultatai turi atitikti studijų krypties (krypčių) aprašuose atitinkamai pakopai nustatytus studijų rezultatus. Studijų pakopų ir studijų krypčių aprašus tvirtina švietimo ir mokslo ministras. ^3856791f4972dcc364f616c9
 
 
-12. Trumposios pakopos studijų programos turi atitikti profesinius standartus ir tam tikros studijų krypties aprašą, jos turi būti suderintos su profesiniais standartais ir studijų krypčių aprašais ne vėliau kaip per 12 mėnesių nuo profesinio standarto ir tam tikros studijų krypties aprašo patvirtinimo ar pakeitimo dienos. ^232542a7469fb96d53002cc8
+12. Trumpųjų studijų programos turi atitikti profesinius standartus ir atitinkamos studijų krypties aprašą, jos turi būti suderintos su profesiniais standartais ir studijų krypčių aprašais ne vėliau kaip per 12 mėnesių nuo profesinio standarto ir atitinkamos studijų krypties aprašo patvirtinimo ar pakeitimo dienos. ^b18f96f56d2b57615f821d31
 
 
-13. Studijų programos gali būti tarpkryptinės – skirtos susietiems dviejų ir daugiau krypčių studijų rezultatams pasiekti. ^e1a8a874853e2b751ffc27c5
+13. Studijų programos gali būti tarpkryptinės – skirtos susietiems dviejų ir daugiau krypčių studijų rezultatams pasiekti. ^4e60a1ad2958093d13705262
 
 
-14. Studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, jo keitimo tvarką, kvalifikacinių laipsnių sąrangą ir studijų programų pavadinimų sudarymo principus nustato švietimo, mokslo ir sporto ministras. Pirmosios ir antrosios pakopų studijų programos gali būti dviejų studijų krypčių. Šiuo atveju studijų programa turi atitikti abiejų krypčių aprašuose nustatytus reikalavimus. Kai aukštoji mokykla kartu su užsienio valstybės aukštąja mokykla vykdo jungtinę studijų programą, gali būti suteikiamas ir kitas, negu įrašytas į studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, kvalifikacinis laipsnis. Teisę teikti tokį kvalifikacinį laipsnį aukštajai mokyklai suteikia švietimo, mokslo ir sporto ministras. ^7599458d1939d7bc1361aa79
+14. Studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, jo keitimo tvarką, kvalifikacinių laipsnių sąrangos ir studijų programų pavadinimų sudarymo principus tvirtina švietimo ir mokslo ministras. Pirmosios pakopos studijų programos gali būti skirtos dviejų krypčių kvalifikaciniams laipsniams įgyti. Šiuo atveju studijų programa turi atitikti abiejų krypčių aprašuose nustatytus reikalavimus. Kai aukštoji mokykla kartu su užsienio valstybės aukštąja mokykla vykdo jungtinę studijų programą, gali būti suteikiamas ir kitas, negu įrašytas į sąrašą, kvalifikacinis laipsnis. Teisę teikti tokį kvalifikacinį laipsnį aukštajai mokyklai suteikia švietimo ir mokslo ministras. ^854e005cf42405bc96bb5d14
 
 
-15. Profesinių studijų (išskyrus rezidentūrą) vykdymo reikalavimus nustato Vyriausybė arba jos įgaliota institucija. Rezidentūros studijų programų vykdymo reikalavimus ir priežiūros tvarką nustato Vyriausybė. ^d2fcf5e1c373f41b052a07c8
+15. Profesinių studijų (išskyrus rezidentūrą) vykdymo reikalavimus nustato Vyriausybė arba jos įgaliota institucija. Rezidentūros studijų programų vykdymo reikalavimus ir priežiūros tvarką nustato Vyriausybė. ^da185fffe99cf0b26c81612e
 
 
-16. Pagal studijų programą numatytai studentų praktikai atlikti įmonė, įstaiga ar organizacija, kurioje studentas atlieka praktiką, studentas ir aukštoji mokykla, kurioje jis studijuoja, sudaro praktinio mokymo sutartį. Pavyzdinę sutarties formą tvirtina švietimo, mokslo ir sporto ministras. Už studentų praktikos organizavimą atsakinga aukštoji mokykla. ^9ecb3e22f1c478285ec10163
+16. Pagal studijų programą numatytai studentų praktikai atlikti įmonė, įstaiga ar organizacija, kurioje studentas atlieka praktiką, ir studentas bei aukštoji mokykla, kurioje jis studijuoja, sudaro praktinio mokymo sutartį. Pavyzdinę sutarties formą tvirtina švietimo ir mokslo ministras. Už studentų praktikos organizavimą atsakinga aukštoji mokykla. ^03a95cb7631e03742c4373f6
 
 
-17. Pagal trumposios pakopos, koleginių pirmosios ir antrosios pakopų studijų programas numatytam studentų praktiniam rengimui skiriama atitinkamai ne mažiau kaip trečdalis studijų programos apimties. ^6db3c16e6d5fc8721bb55faa
+17. Pagal trumpųjų studijų programą numatytai studentų praktikai realioje darbo vietoje, kaip ji suprantama Lietuvos Respublikos profesinio mokymo įstatyme, skiriama atitinkamai 30 arba 40 kreditų. ^1d56a0635aa6b269fabe687c
 
 
-18. Universitetai ir kolegijos gali vykdyti jungtines atitinkamai universitetinių ar koleginių studijų programas kartu su Lietuvos ar užsienio valstybių aukštosiomis mokyklomis. Baigus šias programas suteikiamas (suteikiami) kvalifikacinis (kvalifikaciniai) arba jungtinis kvalifikacinis laipsnis (laipsniai). Rengiant krašto apsaugos sistemai reikalingus specialistus, jungtines studijų programas gali rengti universitetai kartu su kolegijomis, suderinę su Krašto apsaugos ministerija ir Švietimo, mokslo ir sporto ministerija. ^7bcb4b9f6c9835de44cdd5ff
+18. Universitetai ir kolegijos gali vykdyti jungtines atitinkamai universitetinių ar koleginių studijų programas kartu su Lietuvos ar užsienio valstybių aukštosiomis mokyklomis. Baigus šias programas suteikiamas kvalifikacinis (kvalifikaciniai) arba jungtinis kvalifikacinis laipsnis (laipsniai). Rengiant krašto apsaugos sistemai reikalingus specialistus, jungtines studijų programas gali rengti universitetai kartu su kolegijomis, suderinę su Krašto apsaugos ministerija ir Švietimo ir mokslo ministerija. ^0d65cd890a3033e134f12338
 
 
-19. Trumposios pakopos studijų programas gali vykdyti kolegijos, vykdančios tam tikros studijų krypties koleginių studijų programas. ^732b276ee2f8cbde8ab79912
+19. Trumposios pakopos studijų programas gali vykdyti kolegijos, vykdančios atitinkamos studijų krypties koleginių studijų programas. ^be4ddc1e63324200a1583052
+Straipsnio dalies pakeitimai:
+Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
+
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
-Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
-Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
 
 
 
 ### 54 straipsnis. Mokslo (meno) doktorantūros vykdymo reikalavimai
 
 
-1. Mokslo doktorantūros paskirtis – rengti mokslininkus, kurie gebėtų savarankiškai atlikti mokslinių tyrimų ir eksperimentinės plėtros darbus ir spręsti mokslo problemas. Mokslo doktorantūros teisė mokslo kryptyse suteikiama universitetams ir universitetams kartu su mokslinių tyrimų institutais, kuriuose atliekami mokslo kryptį atitinkantys aukšto lygio moksliniai tyrimai. Mokslo doktorantūros teisė suteikiama remiantis mokslo doktorantūrą vykdyti pretenduojančių institucijų atitinkamo mokslo krypties mokslinių tyrimų lygio įvertinimu, kuris atliekamas Mokslo doktorantūros nuostatuose nustatyta tvarka. Mokslo doktorantūros nuostatus tvirtina švietimo ir mokslo ministras, įvertinęs Lietuvos mokslo tarybos siūlymus. ^be7204d16d6a8c68b8568e59
+1. Mokslo doktorantūros paskirtis – rengti mokslininkus, kurie gebėtų savarankiškai atlikti mokslinių tyrimų ir eksperimentinės plėtros darbus ir spręsti mokslo problemas. Mokslo doktorantūros teisė mokslo kryptyse suteikiama universitetams ir universitetams kartu su mokslinių tyrimų institutais, kuriuose atliekami mokslo kryptį atitinkantys aukšto lygio moksliniai tyrimai. Mokslo doktorantūros teisė suteikiama remiantis mokslo doktorantūrą vykdyti pretenduojančių institucijų atitinkamo mokslo krypties mokslinių tyrimų lygio įvertinimu, kuris atliekamas Mokslo doktorantūros nuostatuose nustatyta tvarka. Mokslo doktorantūros nuostatus tvirtina švietimo ir mokslo ministras, įvertinęs Lietuvos mokslo tarybos siūlymus. ^d6697828fa47a72f18be8f5a
 
 
-2. Meno doktorantūros paskirtis – rengti tyrėjus menininkus, kurie gebėtų kurti, interpretuoti ir plėtoti meno praktika pagrįstus tyrimus. Meno doktorantūros teisė meno srities kryptyje suteikiama remiantis meno doktorantūrą vykdyti pretenduojančių universitetų atitinkamos meno krypties, įskaitant meninius tyrimus, ir menotyros mokslo krypties lygių įvertinimu, kuris atliekamas Meno doktorantūros nuostatuose nustatyta tvarka. Meno doktorantūros nuostatus tvirtina švietimo ir mokslo ministras, įvertinęs Lietuvos mokslo tarybos siūlymus. ^4ef1e7c250d8743b63e5bb5c
+2. Meno doktorantūros paskirtis – rengti tyrėjus menininkus, kurie gebėtų kurti, interpretuoti ir plėtoti meno praktika pagrįstus tyrimus. Meno doktorantūros teisė meno srities kryptyje suteikiama remiantis meno doktorantūrą vykdyti pretenduojančių universitetų atitinkamos meno krypties, įskaitant meninius tyrimus, ir menotyros mokslo krypties lygių įvertinimu, kuris atliekamas Meno doktorantūros nuostatuose nustatyta tvarka. Meno doktorantūros nuostatus tvirtina švietimo ir mokslo ministras, įvertinęs Lietuvos mokslo tarybos siūlymus. ^6b677a67de5880a45643563a
 
 
-3. Mokslo ir meno sričių klasifikatorius tvirtina Vyriausybė, mokslo ir meno krypčių klasifikatorius, įvertinęs Lietuvos mokslo tarybos siūlymus, tvirtina švietimo ir mokslo ministras. ^7505fa72bedc67c0c73e5fe1
+3. Mokslo ir meno sričių klasifikatorius tvirtina Vyriausybė, mokslo ir meno krypčių klasifikatorius, įvertinęs Lietuvos mokslo tarybos siūlymus, tvirtina švietimo ir mokslo ministras. ^ebec9e8fbd54655fda61faf8
 
 
 Straipsnio pakeitimai:
@@ -1990,38 +2021,38 @@ Nr. XIII-1369, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11698
 Valstybinėse aukštosiose mokyklose dėstomoji kalba yra lietuvių kalba. Kitomis kalbomis dėstyti galima šiais atvejais, kai:
 
 
-1) numatomi studijų rezultatai siejami su užsienio kalbos mokėjimu; ^6b56f0bc207c5003bec44d4b
+1) numatomi studijų rezultatai siejami su užsienio kalbos mokėjimu; ^974ff0e64ce9c4af92f267a3
 
 
-2) paskaitas skaito ar kitoms akademinėms veikloms vadovauja užsienio dėstytojai; ^3782ec9d9d8344de4431c8fa
+2) paskaitas skaito ar kitoms akademinėms veikloms vadovauja užsienio dėstytojai; ^2eafce56ab6faa423f0397a7
 
 
-3) aukštojoje mokykloje pagal tam tikrą studijų programą studijuoja užsienio studentai; ^081cb961c3bef8eddb19ec30
+3) aukštojoje mokykloje pagal tam tikrą studijų programą studijuoja užsienio studentai; ^f6c5d9bf3d0016039ecb8586
 
 
-4) studijos vyksta pagal jungtines su užsienio valstybių aukštosiomis mokyklomis studijų programas. ^204693e2b1c81e7df12f3d67
+4) studijos vyksta pagal jungtines su užsienio valstybių aukštosiomis mokyklomis studijų programas. ^20bccf5a3118e433e4657272
 
 
 
 ### 56 straipsnis. Dalinės studijos ir jų rezultatų įskaitymas
 
 
-1. Dalinės studijos yra studento mokymasis pagal studijų programos dalį, suteikiančią žinių ir gebėjimų, kurie įvertinami ir patvirtinami aukštosios mokyklos išduodamu pažymėjimu. ^523d71560726f64b46ddb13e
+1. Dalinės studijos yra studento mokymasis pagal studijų programos dalį, suteikiančią žinių ir gebėjimų, kurie įvertinami ir patvirtinami aukštosios mokyklos išduodamu pažymėjimu. ^6a186d005eb2d1e382a55b68
 
 
-2. Aukštosiose mokyklose įskaitomi: ^5ce9081b46b1c8428329d9f1
+2. Aukštosiose mokyklose įskaitomi: ^5978475b6c662814f4e69fc9
 
 
-1) aukštosios mokyklos studentų dalinių studijų kitoje to paties ar kito tipo (universiteto, kolegijos) aukštojoje mokykloje rezultatai; ^a5af484fe28f5e3b6ca6c6d7
+1) aukštosios mokyklos studentų dalinių studijų kitoje to paties ar kito tipo (universiteto, kolegijos) aukštojoje mokykloje rezultatai; ^20fc8c677d9c864012563f15
 
 
-2) aukštosios mokyklos studentų dalinių studijų pagal kitą tos pačios aukštosios mokyklos studijų programą rezultatai; ^ea540fba2d13a55f830182e4
+2) aukštosios mokyklos studentų dalinių studijų pagal kitą tos pačios aukštosios mokyklos studijų programą rezultatai; ^45aa17a2b1671e51a4cc0fc4
 
 
-3) studentų dalinių studijų užsienio valstybės aukštojoje mokykloje rezultatai, jeigu ši aukštoji mokykla yra pripažinta tos valstybės įstatymų nustatyta tvarka. ^b36bc06f6b3bd65f7bb048a7
+3) studentų dalinių studijų užsienio valstybės aukštojoje mokykloje rezultatai, jeigu ši aukštoji mokykla yra pripažinta tos valstybės įstatymų nustatyta tvarka. ^f9709641a5937e0ec422d756
 
 
-3. Dalinių studijų aukštosiose mokyklose rezultatai įskaitomi švietimo, mokslo ir sporto ministro nustatyta tvarka. ^6055e2c8840f2f13bbcd9d80
+3. Dalinių studijų aukštosiose mokyklose rezultatai įskaitomi švietimo, mokslo ir sporto ministro nustatyta tvarka. ^2d41e2ecd5c9f27c765a595a
 
 
 Straipsnio pakeitimai:
@@ -2032,85 +2063,88 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 ### 57 straipsnis. Formaliojo ir neformaliojo švietimo bei savišvietos būdu įgytų kompetencijų vertinimas ir pripažinimas
 
 
-1. Asmenys gali kreiptis į aukštąsias mokyklas dėl jų formaliojo ir neformaliojo švietimo, savišvietos būdu įgytų kompetencijų, susijusių su aukštuoju mokslu, vertinimo ir pripažinimo. ^e1f713cb44d4ca8e19c4123b
+1. Asmenys gali kreiptis į aukštąsias mokyklas dėl jų formaliojo ir neformaliojo švietimo, savišvietos būdu įgytų kompetencijų, susijusių su aukštuoju mokslu, vertinimo ir pripažinimo. ^e2d1a8c887c7b5c23d72cf00
 
 
-2. Formaliojo švietimo būdu įgytų kompetencijų asmenims, norintiems tęsti studijas aukštojoje mokykloje, pripažinimą kaip studijų programos dalį atlieka aukštosios mokyklos švietimo ir mokslo ministro nustatyta tvarka. ^2c8977165be29371cc0652fa
+2. Formaliojo švietimo būdu įgytų kompetencijų asmenims, norintiems tęsti studijas aukštojoje mokykloje, pripažinimą kaip studijų programos dalį atlieka aukštosios mokyklos švietimo ir mokslo ministro nustatyta tvarka. ^a45340fa5ebe6779d2762520
 
 
-3. Neformaliuoju ir savišvietos būdu įgytų kompetencijų, susijusių su aukštuoju mokslu, vertinimo ir pripažinimo bendruosius principus tvirtina švietimo ir mokslo ministras. Šių kompetencijų vertinimą ir pripažinimą atlieka aukštosios mokyklos savo nustatyta tvarka. ^202f78c575f70e7203741b94
+3. Neformaliuoju ir savišvietos būdu įgytų kompetencijų, susijusių su aukštuoju mokslu, vertinimo ir pripažinimo bendruosius principus tvirtina švietimo ir mokslo ministras. Šių kompetencijų vertinimą ir pripažinimą atlieka aukštosios mokyklos savo nustatyta tvarka. ^34e2e275f1ff589bef28e654
 
 
 
 ### 58 straipsnis. Diplomai, diplomo priedėliai, pažymėjimai
 
 
-1. Asmenims, baigusiems trumposios pakopos studijų programas, išduodamas įgytą kvalifikaciją patvirtinantis diplomas. Asmenims, baigusiems koleginių studijų pirmosios pakopos programą, išduodamas profesinio bakalauro diplomas ir diplomo priedėlis. Asmenims, baigusiems pirmosios pakopos universitetinių studijų programą, išduodamas bakalauro diplomas ir diplomo priedėlis. ^968fe0767c140f6f7e59cd9c
+1. Asmenims, baigusiems trumposios pakopos studijas, išduodamas įgytą kvalifikaciją patvirtinantis diplomas. Asmenims, baigusiems koleginių studijų pirmosios pakopos programą, išduodamas profesinio bakalauro diplomas ir diplomo priedėlis. Asmenims, baigusiems pirmosios pakopos universitetinių studijų programą, išduodamas bakalauro diplomas ir diplomo priedėlis. ^691503ffe5be4cc74b60bc4e
+Straipsnio dalies pakeitimai:
+Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
 
 
-2. Asmenims, baigusiems koleginių studijų antrosios pakopos programą, išduodamas profesinio magistro diplomas ir diplomo priedėlis. Asmenims, baigusiems universitetinių vientisųjų studijų ar magistrantūros studijų programą, išduodamas magistro diplomas ir diplomo priedėlis. ^c1cbfb1b7440584b813df443
+
+2. Asmenims, baigusiems vientisųjų studijų ar magistrantūros studijų programą, išduodamas magistro diplomas ir diplomo priedėlis. ^bc0b2bc87c1f4570ad8cbecc
 
 
-3. Asmenims, baigusiems doktorantūrą ir apgynusiems daktaro disertaciją (meno projektą), išduodamas mokslo (meno) daktaro diplomas. ^1b7134a6f7bb4510c2103853
+3. Asmenims, baigusiems doktorantūrą ir apgynusiems daktaro disertaciją (meno projektą), išduodamas mokslo (meno) daktaro diplomas. ^7e6d6cc64cfc0abc615168e3
 
 
-4. Diplomo priedėlis yra neatskiriama profesinio bakalauro, bakalauro, profesinio magistro ir magistro diplomų dalis, diplomą papildantis dokumentas, kuriame nurodomas studijų programos pavadinimas ir informacija apie pasiektus studijų rezultatus. ^6139aef6996413c3ab0a0f15
+4. Diplomo priedėlis yra neatskiriama profesinio bakalauro, bakalauro ir magistro diplomų dalis, diplomą papildantis dokumentas, kuriame nurodomas studijų programos pavadinimas ir informacija apie pasiektus studijų rezultatus. ^0dda3e257da114647aa7068c
 
 
-5. Asmenims, baigusiems profesines studijas ar studijų modulius, skirtus kitoms kvalifikacijoms įgyti, išduodamas studijų pažymėjimas. ^70627fd477b29b49cb9427cc
+5. Asmenims, baigusiems profesines studijas ar studijų modulius, skirtus kitoms kvalifikacijoms įgyti, išduodamas studijų pažymėjimas. ^e482840bbf0cec09a9585bb0
+Straipsnio dalies pakeitimai:
+Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
+Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
 
 
-6. Diplomų, diplomų priedėlių ir studijų pažymėjimų blankų privalomosios formos rengimo, gamybos, apskaitos, registracijos ir išdavimo tvarką nustato švietimo, mokslo ir sporto ministras. ^23e694f9f2afd4bcd70f61f1
 
-
-Straipsnio pakeitimai:
-Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+6. Diplomų, diplomų priedėlių ir studijų pažymėjimų blankų privalomosios formos rengimo, gamybos, apskaitos, registracijos ir išdavimo tvarką nustato švietimo ir mokslo ministras. ^cc4dcb37b9ea9b835ef2ff95
 
 
 
 ### 59 straipsnis. Priėmimas į aukštąją mokyklą
 
 
-1. Į aukštosios mokyklos pirmosios pakopos ir vientisąsias studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir išlaikę ne mažiau kaip tris (stojantieji į menų studijų krypčių grupės studijas ir baigę trumposios pakopos studijas – ne mažiau kaip du) valstybinius brandos egzaminus: lietuvių kalbos ir literatūros, matematikos (stojantiesiems į menų studijų krypčių grupės studijas jo išlaikyti nebūtina) ir stojančiojo pasirinktą egzaminą (baigusiems trumposios pakopos studijas pasirinkti egzamino nebūtina), kurių: ^757b0b713feaccf7e8691e58
+1. Į aukštosios mokyklos pirmosios pakopos ir vientisąsias studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir išlaikę ne mažiau kaip tris (stojantieji į menų studijų krypčių grupės studijas ir baigę trumposios pakopos studijas – ne mažiau kaip du) valstybinius brandos egzaminus: lietuvių kalbos ir literatūros, matematikos (stojantiesiems į menų studijų krypčių grupės studijas jo išlaikyti nebūtina) ir stojančiojo pasirinktą egzaminą (baigusiems trumposios pakopos studijas pasirinkti egzamino nebūtina), kurių: ^5defd6f0eed8717f6c55bbec
 
 
-1) įvertinimų aritmetinis vidurkis švietimo, mokslo ir sporto ministro nustatyta tvarka prilygsta brandos egzaminų programose nustatytam pagrindiniam mokymosi pasiekimų lygiui, jeigu stojama į universitetines studijas; ^59620aee2d1a393b23ad1e87
+1) įvertinimų aritmetinis vidurkis švietimo, mokslo ir sporto ministro nustatyta tvarka prilygsta brandos egzaminų programose nustatytam pagrindiniam mokymosi pasiekimų lygiui, jeigu stojama į universitetines studijas; ^ee30dcc3217e79b57120b16c
 
 
-2) įvertinimų aritmetinis vidurkis švietimo, mokslo ir sporto ministro nustatyta tvarka prilygsta brandos egzaminų programose nustatytam patenkinamam mokymosi pasiekimų lygiui, jeigu stojama į kolegines studijas. ^13e5314c4f15e6d44d10bab0
+2) įvertinimų aritmetinis vidurkis švietimo, mokslo ir sporto ministro nustatyta tvarka prilygsta brandos egzaminų programose nustatytam patenkinamam mokymosi pasiekimų lygiui, jeigu stojama į kolegines studijas. ^b02a5ec98088c3272e42c0e8
 
 
-2. Asmenų priėmimas į aukštąsias mokyklas gali būti vykdomas iki studijų pagal atitinkamą studijų programą pradžios. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą, išskirdamos pagrindinį dalyką, kiekvienais metais nustato aukštosios mokyklos ir, suderinusios su Švietimo, mokslo ir sporto ministerija, paskelbia jį ne vėliau kaip prieš 3 metus iki atitinkamų metų rugsėjo 1 dienos. [[#^757b0b713feaccf7e8691e58|Šio straipsnio 1 dalyje]] nurodyti priėmimo į aukštąsias mokyklas reikalavimai netaikomi: ^c6698be5c498e5d91d2d770f
+2. Asmenų priėmimas į aukštąsias mokyklas gali būti vykdomas iki studijų pagal atitinkamą studijų programą pradžios. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą, išskirdamos pagrindinį dalyką, kiekvienais metais nustato aukštosios mokyklos ir, suderinusios su Švietimo, mokslo ir sporto ministerija, paskelbia jį ne vėliau kaip prieš 3 metus iki atitinkamų metų rugsėjo 1 dienos. [[#^5defd6f0eed8717f6c55bbec|Šio straipsnio 1 dalyje]] nurodyti priėmimo į aukštąsias mokyklas reikalavimai netaikomi: ^21dd3d4c0fc6556a5cc35b11
 
 
-1) asmenims, įgijusiems kvalifikaciją, suteikiančią teisę į aukštąjį mokslą, pagal tarptautinių organizacijų arba užsienio valstybių švietimo programas; ^148c7696b2c66f3860001806
+1) asmenims, įgijusiems kvalifikaciją, suteikiančią teisę į aukštąjį mokslą, pagal tarptautinių organizacijų arba užsienio valstybių švietimo programas; ^d81d57685b621f850d7b52c3
 
 
-2) asmenims, Lietuvos Respublikoje vidurinį išsilavinimą įgijusiems iki šio įstatymo įsigaliojimo; ^879dd2c4b8de18e215ae13e9
+2) asmenims, Lietuvos Respublikoje vidurinį išsilavinimą įgijusiems iki šio įstatymo įsigaliojimo; ^4a449e1ebb5a24407dfbfdd4
 
 
-3) asmenims, švietimo, mokslo ir sporto ministro nustatyta tvarka ir atvejais atleistiems nuo valstybinių brandos egzaminų. ^67b5f871c1b38ec75db659f7
+3) asmenims, švietimo, mokslo ir sporto ministro nustatyta tvarka ir atvejais atleistiems nuo valstybinių brandos egzaminų. ^fc169f0b5ddafa7351431638
 
 
-3. Į aukštosios mokyklos trumposios pakopos studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir profesinę kvalifikaciją, įgytą pagal Lietuvos kvalifikacijų sandaros ketvirtąjį lygį atitinkančią profesinio mokymo programą, atsižvelgiant į jų mokymosi pasiekimus ir kitus aukštosios mokyklos nustatytus kriterijus, įvertinus profesiniuose standartuose ir studijų krypčių aprašuose nustatytus reikalavimus. ^f111e511be125593e80ecbd0
+3. Į aukštosios mokyklos trumposios pakopos studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir profesinę kvalifikaciją, įgytą pagal Lietuvos kvalifikacijų sandaros ketvirtąjį lygį atitinkančią profesinio mokymo programą, atsižvelgiant į jų mokymosi pasiekimus ir kitus aukštosios mokyklos nustatytus kriterijus, įvertinus profesiniuose standartuose ir studijų krypčių aprašuose nustatytus reikalavimus. ^5d4215c5b1edffbe693ea686
 
 
-4. Konkursinio balo sudarymo principus ir kitus kriterijus aukštosios mokyklos skelbia kiekvienais metais iki gruodžio 1 dienos, likus ne mažiau kaip 6 mėnesiams iki priėmimo į aukštąsias mokyklas pradžios. Mažiausią stojamąjį konkursinį balą aukštosios mokyklos skelbia kiekvienais metais ne vėliau kaip iki birželio 1 dienos. ^fe511586541fe5bcf065c5da
+4. Konkursinio balo sudarymo principus ir kitus kriterijus aukštosios mokyklos skelbia kiekvienais metais iki gruodžio 1 dienos, likus ne mažiau kaip 6 mėnesiams iki priėmimo į aukštąsias mokyklas pradžios. Mažiausią stojamąjį konkursinį balą aukštosios mokyklos skelbia kiekvienais metais ne vėliau kaip iki birželio 1 dienos. ^7dd2741a881c612021320235
 
 
-5. Bendrą studijų vietų skaičių pagal studijų kryptis ir (arba) studijų krypčių grupes ir studijų pakopas nustato aukštoji mokykla, atsižvelgdama į savo galimybes užtikrinti studijų kokybę. ^169e1e42c85485a9868aebfb
+5. Bendrą studijų vietų skaičių pagal studijų kryptis ir (arba) studijų krypčių grupes ir studijų pakopas nustato aukštoji mokykla, atsižvelgdama į savo galimybes užtikrinti studijų kokybę. ^281562936be5fec4c1061cbf
 
 
-6. Minimalų studijų programos studijų vietų skaičių valstybinėse aukštosiose mokyklose pagal studijų kryptis ir (arba) krypčių grupes ir pakopas nustato švietimo, mokslo ir sporto ministras, įvertinęs aukštųjų mokyklų siūlymus. ^c195bd30611ce9d080b247dd
+6. Minimalų studijų programos studijų vietų skaičių valstybinėse aukštosiose mokyklose pagal studijų kryptis ir (arba) krypčių grupes ir pakopas nustato švietimo, mokslo ir sporto ministras, įvertinęs aukštųjų mokyklų siūlymus. ^a565b790aab800a8370c9b14
 
 
-7. Asmenų (išskyrus užsieniečius, kurie pretenduoja į valstybės nefinansuojamas studijų vietas), stojančių į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas, priėmimas vykdomas naudojantis šiai funkcijai atlikti skirta valstybės informacine sistema. Centralizuotas priėmimo į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas koordinavimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka. Kiekvienais metais iki rugpjūčio 30 dienos savo interneto svetainėse aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės finansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į aukštųjų mokyklų valstybės finansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 1 dienos aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės nefinansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į valstybės nefinansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. ^e84ffa210e9be47fd32fa7c1
+7. Asmenų (išskyrus užsieniečius, kurie pretenduoja į valstybės nefinansuojamas studijų vietas), stojančių į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas, priėmimas vykdomas naudojantis šiai funkcijai atlikti skirta valstybės informacine sistema. Centralizuotas priėmimo į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas koordinavimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka. Kiekvienais metais iki rugpjūčio 30 dienos savo interneto svetainėse aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės finansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į aukštųjų mokyklų valstybės finansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 1 dienos aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės nefinansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į valstybės nefinansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. ^33ad94769c1b1490c4df99a3
 
 
-8. Asmenys, turintys aukštojo mokslo kvalifikaciją, į antrosios pakopos studijų programas priimami aukštosios mokyklos nustatyta tvarka. ^bc989caf0f1d87aef67ebb37
+8. Asmenys, turintys aukštojo mokslo kvalifikaciją, į antrosios pakopos studijų programas priimami aukštosios mokyklos nustatyta tvarka. ^191005d7bcd59d3031849ffc
 
 
-9. Asmenys, ketinantys mokytis pagal neformaliojo suaugusiųjų švietimo programas ar studijuoti atskirus studijų dalykus (modulius), priimami aukštųjų mokyklų nustatyta tvarka. ^c0a4f4d9a43895d66700480c
+9. Asmenys, ketinantys mokytis pagal neformaliojo suaugusiųjų švietimo programas ar studijuoti atskirus studijų dalykus (modulius), priimami aukštųjų mokyklų nustatyta tvarka. ^ef4b2a3d0b13a68a9d0bf41e
 
 
 Straipsnio pakeitimai:
@@ -2126,210 +2160,210 @@ AKADEMINĖ BENDRUOMENĖ
 ### 60 straipsnis. Akademinė bendruomenė
 
 
-1. Akademinę bendruomenę sudaro mokslo ir studijų institucijų studentai, dėstytojai, mokslo darbuotojai, profesoriai emeritai, mokslininkai emeritai, kiti darbuotojai, tiesiogiai dalyvaujantys mokslo ir (ar) studijų veikloje. ^29566cb23f2be5b18e1b6264
+1. Akademinę bendruomenę sudaro mokslo ir studijų institucijų studentai, dėstytojai, mokslo darbuotojai, profesoriai emeritai, mokslininkai emeritai, kiti darbuotojai, tiesiogiai dalyvaujantys mokslo ir (ar) studijų veikloje. ^33604a46784c2c93a7dc40f7
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-2. Akademinės bendruomenės nariams laiduojama akademinė laisvė, apimanti: ^f617d55f6b8499c8d59ee12e
+2. Akademinės bendruomenės nariams laiduojama akademinė laisvė, apimanti: ^17081d092b1f888eda7ae9fc
 
 
-1) minties, išraiškos laisvę; ^edb2d00abfbae3417b1b194a
+1) minties, išraiškos laisvę; ^640837e8158b770d5f89a4d3
 
 
-2) mokslo (meno) ir pedagoginės veiklos metodų ir prieigos pasirinkimo laisvę, atitinkančią pripažįstamus etikos principus; ^712633fa09f5a6b4cabfb9ff
+2) mokslo (meno) ir pedagoginės veiklos metodų ir prieigos pasirinkimo laisvę, atitinkančią pripažįstamus etikos principus; ^0c40e06e7e4e71f6be7bf19c
 
 
-3) apsaugą nuo varžymų ir sankcijų už savo mokslinių tyrimų ir eksperimentinės plėtros (meno) rezultatų ir įsitikinimų skelbimą, išskyrus atvejus, kai skelbiama informacija yra valstybės ar tarnybos paslaptis ir (arba) Lietuvos Respublikos įstatymų pažeidimas. ^32c4524f9ccb75d32c0258eb
+3) apsaugą nuo varžymų ir sankcijų už savo mokslinių tyrimų ir eksperimentinės plėtros (meno) rezultatų ir įsitikinimų skelbimą, išskyrus atvejus, kai skelbiama informacija yra valstybės ar tarnybos paslaptis ir (arba) Lietuvos Respublikos įstatymų pažeidimas. ^7badb0684f298a17e40a48b0
 
 
-3. Akademinei bendruomenei taip pat laiduojama: ^6b1fcaa5f5d2ec75df1b21c6
+3. Akademinei bendruomenei taip pat laiduojama: ^bea56e550099db25d67284d2
 
 
-1) kūrybos ir intelektinio darbo autorių teisės, nustatytos Lietuvos Respublikos įstatymuose ir tarptautinėse sutartyse; ^0326f57abc6b8373ff98a6cd
+1) kūrybos ir intelektinio darbo autorių teisės, nustatytos Lietuvos Respublikos įstatymuose ir tarptautinėse sutartyse; ^62e428c43104dc829256ac81
 
 
-2) lygios teisės dalyvauti konkursuose; ^78e8b38f9216a8f31847bc31
+2) lygios teisės dalyvauti konkursuose; ^9a3c9a671e803dab8546b242
 
 
-3) nešališkas ir viešas mokslo darbų recenzavimas. ^cc6eb9e299dc7361fe120f5e
+3) nešališkas ir viešas mokslo darbų recenzavimas. ^9ec15f60590f0660213bdefc
 
 
-4. Akademinė bendruomenė naudojasi akademine laisve ir vadovaujasi Akademinės etikos kodeksu, kurį atsižvelgdamos į akademinės etikos ir procedūrų kontrolieriaus rekomendacijas parengia ir tvirtina mokslo ir studijų institucijos. ^f03354174d9872e93a2c77c6
+4. Akademinė bendruomenė naudojasi akademine laisve ir vadovaujasi Akademinės etikos kodeksu, kurį atsižvelgdamos į akademinės etikos ir procedūrų kontrolieriaus rekomendacijas parengia ir tvirtina mokslo ir studijų institucijos. ^5a59df1c599b496b998efaf5
 
 
 
 ### 61 straipsnis. Studentai, klausytojai
 
 
-1. Studentui išduodamas studento pažymėjimas. Studento pažymėjimo formą ir išdavimo tvarką nustato švietimo ir mokslo ministras, o jo gamybą ir išdavimą organizuoja Lietuvos aukštųjų mokyklų studentų atstovybių sąjunga (sąjungos). ^b796fd92ed2b565048473f13
+1. Studentui išduodamas studento pažymėjimas. Studento pažymėjimo formą ir išdavimo tvarką nustato švietimo ir mokslo ministras, o jo gamybą ir išdavimą organizuoja Lietuvos aukštųjų mokyklų studentų atstovybių sąjunga (sąjungos). ^fbb4e9ac2ab60f6a07089b7b
 
 
-2. Studento ir aukštosios mokyklos santykiai įforminami studijų sutartimi. Standartines studijų sutarties sąlygas nustato švietimo ir mokslo ministras, įvertinęs Lietuvos universitetų rektorių konferencijos, Lietuvos kolegijų direktorių konferencijos ir Lietuvos aukštųjų mokyklų studentų atstovybių sąjungos (sąjungų) siūlymus. ^bd736ec83663915abf1dd059
+2. Studento ir aukštosios mokyklos santykiai įforminami studijų sutartimi. Standartines studijų sutarties sąlygas nustato švietimo ir mokslo ministras, įvertinęs Lietuvos universitetų rektorių konferencijos, Lietuvos kolegijų direktorių konferencijos ir Lietuvos aukštųjų mokyklų studentų atstovybių sąjungos (sąjungų) siūlymus. ^1e2c82582404d23529f5bfb3
 
 
-3. Klausytojo ir aukštosios mokyklos santykiai įforminami sutartimi aukštosios mokyklos nustatyta tvarka. ^30997577965bdf730cfbc278
+3. Klausytojo ir aukštosios mokyklos santykiai įforminami sutartimi aukštosios mokyklos nustatyta tvarka. ^a7efbefcf79d2b5d0fcdb3af
 
 
 
 ### 62 straipsnis. Studentų teisės ir pareigos
 
 
-1. Studentai turi teisę: ^76e1fc140ebbd0c7acb0a1e7
+1. Studentai turi teisę: ^911b0c47de863684ce1b194f
 
 
-1) studijuoti pagal pasirinktą studijų programą; ^f9474a5aa9c517d1a15a4fab
+1) studijuoti pagal pasirinktą studijų programą; ^1c6ad30b90c0b17eb4b861aa
 
 
-2) studijuoti pagal individualų studijų planą, vadovaudamiesi senato nustatyta tvarka; ^fb6796d9e98e517a0b8b3443
+2) studijuoti pagal individualų studijų planą, vadovaudamiesi senato nustatyta tvarka; ^29fc702d8af29b49c89e307c
 
 
-3) studijuoti pagal daugiau negu vieną studijų programą arba kitus studijų dalykus toje pačioje arba kitoje aukštojoje mokykloje; ^c7f4384bfc97ccfb5876a795
+3) studijuoti pagal daugiau negu vieną studijų programą arba kitus studijų dalykus toje pačioje arba kitoje aukštojoje mokykloje; ^8369988bd0c8aecda2749ec1
 
 
-4) vertinti studijuojamų dalykų dėstymo ir studijų aprūpinimo kokybę; ^571657778a0adaef8e5c1720
+4) vertinti studijuojamų dalykų dėstymo ir studijų aprūpinimo kokybę; ^240e29a02536000240f5c4d1
 
 
-5) rinktis dėstytojus, jeigu tą patį dalyką dėsto keli dėstytojai; ^d12bc9bf680de42439618d9c
+5) rinktis dėstytojus, jeigu tą patį dalyką dėsto keli dėstytojai; ^805eb8121b9e0f4601426e28
 
 
-6) siūlyti savo baigiamojo darbo temą arba pasirinkti iš keleto pasiūlytų temų; ^a55f7c99c91c9554792096c9
+6) siūlyti savo baigiamojo darbo temą arba pasirinkti iš keleto pasiūlytų temų; ^e83554b341d7881c7f957700
 
 
-7) atsiskaityti už darbus alternatyviais būdais, jeigu turi negalią, dėl kurios negali atsiskaityti nustatyta tvarka, o alternatyvus atsiskaitymo būdas užtikrina, kad bus pasiekti studijų rezultatai; ^e7873a4c73591a40d298a6b0
+7) atsiskaityti už darbus alternatyviais būdais, jeigu turi negalią, dėl kurios negali atsiskaityti nustatyta tvarka, o alternatyvus atsiskaitymo būdas užtikrina, kad bus pasiekti studijų rezultatai; ^56942e95eebde199f17afc45
 
 
-8) kreiptis į aukštosios mokyklos administraciją, kad būtų įskaityti studijų toje pačioje arba kitoje aukštojoje mokykloje rezultatai; ^f3d6427fc82619df54b2d886
+8) kreiptis į aukštosios mokyklos administraciją, kad būtų įskaityti studijų toje pačioje arba kitoje aukštojoje mokykloje rezultatai; ^f903cabfff911fbb69079e5f
 
 
-9) kreiptis į aukštosios mokyklos administraciją, ginčų nagrinėjimo komisiją dėl savo interesų pažeidimo; ^d6f9d73cf7699bcb6a3ee4c0
+9) kreiptis į aukštosios mokyklos administraciją, ginčų nagrinėjimo komisiją dėl savo interesų pažeidimo; ^b280cc1f61d47e92895aa82a
 
 
-10) aukštosios mokyklos statuto nustatyta tvarka nutraukti ir atnaujinti studijas; ^9e3a31d6ae9f9500272a7699
+10) aukštosios mokyklos statuto nustatyta tvarka nutraukti ir atnaujinti studijas; ^c810a23bc9026cb757aab0d9
 
 
-11) išeiti akademinių atostogų dėl ligos, gydytojui ar gydytojų konsultacinei komisijai rekomendavus, arba dėl nėštumo ir gimdymo, vaiko priežiūros, arba atlikti privalomąją pradinę karo tarnybą, taip pat kartą per studijų laikotarpį dėl asmeninių priežasčių, bet ne ilgesniam kaip vienų studijų metų laikotarpiui, neprarandant studento statuso ir teisės po akademinių atostogų tęsti studijas valstybės finansuojamoje studijų vietoje, jeigu joje studijavo prieš išeidami akademinių atostogų; ^e364374b12c774e260dd8909
+11) išeiti akademinių atostogų dėl ligos, gydytojui ar gydytojų konsultacinei komisijai rekomendavus, arba dėl nėštumo ir gimdymo, vaiko priežiūros, arba atlikti privalomąją pradinę karo tarnybą, taip pat kartą per studijų laikotarpį dėl asmeninių priežasčių, bet ne ilgesniam kaip vienų studijų metų laikotarpiui, neprarandant studento statuso ir teisės po akademinių atostogų tęsti studijas valstybės finansuojamoje studijų vietoje, jeigu joje studijavo prieš išeidami akademinių atostogų; ^eb48801752ea25dff7b4c8f1
 Straipsnio punkto pakeitimai:
 Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
 
 
 
-12) laisvai reikšti savo mintis ir pažiūras; ^f7196e0652c28e2b83f0b229
+12) laisvai reikšti savo mintis ir pažiūras; ^520e4df0371dc536777d2e5c
 
 
-13) dalyvauti aukštosios mokyklos valdymo organuose; ^cd9123cb9e5f19c31db82d81
+13) dalyvauti aukštosios mokyklos valdymo organuose; ^0275bb2e21942b72b259125d
 
 
-14) rinkti studentų atstovybę ir būti išrinkti į ją, laisvai burtis į kitas asociacijas; ^4d4ac7f872e74f9b7650cbb1
+14) rinkti studentų atstovybę ir būti išrinkti į ją, laisvai burtis į kitas asociacijas; ^f56cb8e7f327ddfc0b28c697
 
 
-15) atlikti savanorišką praktiką arba stažuotę, kuri nėra studijų programos dalis; ^41801da24ed97ea059b6e566
+15) atlikti savanorišką praktiką arba stažuotę, kuri nėra studijų programos dalis; ^ca6e88bb83ff35c27f5cb055
 
 
-16) naudotis įstatymuose, aukštųjų mokyklų statutuose ir kituose teisės aktuose nustatytomis kitomis teisėmis. ^a0e2809d4a638c1897b853ca
+16) naudotis įstatymuose, aukštųjų mokyklų statutuose ir kituose teisės aktuose nustatytomis kitomis teisėmis. ^b4f617920da2b9891adfdd94
 
 
-2. Studentas, neišlaikęs egzamino ar kito galutinio atsiskaitymo, turi teisę šį atsiskaitymą vieną kartą nemokamai pakartoti aukštosios mokyklos nustatyta tvarka. Ši tvarka turi būti nustatyta išnagrinėjus studentų atstovybės siūlymus. ^eee040ce1db8e1a0f7d41f49
+2. Studentas, neišlaikęs egzamino ar kito galutinio atsiskaitymo, turi teisę šį atsiskaitymą vieną kartą nemokamai pakartoti aukštosios mokyklos nustatyta tvarka. Ši tvarka turi būti nustatyta išnagrinėjus studentų atstovybės siūlymus. ^6bbfd5960feb87522bd0874e
 
 
-3. Studentai privalo: ^998942b4b7fe4e3229e8fc79
+3. Studentai privalo: ^960e47ee21ec40891fad33f1
 
 
-1) siekti studijų programos apraše numatytų rezultatų; ^e70a3bf5647e4936fc4ea4c8
+1) siekti studijų programos apraše numatytų rezultatų; ^ed6525bf4c42c1c10432b0d8
 
 
-2) laikytis Akademinės etikos kodekso, kurį priima aukštoji mokykla; ^a25c542f17016cd8f39d954a
+2) laikytis Akademinės etikos kodekso, kurį priima aukštoji mokykla; ^6fa47d8c9e636033425de0ab
 
 
-3) laikytis šio įstatymo, aukštosios mokyklos statuto ir vidaus tvarkos taisyklių. ^599adc45f346f10f4ebad79a
+3) laikytis šio įstatymo, aukštosios mokyklos statuto ir vidaus tvarkos taisyklių. ^14b8c229e8b8c10b37efaa5c
 
 
-4. Paskatų ir nuobaudų studentams skyrimo tvarką nustato aukštoji mokykla, suderinusi su studentų atstovybe. ^49671088f11217db1a135222
+4. Paskatų ir nuobaudų studentams skyrimo tvarką nustato aukštoji mokykla, suderinusi su studentų atstovybe. ^d1a83d9899c310ed43e9142e
 
 
-5. Valstybė sudaro studentui, kuris mokosi kitoje vietoje negu jo nuolatinė gyvenamoji vieta, sąlygas pasirinkti asmens sveikatos priežiūros įstaigą ir gydytojus Lietuvos Respublikos sveikatos sistemos įstatymo nustatyta tvarka. ^d54004c7a11b451afc940ef7
+5. Valstybė sudaro studentui, kuris mokosi kitoje vietoje negu jo nuolatinė gyvenamoji vieta, sąlygas pasirinkti asmens sveikatos priežiūros įstaigą ir gydytojus Lietuvos Respublikos sveikatos sistemos įstatymo nustatyta tvarka. ^e5b28606c6da1d36f2345069
 
 
-6. Lietuvos Respublikos piliečiams, kurie mokosi aukštosiose mokyklose, sudaromos sąlygos derinti studijas ir privalomosios pradinės karo tarnybos atlikimą arba išeiti akademinių atostogų bet kuriuo studijų laikotarpiu ir atlikti privalomąją pradinę karo tarnybą Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo nustatyta tvarka. ^b06c85bf5f28255036e320ff
+6. Lietuvos Respublikos piliečiams, kurie mokosi aukštosiose mokyklose, sudaromos sąlygos derinti studijas ir privalomosios pradinės karo tarnybos atlikimą arba išeiti akademinių atostogų bet kuriuo studijų laikotarpiu ir atlikti privalomąją pradinę karo tarnybą Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymo nustatyta tvarka. ^3da88d63f520e3d3707cc222
 Straipsnio dalies pakeitimai:
 Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
 
 
 
-7. Aukštosios mokyklos vadovas arba jo įgalioti asmenys, gavę studentų rašytinius prašymus, skundus ar pranešimus dėl šiame įstatyme ar kituose teisės aktuose nustatytų jų teisių arba teisėtų interesų pažeidimų, privalo per 15 kalendorinių dienų juos išnagrinėti ir raštu atsakyti. ^e70b9e52fd65046a886c0788
+7. Aukštosios mokyklos vadovas arba jo įgalioti asmenys, gavę studentų rašytinius prašymus, skundus ar pranešimus dėl šiame įstatyme ar kituose teisės aktuose nustatytų jų teisių arba teisėtų interesų pažeidimų, privalo per 15 kalendorinių dienų juos išnagrinėti ir raštu atsakyti. ^bf190c0bf188e4c5d16ebd95
 
 
-8. Aukštojoje mokykloje veikia ginčų nagrinėjimo komisija. Ši komisija sprendžia studentų ir administracijos ar kitų darbuotojų ginčus, susijusius su mokslo ir studijų veikla. Į ginčų nagrinėjimo komisiją aukštosios mokyklos ir studentų atstovybė (jeigu jos nėra, – visuotinis studentų susirinkimas (konferencija) skiria po vienodą skaičių įgaliotų asmenų. Ginčų nagrinėjimo ir sprendimų įgyvendinimo tvarką nustato aukštoji mokykla, suderinusi su studentų atstovybe (jeigu jos nėra, – su visuotiniu studentų susirinkimu (konferencija). ^fe61441410b888b818a7b976
+8. Aukštojoje mokykloje veikia ginčų nagrinėjimo komisija. Ši komisija sprendžia studentų ir administracijos ar kitų darbuotojų ginčus, susijusius su mokslo ir studijų veikla. Į ginčų nagrinėjimo komisiją aukštosios mokyklos ir studentų atstovybė (jeigu jos nėra, – visuotinis studentų susirinkimas (konferencija) skiria po vienodą skaičių įgaliotų asmenų. Ginčų nagrinėjimo ir sprendimų įgyvendinimo tvarką nustato aukštoji mokykla, suderinusi su studentų atstovybe (jeigu jos nėra, – su visuotiniu studentų susirinkimu (konferencija). ^88eca2f1c1cec8021e155edd
 
 
 
 ### 63 straipsnis. Studentų savivalda
 
 
-1. Aukštosios mokyklos studentų interesams atstovauja studentų atstovybė. Studentų atstovybės nariais gali būti tos aukštosios mokyklos studentai. Studentų atstovybės valdymo organų narius – studentus – renka visuotinis studentų atstovybės narių susirinkimas (konferencija), remdamasis visuotinumo, skaidrumo ir atvirumo principais. Studentų atstovybė savo veikloje vadovaujasi Lietuvos Respublikos asociacijų įstatymu (toliau – Asociacijų įstatymas), jeigu šis įstatymas nenustato kitaip, taip pat aukštosios mokyklos statutu ir visuotinio studentų atstovybės narių susirinkimo (konferencijos) patvirtintais studentų atstovybės įstatais. ^f467e25e9038dd78ec9b3f24
+1. Aukštosios mokyklos studentų interesams atstovauja studentų atstovybė. Studentų atstovybės nariais gali būti tos aukštosios mokyklos studentai. Studentų atstovybės valdymo organų narius – studentus – renka visuotinis studentų atstovybės narių susirinkimas (konferencija), remdamasis visuotinumo, skaidrumo ir atvirumo principais. Studentų atstovybė savo veikloje vadovaujasi Lietuvos Respublikos asociacijų įstatymu (toliau – Asociacijų įstatymas), jeigu šis įstatymas nenustato kitaip, taip pat aukštosios mokyklos statutu ir visuotinio studentų atstovybės narių susirinkimo (konferencijos) patvirtintais studentų atstovybės įstatais. ^6cabbeef6d379b796ad4e5a0
 
 
-2. Jeigu aukštojoje mokykloje studentų atstovybės nėra, į aukštosios mokyklos visuotinį studentų susirinkimą (konferenciją) aukštosios mokyklos fakultetų studentai deleguoja atstovus, balsų dauguma išrinktus fakultetų studentų visuotiniuose susirinkimuose (konferencijose). Visuotinis studentų susirinkimas (konferencija) sušaukiamas ir sprendimai priimami aukštosios mokyklos nustatyta tvarka, remiantis visuotinumo, skaidrumo ir atvirumo principais. ^dbea30431a1b5ec4a408bf3c
+2. Jeigu aukštojoje mokykloje studentų atstovybės nėra, į aukštosios mokyklos visuotinį studentų susirinkimą (konferenciją) aukštosios mokyklos fakultetų studentai deleguoja atstovus, balsų dauguma išrinktus fakultetų studentų visuotiniuose susirinkimuose (konferencijose). Visuotinis studentų susirinkimas (konferencija) sušaukiamas ir sprendimai priimami aukštosios mokyklos nustatyta tvarka, remiantis visuotinumo, skaidrumo ir atvirumo principais. ^ad8b4980e586d014ef3abcdd
 
 
-3. Visuotinis studentų susirinkimas (konferencija) yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė visų studentų (visų delegatų). Visuotinio studentų susirinkimo (konferencijos) sprendimai laikomi priimtais, jeigu už juos balsuoja daugiau kaip pusė dalyvavusių studentų. ^5aaf8ca24ba845a5e7110742
+3. Visuotinis studentų susirinkimas (konferencija) yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė visų studentų (visų delegatų). Visuotinio studentų susirinkimo (konferencijos) sprendimai laikomi priimtais, jeigu už juos balsuoja daugiau kaip pusė dalyvavusių studentų. ^407e85546714fafa587639e8
 
 
-4. Studentų atstovai deleguojami į aukštosios mokyklos valdymo ir kitus organus remiantis visuotinumo, skaidrumo ir atvirumo principais ir tvarka, kuri nustatoma studentų atstovybės įstatuose ir kituose studentų atstovybės veiklą reglamentuojančiuose dokumentuose. Studentų atstovai dalyvauja aukštosios mokyklos valdymo organų veikloje sprendžiamojo balso teise. ^5fa8df444a0b377a516be54d
+4. Studentų atstovai deleguojami į aukštosios mokyklos valdymo ir kitus organus remiantis visuotinumo, skaidrumo ir atvirumo principais ir tvarka, kuri nustatoma studentų atstovybės įstatuose ir kituose studentų atstovybės veiklą reglamentuojančiuose dokumentuose. Studentų atstovai dalyvauja aukštosios mokyklos valdymo organų veikloje sprendžiamojo balso teise. ^5f3f84811660de42d3a6cb53
 
 
-5. Studentų atstovybė turi teisę gauti informaciją ir paaiškinimus iš aukštosios mokyklos ir jos padalinių visais studijų ir su studijomis susijusiais klausimais. ^c3f554e66f1291892c6c2ddc
+5. Studentų atstovybė turi teisę gauti informaciją ir paaiškinimus iš aukštosios mokyklos ir jos padalinių visais studijų ir su studijomis susijusiais klausimais. ^1e8b55ffc120f5c7e6d40c1f
 
 
-6. Aukštoji mokykla aukštosios mokyklos tarybos nustatyta tvarka remia studentų atstovybę ir kitas studentų organizacijas, skiria patalpas ir lėšų jų veiklai finansuoti, taip pat skiria lėšų studentų kultūros, sporto ir visuomeninei veiklai. Studentų atstovybė ir kitos studentų organizacijos atsiskaito už aukštosios mokyklos skirtas lėšas. ^70e98761ca2a25b8ad1cc0ca
+6. Aukštoji mokykla aukštosios mokyklos tarybos nustatyta tvarka remia studentų atstovybę ir kitas studentų organizacijas, skiria patalpas ir lėšų jų veiklai finansuoti, taip pat skiria lėšų studentų kultūros, sporto ir visuomeninei veiklai. Studentų atstovybė ir kitos studentų organizacijos atsiskaito už aukštosios mokyklos skirtas lėšas. ^2d47a8a3fd8d4fab6c9c5877
 
 
-7. Studentų atstovybė turi teisę išreikšti savo nuomonę visais studentams rūpimais klausimais ir aukštosios mokyklos statuto nustatyta tvarka pareikalauti dar kartą apsvarstyti aukštosios mokyklos valdymo organų priimtus sprendimus. ^efd1c4db7b10b722410e676e
+7. Studentų atstovybė turi teisę išreikšti savo nuomonę visais studentams rūpimais klausimais ir aukštosios mokyklos statuto nustatyta tvarka pareikalauti dar kartą apsvarstyti aukštosios mokyklos valdymo organų priimtus sprendimus. ^02a771c71a71f5611c55fa84
 
 
-8. Studentų atstovybė viešai skelbia visuotinio studentų susirinkimo (konferencijos) patvirtintą metinę veiklos ir finansinę ataskaitą. ^b18d04d6dba17a9176f4dff5
+8. Studentų atstovybė viešai skelbia visuotinio studentų susirinkimo (konferencijos) patvirtintą metinę veiklos ir finansinę ataskaitą. ^034021feb696dcdc0ceb87b0
 
 
-9. Studentų atstovybių ir kitų studentų organizacijų veiklai teisės aktų nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto. ^60f84aa3cd307d615ce74965
+9. Studentų atstovybių ir kitų studentų organizacijų veiklai teisės aktų nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto. ^5277c138de6e332b069b9182
 
 
 
 ### 64 straipsnis. Lietuvos aukštųjų mokyklų studentų atstovybių sąjunga (sąjungos)
 
 
-1. Aukštųjų mokyklų studentų atstovybės gali burtis į asociacijas ar kitas sąjungas įstatymų nustatyta tvarka. ^d4c59e24897303ad4e487d4f
+1. Aukštųjų mokyklų studentų atstovybės gali burtis į asociacijas ar kitas sąjungas įstatymų nustatyta tvarka. ^6001dea90fa736bd086347d5
 
 
-2. Lietuvos studentų atstovybės ir jų sąjunga (sąjungos) gali dalyvauti studentų tarptautinių organizacijų veikloje. ^907058d973e3b3224df9a4ae
+2. Lietuvos studentų atstovybės ir jų sąjunga (sąjungos) gali dalyvauti studentų tarptautinių organizacijų veikloje. ^074cf1e51af5ab6760b5e8a4
 
 
-3. Lietuvos aukštųjų mokyklų studentų atstovybių sąjunga (sąjungos) teikia siūlymus Seimui ir Vyriausybei, organizuoja bendrus visos šalies studentų renginius, koordinuoja vienijamų aukštųjų mokyklų studentų atstovybių veiklą, atstovauja vienijamų aukštųjų mokyklų studentų interesams nacionaliniu ir tarptautiniu lygiu, remdamasi skaidrumo ir atvirumo principais. ^f7dfe99d557d8cd8c6a6f6c8
+3. Lietuvos aukštųjų mokyklų studentų atstovybių sąjunga (sąjungos) teikia siūlymus Seimui ir Vyriausybei, organizuoja bendrus visos šalies studentų renginius, koordinuoja vienijamų aukštųjų mokyklų studentų atstovybių veiklą, atstovauja vienijamų aukštųjų mokyklų studentų interesams nacionaliniu ir tarptautiniu lygiu, remdamasi skaidrumo ir atvirumo principais. ^d6069a09797d82d8196edde8
 
 
-4. Lietuvos studentų atstovybių sąjungos (sąjungų) veiklai skiriama lėšų iš valstybės biudžeto. ^13005d1580f2b858fc2091cd
+4. Lietuvos studentų atstovybių sąjungos (sąjungų) veiklai skiriama lėšų iš valstybės biudžeto. ^03d0596ef6b319d8ca87f09a
 
 
 
 ### 641 straipsnis. Mokslo ir studijų institucijų tyrėjų karjera
 
 
-1. Mokslo ir studijų institucijų tyrėjų karjerą sudaro keturios pakopos: ^0406ad457e26a612aca79bd9
+1. Mokslo ir studijų institucijų tyrėjų karjerą sudaro keturios pakopos: ^77d364f8ab57b6701e570576
 
 
-1) pradedantysis tyrėjas – asmuo turintis magistro kvalifikacinį laipsnį ar jam lygiavertę aukštojo mokslo kvalifikaciją; jis vykdo mokslinę (meno) veiklą vadovaujant pripažintam arba pirmaujančiajam tyrėjui; ^86d0aa1c8544490e3f599ae1
+1) pradedantysis tyrėjas – asmuo turintis magistro kvalifikacinį laipsnį ar jam lygiavertę aukštojo mokslo kvalifikaciją; jis vykdo mokslinę (meno) veiklą vadovaujant pripažintam arba pirmaujančiajam tyrėjui; ^82cb233d19b4a8d91872a1ee
 
 
-2) patvirtintas tyrėjas – mokslininkas (meno daktaras), kurio mokslinė (meno) veikla nėra visiškai savarankiška; ^3d84dd434438a9b97f427aa4
+2) patvirtintas tyrėjas – mokslininkas (meno daktaras), kurio mokslinė (meno) veikla nėra visiškai savarankiška; ^204b187a460c161188c3b6a0
 
 
-3) pripažintas tyrėjas – mokslininkas (meno daktaras), pasiekęs mokslinės (meno) veiklos savarankiškumo lygį; ^8d81b9dcd50e946a3d849487
+3) pripažintas tyrėjas – mokslininkas (meno daktaras), pasiekęs mokslinės (meno) veiklos savarankiškumo lygį; ^1b7a7179ac04025a9d7d138f
 
 
-4) pirmaujantysis tyrėjas – savarankiškas mokslininkas (meno daktaras), pirmaujantis savo tyrimų ar mokslo (meno) srityje. ^524bc39b792dc5ca8358717a
+4) pirmaujantysis tyrėjas – savarankiškas mokslininkas (meno daktaras), pirmaujantis savo tyrimų ar mokslo (meno) srityje. ^c924b819c9bb4f8f4df33546
 
 
-2. Kiekvienos pakopos mokslo ir studijų institucijų tyrėjų privalomas kompetencijas nustato Lietuvos mokslo taryba, vadovaudamasi tarptautiniais tyrėjų karjeros formavimo Europos mokslinių tyrimų erdvėje ir Europos aukštojo mokslo erdvėje principais ir kriterijais bei tyrėjų tarpinstitucinio ir tarptautinio judumo skatinimo principais. ^2617258f9eb5ad5440537bcd
+2. Kiekvienos pakopos mokslo ir studijų institucijų tyrėjų privalomas kompetencijas nustato Lietuvos mokslo taryba, vadovaudamasi tarptautiniais tyrėjų karjeros formavimo Europos mokslinių tyrimų erdvėje ir Europos aukštojo mokslo erdvėje principais ir kriterijais bei tyrėjų tarpinstitucinio ir tarptautinio judumo skatinimo principais. ^3156f039ac0412a02095b188
 
 
 Papildyta straipsniu:
@@ -2340,31 +2374,31 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 ### 65 straipsnis. Dėstytojai
 
 
-1. Tyrėjai arba pripažinti menininkai aukštosiose mokyklose gali užimti šias dėstytojų pareigybes: profesoriaus, docento, asistento, jaunesniojo asistento. Asmenys, kurie nėra tyrėjai arba pripažinti menininkai, aukštosiose mokyklose gali užimti šias dėstytojų pareigybes: vyresniojo lektoriaus, lektoriaus. [[#^470b5f822b2e9e5ffc015e67|Šio straipsnio 8 dalyje]] nurodyti asmenys gali užimti dėstytojo praktiko pareigas. ^8a7664537e7ea37dfd1326ee
+1. Tyrėjai arba pripažinti menininkai aukštosiose mokyklose gali užimti šias dėstytojų pareigybes: profesoriaus, docento, asistento, jaunesniojo asistento. Asmenys, kurie nėra tyrėjai arba pripažinti menininkai, aukštosiose mokyklose gali užimti šias dėstytojų pareigybes: vyresniojo lektoriaus, lektoriaus. [[#^12e4411cc3bdbc616be8b835|Šio straipsnio 8 dalyje]] nurodyti asmenys gali užimti dėstytojo praktiko pareigas. ^04a363d1e363b241f73bad0a
 
 
-2. Profesoriaus pareigas gali eiti mokslininkas arba meno daktaras, esantis pirmaujantysis tyrėjas, arba pripažintas menininkas. Profesoriaus pareigas einantis pirmaujantysis tyrėjas turi rengti mokslininkus, dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą ir jiems vadovauti, skelbti tyrimų rezultatus. Profesoriaus pareigas einantis pripažintas menininkas turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje ir (arba) formuoti meno projektų tematiką ir jiems vadovauti. ^c3849f758be3e8f1f6def13a
+2. Profesoriaus pareigas gali eiti mokslininkas arba meno daktaras, esantis pirmaujantysis tyrėjas, arba pripažintas menininkas. Profesoriaus pareigas einantis pirmaujantysis tyrėjas turi rengti mokslininkus, dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą ir jiems vadovauti, skelbti tyrimų rezultatus. Profesoriaus pareigas einantis pripažintas menininkas turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje ir (arba) formuoti meno projektų tematiką ir jiems vadovauti. ^05a6ca58dd7d2175a015f2aa
 
 
-3. Docento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip pripažintas tyrėjas, arba pripažintas menininkas. Docento pareigas einantis ne žemesnės pakopos kaip pripažintas tyrėjas asmuo turi dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą, skelbti šios veiklos rezultatus. Docento pareigas einantis pripažintas menininkas turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje. ^d24c7eeb180f1af1e07a17fc
+3. Docento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip pripažintas tyrėjas, arba pripažintas menininkas. Docento pareigas einantis ne žemesnės pakopos kaip pripažintas tyrėjas asmuo turi dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą, skelbti šios veiklos rezultatus. Docento pareigas einantis pripažintas menininkas turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje. ^6f16d43069a00bdb3eb4ed5c
 
 
-4. Asistento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas, arba pripažintas menininkas. Asistentas turi vadovauti studentų praktiniams užsiėmimams (praktiniams darbams, pratyboms, studentų praktikai ir kt.), padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. Pastarasis reikalavimas gali būti netaikomas universiteto meno studijų asistentams. ^30b9bafa5b64701f1d7c8fd8
+4. Asistento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas, arba pripažintas menininkas. Asistentas turi vadovauti studentų praktiniams užsiėmimams (praktiniams darbams, pratyboms, studentų praktikai ir kt.), padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. Pastarasis reikalavimas gali būti netaikomas universiteto meno studijų asistentams. ^c5df23ab18b489bf26b731da
 
 
-5. Jaunesniojo asistento pareigas gali eiti pradedantysis tyrėjas. Jaunesnysis asistentas turi atlikti arba padėti atlikti dėstymo darbus bei padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. ^511dc63c7e96ca86feb3936c
+5. Jaunesniojo asistento pareigas gali eiti pradedantysis tyrėjas. Jaunesnysis asistentas turi atlikti arba padėti atlikti dėstymo darbus bei padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. ^c8811ac0b073f105bb29e7a5
 
 
-6. Į vyresniojo lektoriaus pareigas gali pretenduoti asmuo, turintis mokslo (meno) daktaro laipsnį. Vyresnysis lektorius turi dėstyti studentams, dirbti metodinį darbą. ^01893d52985d2464b0ef9914
+6. Į vyresniojo lektoriaus pareigas gali pretenduoti asmuo, turintis mokslo (meno) daktaro laipsnį. Vyresnysis lektorius turi dėstyti studentams, dirbti metodinį darbą. ^e44e2b5e97fe60724e1c0d6f
 
 
-7. Į lektoriaus pareigas gali pretenduoti asmuo, turintis ne žemesnį kaip magistro kvalifikacinį laipsnį ar jam lygiavertę aukštojo mokslo kvalifikaciją. Lektorius turi dėstyti studentams, dirbti metodinį darbą. ^0f933b884154e42584fca3b5
+7. Į lektoriaus pareigas gali pretenduoti asmuo, turintis ne žemesnį kaip magistro kvalifikacinį laipsnį ar jam lygiavertę aukštojo mokslo kvalifikaciją. Lektorius turi dėstyti studentams, dirbti metodinį darbą. ^1c887567ff4ddf37aacf9b06
 
 
-8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Su į šias pareigas aukštosios mokyklos nustatyta tvarka priimamais asmenimis gali būti sudaryta terminuota darbo sutartis ne ilgesniam kaip 2 metų laikotarpiui. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą ne mokslo ir studijų institucijose, turėti ne mažesnę kaip 3 metų tokio praktinio darbo, susijusio su dėstymo sritimi, patirtį, profesinių pasiekimų ir atitikti aukštosios mokyklos numatytas dėstymo kompetencijas. Aukštosioms mokykloms, į kurias dėstyti atvyksta dėstytojai praktikai iš užsienio valstybių, šiai akademinei veiklai švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto. ^470b5f822b2e9e5ffc015e67
+8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Su į šias pareigas aukštosios mokyklos nustatyta tvarka priimamais asmenimis gali būti sudaryta terminuota darbo sutartis ne ilgesniam kaip 2 metų laikotarpiui. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą ne mokslo ir studijų institucijose, turėti ne mažesnę kaip 3 metų tokio praktinio darbo, susijusio su dėstymo sritimi, patirtį, profesinių pasiekimų ir atitikti aukštosios mokyklos numatytas dėstymo kompetencijas. Aukštosioms mokykloms, į kurias dėstyti atvyksta dėstytojai praktikai iš užsienio valstybių, šiai akademinei veiklai švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto. ^12e4411cc3bdbc616be8b835
 
 
-9. Kvalifikacinius dėstytojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–[[#^0f933b884154e42584fca3b5|7 dalyse]], konkursų šioms pareigoms eiti organizavimo ir dėstytojų atestavimo tvarką nustato aukštoji mokykla. ^52cf070a49ce3481cc91b87b
+9. Kvalifikacinius dėstytojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–[[#^1c887567ff4ddf37aacf9b06|7 dalyse]], konkursų šioms pareigoms eiti organizavimo ir dėstytojų atestavimo tvarką nustato aukštoji mokykla. ^58e681f99cc591aed7febc65
 
 
 Straipsnio pakeitimai:
@@ -2376,25 +2410,25 @@ Nr. XIV-2308, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24175
 ### 66 straipsnis. Mokslo darbuotojai
 
 
-1. Mokslo ir studijų institucijų tyrėjai gali užimti šias mokslo darbuotojų pareigybes: vyriausiojo mokslo darbuotojo, vyresniojo mokslo darbuotojo, mokslo darbuotojo, mokslininko stažuotojo, jaunesniojo mokslo darbuotojo. ^ea7758a90dca4a96b6cc9f0a
+1. Mokslo ir studijų institucijų tyrėjai gali užimti šias mokslo darbuotojų pareigybes: vyriausiojo mokslo darbuotojo, vyresniojo mokslo darbuotojo, mokslo darbuotojo, mokslininko stažuotojo, jaunesniojo mokslo darbuotojo. ^bc901af263df62431e9f4ecd
 
 
-2. Vyriausiojo mokslo darbuotojo pareigas gali eiti pirmaujantysis tyrėjas. Vyriausiasis mokslo darbuotojas turi rengti mokslininkus, vadovauti moksliniams tyrimams ir eksperimentinei plėtrai, skelbti tyrimų rezultatus. ^d0c674f595de7b04ce571d0f
+2. Vyriausiojo mokslo darbuotojo pareigas gali eiti pirmaujantysis tyrėjas. Vyriausiasis mokslo darbuotojas turi rengti mokslininkus, vadovauti moksliniams tyrimams ir eksperimentinei plėtrai, skelbti tyrimų rezultatus. ^8e0608c22dea20f4d598292c
 
 
-3. Vyresniojo mokslo darbuotojo pareigas gali eiti tyrėjas, esantis ne žemesnės pakopos kaip pripažintas tyrėjas. Vyresnysis mokslo darbuotojas turi vadovauti moksliniams tyrimams ir eksperimentinei plėtrai, skelbti tyrimų rezultatus. ^1fe5e6f02c1d7f6f88c4f28c
+3. Vyresniojo mokslo darbuotojo pareigas gali eiti tyrėjas, esantis ne žemesnės pakopos kaip pripažintas tyrėjas. Vyresnysis mokslo darbuotojas turi vadovauti moksliniams tyrimams ir eksperimentinei plėtrai, skelbti tyrimų rezultatus. ^afdcdf42a3964ab80bef3175
 
 
-4. Mokslo darbuotojo pareigas gali eiti tyrėjas, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas. Mokslo darbuotojas turi atlikti mokslinius tyrimus ir vykdyti eksperimentinę plėtrą, skelbti šios veiklos rezultatus. ^a8725029f81b5fe472b5bb3d
+4. Mokslo darbuotojo pareigas gali eiti tyrėjas, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas. Mokslo darbuotojas turi atlikti mokslinius tyrimus ir vykdyti eksperimentinę plėtrą, skelbti šios veiklos rezultatus. ^e115e697bd94f930efe7266d
 
 
-5. Mokslininko stažuotojo pareigas gali eiti tyrėjas, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas, apgynęs daktaro disertaciją kitoje institucijoje ne anksčiau kaip prieš 7 metus iki skyrimo į šias pareigas dienos. Laikotarpis, kuriuo asmeniui buvo suteiktos nėštumo ir gimdymo, tėvystės atostogos ar atostogos vaikui prižiūrėti, į šį 7 metų laikotarpį neįtraukiamas. ^707a8158133a31e8a6013173
+5. Mokslininko stažuotojo pareigas gali eiti tyrėjas, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas, apgynęs daktaro disertaciją kitoje institucijoje ne anksčiau kaip prieš 7 metus iki skyrimo į šias pareigas dienos. Laikotarpis, kuriuo asmeniui buvo suteiktos nėštumo ir gimdymo, tėvystės atostogos ar atostogos vaikui prižiūrėti, į šį 7 metų laikotarpį neįtraukiamas. ^26a87cfbeced81fbbf258058
 
 
-6. Jaunesniojo mokslo darbuotojo pareigas gali eiti pradedantysis tyrėjas. Jaunesnysis mokslo darbuotojas turi atlikti arba padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. ^dc93f86ed4ab6e0d95521261
+6. Jaunesniojo mokslo darbuotojo pareigas gali eiti pradedantysis tyrėjas. Jaunesnysis mokslo darbuotojas turi atlikti arba padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. ^688d3e2ada2e1cfcd23f6f25
 
 
-7. Kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–[[#^dc93f86ed4ab6e0d95521261|6 dalyse]], konkursų šioms pareigoms eiti organizavimo ir mokslo darbuotojų atestavimo tvarką nustato mokslo ir studijų institucijos. Nustatydamos kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, mokslo ir studijų institucijos turi atsižvelgti į Lietuvos mokslo tarybos nustatytus reikalavimus dėl visų tyrėjų pakopų privalomų kompetencijų. ^491fe69ac00530aa24f84c37
+7. Kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–[[#^688d3e2ada2e1cfcd23f6f25|6 dalyse]], konkursų šioms pareigoms eiti organizavimo ir mokslo darbuotojų atestavimo tvarką nustato mokslo ir studijų institucijos. Nustatydamos kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, mokslo ir studijų institucijos turi atsižvelgti į Lietuvos mokslo tarybos nustatytus reikalavimus dėl visų tyrėjų pakopų privalomų kompetencijų. ^3cae88481297070283f4d9b8
 
 
 Straipsnio pakeitimai:
@@ -2405,22 +2439,22 @@ Nr. XIV-1482, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22950
 ### 67 straipsnis. Mokslo ir studijų institucijų administracija ir kiti darbuotojai
 
 
-1. Mokslo ir studijų institucijos turi turėti administraciją, būtiną institucijos ir institucijos padalinių administracinėms funkcijoms atlikti, taip pat administracijos ir kitų darbuotojų, reikalingų institucijos studijų, mokslinių tyrimų ir eksperimentinės plėtros, ūkinės veiklos uždaviniams įgyvendinti. ^827915b2d2364d25f5ee5aab
+1. Mokslo ir studijų institucijos turi turėti administraciją, būtiną institucijos ir institucijos padalinių administracinėms funkcijoms atlikti, taip pat administracijos ir kitų darbuotojų, reikalingų institucijos studijų, mokslinių tyrimų ir eksperimentinės plėtros, ūkinės veiklos uždaviniams įgyvendinti. ^bb9bde71a7eef2e49c7e6a7b
 
 
-2. Administraciją sudaro mokslo ir studijų institucijų darbuotojai, išskyrus aukštųjų mokyklų akademinių padalinių, kurie įeina į kitų akademinių padalinių sudėtį, ir mokslinių tyrimų institutų akademinių padalinių vadovus, kurie turi teisę pagal savo kompetenciją duoti privalomus nurodymus sau pavaldiems darbuotojams. Be administracinių pareigų, jie gali dirbti pedagoginį ir (arba) mokslinį darbą. Mokslo ir studijų institucijų akademinis padalinys yra toks padalinys, kurio pagrindinė veikla yra studijų vykdymas ir (arba) moksliniai tyrimai ir eksperimentinė plėtra. ^5e69d4d920142ed89171bf1d
+2. Administraciją sudaro mokslo ir studijų institucijų darbuotojai, išskyrus aukštųjų mokyklų akademinių padalinių, kurie įeina į kitų akademinių padalinių sudėtį, ir mokslinių tyrimų institutų akademinių padalinių vadovus, kurie turi teisę pagal savo kompetenciją duoti privalomus nurodymus sau pavaldiems darbuotojams. Be administracinių pareigų, jie gali dirbti pedagoginį ir (arba) mokslinį darbą. Mokslo ir studijų institucijų akademinis padalinys yra toks padalinys, kurio pagrindinė veikla yra studijų vykdymas ir (arba) moksliniai tyrimai ir eksperimentinė plėtra. ^c8d84619223b68136d8d7c09
 
 
-21. Aukštųjų mokyklų pirmosios ir antrosios studijų pakopų arba vientisųjų studijų studentai mokslo ir studijų institucijose gali užimti tyrėjo padėjėjo pareigas. Tyrėjo padėjėjas padeda tyrėjams, siekdamas įgyti pedagoginio, mokslinio darbo ir profesionalios veiklos patirties. Su tyrėjo padėjėjais sudaromos terminuotos darbo sutartys, trunkančios ne ilgiau kaip iki studijų aukštojoje mokykloje pabaigos ar studijų nutraukimo dienos, tačiau ne ilgiau kaip 5 metų laikotarpiui. Tyrėjų padėjėjų priėmimo į pareigas reikalavimus ir jų darbo apmokėjimo sąlygas nustato mokslo ir studijų institucijos. ^2d4c67dc2f1c3a7eefe2b866
+21. Aukštųjų mokyklų pirmosios ir antrosios studijų pakopų arba vientisųjų studijų studentai mokslo ir studijų institucijose gali užimti tyrėjo padėjėjo pareigas. Tyrėjo padėjėjas padeda tyrėjams, siekdamas įgyti pedagoginio, mokslinio darbo ir profesionalios veiklos patirties. Su tyrėjo padėjėjais sudaromos terminuotos darbo sutartys, trunkančios ne ilgiau kaip iki studijų aukštojoje mokykloje pabaigos ar studijų nutraukimo dienos, tačiau ne ilgiau kaip 5 metų laikotarpiui. Tyrėjų padėjėjų priėmimo į pareigas reikalavimus ir jų darbo apmokėjimo sąlygas nustato mokslo ir studijų institucijos. ^4361bb9cc2ba1228186ce75d
 Papildyta straipsnio dalimi:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-3. Administracijos ir kitų mokslo ir studijų institucijų darbuotojų skaičių, jų pareigas ir funkcijas nustato mokslo ir studijų institucijos. ^72736f1b6162fa8bdb326258
+3. Administracijos ir kitų mokslo ir studijų institucijų darbuotojų skaičių, jų pareigas ir funkcijas nustato mokslo ir studijų institucijos. ^2d271b24d94bd89d7c974331
 
 
-4. Valstybinės aukštosios mokyklos statute gali būti nustatyta, kad su rektoriaus (direktoriaus) ar senato į pareigas skiriamais aukštosios mokyklos prorektoriais (direktoriaus pavaduotojais), kancleriu, fakultetų dekanais, prodekanais, katedrų vedėjais, centrų, institutų ar kitų akademinių padalinių vadovais gali būti sudaromos terminuotos darbo sutartys ne ilgesnei kaip 5 metų kadencijai, o su prorektoriais (direktoriaus pavaduotojais), kancleriu gali būti sudaromos terminuotos darbo sutartys ir rektoriaus (direktoriaus) įgaliojimų laikotarpiui. ^ad77df9f53aa443d81408021
+4. Valstybinės aukštosios mokyklos statute gali būti nustatyta, kad su rektoriaus (direktoriaus) ar senato į pareigas skiriamais aukštosios mokyklos prorektoriais (direktoriaus pavaduotojais), kancleriu, fakultetų dekanais, prodekanais, katedrų vedėjais, centrų, institutų ar kitų akademinių padalinių vadovais gali būti sudaromos terminuotos darbo sutartys ne ilgesnei kaip 5 metų kadencijai, o su prorektoriais (direktoriaus pavaduotojais), kancleriu gali būti sudaromos terminuotos darbo sutartys ir rektoriaus (direktoriaus) įgaliojimų laikotarpiui. ^93d08bfbd0897d39cc07f809
 Papildyta straipsnio dalimi:
 Nr. XIV-2845, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12155
 
@@ -2429,26 +2463,26 @@ Nr. XIV-2845, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12155
 ### 68 straipsnis. Kviestiniai dėstytojai ir mokslo darbuotojai
 
 
-1. Mokslo ir studijų institucijos, siekdamos užtikrinti vykdomos studijų ir mokslinės veiklos kokybę, gali ne ilgesniam kaip 2 metų laikotarpiui kviesti kitų mokslo ir studijų institucijų dėstytojus ir mokslo darbuotojus, atitinkančius pirmaujančiojo ar pripažinto tyrėjo karjeros pakopos reikalavimus. Šiems darbuotojams suteikiamas kviečiančios mokslo ir studijų institucijos kviestinio dėstytojo ar mokslo darbuotojo statusas. Su tokiais darbuotojais gali būti sudaromos terminuotos darbo sutartys. ^c4dcc75a643269fff54c6283
+1. Mokslo ir studijų institucijos, siekdamos užtikrinti vykdomos studijų ir mokslinės veiklos kokybę, gali ne ilgesniam kaip 2 metų laikotarpiui kviesti kitų mokslo ir studijų institucijų dėstytojus ir mokslo darbuotojus, atitinkančius pirmaujančiojo ar pripažinto tyrėjo karjeros pakopos reikalavimus. Šiems darbuotojams suteikiamas kviečiančios mokslo ir studijų institucijos kviestinio dėstytojo ar mokslo darbuotojo statusas. Su tokiais darbuotojais gali būti sudaromos terminuotos darbo sutartys. ^e4fe52bea2b9fb4ed8f5b829
 Straipsnio dalies pakeitimai:
 Nr. XIV-1951, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09696
 
 
 
-2. Kviestiniams dėstytojams ir mokslo darbuotojams skyrimo į pareigas tvarka, nustatyta šiame įstatyme, netaikoma. ^33c5c96a25948a00056ca229
+2. Kviestiniams dėstytojams ir mokslo darbuotojams skyrimo į pareigas tvarka, nustatyta šiame įstatyme, netaikoma. ^2cf71e4cb1fc92a914277bd9
 
 
-3. Aukštosioms mokykloms, į kurias dėstyti atvyksta kviestiniai dėstytojai iš užsienio šalių, šiai akademinei veiklai švietimo ir mokslo ministro nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto. ^4f0ad30aefb95100cda3df9a
+3. Aukštosioms mokykloms, į kurias dėstyti atvyksta kviestiniai dėstytojai iš užsienio šalių, šiai akademinei veiklai švietimo ir mokslo ministro nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto. ^46f9cc957ccd48266645db88
 
 
 
 ### 69 straipsnis. Asocijuotieji mokslininkai ir dėstytojai
 
 
-1. Asocijuotojo mokslininko ar dėstytojo statusas Lietuvos mokslo ir studijų institucijų senato (akademinės tarybos) ar mokslo tarybos sprendimu gali būti suteikiamas toje mokslo ir studijų institucijoje pagal neterminuotą darbo sutartį dirbusiam mokslininkui ar dėstytojui, palaikančiam su šia institucija mokslinius ar meninius ryšius – rengiančiam su institucijos darbuotojais bendras mokslines ar menines publikacijas, vykdančiam su jais bendrus mokslinius tyrimus, eksperimentinės plėtros ar meno projektus, konsultuojančiam juos mokslo, meno ar pedagoginiais klausimais ar panašiai, bet ne ilgiau kaip iki neterminuotos darbo sutarties pabaigos. ^b857820cf112664141a917c0
+1. Asocijuotojo mokslininko ar dėstytojo statusas Lietuvos mokslo ir studijų institucijų senato (akademinės tarybos) ar mokslo tarybos sprendimu gali būti suteikiamas toje mokslo ir studijų institucijoje pagal neterminuotą darbo sutartį dirbusiam mokslininkui ar dėstytojui, palaikančiam su šia institucija mokslinius ar meninius ryšius – rengiančiam su institucijos darbuotojais bendras mokslines ar menines publikacijas, vykdančiam su jais bendrus mokslinius tyrimus, eksperimentinės plėtros ar meno projektus, konsultuojančiam juos mokslo, meno ar pedagoginiais klausimais ar panašiai, bet ne ilgiau kaip iki neterminuotos darbo sutarties pabaigos. ^62a43c5954c25cf74880269b
 
 
-2. Asocijuotasis mokslininkas ar dėstytojas gali be konkurso grįžti į ankstesnes pareigas, jeigu tam pritaria mokslo ir studijų institucijos senatas (akademinė taryba) ar mokslo taryba ir jeigu pateikus prašymą grąžinti į ankstesnes pareigas yra atliekama jo neeilinė atestacija. Jeigu asocijuotojo mokslininko ar dėstytojo veikla atlikus neeilinę atestaciją įvertinama teigiamai, su juo yra sudaroma neterminuota darbo sutartis. ^5276567fd8674e87a7957de1
+2. Asocijuotasis mokslininkas ar dėstytojas gali be konkurso grįžti į ankstesnes pareigas, jeigu tam pritaria mokslo ir studijų institucijos senatas (akademinė taryba) ar mokslo taryba ir jeigu pateikus prašymą grąžinti į ankstesnes pareigas yra atliekama jo neeilinė atestacija. Jeigu asocijuotojo mokslininko ar dėstytojo veikla atlikus neeilinę atestaciją įvertinama teigiamai, su juo yra sudaroma neterminuota darbo sutartis. ^38c977a82a8c4a6651b6ab03
 
 
 Straipsnio pakeitimai:
@@ -2459,99 +2493,99 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 ### 70 straipsnis. Profesoriai emeritai ir mokslininkai emeritai
 
 
-1. Profesoriams, aktyviai dirbusiems mokslinį ar meninį ir (ar) pedagoginį darbą aukštojoje mokykloje, už ypatingus nuopelnus mokslui ar menui aukštosios mokyklos senatas (akademinė taryba) gali suteikti profesoriaus emerito vardą. Vyriausiesiems mokslo darbuotojams, aktyviai dirbusiems mokslinį darbą ir rengusiems mokslininkus valstybiniame mokslinių tyrimų institute, už ypatingus nuopelnus mokslui valstybinio mokslinių tyrimų instituto taryba gali suteikti mokslininko emerito vardą. ^90fdbc43b6a70099b477096f
+1. Profesoriams, aktyviai dirbusiems mokslinį ar meninį ir (ar) pedagoginį darbą aukštojoje mokykloje, už ypatingus nuopelnus mokslui ar menui aukštosios mokyklos senatas (akademinė taryba) gali suteikti profesoriaus emerito vardą. Vyriausiesiems mokslo darbuotojams, aktyviai dirbusiems mokslinį darbą ir rengusiems mokslininkus valstybiniame mokslinių tyrimų institute, už ypatingus nuopelnus mokslui valstybinio mokslinių tyrimų instituto taryba gali suteikti mokslininko emerito vardą. ^180b6f3e9c68984c19fb0194
 
 
-2. Profesoriui emeritui ir mokslininkui emeritui mokslo ir studijų institucijos statute (įstatuose) nustatyta tvarka sudaromos sąlygos dalyvauti mokslo ir studijų institucijos mokslinėje ir kitoje veikloje. ^da132e2e4045eff76cae8b24
+2. Profesoriui emeritui ir mokslininkui emeritui mokslo ir studijų institucijos statute (įstatuose) nustatyta tvarka sudaromos sąlygos dalyvauti mokslo ir studijų institucijos mokslinėje ir kitoje veikloje. ^81a2f22cf609b0e97b80f7e7
 
 
-3. Profesoriui emeritui ir mokslininkui emeritui mokslo ir studijų institucijos nustatyta tvarka iš mokslo ir studijų institucijos lėšų mokama mokslo ir studijų institucijos tarybos (mokslo tarybos) nustatyto dydžio profesoriaus emerito ar mokslininko emerito mėnesinė išmoka. ^80f14aebf10dc2d04aef5589
+3. Profesoriui emeritui ir mokslininkui emeritui mokslo ir studijų institucijos nustatyta tvarka iš mokslo ir studijų institucijos lėšų mokama mokslo ir studijų institucijos tarybos (mokslo tarybos) nustatyto dydžio profesoriaus emerito ar mokslininko emerito mėnesinė išmoka. ^473f1fc45cf3759f7847cde3
 
 
 
 ### 71 straipsnis. Mokslo ir studijų institucijų personalo teisės ir pareigos
 
 
-1. Mokslo ir studijų institucijų personalas teisės aktų nustatyta tvarka turi teisę: ^1b98eee95b57b22b5d3f5335
+1. Mokslo ir studijų institucijų personalas teisės aktų nustatyta tvarka turi teisę: ^31ef275b3e1a424fb70d8da1
 
 
-1) pagal kompetenciją dalyvauti konkursuose mokslo programoms vykdyti bei mokslo ir studijų fondų paramai gauti, disponuoti skirtomis lėšomis; ^1e7715d3d1b9742f1986eabc
+1) pagal kompetenciją dalyvauti konkursuose mokslo programoms vykdyti bei mokslo ir studijų fondų paramai gauti, disponuoti skirtomis lėšomis; ^b04a032b57c9caed4ff1bbbc
 
 
-2) dalyvauti konkursuose stažuotėms Lietuvos Respublikoje ir užsienyje; ^44eba4b4ccda9dae2ad928c8
+2) dalyvauti konkursuose stažuotėms Lietuvos Respublikoje ir užsienyje; ^d213b7600f83e453cd9d063b
 
 
-3) gauti iš valstybės institucijų moksliniam darbui reikalingą informaciją. Jeigu tokia informacija yra valstybės ar tarnybos paslaptis, ji teikiama ir naudojama teisės aktų nustatyta tvarka; ^c0115789fd73ed5bfd143773
+3) gauti iš valstybės institucijų moksliniam darbui reikalingą informaciją. Jeigu tokia informacija yra valstybės ar tarnybos paslaptis, ji teikiama ir naudojama teisės aktų nustatyta tvarka; ^f68a4836ed8612b4c7819544
 
 
-4) dalyvauti svarstant savo institucijos statutą (įstatus, nuostatus) ir veiklos kryptis; ^5247904a22fae6f57d2e83b6
+4) dalyvauti svarstant savo institucijos statutą (įstatus, nuostatus) ir veiklos kryptis; ^2b02dc37da64058ee22b75c7
 
 
-5) dalyvauti įvairiose profesinėse sąjungose ir asociacijose, tarp jų ir veikiančiose užsienyje; ^a641faeb0d584a1e62c16701
+5) dalyvauti įvairiose profesinėse sąjungose ir asociacijose, tarp jų ir veikiančiose užsienyje; ^8d51f6071160ea7e8512b5d0
 
 
-6) dirbti savarankiškai arba burtis į kūrybines grupes; ^d223aada8ed964e4342bae15
+6) dirbti savarankiškai arba burtis į kūrybines grupes; ^4b1a8af27c963c7ee42bed18
 
 
-7) savarankiškai skelbti savo mokslo ir (arba) meno darbus. ^c70f9c6e2c3380e11163fa71
+7) savarankiškai skelbti savo mokslo ir (arba) meno darbus. ^b14b205b35923d2d2af092a3
 
 
-2. Dėstytojai per 5 metų kadencijos laikotarpį arba kas 5 metai gali būti ne ilgiau kaip vieniems metams atleidžiami nuo pedagoginio darbo moksliniams ir (arba) meniniams tyrimams atlikti bei mokslinei ir (arba) meninei, ir (arba) pedagoginei kvalifikacijai tobulinti. Per šį laikotarpį dėstytojui mokamas vidutinis jo darbo užmokestis. ^4a08c7e15f89fd2622a69319
+2. Dėstytojai per 5 metų kadencijos laikotarpį arba kas 5 metai gali būti ne ilgiau kaip vieniems metams atleidžiami nuo pedagoginio darbo moksliniams ir (arba) meniniams tyrimams atlikti bei mokslinei ir (arba) meninei, ir (arba) pedagoginei kvalifikacijai tobulinti. Per šį laikotarpį dėstytojui mokamas vidutinis jo darbo užmokestis. ^8a9d011121ceec432b15fe4d
 
 
-3. Dėstytojai ir mokslo darbuotojai gali gauti valstybės paramą mokslinėms stažuotėms, taip pat paramą dalyvauti mokslinėse konferencijose užsienyje, dėstyti užsienio valstybių mokslo ir studijų institucijose. Šią paramą administruoja Lietuvos mokslo taryba savo nustatyta tvarka. Valstybės paramą taip pat gali teikti ir kitos valstybės institucijos. Dėstytojams ir mokslo darbuotojams, vykstantiems į mokslines stažuotes užsienyje pagal tarptautines sutartis, valstybės parama skiriama švietimo, mokslo ir sporto ministro nustatyta tvarka. Šią paramą teikia Lietuvos mokslo taryba ir kitos valstybės institucijos. ^cf58ce1953d9f227a24e63d8
+3. Dėstytojai ir mokslo darbuotojai gali gauti valstybės paramą mokslinėms stažuotėms, taip pat paramą dalyvauti mokslinėse konferencijose užsienyje, dėstyti užsienio valstybių mokslo ir studijų institucijose. Šią paramą administruoja Lietuvos mokslo taryba savo nustatyta tvarka. Valstybės paramą taip pat gali teikti ir kitos valstybės institucijos. Dėstytojams ir mokslo darbuotojams, vykstantiems į mokslines stažuotes užsienyje pagal tarptautines sutartis, valstybės parama skiriama švietimo, mokslo ir sporto ministro nustatyta tvarka. Šią paramą teikia Lietuvos mokslo taryba ir kitos valstybės institucijos. ^0d8c6ec778a61fabe5907bd0
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-4. Mokslo ir studijų institucijų personalas privalo: ^2b39ea2d1b00e06e488b5081
+4. Mokslo ir studijų institucijų personalas privalo: ^7f60fe09dc2cad460c17e11e
 
 
-1) laikytis Akademinės etikos kodekso; ^92f44863c57061c06a6a8dd6
+1) laikytis Akademinės etikos kodekso; ^7360701fc9942b464e81184a
 
 
-2) atlikti savo institucijos statute (įstatuose) ir darbo sutartyse nustatytas pareigas. ^a994bcbd9773daad2fdfb1b5
+2) atlikti savo institucijos statute (įstatuose) ir darbo sutartyse nustatytas pareigas. ^772869a97e4abf0fcf4a533c
 
 
-5. Akademinės bendruomenės nariai ir kiti asmenys už akademinės etikos pažeidimus atsako teisės aktų nustatyta tvarka. ^b6a338ec33feb0bc07b63375
+5. Akademinės bendruomenės nariai ir kiti asmenys už akademinės etikos pažeidimus atsako teisės aktų nustatyta tvarka. ^e389eab3394018a86485f64d
 
 
 
 ### 72 straipsnis. Priėmimas į mokslo ir studijų institucijų dėstytojų ir mokslo darbuotojų pareigas
 
 
-1. Į mokslo ir studijų institucijų dėstytojų ir mokslo darbuotojų, išskyrus asmenis, nurodytus šio įstatymo [[#^470b5f822b2e9e5ffc015e67|65 straipsnio 8 dalyje]], [[#68 straipsnis. Kviestiniai dėstytojai ir mokslo darbuotojai|68 straipsnyje]] ir šio straipsnio 10 ir [[#^9c1b2e09e77504b6b124f81e|11 dalyse]], pareigas asmenys priimami dirbti ne mažiau kaip 0,25 darbo laiko normos viešo konkurso būdu. Mokslo ir studijų institucijos nustatyti dėstytojų ir mokslo darbuotojų pareigybių kvalifikaciniai reikalavimai ir privalomos mokslo ir studijų institucijos tyrėjų kompetencijos šios institucijos nustatyta tvarka skelbiami viešai šios institucijos interneto svetainėje. ^3291f96679ea1b28502b9905
+1. Į mokslo ir studijų institucijų dėstytojų ir mokslo darbuotojų, išskyrus asmenis, nurodytus šio įstatymo [[#^12e4411cc3bdbc616be8b835|65 straipsnio 8 dalyje]], [[#68 straipsnis. Kviestiniai dėstytojai ir mokslo darbuotojai|68 straipsnyje]] ir šio straipsnio 10 ir [[#^a3fe3d8ad2a8f7d0feb4c09a|11 dalyse]], pareigas asmenys priimami dirbti ne mažiau kaip 0,25 darbo laiko normos viešo konkurso būdu. Mokslo ir studijų institucijos nustatyti dėstytojų ir mokslo darbuotojų pareigybių kvalifikaciniai reikalavimai ir privalomos mokslo ir studijų institucijos tyrėjų kompetencijos šios institucijos nustatyta tvarka skelbiami viešai šios institucijos interneto svetainėje. ^269daeefc7aad26fee8de3c6
 
 
-2. Viešas konkursas [[#^3291f96679ea1b28502b9905|šio straipsnio 1 dalyje]] išvardytoms pareigoms eiti skelbiamas ne vėliau kaip 6 mėnesiai iki numatomos darbo pradžios. Pranešimas apie konkursą pareigoms eiti turi būti skelbiamas mokslo ir studijų institucijos ir Lietuvos mokslo tarybos interneto svetainėse, šalies ir, jeigu tikslinga, tarptautinėse visuomenės informavimo priemonėse. Konkurso sąlygose, inter alia, turi būti numatyta, kad pretendentas pateikia savo veiklos planą 5 metų laikotarpiui. ^c0341b9f29da1f7ba1f68bca
+2. Viešas konkursas [[#^269daeefc7aad26fee8de3c6|šio straipsnio 1 dalyje]] išvardytoms pareigoms eiti skelbiamas ne vėliau kaip 6 mėnesiai iki numatomos darbo pradžios. Pranešimas apie konkursą pareigoms eiti turi būti skelbiamas mokslo ir studijų institucijos ir Lietuvos mokslo tarybos interneto svetainėse, šalies ir, jeigu tikslinga, tarptautinėse visuomenės informavimo priemonėse. Konkurso sąlygose, inter alia, turi būti numatyta, kad pretendentas pateikia savo veiklos planą 5 metų laikotarpiui. ^4a7c97614428b8119ec0b81d
 
 
-3. Kandidatus dėstytojų ir mokslo darbuotojų pareigoms eiti vertina priėmimo komisija, sudaroma mokslo ir studijų institucijos nustatyta tvarka. Ne mažiau kaip vieną trečdalį priėmimo komisijos narių sudaro šioje mokslo ir studijų institucijoje nedirbantys asmenys, o aukštosiose mokyklose – papildomai ne mažiau kaip vienas iš jų – studentų atstovybės (jeigu jos nėra, – studentų visuotinio narių susirinkimo (konferencijos)) deleguotas atstovas. Rengiant konkursą profesoriaus ar vyriausiojo mokslo darbuotojo pareigoms eiti, priėmimo komisijoje turi būti bent vienas tarptautinis ekspertas. ^e7dcc475b80634307ba8e2c2
+3. Kandidatus dėstytojų ir mokslo darbuotojų pareigoms eiti vertina priėmimo komisija, sudaroma mokslo ir studijų institucijos nustatyta tvarka. Ne mažiau kaip vieną trečdalį priėmimo komisijos narių sudaro šioje mokslo ir studijų institucijoje nedirbantys asmenys, o aukštosiose mokyklose – papildomai ne mažiau kaip vienas iš jų – studentų atstovybės (jeigu jos nėra, – studentų visuotinio narių susirinkimo (konferencijos)) deleguotas atstovas. Rengiant konkursą profesoriaus ar vyriausiojo mokslo darbuotojo pareigoms eiti, priėmimo komisijoje turi būti bent vienas tarptautinis ekspertas. ^d59e0bf8c1584468b3f2209b
 
 
-4. Su asmeniu, mokslo ir studijų institucijoje laimėjusiu konkursą dėstytojo ar mokslo darbuotojo pareigoms eiti, sudaroma terminuota darbo sutartis 5 metų laikotarpiui ir mokslo ir studijų institucijos nustatyta tvarka tam pačiam laikotarpiui patvirtinamas su mokslo ir studijų institucijos veiklos planais ir prioritetais suderintas jo veiklos planas. Likus ne mažiau kaip 3 mėnesiams iki terminuotos darbo sutarties pabaigos, mokslo ir studijų institucijos nustatyta tvarka vykdomas darbuotojo veiklos per šį laikotarpį vertinimas. Jeigu likus 3 mėnesiams iki terminuotos darbo sutarties pabaigos asmuo yra laikinai nedarbingas arba išėjęs nėštumo ir gimdymo, vaiko priežiūros ar tėvystės atostogų, jo veiklos vertinimas vykdomas pasibaigus laikinajam nedarbingumui ar grįžus iš šioje dalyje nurodytų atostogų. Laikotarpis, kuriuo asmeniui mokslo ir studijų institucija buvo suteikusi nėštumo ir gimdymo, tėvystės atostogas ar atostogas vaikui prižiūrėti, į 5 metų laikotarpį neįtraukiamas. Šioje dalyje nurodytas pareigas einančių asmenų veiklos vertinimo reikalavimus nustato mokslo ir studijų institucija. Šie reikalavimai turi būti ne žemesni kaip konkurso dėstytojo ar mokslo darbuotojo pareigoms eiti reikalavimai ir apimti veiklos plano vykdymo įvertinimą. Jeigu šioje dalyje nurodytas pareigas einančio asmens veikla įvertinama neigiamai, jis atleidžiamas. Darbuotojas, kurio veikla įvertinama neigiamai, apie atleidimą iš darbo turi būti įspėtas ne vėliau kaip prieš dešimt darbo dienų. Atleidžiamam darbuotojui išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išmoka. Jeigu darbuotojo veikla įvertinama teigiamai, su šiuo dėstytoju ar mokslo darbuotoju tęsiami darbo santykiai sudarius neterminuotą darbo sutartį toms pačioms pareigoms eiti. ^f56f158d90d89224daf8cb04
+4. Su asmeniu, mokslo ir studijų institucijoje laimėjusiu konkursą dėstytojo ar mokslo darbuotojo pareigoms eiti, sudaroma terminuota darbo sutartis 5 metų laikotarpiui ir mokslo ir studijų institucijos nustatyta tvarka tam pačiam laikotarpiui patvirtinamas su mokslo ir studijų institucijos veiklos planais ir prioritetais suderintas jo veiklos planas. Likus ne mažiau kaip 3 mėnesiams iki terminuotos darbo sutarties pabaigos, mokslo ir studijų institucijos nustatyta tvarka vykdomas darbuotojo veiklos per šį laikotarpį vertinimas. Jeigu likus 3 mėnesiams iki terminuotos darbo sutarties pabaigos asmuo yra laikinai nedarbingas arba išėjęs nėštumo ir gimdymo, vaiko priežiūros ar tėvystės atostogų, jo veiklos vertinimas vykdomas pasibaigus laikinajam nedarbingumui ar grįžus iš šioje dalyje nurodytų atostogų. Laikotarpis, kuriuo asmeniui mokslo ir studijų institucija buvo suteikusi nėštumo ir gimdymo, tėvystės atostogas ar atostogas vaikui prižiūrėti, į 5 metų laikotarpį neįtraukiamas. Šioje dalyje nurodytas pareigas einančių asmenų veiklos vertinimo reikalavimus nustato mokslo ir studijų institucija. Šie reikalavimai turi būti ne žemesni kaip konkurso dėstytojo ar mokslo darbuotojo pareigoms eiti reikalavimai ir apimti veiklos plano vykdymo įvertinimą. Jeigu šioje dalyje nurodytas pareigas einančio asmens veikla įvertinama neigiamai, jis atleidžiamas. Darbuotojas, kurio veikla įvertinama neigiamai, apie atleidimą iš darbo turi būti įspėtas ne vėliau kaip prieš dešimt darbo dienų. Atleidžiamam darbuotojui išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išmoka. Jeigu darbuotojo veikla įvertinama teigiamai, su šiuo dėstytoju ar mokslo darbuotoju tęsiami darbo santykiai sudarius neterminuotą darbo sutartį toms pačioms pareigoms eiti. ^dc3bd44f86fb9eff37bc69ea
 
 
-5. Mokslo ir studijų institucija gali nustatyti neterminuotos darbo sutarties pabaigą su mokslo darbuotojais ar dėstytojais, sulaukusiais pensinio amžiaus. Tokiu atveju neterminuota darbo sutartis turi pasibaigti ne anksčiau kaip mokslo ir studijų institucijos nustatytą paskutinę studijų (mokslo) metų, kuriais mokslo darbuotojas ar dėstytojas sulaukia pensinio amžiaus, pabaigos dieną. Nutraukus neterminuotą darbo sutartį, su pensinio amžiaus sulaukusiu mokslo darbuotoju ir dėstytoju gali būti tęsiami darbo santykiai pagal terminuotą darbo sutartį toms pačioms pareigoms eiti ne ilgesnį kaip 3 metų laikotarpį. Tokiai terminuotai darbo sutarčiai turi pritarti universiteto senatas (kolegijos akademinė taryba, mokslinių tyrimų instituto mokslo taryba), įvertinęs, kad šio darbuotojo darbas yra reikalingas siekiant užtikrinti mokslo ir studijų institucijoje vykdomų studijų programų ir (ar) mokslinių tyrimų tęstinumą. Tokia sutartis universiteto senato (kolegijos akademinės tarybos, mokslinių tyrimų instituto mokslo tarybos) pritarimu vieną kartą gali būti sudaroma pakartotinai. Sudarius pakartotinę terminuotą darbo sutartį asmenys yra atestuojami [[#^6cf3751ba8eaa06830f5e6ed|šio straipsnio 6 dalyje]] nustatyta tvarka, atestacijos laikotarpį skaičiuojant nuo paskutinės atestacijos, atliktos dirbant pagal neterminuotą darbo sutartį šioje mokslo ir studijų institucijoje, dienos. ^99d17e1ca7b915dad0fe929c
+5. Mokslo ir studijų institucija gali nustatyti neterminuotos darbo sutarties pabaigą su mokslo darbuotojais ar dėstytojais, sulaukusiais pensinio amžiaus. Tokiu atveju neterminuota darbo sutartis turi pasibaigti ne anksčiau kaip mokslo ir studijų institucijos nustatytą paskutinę studijų (mokslo) metų, kuriais mokslo darbuotojas ar dėstytojas sulaukia pensinio amžiaus, pabaigos dieną. Nutraukus neterminuotą darbo sutartį, su pensinio amžiaus sulaukusiu mokslo darbuotoju ir dėstytoju gali būti tęsiami darbo santykiai pagal terminuotą darbo sutartį toms pačioms pareigoms eiti ne ilgesnį kaip 3 metų laikotarpį. Tokiai terminuotai darbo sutarčiai turi pritarti universiteto senatas (kolegijos akademinė taryba, mokslinių tyrimų instituto mokslo taryba), įvertinęs, kad šio darbuotojo darbas yra reikalingas siekiant užtikrinti mokslo ir studijų institucijoje vykdomų studijų programų ir (ar) mokslinių tyrimų tęstinumą. Tokia sutartis universiteto senato (kolegijos akademinės tarybos, mokslinių tyrimų instituto mokslo tarybos) pritarimu vieną kartą gali būti sudaroma pakartotinai. Sudarius pakartotinę terminuotą darbo sutartį asmenys yra atestuojami [[#^021f407b2b23eba1c4d60bf0|šio straipsnio 6 dalyje]] nustatyta tvarka, atestacijos laikotarpį skaičiuojant nuo paskutinės atestacijos, atliktos dirbant pagal neterminuotą darbo sutartį šioje mokslo ir studijų institucijoje, dienos. ^6f13b665b4c8a602c724b744
 
 
-6. Dėstytojui ar mokslo darbuotojui, dirbančiam pagal neterminuotą darbo sutartį, laimėjus konkursą eiti kitas dėstytojo ar mokslo darbuotojo pareigas toje pačioje mokslo ir studijų institucijoje, jo darbo santykiai jam einant naujas pareigas tęsiami pagal neterminuotą darbo sutartį. Jeigu konkurso sąlygas atitinka vienintelis kandidatas, toje mokslo ir studijų institucijoje pagal neterminuotą darbo sutartį einantis docento, asistento, lektoriaus, vyresniojo mokslo darbuotojo ar mokslo darbuotojo pareigas, jis gali būti perkeltas į aukštesnes pareigas toje pačioje mokslo ir studijų institucijoje (atitinkamai į profesoriaus, docento, vyresniojo lektoriaus, vyriausiojo mokslo darbuotojo ir vyresniojo mokslo darbuotojo) be konkurso. ^6cf3751ba8eaa06830f5e6ed
+6. Dėstytojui ar mokslo darbuotojui, dirbančiam pagal neterminuotą darbo sutartį, laimėjus konkursą eiti kitas dėstytojo ar mokslo darbuotojo pareigas toje pačioje mokslo ir studijų institucijoje, jo darbo santykiai jam einant naujas pareigas tęsiami pagal neterminuotą darbo sutartį. Jeigu konkurso sąlygas atitinka vienintelis kandidatas, toje mokslo ir studijų institucijoje pagal neterminuotą darbo sutartį einantis docento, asistento, lektoriaus, vyresniojo mokslo darbuotojo ar mokslo darbuotojo pareigas, jis gali būti perkeltas į aukštesnes pareigas toje pačioje mokslo ir studijų institucijoje (atitinkamai į profesoriaus, docento, vyresniojo lektoriaus, vyriausiojo mokslo darbuotojo ir vyresniojo mokslo darbuotojo) be konkurso. ^021f407b2b23eba1c4d60bf0
 
 
-7. Neterminuotos darbo sutarties laikotarpiu dėstytojo ar mokslo darbuotojo pareigas einantis asmuo atestuojamas kas 5 metai arba jam gali būti rengiama neeilinė atestacija mokslo ir studijų institucijos nustatyta tvarka. Tokių asmenų atestacijos reikalavimus nustato mokslo ir studijų institucija. Šie reikalavimai turi būti ne žemesni kaip viešo konkurso dėstytojo ar mokslo darbuotojo pareigoms eiti reikalavimai. Laikotarpis, kuriuo asmeniui mokslo ir studijų institucija buvo suteikusi nėštumo ir gimdymo, tėvystės atostogas ar atostogas vaikui prižiūrėti, taip pat ligos laikotarpis, trunkantis ilgiau kaip 3 mėnesius, į atestacijos laikotarpį neįtraukiamas. Neatestuotas darbuotojas atleidžiamas iš darbo. Atleidžiamam darbuotojui taikomos garantijos, nustatytos Lietuvos Respublikos darbo kodekso [[#57 straipsnis. Formaliojo ir neformaliojo švietimo bei savišvietos būdu įgytų kompetencijų vertinimas ir pripažinimas|57 straipsnio]] 7, 8, [[#^8808efc9f31acb4b01efbd0f|9 dalyse]]. ^7c70dc4bdbcb00b21bc4c89d
+7. Neterminuotos darbo sutarties laikotarpiu dėstytojo ar mokslo darbuotojo pareigas einantis asmuo atestuojamas kas 5 metai arba jam gali būti rengiama neeilinė atestacija mokslo ir studijų institucijos nustatyta tvarka. Tokių asmenų atestacijos reikalavimus nustato mokslo ir studijų institucija. Šie reikalavimai turi būti ne žemesni kaip viešo konkurso dėstytojo ar mokslo darbuotojo pareigoms eiti reikalavimai. Laikotarpis, kuriuo asmeniui mokslo ir studijų institucija buvo suteikusi nėštumo ir gimdymo, tėvystės atostogas ar atostogas vaikui prižiūrėti, taip pat ligos laikotarpis, trunkantis ilgiau kaip 3 mėnesius, į atestacijos laikotarpį neįtraukiamas. Neatestuotas darbuotojas atleidžiamas iš darbo. Atleidžiamam darbuotojui taikomos garantijos, nustatytos Lietuvos Respublikos darbo kodekso [[#57 straipsnis. Formaliojo ir neformaliojo švietimo bei savišvietos būdu įgytų kompetencijų vertinimas ir pripažinimas|57 straipsnio]] 7, 8, [[#^e3b858a58caa915dab7575c0|9 dalyse]]. ^a396aee34b70aab041fd022c
 
 
-8. Neterminuotos darbo sutarties laikotarpiu mokslo ir studijų institucijos vadovo siūlymu ir darbuotojo sutikimu pastarojo einamos tyrėjo pareigos gali būti keičiamos į kitas lygiavertes tos pačios pakopos tyrėjo pareigas (išskyrus mokslininko stažuotojo pareigas), jeigu darbuotojas atitinka toms pareigoms mokslo ir studijų institucijos nustatytus kvalifikacinius reikalavimus. ^6991f52c4e250731ab443bee
+8. Neterminuotos darbo sutarties laikotarpiu mokslo ir studijų institucijos vadovo siūlymu ir darbuotojo sutikimu pastarojo einamos tyrėjo pareigos gali būti keičiamos į kitas lygiavertes tos pačios pakopos tyrėjo pareigas (išskyrus mokslininko stažuotojo pareigas), jeigu darbuotojas atitinka toms pareigoms mokslo ir studijų institucijos nustatytus kvalifikacinius reikalavimus. ^53e440a6143b24da22e8261e
 
 
-9. Mokslo ir studijų institucijos vadovo sprendimu asmenys į mokslo ir studijų institucijos dėstytojų ir mokslo darbuotojų pareigas gali būti priimami be konkurso pagal terminuotą darbo sutartį. Šie asmenys turi atitikti mokslo ir studijų institucijos nustatytus kvalifikacinius reikalavimus, nurodytus [[#^3291f96679ea1b28502b9905|šio straipsnio 1 dalyje]]. Be konkurso asmenys, išskyrus asmenis, dalyvaujančius moksliniuose projektuose, priimami į dėstytojų ir mokslo darbuotojų pareigas ne ilgesniam kaip vienų metų laikotarpiui, sudarant terminuotą darbo sutartį. Šią sutartį galima pratęsti dar vienam ne ilgesniam kaip vienų metų laikotarpiui. Pakartotinai be konkurso į mokslo ir studijų institucijos dėstytojų ir mokslo darbuotojų pareigas šie asmenys gali būti priimami ne anksčiau kaip praėjus 2 metams po terminuotos darbo sutarties pabaigos. Asmenys, kurių veikla mokslo ir studijų institucijoje [[#^f56f158d90d89224daf8cb04|šio straipsnio 4 dalyje]] aprašytu atveju buvo įvertinta neigiamai, ir neatestuoti asmenys be konkurso gali būti priimami tik į žemesnes pareigas. ^8808efc9f31acb4b01efbd0f
+9. Mokslo ir studijų institucijos vadovo sprendimu asmenys į mokslo ir studijų institucijos dėstytojų ir mokslo darbuotojų pareigas gali būti priimami be konkurso pagal terminuotą darbo sutartį. Šie asmenys turi atitikti mokslo ir studijų institucijos nustatytus kvalifikacinius reikalavimus, nurodytus [[#^269daeefc7aad26fee8de3c6|šio straipsnio 1 dalyje]]. Be konkurso asmenys, išskyrus asmenis, dalyvaujančius moksliniuose projektuose, priimami į dėstytojų ir mokslo darbuotojų pareigas ne ilgesniam kaip vienų metų laikotarpiui, sudarant terminuotą darbo sutartį. Šią sutartį galima pratęsti dar vienam ne ilgesniam kaip vienų metų laikotarpiui. Pakartotinai be konkurso į mokslo ir studijų institucijos dėstytojų ir mokslo darbuotojų pareigas šie asmenys gali būti priimami ne anksčiau kaip praėjus 2 metams po terminuotos darbo sutarties pabaigos. Asmenys, kurių veikla mokslo ir studijų institucijoje [[#^dc3bd44f86fb9eff37bc69ea|šio straipsnio 4 dalyje]] aprašytu atveju buvo įvertinta neigiamai, ir neatestuoti asmenys be konkurso gali būti priimami tik į žemesnes pareigas. ^e3b858a58caa915dab7575c0
 
 
-10. Į mokslininko stažuotojo pareigas asmenys priimami viešo konkurso būdu ir įdarbinami pagal terminuotą darbo sutartį iki stažuotės, kuri trunka nuo vienų iki 3 metų, pabaigos. Kandidatai į šias pareigas turi atitikti ne žemesnius, kaip nustatyti šio įstatymo [[#^707a8158133a31e8a6013173|66 straipsnio 5 dalyje]], reikalavimus. Viešo konkurso mokslininko stažuotojo pareigoms eiti sąlygas nustato mokslo ir studijų institucija. ^65f613bb1bb5cd3d7541a3cd
+10. Į mokslininko stažuotojo pareigas asmenys priimami viešo konkurso būdu ir įdarbinami pagal terminuotą darbo sutartį iki stažuotės, kuri trunka nuo vienų iki 3 metų, pabaigos. Kandidatai į šias pareigas turi atitikti ne žemesnius, kaip nustatyti šio įstatymo [[#^26a87cfbeced81fbbf258058|66 straipsnio 5 dalyje]], reikalavimus. Viešo konkurso mokslininko stažuotojo pareigoms eiti sąlygas nustato mokslo ir studijų institucija. ^5b0edcf426f8dde6a9ffdc11
 
 
-11. Į jaunesniojo asistento ir jaunesniojo mokslo darbuotojo pareigas asmenys priimami mokslo ir studijų institucijos nustatyta tvarka. Kandidatai į šias pareigas turi atitikti ne žemesnius, kaip nustatyti šio įstatymo [[#^511dc63c7e96ca86feb3936c|65 straipsnio 5 dalyje]] ir [[#^dc93f86ed4ab6e0d95521261|66 straipsnio 6 dalyje]], reikalavimus. Su asmenimis, priimamais į jaunesniojo asistento ir jaunesniojo mokslo darbuotojo pareigas, sudaromos terminuotos darbo sutartys, trunkančios ne ilgiau kaip iki jų doktorantūros studijų pabaigos. Šias sutartis galima pratęsti ne ilgesniam kaip vienų metų laikotarpiui. ^9c1b2e09e77504b6b124f81e
+11. Į jaunesniojo asistento ir jaunesniojo mokslo darbuotojo pareigas asmenys priimami mokslo ir studijų institucijos nustatyta tvarka. Kandidatai į šias pareigas turi atitikti ne žemesnius, kaip nustatyti šio įstatymo [[#^c8811ac0b073f105bb29e7a5|65 straipsnio 5 dalyje]] ir [[#^688d3e2ada2e1cfcd23f6f25|66 straipsnio 6 dalyje]], reikalavimus. Su asmenimis, priimamais į jaunesniojo asistento ir jaunesniojo mokslo darbuotojo pareigas, sudaromos terminuotos darbo sutartys, trunkančios ne ilgiau kaip iki jų doktorantūros studijų pabaigos. Šias sutartis galima pratęsti ne ilgesniam kaip vienų metų laikotarpiui. ^a3fe3d8ad2a8f7d0feb4c09a
 
 
 Straipsnio pakeitimai:
@@ -2566,51 +2600,51 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-1. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos ir viešosios įstaigos (toliau šiame straipsnyje – institutai), administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus) ir mokslo darbuotojų (toliau kartu – darbuotojai) darbo užmokestį sudaro pareiginė alga (mėnesinė alga), priedai ir priemokos, apmokėjimas už darbą poilsio ir švenčių dienomis, darbą naktį ir viršvalandinį darbą, budėjimą ir darbą sąlygomis, kai yra  nukrypimų nuo normalių darbo sąlygų ir tokių nukrypimų negalima pašalinti, premijos. ^f58f6aff85f0ee40f4230a3c
+1. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos ir viešosios įstaigos (toliau šiame straipsnyje – institutai), administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus) ir mokslo darbuotojų (toliau kartu – darbuotojai) darbo užmokestį sudaro pareiginė alga (mėnesinė alga), priedai ir priemokos, apmokėjimas už darbą poilsio ir švenčių dienomis, darbą naktį ir viršvalandinį darbą, budėjimą ir darbą sąlygomis, kai yra  nukrypimų nuo normalių darbo sąlygų ir tokių nukrypimų negalima pašalinti, premijos. ^268e565b3357dea41e4fef6a
 Straipsnio dalies pakeitimai:
 Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje. Jeigu kolektyvinės sutarties nėra, darbo apmokėjimo sistemą nustato instituto direktorius ir paskelbia viešai instituto interneto svetainėje. Darbo apmokėjimo sistemoje, atsižvelgiant į šio straipsnio nuostatas, detalizuojami darbuotojų pareiginės algos koeficientų dydžio nustatymo kriterijai (atliekamų užduočių, mokslinių tyrimų lygis ir sudėtingumas, atsakomybės lygis, pareigybių hierarchija, vykdomų projektų ar užsakymų specifika, pobūdis, rezultatų svarba šalies, visuomenės gerovei ar ūkio plėtrai, specifinių žinių ar įgūdžių, svarbių einamoms pareigoms, turėjimas ir panašiai), kuriais remiantis nustatomi konkretūs instituto darbuotojų pareiginės algos koeficientai, jiems skiriami priedai, priemokos, taip pat nustatoma priedų, priemokų ir premijų mokėjimo tvarka ir sąlygos. Pareiginės algos koeficientus pareigybėms, priedus, priemokas ir premijas darbuotojams, vadovaudamasis šiuo straipsniu ir institute galiojančia darbo apmokėjimo sistema, nustato instituto direktorius arba jo įgaliotas asmuo. Pareiginės algos koeficientai pareigybėms, priedai, priemokos ir premijos darbuotojams nustatomi neviršijant institutui atitinkamų metų programų sąmatose patvirtintų lėšų darbo užmokesčiui. ^db3a4fd38782371ed9e31950
+2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje. Jeigu kolektyvinės sutarties nėra, darbo apmokėjimo sistemą nustato instituto direktorius ir paskelbia viešai instituto interneto svetainėje. Darbo apmokėjimo sistemoje, atsižvelgiant į šio straipsnio nuostatas, detalizuojami darbuotojų pareiginės algos koeficientų dydžio nustatymo kriterijai (atliekamų užduočių, mokslinių tyrimų lygis ir sudėtingumas, atsakomybės lygis, pareigybių hierarchija, vykdomų projektų ar užsakymų specifika, pobūdis, rezultatų svarba šalies, visuomenės gerovei ar ūkio plėtrai, specifinių žinių ar įgūdžių, svarbių einamoms pareigoms, turėjimas ir panašiai), kuriais remiantis nustatomi konkretūs instituto darbuotojų pareiginės algos koeficientai, jiems skiriami priedai, priemokos, taip pat nustatoma priedų, priemokų ir premijų mokėjimo tvarka ir sąlygos. Pareiginės algos koeficientus pareigybėms, priedus, priemokas ir premijas darbuotojams, vadovaudamasis šiuo straipsniu ir institute galiojančia darbo apmokėjimo sistema, nustato instituto direktorius arba jo įgaliotas asmuo. Pareiginės algos koeficientai pareigybėms, priedai, priemokos ir premijos darbuotojams nustatomi neviršijant institutui atitinkamų metų programų sąmatose patvirtintų lėšų darbo užmokesčiui. ^8c8a41dd7d3512a7be083d83
 Straipsnio dalies pakeitimai:
 Nr. XV-86, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23081
 
 
 
-3. Institutų direktorių darbo apmokėjimo dydžius (darbo užmokestį) nustato savininko teises ir pareigas įgyvendinančios institucijos vadovas (visuotinis dalininkų susirinkimas) arba jo (jų) įgaliotas asmuo. ^3f254e0df9066a38f47f03fb
+3. Institutų direktorių darbo apmokėjimo dydžius (darbo užmokestį) nustato savininko teises ir pareigas įgyvendinančios institucijos vadovas (visuotinis dalininkų susirinkimas) arba jo (jų) įgaliotas asmuo. ^06706f2f95c8c00be7c025c4
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-4. Darbuotojo pareiginei algai apskaičiuoti taikomas Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga nustatoma bazinį dydį padauginus iš tai pareigybei nustatyto pareiginės algos koeficiento. ^5e13c4b3913818543f88e7db
+4. Darbuotojo pareiginei algai apskaičiuoti taikomas Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga nustatoma bazinį dydį padauginus iš tai pareigybei nustatyto pareiginės algos koeficiento. ^4f8cd7801b7f219e83c37889
 Straipsnio dalies pakeitimai:
 Nr. XIV-723, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25841
 Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
 
 
 
-5. Pareiginės algos koeficientai yra šie: ^195da1ab5d4c18a8c6c687b8
+5. Pareiginės algos koeficientai yra šie: ^f179d4ab3d7e34db94dda328
 
 
-1) instituto direktoriaus – 2,07–3,68; ^e6ea6b6e1c7de86093897f25
+1) instituto direktoriaus – 2,07–3,68; ^92a7aceff7882e7db0029e3c
 
 
-2) instituto mokslinio sekretoriaus – 1,56–2,96; ^00693b2978d418ec1c53a90f
+2) instituto mokslinio sekretoriaus – 1,56–2,96; ^bbd0277358cdd30fffadd723
 
 
-3) vyriausiojo mokslo darbuotojo – 1,78–3,20; ^bbb1f28fe5dc01da200bd275
+3) vyriausiojo mokslo darbuotojo – 1,78–3,20; ^5ab1cffc0f8b042b5091f90d
 
 
-4) vyresniojo mokslo darbuotojo – 1,56–2,49; ^8c6a1f559253e343eab335aa
+4) vyresniojo mokslo darbuotojo – 1,56–2,49; ^54d462b9d5fc53ef1b417bff
 
 
-5) mokslo darbuotojo, mokslininko stažuotojo – 1,56–1,89; ^50d88f5cccc73a15354b2e89
+5) mokslo darbuotojo, mokslininko stažuotojo – 1,56–1,89; ^329ea1011149f0007bd2e8a5
 
 
-6) jaunesniojo mokslo darbuotojo – 1,47–1,75. ^131cc7c7c55f46aafd47735b
+6) jaunesniojo mokslo darbuotojo – 1,47–1,75. ^5b3eabd762e88e71cace420e
 
 
 Straipsnio dalies pakeitimai:
@@ -2625,40 +2659,40 @@ Nr. XV-610, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20822
 
 
 
-6. Instituto direktoriaus pavaduotojų pareiginės algos koeficientai nustatomi 10–20 procentų mažesni už jų instituto direktoriui nustatytą pareiginės algos koeficientą. ^4cadc1219b2f738abad384e1
+6. Instituto direktoriaus pavaduotojų pareiginės algos koeficientai nustatomi 10–20 procentų mažesni už jų instituto direktoriui nustatytą pareiginės algos koeficientą. ^07c26d1f5aad96741f4b97f1
 
 
-7. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams gali būti mokamas priedas už veiklos efektyvumą ir (ar) priemoka už įprastą darbo krūvį viršijančią veiklą. ^05e8ec112c57ce1d06f0589e
+7. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams gali būti mokamas priedas už veiklos efektyvumą ir (ar) priemoka už įprastą darbo krūvį viršijančią veiklą. ^de475b5eadac37f2f11f73c5
 
 
-8. Instituto direktoriui nustatytos pareiginės algos, priedo, priemokos ir premijos suma negali viršyti instituto mokslo darbuotojų praėjusių metų 4 vidutinio mėnesinio darbo užmokesčio dydžių. Instituto mokslo darbuotojų praėjusių metų vidutinis mėnesinis darbo užmokestis apskaičiuojamas praėjusiais metais šiems darbuotojams apskaičiuotas bruto darbo užmokesčio lėšas (į jas įskaitomos darbo užmokesčio lėšos šių darbuotojų pareiginei algai, priedams, priemokoms ir premijoms) padalijus iš vidutinio sąlyginio tų metų darbuotojų skaičiaus ir gautą dalmenį padalijus iš 12. Tam tikro mėnesio vidutinis sąlyginis instituto mokslo darbuotojų skaičius apskaičiuojamas sudėjus visą mėnesį visą darbo dieną dirbančių šių darbuotojų skaičių ir ne visą mėnesį, ne visą darbo dieną ar ne visą savaitę dirbančių šių darbuotojų, perskaičiuotų į dirbančius visą mėnesį visą darbo dieną, skaičių. Vidutinis sąlyginis praėjusių metų instituto mokslo darbuotojų skaičius apskaičiuojamas sudėjus praėjusių metų kiekvieno mėnesio vidutinius sąlyginius šių darbuotojų skaičius ir šią sumą padalijus iš 12. ^95ba37e3ee000cd5e6b68334
+8. Instituto direktoriui nustatytos pareiginės algos, priedo, priemokos ir premijos suma negali viršyti instituto mokslo darbuotojų praėjusių metų 4 vidutinio mėnesinio darbo užmokesčio dydžių. Instituto mokslo darbuotojų praėjusių metų vidutinis mėnesinis darbo užmokestis apskaičiuojamas praėjusiais metais šiems darbuotojams apskaičiuotas bruto darbo užmokesčio lėšas (į jas įskaitomos darbo užmokesčio lėšos šių darbuotojų pareiginei algai, priedams, priemokoms ir premijoms) padalijus iš vidutinio sąlyginio tų metų darbuotojų skaičiaus ir gautą dalmenį padalijus iš 12. Tam tikro mėnesio vidutinis sąlyginis instituto mokslo darbuotojų skaičius apskaičiuojamas sudėjus visą mėnesį visą darbo dieną dirbančių šių darbuotojų skaičių ir ne visą mėnesį, ne visą darbo dieną ar ne visą savaitę dirbančių šių darbuotojų, perskaičiuotų į dirbančius visą mėnesį visą darbo dieną, skaičių. Vidutinis sąlyginis praėjusių metų instituto mokslo darbuotojų skaičius apskaičiuojamas sudėjus praėjusių metų kiekvieno mėnesio vidutinius sąlyginius šių darbuotojų skaičius ir šią sumą padalijus iš 12. ^ac5bfd6cd86f8a777facfe19
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-9. Institutų direktoriai gali dirbti mokslinį ir pedagoginį darbą pagal instituto savininko teises ir pareigas įgyvendinančios institucijos (juridinio asmens dalyvių susirinkimo) ir direktoriaus susitarimą dėl papildomo darbo, fiksuojamą darbo sutartyje. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams, tame pačiame institute papildomai einantiems mokslo darbuotojo pareigas, už darbą einant šias pareigas apmokama vadovaujantis [[#^195da1ab5d4c18a8c6c687b8|šio straipsnio 5 dalies]] 3–6 punktų ir šio straipsnio 10–[[#^16453725b2005c277018ea9b|12 dalių]] nuostatomis. ^13ccb228c7225b07565d883e
+9. Institutų direktoriai gali dirbti mokslinį ir pedagoginį darbą pagal instituto savininko teises ir pareigas įgyvendinančios institucijos (juridinio asmens dalyvių susirinkimo) ir direktoriaus susitarimą dėl papildomo darbo, fiksuojamą darbo sutartyje. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams, tame pačiame institute papildomai einantiems mokslo darbuotojo pareigas, už darbą einant šias pareigas apmokama vadovaujantis [[#^f179d4ab3d7e34db94dda328|šio straipsnio 5 dalies]] 3–6 punktų ir šio straipsnio 10–[[#^e4d128a84ad04776096090ae|12 dalių]] nuostatomis. ^edbf428a90519cedfa9ff7ef
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-10. Mokslo darbuotojams, vykdantiems tarptautinių mokslinių tyrimų ir eksperimentinės plėtros programų projektus arba ūkio subjektų užsakymus, šalių susitarimu (nurodant konkrečią mokslinių tyrimų ir eksperimentinės plėtros veiklą, susijusią su projekto ar užsakymo vykdymu, konkretų darbo valandų skaičių ir konkretų valandinį darbo užmokestį už faktiškai dirbtą laiką) pareiginė alga nustatoma vadovaujantis [[#^195da1ab5d4c18a8c6c687b8|šio straipsnio 5 dalies]] 3–6 punktais, juose nustatytus pareiginės algos koeficientus didinant ne daugiau kaip 3 kartus. Šiuo atveju darbo užmokestis mokamas iš tarptautinių mokslinių tyrimų ir eksperimentinės plėtros programų projektų lėšų, gautų iš tarptautinių organizacijų, arba iš ūkio subjektų skiriamų lėšų jų užsakymams vykdyti. ^f17e91948d47d02a9641551e
+10. Mokslo darbuotojams, vykdantiems tarptautinių mokslinių tyrimų ir eksperimentinės plėtros programų projektus arba ūkio subjektų užsakymus, šalių susitarimu (nurodant konkrečią mokslinių tyrimų ir eksperimentinės plėtros veiklą, susijusią su projekto ar užsakymo vykdymu, konkretų darbo valandų skaičių ir konkretų valandinį darbo užmokestį už faktiškai dirbtą laiką) pareiginė alga nustatoma vadovaujantis [[#^f179d4ab3d7e34db94dda328|šio straipsnio 5 dalies]] 3–6 punktais, juose nustatytus pareiginės algos koeficientus didinant ne daugiau kaip 3 kartus. Šiuo atveju darbo užmokestis mokamas iš tarptautinių mokslinių tyrimų ir eksperimentinės plėtros programų projektų lėšų, gautų iš tarptautinių organizacijų, arba iš ūkio subjektų skiriamų lėšų jų užsakymams vykdyti. ^8b59b6f744f19e86123ca2da
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-11. Mokslo darbuotojams gali būti mokami: ^197f16782e954beaf03d404e
+11. Mokslo darbuotojams gali būti mokami: ^be0659f0848fd17473532035
 
 
-1) priedas už einamas šias vadovaujamas pareigas: instituto mokslo tarybos pirmininko ir jo pavaduotojo – iki 25 procentų pareiginės algos dydžio; instituto struktūrinio padalinio (skyriaus, laboratorijos, kito struktūrinio padalinio, kurio pagrindinė veikla yra moksliniai tyrimai ir (ar) eksperimentinė plėtra, taip pat šiam padaliniui instituto įstatuose prilyginto kito padalinio) vadovo ir jo pavaduotojo – iki 15 procentų pareiginės algos dydžio; ^b2bbd5006aea3cb34dbb1d08
+1) priedas už einamas šias vadovaujamas pareigas: instituto mokslo tarybos pirmininko ir jo pavaduotojo – iki 25 procentų pareiginės algos dydžio; instituto struktūrinio padalinio (skyriaus, laboratorijos, kito struktūrinio padalinio, kurio pagrindinė veikla yra moksliniai tyrimai ir (ar) eksperimentinė plėtra, taip pat šiam padaliniui instituto įstatuose prilyginto kito padalinio) vadovo ir jo pavaduotojo – iki 15 procentų pareiginės algos dydžio; ^9e50c2d4ba220568aa4009e0
 
 
-2) priedas už skubių, svarbių ar sudėtingų darbų (užduočių) atlikimą; ^12f62231fc527f2c5305f462
+2) priedas už skubių, svarbių ar sudėtingų darbų (užduočių) atlikimą; ^5fc26e8568f8fa295e6af5d2
 
 
-3) priemoka už laikinai nesančio darbuotojo funkcijų (pareigų) atlikimą arba rašytiniu darbuotojo sutikimu – už papildomų darbų atlikimą. ^539180536ce4c1ebb7991af4
+3) priemoka už laikinai nesančio darbuotojo funkcijų (pareigų) atlikimą arba rašytiniu darbuotojo sutikimu – už papildomų darbų atlikimą. ^a4db6596a0a5a528c65ac39a
 
 
 Straipsnio dalies pakeitimai:
@@ -2666,19 +2700,19 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-12. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams [[#^05e8ec112c57ce1d06f0589e|šio straipsnio 7 dalyje]] nurodyto priedo ir priemokos suma, o institutų mokslo darbuotojams – [[#^197f16782e954beaf03d404e|šio straipsnio 11 dalyje]] nurodytų priedų ir priemokų dalis, išmokėta iš valstybės biudžeto lėšų (išskyrus pajamų įmokų į valstybės biudžetą lėšas), neturi viršyti jiems nustatytos pareiginės algos dydžio. ^16453725b2005c277018ea9b
+12. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams [[#^de475b5eadac37f2f11f73c5|šio straipsnio 7 dalyje]] nurodyto priedo ir priemokos suma, o institutų mokslo darbuotojams – [[#^be0659f0848fd17473532035|šio straipsnio 11 dalyje]] nurodytų priedų ir priemokų dalis, išmokėta iš valstybės biudžeto lėšų (išskyrus pajamų įmokų į valstybės biudžetą lėšas), neturi viršyti jiems nustatytos pareiginės algos dydžio. ^e4d128a84ad04776096090ae
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-13. Šio straipsnio 7 ir [[#^197f16782e954beaf03d404e|11 dalyse]] nurodyti priedai ir priemokos gali būti skiriami nurodant konkretų, bet ne ilgesnį kaip iki kalendorinių metų pabaigos, terminą. ^e266c2966a62e23557cc2355
+13. Šio straipsnio 7 ir [[#^be0659f0848fd17473532035|11 dalyse]] nurodyti priedai ir priemokos gali būti skiriami nurodant konkretų, bet ne ilgesnį kaip iki kalendorinių metų pabaigos, terminą. ^9b6ffc8f3e0742ca1c344a48
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-14. Neteko galios nuo 2024-05-04 ^a1f2db32f5dd02420e528800
+14. Neteko galios nuo 2024-05-04 ^beb0e379d46ac599d99716ee
 Straipsnio dalies naikinimas:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 Straipsnio dalies pakeitimai:
@@ -2686,22 +2720,22 @@ Nr. XIV-723, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25841
 
 
 
-15. Pakviestiems dirbti užsienio mokslo darbuotojams institutų nustatyta tvarka gali būti nustatomas individualus atlyginimas už darbą, neatsižvelgiant į [[#^195da1ab5d4c18a8c6c687b8|šio straipsnio 5 dalies]] 3–6 punktuose nustatytus pareiginės algos koeficientus, tačiau neviršijant institutų programų sąmatose patvirtintų lėšų darbo užmokesčiui. ^5c8b51ed884975152e21a439
+15. Pakviestiems dirbti užsienio mokslo darbuotojams institutų nustatyta tvarka gali būti nustatomas individualus atlyginimas už darbą, neatsižvelgiant į [[#^f179d4ab3d7e34db94dda328|šio straipsnio 5 dalies]] 3–6 punktuose nustatytus pareiginės algos koeficientus, tačiau neviršijant institutų programų sąmatose patvirtintų lėšų darbo užmokesčiui. ^7b62546c204391d3709281bc
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-16. Už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą, budėjimą ir esant nukrypimams nuo normalių darbo sąlygų institutų darbuotojams apmokama Lietuvos Respublikos darbo kodekso nustatyta tvarka. ^99212ef6913d27d31e6eca12
+16. Už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą, budėjimą ir esant nukrypimams nuo normalių darbo sąlygų institutų darbuotojams apmokama Lietuvos Respublikos darbo kodekso nustatyta tvarka. ^489aac13691cebbff2582a08
 
 
-17. Institutų darbuotojams, neviršijant institutų programų sąmatose patvirtintų lėšų darbo užmokesčiui, gali būti skiriamos premijos šiais atvejais: už viršijantį lūkesčius darbą kalendoriniais metais; už atliktas vienkartines ypač svarbias užduotis. Kiekvienu atveju premija gali būti skiriama ne daugiau kaip kartą per kalendorinius metus ir negali viršyti darbuotojui nustatytos pareiginės algos dydžio. ^603c86667f9c6e8fb0137c16
+17. Institutų darbuotojams, neviršijant institutų programų sąmatose patvirtintų lėšų darbo užmokesčiui, gali būti skiriamos premijos šiais atvejais: už viršijantį lūkesčius darbą kalendoriniais metais; už atliktas vienkartines ypač svarbias užduotis. Kiekvienu atveju premija gali būti skiriama ne daugiau kaip kartą per kalendorinius metus ir negali viršyti darbuotojui nustatytos pareiginės algos dydžio. ^12e0c5d772e32d320872acd8
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-18. Instituto darbuotojams, kurių materialinė būklė tapo sunki dėl jų pačių ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėjais ar rūpintojais įstatymų nustatyta tvarka yra paskirti instituto darbuotojai, ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra pateikti šių darbuotojų rašytiniai prašymai ir atitinkamą aplinkybę patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Mirus instituto darbuotojui, jo šeimos nariams gali būti išmokama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa, jeigu pateiktas jo šeimos narių rašytinis prašymas ir mirties faktą patvirtinantys dokumentai. ^a49f87d65a184f1ab712a0d8
+18. Instituto darbuotojams, kurių materialinė būklė tapo sunki dėl jų pačių ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėjais ar rūpintojais įstatymų nustatyta tvarka yra paskirti instituto darbuotojai, ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra pateikti šių darbuotojų rašytiniai prašymai ir atitinkamą aplinkybę patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa. Mirus instituto darbuotojui, jo šeimos nariams gali būti išmokama iki 5 minimaliųjų mėnesinių algų dydžio materialinė pašalpa, jeigu pateiktas jo šeimos narių rašytinis prašymas ir mirties faktą patvirtinantys dokumentai. ^cf6951394a64857d73081efe
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
@@ -2715,28 +2749,28 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 ### 73 straipsnis. Mokslo ir studijų institucijų, studentų, dėstytojų, mokslininkų ir kitų tyrėjų organizacijos
 
 
-1. Mokslo ir studijų institucijos studentai, dėstytojai ir mokslininkai turi teisę Asociacijų įstatymo nustatyta tvarka burtis į sąjungas ir kitas asociacijas. ^95c9522b198bcc30b197f661
+1. Mokslo ir studijų institucijos studentai, dėstytojai ir mokslininkai turi teisę Asociacijų įstatymo nustatyta tvarka burtis į sąjungas ir kitas asociacijas. ^492fa8803718802782551449
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-2. Mokslo ir studijų institucijų studentų sąjungos ir organizacijos, dėstytojų, mokslininkų organizacijos, studentų mokslinės draugijos ir kitos asociacijos, veikiančios pagal įstatymus ir savo įstatus, veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali gauti lėšų iš Lietuvos mokslo tarybai šiuo tikslu skirtų valstybės biudžeto lėšų Lietuvos mokslo tarybos nustatyta tvarka. ^91e98e4b10d495b60c39f735
+2. Mokslo ir studijų institucijų studentų sąjungos ir organizacijos, dėstytojų, mokslininkų organizacijos, studentų mokslinės draugijos ir kitos asociacijos, veikiančios pagal įstatymus ir savo įstatus, veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali gauti lėšų iš Lietuvos mokslo tarybai šiuo tikslu skirtų valstybės biudžeto lėšų Lietuvos mokslo tarybos nustatyta tvarka. ^ae7801b3672d1336a17d5ba6
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-3. Mokslo ir studijų institucijų tarpusavio ryšius ir ryšius su valstybės valdžios ir valdymo bei savivaldybių institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos mokslinių tyrimų institutų direktorių konferencija (konferencijos) ir kitos organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus. Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų), Lietuvos mokslinių tyrimų institutų direktorių konferencijos (konferencijų) veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali būti skiriama lėšų iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^dc51c2894295f9d81416b638
+3. Mokslo ir studijų institucijų tarpusavio ryšius ir ryšius su valstybės valdžios ir valdymo bei savivaldybių institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos mokslinių tyrimų institutų direktorių konferencija (konferencijos) ir kitos organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus. Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų), Lietuvos mokslinių tyrimų institutų direktorių konferencijos (konferencijų) veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali būti skiriama lėšų iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^0b6065d5163bfb276981604d
 
 
-4. Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų), Lietuvos mokslinių tyrimų institutų direktorių konferencijos (konferencijų), Lietuvos aukštųjų mokyklų studentų atstovybių sąjungos (sąjungų), taip pat kitų mokslininkų ir studentų organizacijų išvados įvertinamos svarstant mokslo ir studijų srities teisės aktų projektus. ^ef360ef31a634f4b3c5a8b27
+4. Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų), Lietuvos mokslinių tyrimų institutų direktorių konferencijos (konferencijų), Lietuvos aukštųjų mokyklų studentų atstovybių sąjungos (sąjungų), taip pat kitų mokslininkų ir studentų organizacijų išvados įvertinamos svarstant mokslo ir studijų srities teisės aktų projektus. ^f91a0f992700b7dd38f4ce02
 
 
-5. Lietuvių katalikų mokslo akademija vienija žymiausius katalikiškos orientacijos Lietuvos, išeivijos ir savo veikla su Lietuva susijusius užsienio mokslininkus. Lietuvių katalikų mokslo akademija veikia pagal savo įstatus. ^aca827e8ec1234190588b814
+5. Lietuvių katalikų mokslo akademija vienija žymiausius katalikiškos orientacijos Lietuvos, išeivijos ir savo veikla su Lietuva susijusius užsienio mokslininkus. Lietuvių katalikų mokslo akademija veikia pagal savo įstatus. ^64eccbaad7de9c4bc85bc2ef
 
 
-6. Lietuvos mokslinių bibliotekų asociacija (asociacijos) vienija mokslo ir studijų institucijas, turinčias mokslines bibliotekas, ir kitas mokslines bibliotekas. Lietuvos mokslinių bibliotekų asociacija (asociacijos) veikia pagal įstatymus ir savo įstatus. Lietuvos mokslinių bibliotekų asociacijai (asociacijoms) elektroninių mokslo ir studijų duomenų bazių atrankai ir prenumeratai švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^ac441d62ce6d0c2e7f1b1dfd
+6. Lietuvos mokslinių bibliotekų asociacija (asociacijos) vienija mokslo ir studijų institucijas, turinčias mokslines bibliotekas, ir kitas mokslines bibliotekas. Lietuvos mokslinių bibliotekų asociacija (asociacijos) veikia pagal įstatymus ir savo įstatus. Lietuvos mokslinių bibliotekų asociacijai (asociacijoms) elektroninių mokslo ir studijų duomenų bazių atrankai ir prenumeratai švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^05e15b3d8cbe186051be1233
 
 
 Straipsnio pakeitimai:
@@ -2752,34 +2786,34 @@ MOKSLO IR STUDIJŲ FINANSAVIMAS
 ### 74 straipsnis. Mokslo ir studijų institucijų lėšos
 
 
-1. Mokslo ir studijų institucijų lėšas sudaro: ^ee0a71d1fc5dd1a208fd56dc
+1. Mokslo ir studijų institucijų lėšas sudaro: ^4b3d5aa1472301f81ff4b4b9
 
 
-1) valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos valstybinėms mokslo ir studijų institucijoms; ^7fc6ca9b2939e521135e2ce2
+1) valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos valstybinėms mokslo ir studijų institucijoms; ^63b1c4c15e5d637995ed7e77
 
 
-2) lėšos, skirtos mokslo ir studijų institucijoms specialiosioms sutartims su Vyriausybe ar jos įgaliota institucija vykdyti; ^62a7b21dbc38282199d8b815
+2) lėšos, skirtos mokslo ir studijų institucijoms specialiosioms sutartims su Vyriausybe ar jos įgaliota institucija vykdyti; ^ce169d6324eaaf0a50f039dd
 
 
-3) valstybės investicijų programų ir valstybės investicijų projektų lėšos valstybinėms mokslo ir studijų institucijoms; ^2af61fb9d2791baad0f50cfb
+3) valstybės investicijų programų ir valstybės investicijų projektų lėšos valstybinėms mokslo ir studijų institucijoms; ^8790472b01e0f673f2c29fb2
 
 
-4) pajamos, gautos kaip apmokėjimas už studijas, taip pat pajamos iš mokslinių tyrimų, eksperimentinės plėtros, meno veiklos, ūkinės veiklos ir teikiamų paslaugų; ^31b829aea908caf7900c2b3a
+4) pajamos, gautos kaip apmokėjimas už studijas, taip pat pajamos iš mokslinių tyrimų, eksperimentinės plėtros, meno veiklos, ūkinės veiklos ir teikiamų paslaugų; ^6df1c2c8c3a1dbb0df81ffd3
 
 
-5) lėšos, gautos kaip programinis konkursinis mokslinių tyrimų ir eksperimentinės plėtros finansavimas; ^c3d6a19006cc85762ab33630
+5) lėšos, gautos kaip programinis konkursinis mokslinių tyrimų ir eksperimentinės plėtros finansavimas; ^36093e6337a89f4ea7d659d2
 
 
-6) valstybės fondų lėšos; ^a03ac3c2c1d116d937a67e1f
+6) valstybės fondų lėšos; ^741618bda82bd185e5b57495
 
 
-7) tarptautinių ir užsienio fondų ir organizacijų skiriamos lėšos; ^13b5cc83187a82af482b4309
+7) tarptautinių ir užsienio fondų ir organizacijų skiriamos lėšos; ^7782297bf5e73edcdb5ad4a2
 
 
-8) lėšos, gautos kaip parama pagal Lietuvos Respublikos labdaros ir paramos įstatymą (toliau – Labdaros ir paramos įstatymas); ^6f4be46968f983a683bf4e38
+8) lėšos, gautos kaip parama pagal Lietuvos Respublikos labdaros ir paramos įstatymą (toliau – Labdaros ir paramos įstatymas); ^280716949563360590299af2
 
 
-9) kitos teisėtai gautos lėšos. ^afe9bf13846c7f448c0ca8d8
+9) kitos teisėtai gautos lėšos. ^2607c8a2eec1f494c1b80ece
 
 
 Straipsnio dalies pakeitimai:
@@ -2787,47 +2821,47 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 
 
 
-2. Valstybės biudžeto asignavimai kiekvienam valstybiniam universitetui ir valstybiniam mokslinių tyrimų institutui skiriami atskira eilute. Valstybinės kolegijos finansuojamos iš valstybės institucijoms arba įstaigoms, įgyvendinančioms savininko teises ir pareigas, skirtų valstybės biudžeto asignavimų. ^b05c7d48307ebf63e6c5d8c3
+2. Valstybės biudžeto asignavimai kiekvienam valstybiniam universitetui ir valstybiniam mokslinių tyrimų institutui skiriami atskira eilute. Valstybinės kolegijos finansuojamos iš valstybės institucijoms arba įstaigoms, įgyvendinančioms savininko teises ir pareigas, skirtų valstybės biudžeto asignavimų. ^54b1865ee446189918650f9c
 
 
-3. Nevalstybinių aukštųjų mokyklų, kurias, vadovaudamosi Lietuvos Respublikos tarptautinėmis sutartimis, yra įsteigusios tradicinės religinės bendruomenės ar bendrijos, lėšas sudaro: valstybės biudžeto lėšos (Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka skiriant biudžeto lėšų tiek, kiek jų skiriama to paties tipo valstybinėms aukštosioms mokykloms, jeigu tai numatyta Lietuvos Respublikos tarptautinėje sutartyje), steigėjo lėšos ir kitos teisėtai gautos lėšos. ^b494726730bce0bf6c554060
+3. Nevalstybinių aukštųjų mokyklų, kurias, vadovaudamosi Lietuvos Respublikos tarptautinėmis sutartimis, yra įsteigusios tradicinės religinės bendruomenės ar bendrijos, lėšas sudaro: valstybės biudžeto lėšos (Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka skiriant biudžeto lėšų tiek, kiek jų skiriama to paties tipo valstybinėms aukštosioms mokykloms, jeigu tai numatyta Lietuvos Respublikos tarptautinėje sutartyje), steigėjo lėšos ir kitos teisėtai gautos lėšos. ^97c78dd01d33e3b0b0616abe
 
 
 
 ### 75 straipsnis. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos
 
 
-1. Valstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio finansavimo lėšos skiriamos: ^f1e81c42ee44c1d1fcbadfc4
+1. Valstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio finansavimo lėšos skiriamos: ^353672e816d87bbdf9b19bf7
 
 
-1) moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti; ^f8cb6a5bdcfdbe5afc3263f6
+1) moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti; ^1c4b28eb35be31abcb1222b6
 
 
-2) lėšos studijų kainai valstybės finansuojamose studijų vietose apmokėti ir studijų stipendijoms; ^e2e4184a70829ca13a96b72f
+2) lėšos studijų kainai valstybės finansuojamose studijų vietose apmokėti ir studijų stipendijoms; ^09aadf5830b8594fe569e9d8
 
 
-3) administravimui ir ūkiui; ^1310e6a98ad90e8303718600
+3) administravimui ir ūkiui; ^da8e0cf24991df4cf0068a8d
 
 
-4) sudėtingos infrastruktūros objektų priežiūrai; ^67c6a74d3a0863dd5fd1ad02
+4) sudėtingos infrastruktūros objektų priežiūrai; ^82cdc198a2357aaa1bcac26d
 
 
-5) kitoms reikmėms. ^51f0c563766f644019f88b75
+5) kitoms reikmėms. ^9c609e19973b864484cb1ccb
 
 
-2. Nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos skiriamos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti. ^6750cf3911aa8098edb04edd
+2. Nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos skiriamos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti. ^7cdffc5818ad356974252f72
 
 
-3. Valstybės biudžeto lėšos administravimui ir ūkiui skiriamos pagal vykdomus mokslinius tyrimus, eksperimentinę plėtrą, meno veiklą ir studijas. Valstybės biudžeto lėšos administravimui ir ūkiui bei sudėtingos infrastruktūros objektų priežiūrai valstybinėms mokslo ir studijų institucijoms skiriamos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^f2aaf5952fc5f57077193e73
+3. Valstybės biudžeto lėšos administravimui ir ūkiui skiriamos pagal vykdomus mokslinius tyrimus, eksperimentinę plėtrą, meno veiklą ir studijas. Valstybės biudžeto lėšos administravimui ir ūkiui bei sudėtingos infrastruktūros objektų priežiūrai valstybinėms mokslo ir studijų institucijoms skiriamos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^421bc272ba6e442124b19c0f
 
 
-4. Mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo lėšos skiriamos: ^680d6d3476a803f5315ebaf8
+4. Mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo lėšos skiriamos: ^3ce19991336a9dac48710f8c
 
 
-1) skatinti už mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos pasiekimus; ^eb1ee289b31f52b8a996effd
+1) skatinti už mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos pasiekimus; ^895a112e8b563a3d6f645ce2
 
 
-2) skatinti už studijų veiklos pasiekimus. ^a7be51bb6673a34ef9423198
+2) skatinti už studijų veiklos pasiekimus. ^7cdcd6235484eef0c0245740
 
 
 Papildyta straipsnio dalimi:
@@ -2845,22 +2879,22 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 ### 751 straipsnis. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skyrimo pagrindai
 
 
-1. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti mokslo ir studijų institucijoms skiriamos pagal šių institucijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimo rezultatus, atsižvelgiant į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. ^4e0ba3b99a048837fd319ed6
+1. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti mokslo ir studijų institucijoms skiriamos pagal šių institucijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimo rezultatus, atsižvelgiant į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. ^975725c9e880fda71ebad45d
 
 
-2. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti universitetams ir mokslinių tyrimų institutams skiriamos pagal: ^05a1d187185508461479f1ac
+2. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti universitetams ir mokslinių tyrimų institutams skiriamos pagal: ^37d74e097fba9964471c2b1b
 
 
-1) kas penkerius metus atliekamo ekspertinio universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros vertinimo (toliau – mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas) rezultatus. Mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas apima penkerių praėjusių metų laikotarpį M-5–M-1 metus, o lėšos skiriamos M+1, M+2, M+3, M+4 ir M+5 metams, čia M – mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo atlikimo metai. Kitas mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas atliekamas po penkerių metų; ^bc991b38a2235ae377b121da
+1) kas penkerius metus atliekamo ekspertinio universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros vertinimo (toliau – mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas) rezultatus. Mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas apima penkerių praėjusių metų laikotarpį M-5–M-1 metus, o lėšos skiriamos M+1, M+2, M+3, M+4 ir M+5 metams, čia M – mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo atlikimo metai. Kitas mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas atliekamas po penkerių metų; ^3632e145bfcafd7ec001e569
 
 
-2) kas penkerius metus atliekamo ekspertinio universitetų ir mokslinių tyrimų institutų meno veiklos vertinimo (toliau – meno veiklos ekspertinis vertinimas) rezultatus. Meno veiklos ekspertinis vertinimas apima penkerių praėjusių metų laikotarpį M-5–M-1 metus, o lėšos skiriamos M+1, M+2, M+3, M+4 ir M+5 metams, čia M – meno veiklos ekspertinio vertinimo atlikimo metai. Kitas meno veiklos ekspertinis vertinimas atliekamas po penkerių metų. ^13b313e3b77d580986c8944a
+2) kas penkerius metus atliekamo ekspertinio universitetų ir mokslinių tyrimų institutų meno veiklos vertinimo (toliau – meno veiklos ekspertinis vertinimas) rezultatus. Meno veiklos ekspertinis vertinimas apima penkerių praėjusių metų laikotarpį M-5–M-1 metus, o lėšos skiriamos M+1, M+2, M+3, M+4 ir M+5 metams, čia M – meno veiklos ekspertinio vertinimo atlikimo metai. Kitas meno veiklos ekspertinis vertinimas atliekamas po penkerių metų. ^682c688e1af8006b795200d0
 
 
-3. Valstybės biudžeto skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti universitetams ir mokslinių tyrimų institutams skiriamos pagal kiekvienais metais atliekamo universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo rezultatus. Universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formalusis vertinimas apima vienų metų (N-1) laikotarpį, o lėšos skiriamos pagal paskutinių trejų metų (N‑3, N-2, N-1) rezultatus N+1 metams, čia N – universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo atlikimo metai. ^72b15104254559ec4423f684
+3. Valstybės biudžeto skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti universitetams ir mokslinių tyrimų institutams skiriamos pagal kiekvienais metais atliekamo universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo rezultatus. Universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formalusis vertinimas apima vienų metų (N-1) laikotarpį, o lėšos skiriamos pagal paskutinių trejų metų (N‑3, N-2, N-1) rezultatus N+1 metams, čia N – universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo atlikimo metai. ^2885ae4407fda71aefdb7cda
 
 
-4. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti kolegijoms skiriamos pagal kiekvienais metais atliekamo kolegijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo rezultatus. Vertinimas apima vienų metų laikotarpį už N-1 metus. Lėšos skiriamos N+1 metams, čia N – metai, kai atliekamas vertinimas. ^2371451f5e73fbdb1e0453be
+4. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti kolegijoms skiriamos pagal kiekvienais metais atliekamo kolegijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo rezultatus. Vertinimas apima vienų metų laikotarpį už N-1 metus. Lėšos skiriamos N+1 metams, čia N – metai, kai atliekamas vertinimas. ^b8d745c2fd5a03fd504ff31b
 
 
 Straipsnio pakeitimai:
@@ -2871,46 +2905,46 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 ### 752 straipsnis. Mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimo kriterijai, taikomi skiriant valstybės biudžeto bazinio ir skatinamojo finansavimo lėšas
 
 
-1. Mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas atliekamas pagal šiuos vertinimo kriterijus: ^17071612f2ad04219ad7ba53
+1. Mokslinių tyrimų ir eksperimentinės plėtros ekspertinis vertinimas atliekamas pagal šiuos vertinimo kriterijus: ^2058c5561e12e8f3d73c4490
 
 
-1) mokslinių tyrimų ir eksperimentinės plėtros kokybė (svorio koeficientas skiriant lėšas – 0,65); ^b4757c6691e87908dfefa403
+1) mokslinių tyrimų ir eksperimentinės plėtros kokybė (svorio koeficientas skiriant lėšas – 0,65); ^e6c33ee18872c17581199c1f
 
 
-2) mokslinių tyrimų ir eksperimentinės plėtros ekonominis ir socialinis poveikis (svorio koeficientas skiriant lėšas – 0,2); ^c0eef6d2e434fab74154c94e
+2) mokslinių tyrimų ir eksperimentinės plėtros ekonominis ir socialinis poveikis (svorio koeficientas skiriant lėšas – 0,2); ^efa491bcd0493e62ab19baa2
 
 
-3) mokslinių tyrimų ir eksperimentinės plėtros perspektyvumas (svorio koeficientas skiriant lėšas – 0,15). ^67de5fc14ef8eefd049d5ba2
+3) mokslinių tyrimų ir eksperimentinės plėtros perspektyvumas (svorio koeficientas skiriant lėšas – 0,15). ^eaddde4b40884a91b1d3a290
 
 
-2. Meno veiklos ekspertinis vertinimas atliekamas pagal šiuos vertinimo kriterijus: ^899c8cd56cb3bdb01c5732d2
+2. Meno veiklos ekspertinis vertinimas atliekamas pagal šiuos vertinimo kriterijus: ^4fee1b8f26a091064af5ebde
 
 
-1) meno veiklos kokybė (svorio koeficientas skiriant lėšas – 0,8); ^a001798f3600349b961fe735
+1) meno veiklos kokybė (svorio koeficientas skiriant lėšas – 0,8); ^d1ead5c7ae31815bf82d2545
 
 
-2) meno veiklos kultūrinis, ekonominis ir socialinis poveikis (svorio koeficientas skiriant lėšas – 0,2). ^2a07e98584c26350a5952c47
+2) meno veiklos kultūrinis, ekonominis ir socialinis poveikis (svorio koeficientas skiriant lėšas – 0,2). ^530dea88de258309e889d7dd
 
 
-3. Universitetų, mokslinių tyrimų institutų ir kolegijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formalusis vertinimas (toliau – formalusis vertinimas) atliekamas pagal šiuos kriterijus: ^7d9a4a38dea9dcde4e2fcc83
+3. Universitetų, mokslinių tyrimų institutų ir kolegijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formalusis vertinimas (toliau – formalusis vertinimas) atliekamas pagal šiuos kriterijus: ^964cd8b4f9bba717c6c5cd69
 
 
-1) paskelbtų mokslinių tyrimų rezultatų ir meno darbų sklaida, registruotos intelektinės nuosavybės tarptautinė teisinė apsauga; ^0cf9ee53f88a0d068990deaf
+1) paskelbtų mokslinių tyrimų rezultatų ir meno darbų sklaida, registruotos intelektinės nuosavybės tarptautinė teisinė apsauga; ^a969600ed688ffc595b009f0
 
 
-2) mokslo ir studijų institucijų gautos tarptautinių mokslinių tyrimų ir eksperimentinės plėtros ir meno veiklos programų lėšos; ^43ab55b2b2273ee9c8af941c
+2) mokslo ir studijų institucijų gautos tarptautinių mokslinių tyrimų ir eksperimentinės plėtros ir meno veiklos programų lėšos; ^4b177ccc99ed302accb37c38
 
 
-3) mokslo ir studijų institucijų lėšos, gautos iš ūkio subjektų, nevyriausybinių organizacijų ir fizinių asmenų už mokslinių tyrimų ir eksperimentinės plėtros ir meno užsakymus, pagal intelektinės nuosavybės licencines ir perdavimo sutartis ir pagal paramos sutartis moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai vykdyti. ^e9bcd1154085513c4234f9a6
+3) mokslo ir studijų institucijų lėšos, gautos iš ūkio subjektų, nevyriausybinių organizacijų ir fizinių asmenų už mokslinių tyrimų ir eksperimentinės plėtros ir meno užsakymus, pagal intelektinės nuosavybės licencines ir perdavimo sutartis ir pagal paramos sutartis moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai vykdyti. ^e11f377d6d9588485c27a6d2
 
 
-4. Formaliojo vertinimo kriterijų svorio koeficientus tvirtina Vyriausybė ar jos įgaliota institucija, atsižvelgdama į Lietuvos mokslo tarybos siūlymą. ^030a5cb6e05c7f52eb8da4e5
+4. Formaliojo vertinimo kriterijų svorio koeficientus tvirtina Vyriausybė ar jos įgaliota institucija, atsižvelgdama į Lietuvos mokslo tarybos siūlymą. ^47d131e96e4808213bffb10a
 
 
-5. Duomenis, kurių reikia siekiant atlikti šio straipsnio 1–[[#^7d9a4a38dea9dcde4e2fcc83|3 dalyse]] nurodytus vertinimus, mokslo ir studijų institucijos teikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^dff68010853b394ab7225e6e
+5. Duomenis, kurių reikia siekiant atlikti šio straipsnio 1–[[#^964cd8b4f9bba717c6c5cd69|3 dalyse]] nurodytus vertinimus, mokslo ir studijų institucijos teikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^c12d671bfba4fa201945a680
 
 
-6. Mokslinių tyrimų ir eksperimentinės plėtros ekspertinį vertinimą, meno veiklos ekspertinį vertinimą ir formalųjį vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlieka Lietuvos mokslo taryba. ^cd08e3bca56a55f48cb89e29
+6. Mokslinių tyrimų ir eksperimentinės plėtros ekspertinį vertinimą, meno veiklos ekspertinį vertinimą ir formalųjį vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlieka Lietuvos mokslo taryba. ^819e8bcf28f5327d43666fad
 
 
 Straipsnio pakeitimai:
@@ -2921,28 +2955,28 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 ### 753 straipsnis. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skirstymas mokslo ir studijų institucijoms
 
 
-1. Universitetams ir mokslinių tyrimų institutams valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos kiekvienais metais skirstomos moksliniams tyrimams ir eksperimentinei plėtrai pagal mokslo sritis ir meno veiklai. Šį skirstymą atlieka Vyriausybė ar jos įgaliota institucija, atsižvelgdama į Lietuvos mokslo tarybos siūlymą. Pagal ekspertinio vertinimo rezultatus kiekvienais metais mokslo sričiai baziniam finansavimui skiriamų lėšų dydis negali būti mažesnis, negu buvo skirta praėjusiais metais, išskyrus atvejus, kai lėšos einamaisiais metais skiriamos jau pagal kito ekspertinio vertinimo rezultatus. ^4fa85e3b56e67fe0913fa3cf
+1. Universitetams ir mokslinių tyrimų institutams valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos kiekvienais metais skirstomos moksliniams tyrimams ir eksperimentinei plėtrai pagal mokslo sritis ir meno veiklai. Šį skirstymą atlieka Vyriausybė ar jos įgaliota institucija, atsižvelgdama į Lietuvos mokslo tarybos siūlymą. Pagal ekspertinio vertinimo rezultatus kiekvienais metais mokslo sričiai baziniam finansavimui skiriamų lėšų dydis negali būti mažesnis, negu buvo skirta praėjusiais metais, išskyrus atvejus, kai lėšos einamaisiais metais skiriamos jau pagal kito ekspertinio vertinimo rezultatus. ^93271797c8739654bad9f5ac
 
 
-2. Pagal mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo ir meno veiklos ekspertinio vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams paskirstoma 70 procentų visoms mokslo, meno sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų vertinamųjų vienetų mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų mokslininkų visos darbo dienos atitikmenimis, sandaugoms. Mokslininkų visos darbo dienos atitikmuo skaičiuojamas kaip tam tikros mokslo srities ar krypties visų institucijos dėstytojų, turinčių mokslo daktaro laipsnį, visos darbo dienos atitikmens, padalyto iš 2, ir visų šios mokslo srities ar krypties mokslo darbuotojų, turinčių mokslo daktaro laipsnį, visos darbo dienos atitikmens suma. Lėšos meno veiklai skiriamos universitetams proporcingai jų vertinamųjų vienetų meno veiklos ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų menininkų visos darbo dienos atitikmenimis, sandaugoms. Menininkų visos darbo dienos atitikmuo skaičiuojamas kaip tam tikros meno srities ar krypties visų institucijos dėstytojų menininkų visos darbo dienos atitikmens, padalyto iš 2, ir visų tyrėjų menininkų visos darbo dienos atitikmens suma. ^baa5d4c2b50463736988f2b0
+2. Pagal mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo ir meno veiklos ekspertinio vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams paskirstoma 70 procentų visoms mokslo, meno sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų vertinamųjų vienetų mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų mokslininkų visos darbo dienos atitikmenimis, sandaugoms. Mokslininkų visos darbo dienos atitikmuo skaičiuojamas kaip tam tikros mokslo srities ar krypties visų institucijos dėstytojų, turinčių mokslo daktaro laipsnį, visos darbo dienos atitikmens, padalyto iš 2, ir visų šios mokslo srities ar krypties mokslo darbuotojų, turinčių mokslo daktaro laipsnį, visos darbo dienos atitikmens suma. Lėšos meno veiklai skiriamos universitetams proporcingai jų vertinamųjų vienetų meno veiklos ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų menininkų visos darbo dienos atitikmenimis, sandaugoms. Menininkų visos darbo dienos atitikmuo skaičiuojamas kaip tam tikros meno srities ar krypties visų institucijos dėstytojų menininkų visos darbo dienos atitikmens, padalyto iš 2, ir visų tyrėjų menininkų visos darbo dienos atitikmens suma. ^a7029d46898552d047b3408a
 
 
-3. Pagal formaliojo vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skiriama 30 procentų visoms mokslo sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo suminiams įverčiams. ^2585e5bb30581fc26167ff9a
+3. Pagal formaliojo vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skiriama 30 procentų visoms mokslo sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos formaliojo vertinimo suminiams įverčiams. ^3f41158d89ccd48ffe6e1b8d
 
 
-4. Kolegijoms moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skiriama ne mažiau kaip 10 procentų kolegijų bazinio finansavimo lėšų. ^4662f40b59de0d599c565624
+4. Kolegijoms moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skiriama ne mažiau kaip 10 procentų kolegijų bazinio finansavimo lėšų. ^9d20764db3a8182d8437ae6c
 
 
-5. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^91c99d82eeb7a99cb9cb4081
+5. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^5849189df95d18f290603c2a
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-6. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšų skirstymas mokslo ir studijų institucijų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti detalizuojamas Vyriausybės ar jos įgaliotos institucijos tvirtinamame tvarkos apraše. ^27a7531bbc75c5af809389d9
+6. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšų skirstymas mokslo ir studijų institucijų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti detalizuojamas Vyriausybės ar jos įgaliotos institucijos tvirtinamame tvarkos apraše. ^f568dd0c1f66074bfa7b05b0
 
 
-7. Universitetų ir mokslinių tyrimų institutų, įsteigtų po 2021 m. liepos 1 d., ekspertinis vertinimas atliekamas ne anksčiau kaip po penkerių metų, o formalusis vertinimas atliekamas ne anksčiau kaip po metų nuo jų veiklos pradžios. Valstybės biudžeto bazinio finansavimo lėšas moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti institucijoms pirmiems metams skiria Vyriausybė ar jos įgaliota institucija, atsižvelgdama į universitetų ir mokslinių tyrimų institutų ekspertinio vertinimo rezultatų vidurkį, o vėlesniais metais skiria skatinamojo finansavimo lėšas pagal formaliojo vertinimo rezultatus, atsižvelgdama į Lietuvos mokslo tarybos siūlymą. ^c39d50f714d2e76d35d80da7
+7. Universitetų ir mokslinių tyrimų institutų, įsteigtų po 2021 m. liepos 1 d., ekspertinis vertinimas atliekamas ne anksčiau kaip po penkerių metų, o formalusis vertinimas atliekamas ne anksčiau kaip po metų nuo jų veiklos pradžios. Valstybės biudžeto bazinio finansavimo lėšas moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti institucijoms pirmiems metams skiria Vyriausybė ar jos įgaliota institucija, atsižvelgdama į universitetų ir mokslinių tyrimų institutų ekspertinio vertinimo rezultatų vidurkį, o vėlesniais metais skiria skatinamojo finansavimo lėšas pagal formaliojo vertinimo rezultatus, atsižvelgdama į Lietuvos mokslo tarybos siūlymą. ^f20e2f625bdfc5a6f99e1b9a
 
 
 Straipsnio pakeitimai:
@@ -2954,25 +2988,25 @@ Nr. XIV-2309, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24176
 ### 76 straipsnis. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšų studijoms skyrimo pagrindai
 
 
-1. Valstybės biudžeto lėšos studijoms skiriamos: ^2952935c801f930808371b85
+1. Valstybės biudžeto lėšos studijoms skiriamos: ^ab2358689f665a46e5d51c44
 
 
-1) studijų kainai valstybės finansuojamose studijų vietose apmokėti; ^742d9d3f51ba6660db218676
+1) studijų kainai valstybės finansuojamose studijų vietose apmokėti; ^76f21227a085a2ba54a9c021
 
 
-2) geriausius studijų rezultatus pasiekusių valstybės nefinansuojamose studijų vietose studentų sumokėtai studijų kainai kompensuoti šio įstatymo [[#79 straipsnis. Kainos, sumokėtos už studijas, kompensavimas|79 straipsnyje]] nustatyta tvarka; ^c84643431abf1b764d5b2b6e
+2) geriausius studijų rezultatus pasiekusių valstybės nefinansuojamose studijų vietose studentų sumokėtai studijų kainai kompensuoti šio įstatymo [[#79 straipsnis. Kainos, sumokėtos už studijas, kompensavimas|79 straipsnyje]] nustatyta tvarka; ^11112a6b1f1a9e5378c5e640
 
 
-3) valstybės paskoloms arba valstybės remiamoms paskoloms; ^bd26f0315c7a941beb0ab55d
+3) valstybės paskoloms arba valstybės remiamoms paskoloms; ^588fc12490a6308a02cddc75
 
 
-4) socialinėms stipendijoms, studijų stipendijoms, tikslinėms stipendijoms, aukštojo mokslo socialinės dimensijos plėtros priemonėms ir kitai paramai. ^c2978be5c0cbd31c34c44f9a
+4) socialinėms stipendijoms, studijų stipendijoms, tikslinėms stipendijoms, aukštojo mokslo socialinės dimensijos plėtros priemonėms ir kitai paramai. ^e74c580a3ba5a9f520797777
 
 
-2. Mokslinių tyrimų institutams ir kitoms institucijoms, kartu su universitetais rengiantiems mokslininkus ar padedantiems rengti specialistus, lėšos, susijusios su šių mokslininkų ar specialistų rengimu, skiriamos Vyriausybės nustatyta tvarka. ^83e2fb4b6a15ffb7321457c6
+2. Mokslinių tyrimų institutams ir kitoms institucijoms, kartu su universitetais rengiantiems mokslininkus ar padedantiems rengti specialistus, lėšos, susijusios su šių mokslininkų ar specialistų rengimu, skiriamos Vyriausybės nustatyta tvarka. ^f9af5fdd6ef64657118de046
 
 
-3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos mokslo ir studijų institucijoms pagal kiekvienais metais atliekamo mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo rezultatus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^0ed381610996f0b77a267438
+3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos mokslo ir studijų institucijoms pagal kiekvienais metais atliekamo mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo rezultatus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^6a6d21d33f0f2dcde1a633bb
 
 
 Straipsnio pakeitimai:
@@ -2984,34 +3018,34 @@ Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
 ### 761 straipsnis. Studijų veiklos pasiekimų vertinimo kriterijai, taikomi skiriant valstybės biudžeto skatinamojo finansavimo lėšas
 
 
-1. Mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimas atliekamas pagal šiuos formalius kriterijus: ^1a996a56dc34003c1b7d13be
+1. Mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimas atliekamas pagal šiuos formalius kriterijus: ^2b303aacd4e5ced95f6552b4
 
 
-1) studijų rezultatyvumas; ^e7c4c46c33734f8dc2a7044b
+1) studijų rezultatyvumas; ^395aee356b7b7c1712b3540d
 
 
-2) studijų tarptautiškumas; ^61d8f03946a12679d789682c
+2) studijų tarptautiškumas; ^6c1f7601ed975dc061b383f3
 
 
-3) studentų įdarbinimas į mokslo, meno ir studijų veiklas; ^21eaf306dc9d42ddd4bd2ef7
+3) studentų įdarbinimas į mokslo, meno ir studijų veiklas; ^43d31931d0263a930a61f2ff
 
 
-4) absolventų karjeros sėkmingumas; ^523618848ac486e73eaafd2a
+4) absolventų karjeros sėkmingumas; ^bf60d082cb2f8ecd1fd6d894
 
 
-5) studijų prieinamumas; ^6689d793ac7e469039f2064f
+5) studijų prieinamumas; ^a9cb4a9be586612b45deb53a
 
 
-6) mokslo ir studijų institucijų lėšos, gautos iš ūkio subjektų, nevyriausybinių organizacijų ir fizinių asmenų už užsakymus studijoms ir pagal paramos sutartis studijų veiklai vykdyti. ^64fa6ee4cc923ec427d6897a
+6) mokslo ir studijų institucijų lėšos, gautos iš ūkio subjektų, nevyriausybinių organizacijų ir fizinių asmenų už užsakymus studijoms ir pagal paramos sutartis studijų veiklai vykdyti. ^872985785972f103e15d8b62
 
 
-2. Mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo kriterijų svorio koeficientus tvirtina Vyriausybė ar jos įgaliota institucija, įvertinusi Lietuvos mokslo tarybos ir Studijų kokybės vertinimo centro siūlymus. ^01a92bfdda440e663c83bc3f
+2. Mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo kriterijų svorio koeficientus tvirtina Vyriausybė ar jos įgaliota institucija, įvertinusi Lietuvos mokslo tarybos ir Studijų kokybės vertinimo centro siūlymus. ^3041ce50d49d69a739b74925
 
 
-3. Duomenis, kurių reikia siekiant atlikti [[#^1a996a56dc34003c1b7d13be|šio straipsnio 1 dalyje]] nurodytus vertinimus, mokslo ir studijų institucijos teikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^0bc654d7811f32ed9fb85786
+3. Duomenis, kurių reikia siekiant atlikti [[#^2b303aacd4e5ced95f6552b4|šio straipsnio 1 dalyje]] nurodytus vertinimus, mokslo ir studijų institucijos teikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^b64cdaffd597dd6f690748d1
 
 
-4. Studijų veiklos pasiekimų vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlieka Studijų kokybės vertinimo centras. ^5f13fa3112d8d8cc33098c7f
+4. Studijų veiklos pasiekimų vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlieka Studijų kokybės vertinimo centras. ^a46b6e737574e7aed7450d7d
 
 
 Papildyta straipsniu:
@@ -3022,19 +3056,19 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 ### 762 straipsnis. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšų skirstymas mokslo ir studijų institucijoms
 
 
-1. Mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšas kiekvienais metais skiria Vyriausybė ar jos įgaliota institucija. Bendras metinis mokslo ir studijų institucijoms skiriamo valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšų dydis negali būti mažesnis, negu buvo skirta praėjusiais metais. ^29a81f58d4d346ca403b9620
+1. Mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšas kiekvienais metais skiria Vyriausybė ar jos įgaliota institucija. Bendras metinis mokslo ir studijų institucijoms skiriamo valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšų dydis negali būti mažesnis, negu buvo skirta praėjusiais metais. ^351bbc69fbb67d7eb2736ec6
 
 
-2. Pagal studijų veiklos pasiekimų vertinimo suminius įverčius visoms mokslo ir studijų institucijoms 2024 metais skiriama 5 procentai, 2025 metais – 10 procentų, 2026 ir vėlesniais metais – 20 procentų valstybės biudžeto lėšų, apskaičiuotų nuo praėjusių metų valstybės biudžete patvirtintų asignavimų, skirtų studijų baziniam finansavimui. Lėšos paskirstomos mokslo ir studijų institucijoms proporcingai jų studijų veiklos pasiekimų vertinimo suminiams įverčiams. ^311996305e9498e825c52efa
+2. Pagal studijų veiklos pasiekimų vertinimo suminius įverčius visoms mokslo ir studijų institucijoms 2024 metais skiriama 5 procentai, 2025 metais – 10 procentų, 2026 ir vėlesniais metais – 20 procentų valstybės biudžeto lėšų, apskaičiuotų nuo praėjusių metų valstybės biudžete patvirtintų asignavimų, skirtų studijų baziniam finansavimui. Lėšos paskirstomos mokslo ir studijų institucijoms proporcingai jų studijų veiklos pasiekimų vertinimo suminiams įverčiams. ^5af0b8eb00fb09093d153eb3
 
 
-3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu. Valstybinėms kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^70e6555f00e8ce71f4a69300
+3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu. Valstybinėms kolegijoms ir nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^84800860e9d51a69b7a041cf
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-4. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšų skirstymo mokslo ir studijų institucijoms tvarką nustato Vyriausybė ar jos įgaliota institucija. ^66c35433c80d4d9d1bb4c486
+4. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšų skirstymo mokslo ir studijų institucijoms tvarką nustato Vyriausybė ar jos įgaliota institucija. ^06a5d58b5f7b53fa8c5cd88a
 
 
 Papildyta straipsniu:
@@ -3045,25 +3079,25 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 ### 77 straipsnis. Studijų kainos apmokėjimas valstybės biudžeto lėšomis
 
 
-1. Stojančiųjų priėmimui į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas ir pretenduojančių į studijų stipendijas sudaromos dvi konkursinės eilės. Šios konkursinės eilės sudaromos švietimo, mokslo ir sporto ministro nustatyta tvarka, įvertinus valstybinių aukštųjų mokyklų siūlymus, ir paskelbiamos kiekvienais metais iki gruodžio 1 dienos, likus ne mažiau kaip 6 mėnesiams iki priėmimo į aukštąsias mokyklas pradžios. Konkursinėse eilėse esančių stojančiųjų konkursinis balas skaičiuojamas iš brandos egzaminų, mokymosi ir kitų specialiųjų gebėjimų įvertinimo rezultatų. ^9179bc2e2482b3bd13998685
+1. Stojančiųjų priėmimui į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas ir pretenduojančių į studijų stipendijas sudaromos dvi konkursinės eilės. Šios konkursinės eilės sudaromos švietimo, mokslo ir sporto ministro nustatyta tvarka, įvertinus valstybinių aukštųjų mokyklų siūlymus, ir paskelbiamos kiekvienais metais iki gruodžio 1 dienos, likus ne mažiau kaip 6 mėnesiams iki priėmimo į aukštąsias mokyklas pradžios. Konkursinėse eilėse esančių stojančiųjų konkursinis balas skaičiuojamas iš brandos egzaminų, mokymosi ir kitų specialiųjų gebėjimų įvertinimo rezultatų. ^a8ab0f015fb5f2e76cae1655
 Straipsnio dalies pakeitimai:
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 
 
 
-11. Į pirmąją konkursinę eilę patenka visi šio įstatymo [[#^757b0b713feaccf7e8691e58|59 straipsnio 1 dalyje]] nurodytas sąlygas atitinkantys asmenys. Į antrąją konkursinę eilę patenka asmenys, esantys pirmojoje konkursinėje eilėje ir papildomai atitinkantys bent vieną iš šių sąlygų: ^13add5bfe6f59ea22b29f6c2
+11. Į pirmąją konkursinę eilę patenka visi šio įstatymo [[#^5defd6f0eed8717f6c55bbec|59 straipsnio 1 dalyje]] nurodytas sąlygas atitinkantys asmenys. Į antrąją konkursinę eilę patenka asmenys, esantys pirmojoje konkursinėje eilėje ir papildomai atitinkantys bent vieną iš šių sąlygų: ^91c616e8b16605b6c2fe5e70
 
 
-1) stojantieji į pirmosios pakopos universitetines ir vientisąsias studijas ir pirmosios pakopos kolegines studijas yra baigę trumposios pakopos studijas; ^9765c9af99b1447a130b96a9
+1) stojantieji į pirmosios pakopos universitetines ir vientisąsias studijas ir pirmosios pakopos kolegines studijas yra baigę trumposios pakopos studijas; ^a6de4196fb73eaa52096b2da
 
 
-2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitoma darbo pagal darbo sutartį, savanoriškos veiklos pagal savanoriškos veiklos sutartį, privalomosios pradinės karo tarnybos, išskyrus atliktą 9 mėnesių privalomąją pradinę karo tarnybą, profesinės karo tarnybos ir savanoriškos nenuolatinės karo tarnybos trukmė. Atlikta 9 mėnesių privalomoji pradinė karo tarnyba prilyginama 12 mėnesių praktinės veiklos patirčiai. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras; ^efe0b72b496327191501c764
+2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitoma darbo pagal darbo sutartį, savanoriškos veiklos pagal savanoriškos veiklos sutartį, privalomosios pradinės karo tarnybos, išskyrus atliktą 9 mėnesių privalomąją pradinę karo tarnybą, profesinės karo tarnybos ir savanoriškos nenuolatinės karo tarnybos trukmė. Atlikta 9 mėnesių privalomoji pradinė karo tarnyba prilyginama 12 mėnesių praktinės veiklos patirčiai. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras; ^3e569f3549d2f5a9dffce279
 Straipsnio punkto pakeitimai:
 Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
 
 
 
-3) asmenys, kurie atitinka šio įstatymo [[#^169dd7cea4dfdc388a9f0b20|821 straipsnio 3 dalyje]] nurodytus kriterijus. ^66b4237a8805dcbc9e1d3cdb
+3) asmenys, kurie atitinka šio įstatymo [[#^4cb183dfb689acab49abf6ea|821 straipsnio 3 dalyje]] nurodytus kriterijus. ^3bde1070ad98f45b20a1e1b6
 
 
 Papildyta straipsnio dalimi:
@@ -3071,25 +3105,25 @@ Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 
 
 
-12. Vykdant bendrojo priėmimo pagrindinį etapą, pirmiausia organizuojamas stojančiųjų, esančių antrojoje konkursinėje eilėje, konkursas. Įvykus šiam konkursui, valstybės finansuojamų vietų negavę antrojoje konkursinėje eilėje esantys stojantieji toliau dalyvauja konkurse kartu su stojančiaisiais, esančiais pirmojoje konkursinėje eilėje, o jeigu valstybės finansuojamos vietos, skirtos antrojoje eilėje buvusiems asmenims, lieka neužimtos, į jas bendrąja konkurso tvarka pretenduoja pirmojoje eilėje esantys stojantieji. Pasibaigus bendrojo priėmimo pagrindiniam etapui, į likusias neužimtas valstybės finansuojamas studijų vietas priėmimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka. ^bb6b4124561cae6d64ab6fbc
+12. Vykdant bendrojo priėmimo pagrindinį etapą, pirmiausia organizuojamas stojančiųjų, esančių antrojoje konkursinėje eilėje, konkursas. Įvykus šiam konkursui, valstybės finansuojamų vietų negavę antrojoje konkursinėje eilėje esantys stojantieji toliau dalyvauja konkurse kartu su stojančiaisiais, esančiais pirmojoje konkursinėje eilėje, o jeigu valstybės finansuojamos vietos, skirtos antrojoje eilėje buvusiems asmenims, lieka neužimtos, į jas bendrąja konkurso tvarka pretenduoja pirmojoje eilėje esantys stojantieji. Pasibaigus bendrojo priėmimo pagrindiniam etapui, į likusias neužimtas valstybės finansuojamas studijų vietas priėmimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka. ^855a4919334d8e44604c0c97
 Papildyta straipsnio dalimi:
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 
 
 
-2. Trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamos studijų vietos aukštosioms mokykloms tenka pagal stojančiųjų, esančių pirmojoje ir antrojoje konkursinėse eilėse, pasirinkimą, neviršijant nustatyto valstybės finansavimo ir laikantis valstybinėms aukštosioms mokykloms švietimo, mokslo ir sporto ministro nustatyto studijų programai minimalaus studijų vietų skaičiaus pagal studijų kryptis ir (arba) krypčių grupes. ^364718c3454f6888a3ec6bbb
+2. Trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamos studijų vietos aukštosioms mokykloms tenka pagal stojančiųjų, esančių pirmojoje ir antrojoje konkursinėse eilėse, pasirinkimą, neviršijant nustatyto valstybės finansavimo ir laikantis valstybinėms aukštosioms mokykloms švietimo, mokslo ir sporto ministro nustatyto studijų programai minimalaus studijų vietų skaičiaus pagal studijų kryptis ir (arba) krypčių grupes. ^bf37b8693877dcd347a17db8
 Straipsnio dalies pakeitimai:
 Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
 
 
 
-3. Atitinkamais metais į mokslo ir studijų institucijas priimamų asmenų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros, profesinių studijų vietų, studijų stipendijų preliminarų skaičių ir skiriamą valstybės finansavimą (nustatytus pagal patvirtintas atitinkamų metų normines studijų kainas ir studijų krypčių grupes ir (arba) jų grupių junginius arba bendrą skaičių pagal studijų pakopas (mokslo ir meno doktorantūros – pagal mokslo ir meno sritis) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Antrajai konkursinei eilei sudaryti Vyriausybė skiria ne mažiau kaip 10 procentų valstybės finansuojamų studijų vietų ir valstybės finansavimo lėšų (nustatytų pagal atitinkamais metais į pirmosios pakopos ir vientisąsias studijas priimamų asmenų preliminarų valstybės finansuojamų studijų vietų skaičių ir skiriamą valstybės finansavimą). ^2c5477d13d045f57097b00f8
+3. Atitinkamais metais į mokslo ir studijų institucijas priimamų asmenų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros, profesinių studijų vietų, studijų stipendijų preliminarų skaičių ir skiriamą valstybės finansavimą (nustatytus pagal patvirtintas atitinkamų metų normines studijų kainas ir studijų krypčių grupes ir (arba) jų grupių junginius arba bendrą skaičių pagal studijų pakopas (mokslo ir meno doktorantūros – pagal mokslo ir meno sritis) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Antrajai konkursinei eilei sudaryti Vyriausybė skiria ne mažiau kaip 10 procentų valstybės finansuojamų studijų vietų ir valstybės finansavimo lėšų (nustatytų pagal atitinkamais metais į pirmosios pakopos ir vientisąsias studijas priimamų asmenų preliminarų valstybės finansuojamų studijų vietų skaičių ir skiriamą valstybės finansavimą). ^d0a87697e08dc135997693e5
 Straipsnio dalies pakeitimai:
 Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
 
 
 
-4. Atitinkamais metais į mokslo ir studijų institucijas priimamiems trumposios pakopos, pirmosios pakopos ir vientisųjų studijų studentams skiriamo valstybės finansavimo ir preliminaraus valstybės finansuojamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų vietų ir studijų stipendijų skaičiaus paskirstymą pagal studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, vidaus sistemos pareigūnų ir sveikatos priežiūros specialistų rengimo studijų – pagal studijų programas, pedagogų rengimo studijų – pagal studijų programas arba specializacijas ir (arba) studijų programų arba specializacijų grupes) iki kiekvienų metų balandžio 15 dienos nustato švietimo, mokslo ir sporto ministras, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes ir įvertinęs absolventų įsidarbinimo rodiklius. Atsižvelgdamas į priimtų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas vietas asmenų skaičių per pastaruosius trejus metus ir studijų krypčių vertinimo rezultatus, švietimo, mokslo ir sporto ministras iki kiekvienų metų balandžio 15 dienos nustato atitinkamais metais antrajai konkursinei eilei formuoti skiriamų pirmosios pakopos ir vientisųjų studijų valstybės finansuojamų vietų ir studijų stipendijų skaičiaus paskirstymą pagal studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, pedagogų rengimo studijų – pagal studijų programas, specializacijas arba jų grupes). ^76b575d4abc73f23952cdd8b
+4. Atitinkamais metais į mokslo ir studijų institucijas priimamiems trumposios pakopos, pirmosios pakopos ir vientisųjų studijų studentams skiriamo valstybės finansavimo ir preliminaraus valstybės finansuojamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų vietų ir studijų stipendijų skaičiaus paskirstymą pagal studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, vidaus sistemos pareigūnų ir sveikatos priežiūros specialistų rengimo studijų – pagal studijų programas, pedagogų rengimo studijų – pagal studijų programas arba specializacijas ir (arba) studijų programų arba specializacijų grupes) iki kiekvienų metų balandžio 15 dienos nustato švietimo, mokslo ir sporto ministras, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes ir įvertinęs absolventų įsidarbinimo rodiklius. Atsižvelgdamas į priimtų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas vietas asmenų skaičių per pastaruosius trejus metus ir studijų krypčių vertinimo rezultatus, švietimo, mokslo ir sporto ministras iki kiekvienų metų balandžio 15 dienos nustato atitinkamais metais antrajai konkursinei eilei formuoti skiriamų pirmosios pakopos ir vientisųjų studijų valstybės finansuojamų vietų ir studijų stipendijų skaičiaus paskirstymą pagal studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, pedagogų rengimo studijų – pagal studijų programas, specializacijas arba jų grupes). ^0a0c1a71d8afaf571d0f4a0e
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
@@ -3097,67 +3131,67 @@ Nr. XIV-2692, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10825
 
 
 
-5. Galutinį valstybės finansuojamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų vietų skaičių ir jų pasiskirstymą pagal aukštąsias mokyklas bei studijų krypčių grupes tvirtina švietimo, mokslo ir sporto ministras, kai yra žinomi stojimo į aukštąsias mokyklas rezultatai ir pasirašytos studijų sutartys. ^ab947afcaf28cd0cd407721c
+5. Galutinį valstybės finansuojamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų vietų skaičių ir jų pasiskirstymą pagal aukštąsias mokyklas bei studijų krypčių grupes tvirtina švietimo, mokslo ir sporto ministras, kai yra žinomi stojimo į aukštąsias mokyklas rezultatai ir pasirašytos studijų sutartys. ^a4bc7482981c7c2778ab5db6
 
 
-6. Nuolatinės formos studijų vietų, į kurias priimtų studentų studijos pagal šio straipsnio nuostatas apmokamos valstybės biudžeto lėšomis, skaičius aukštojoje mokykloje išlieka nepakitęs per visą nustatytą studijų laikotarpį, o ištęstinės formos studijų vietų, į kurias priimamų studentų studijos apmokamos valstybės biudžeto lėšomis, skaičius aukštojoje mokykloje išlieka nepakitęs per laikotarpį, ne daugiau kaip iki pusantro karto ilgesnį negu nustatytas atitinkamų nuolatinės formos studijų laikotarpis, išskyrus [[#^a3717c81b6ed230418ca97b2|šio straipsnio 7 dalyje]] numatytus atvejus. Kai valstybės finansuojamoje studijų vietoje studijuojantis asmuo pašalinamas iš aukštosios mokyklos, praranda valstybės finansavimą arba nutraukia studijas ir kai valstybės finansuojama studijų vieta nėra užimama [[#^9ce2eafdf00926b9106a2af1|šio straipsnio 17 dalyje]] nustatyta tvarka, aukštosios mokyklos studijų vietai skirtas valstybės finansavimas išlieka tol, kol atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalis tam tikroje studijų krypčių grupėje arba mokslo ar meno srityje yra ne didesnė kaip didžiausia leidžiama toje studijų krypčių grupėje arba mokslo ar meno srityje. Kai atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalis tam tikroje studijų krypčių grupėje arba mokslo ar meno srityje yra didesnė nei didžiausia leidžiama toje studijų krypčių grupėje arba mokslo ar meno srityje, valstybės finansavimas mažinamas ta dalimi, kuri viršija didžiausią leidžiamą atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalį. Didžiausia leidžiama atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalis yra 25 procentai nuo priėmimo metais tam tikroje studijų krypčių grupėje arba mokslo ar meno srityje švietimo, mokslo ir sporto ministro nustatyta tvarka užfiksuoto valstybės finansuojamų studijų vietų skaičiaus. ^72e6026bd8b44f7904e45643
+6. Nuolatinės formos studijų vietų, į kurias priimtų studentų studijos pagal šio straipsnio nuostatas apmokamos valstybės biudžeto lėšomis, skaičius aukštojoje mokykloje išlieka nepakitęs per visą nustatytą studijų laikotarpį, o ištęstinės formos studijų vietų, į kurias priimamų studentų studijos apmokamos valstybės biudžeto lėšomis, skaičius aukštojoje mokykloje išlieka nepakitęs per laikotarpį, ne daugiau kaip iki pusantro karto ilgesnį negu nustatytas atitinkamų nuolatinės formos studijų laikotarpis, išskyrus [[#^a3474717d044f566d55ec311|šio straipsnio 7 dalyje]] numatytus atvejus. Kai valstybės finansuojamoje studijų vietoje studijuojantis asmuo pašalinamas iš aukštosios mokyklos, praranda valstybės finansavimą arba nutraukia studijas ir kai valstybės finansuojama studijų vieta nėra užimama [[#^6aab83dbc981f4afa0a47606|šio straipsnio 17 dalyje]] nustatyta tvarka, aukštosios mokyklos studijų vietai skirtas valstybės finansavimas išlieka tol, kol atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalis tam tikroje studijų krypčių grupėje arba mokslo ar meno srityje yra ne didesnė kaip didžiausia leidžiama toje studijų krypčių grupėje arba mokslo ar meno srityje. Kai atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalis tam tikroje studijų krypčių grupėje arba mokslo ar meno srityje yra didesnė nei didžiausia leidžiama toje studijų krypčių grupėje arba mokslo ar meno srityje, valstybės finansavimas mažinamas ta dalimi, kuri viršija didžiausią leidžiamą atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalį. Didžiausia leidžiama atsilaisvinusių neužimtų valstybės finansuojamų studijų vietų dalis yra 25 procentai nuo priėmimo metais tam tikroje studijų krypčių grupėje arba mokslo ar meno srityje švietimo, mokslo ir sporto ministro nustatyta tvarka užfiksuoto valstybės finansuojamų studijų vietų skaičiaus. ^a9a0d73e1ee6ca76ae050f44
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-7. Asmuo, kurio studijas finansuoja valstybė, Vyriausybės nustatytais atvejais ir tvarka turi teisę keisti studijų programą ir studijų formą toje pačioje studijų krypčių grupėje, neprarasdamas likusios valstybinio studijų finansavimo dalies, ne didesnės negu tos studijų programos norminė studijų kaina. ^a3717c81b6ed230418ca97b2
+7. Asmuo, kurio studijas finansuoja valstybė, Vyriausybės nustatytais atvejais ir tvarka turi teisę keisti studijų programą ir studijų formą toje pačioje studijų krypčių grupėje, neprarasdamas likusios valstybinio studijų finansavimo dalies, ne didesnės negu tos studijų programos norminė studijų kaina. ^a3474717d044f566d55ec311
 
 
-8. Preliminaraus valstybės finansuojamų antrosios pakopos universitetinių studijų vietų ir studijų stipendijų skaičiaus ir skiriamo valstybės finansavimo paskirstymą pagal aukštąsias mokyklas ir studijų krypčių grupes bei galimą nuokrypį tarp studijų krypčių grupių tvirtina švietimo, mokslo ir sporto ministras, neviršydamas valstybės finansavimo, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes, mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos rezultatų įvertinimą ir (arba) pirmosios pakopos absolventų pagal studijų krypčių grupes ir (arba) studijų kryptis skaičių. Preliminaraus valstybės finansuojamų antrosios pakopos studijų vietų ir studijų stipendijų skaičiaus ir skiriamo valstybės finansavimo paskirstymas pagal aukštąsias mokyklas tvirtinamas švietimo, mokslo ir sporto ministro nustatyta tvarka. Universitetai, vykdantys tarpkryptines magistrantūros studijas, savo nustatyta tvarka nustato studijų krypčių grupę, su kuria susieja studentų priėmimą. ^7ee51066523185f7f42eda6d
+8. Preliminaraus valstybės finansuojamų antrosios pakopos universitetinių studijų vietų ir studijų stipendijų skaičiaus ir skiriamo valstybės finansavimo paskirstymą pagal aukštąsias mokyklas ir studijų krypčių grupes bei galimą nuokrypį tarp studijų krypčių grupių tvirtina švietimo, mokslo ir sporto ministras, neviršydamas valstybės finansavimo, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes, mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos rezultatų įvertinimą ir (arba) pirmosios pakopos absolventų pagal studijų krypčių grupes ir (arba) studijų kryptis skaičių. Preliminaraus valstybės finansuojamų antrosios pakopos studijų vietų ir studijų stipendijų skaičiaus ir skiriamo valstybės finansavimo paskirstymas pagal aukštąsias mokyklas tvirtinamas švietimo, mokslo ir sporto ministro nustatyta tvarka. Universitetai, vykdantys tarpkryptines magistrantūros studijas, savo nustatyta tvarka nustato studijų krypčių grupę, su kuria susieja studentų priėmimą. ^810d1b9bb7d63dcf6664055b
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-9. Valstybės finansuojamų doktorantūros vietų ir studijų stipendijų skaičių mokslo ir studijų institucijose tvirtina švietimo, mokslo ir sporto ministras pagal mokslo ir meno kryptis, neviršydamas valstybės finansavimo, apskaičiuoto pagal patvirtintą preliminarų studijų vietų ir studijų stipendijų skaičių ir normines studijų kainas, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes ir į Lietuvos mokslo tarybos atliktą mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos rezultatų įvertinimą, doktorantūros rezultatus, taip pat į mokslo ir studijų institucijų nustatytas atitinkamų metų doktorantūros studijų kainas. Valstybės finansuojamų doktorantūros vietų ir studijų stipendijų skaičiaus paskirstymas pagal mokslo ir meno kryptis ir mokslo ir studijų institucijas tvirtinamas švietimo, mokslo ir sporto ministro nustatyta tvarka. ^f3947b752fdf6b7dfa966d6c
+9. Valstybės finansuojamų doktorantūros vietų ir studijų stipendijų skaičių mokslo ir studijų institucijose tvirtina švietimo, mokslo ir sporto ministras pagal mokslo ir meno kryptis, neviršydamas valstybės finansavimo, apskaičiuoto pagal patvirtintą preliminarų studijų vietų ir studijų stipendijų skaičių ir normines studijų kainas, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes ir į Lietuvos mokslo tarybos atliktą mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos rezultatų įvertinimą, doktorantūros rezultatus, taip pat į mokslo ir studijų institucijų nustatytas atitinkamų metų doktorantūros studijų kainas. Valstybės finansuojamų doktorantūros vietų ir studijų stipendijų skaičiaus paskirstymas pagal mokslo ir meno kryptis ir mokslo ir studijų institucijas tvirtinamas švietimo, mokslo ir sporto ministro nustatyta tvarka. ^7426a55ae5492d65496964dd
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-10. Švietimo, mokslo ir sporto ministro nustatyta valstybės finansuojamų doktorantūros vietų dalis doktorantūros teisę turinčioms mokslo ir studijų institucijoms gali būti paskirstyta konkurso būdu per švietimo, mokslo ir sporto ministro nustatytus terminus, pasitelkiant Lietuvos mokslo tarybą. Konkursas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka, pagal kurią numatoma, kad doktorantūros temas gali siūlyti ministerijos, įmonės, įstaigos arba organizacijos. Švietimo, mokslo ir sporto ministro patvirtintame tvarkos apraše numatytais atvejais konkurso būdu valstybės finansuojama doktorantūros vieta gali būti paskirta ir doktorantūros teisės neturinčiai mokslo ir studijų institucijai ar įmonei, įstaigai, organizacijai, vykdančiai doktorantūros krypties aukšto lygio mokslinius tyrimus ir eksperimentinės plėtros darbus ir dalyvaujančiai konkurse kartu su doktorantūros teisę turinčia mokslo ir studijų institucija (institucijomis). Šiuo atveju taikoma konkurse dalyvavusios doktorantūros teisę turinčios mokslo ir studijų institucijos nustatyta studijų kaina. Konkursą laimėjusi doktorantūros teisės neturinti mokslo ir studijų institucija ar įmonė ir kartu su ja konkurse dalyvavusi (dalyvavusios) doktorantūros teisę turinti (turinčios) mokslo ir studijų institucija (institucijos) sudaro su Lietuvos mokslo taryba suderintą sutartį dėl doktorantūros vykdymo. ^ff496dae9f012e8c1f867f43
+10. Švietimo, mokslo ir sporto ministro nustatyta valstybės finansuojamų doktorantūros vietų dalis doktorantūros teisę turinčioms mokslo ir studijų institucijoms gali būti paskirstyta konkurso būdu per švietimo, mokslo ir sporto ministro nustatytus terminus, pasitelkiant Lietuvos mokslo tarybą. Konkursas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka, pagal kurią numatoma, kad doktorantūros temas gali siūlyti ministerijos, įmonės, įstaigos arba organizacijos. Švietimo, mokslo ir sporto ministro patvirtintame tvarkos apraše numatytais atvejais konkurso būdu valstybės finansuojama doktorantūros vieta gali būti paskirta ir doktorantūros teisės neturinčiai mokslo ir studijų institucijai ar įmonei, įstaigai, organizacijai, vykdančiai doktorantūros krypties aukšto lygio mokslinius tyrimus ir eksperimentinės plėtros darbus ir dalyvaujančiai konkurse kartu su doktorantūros teisę turinčia mokslo ir studijų institucija (institucijomis). Šiuo atveju taikoma konkurse dalyvavusios doktorantūros teisę turinčios mokslo ir studijų institucijos nustatyta studijų kaina. Konkursą laimėjusi doktorantūros teisės neturinti mokslo ir studijų institucija ar įmonė ir kartu su ja konkurse dalyvavusi (dalyvavusios) doktorantūros teisę turinti (turinčios) mokslo ir studijų institucija (institucijos) sudaro su Lietuvos mokslo taryba suderintą sutartį dėl doktorantūros vykdymo. ^3882d4b980af235b89790ec7
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-11. Valstybės finansuojamų profesinių studijų vietų skaičius nustatomas įvertinus valstybės institucijų, atsakingų už atitinkamos srities specialistų poreikio planavimą, siūlymus ir specialistų įsidarbinamumo rodiklius. Specialistų poreikį, atsižvelgusios į valstybės reikmes, institucijos nustato pagal atitinkamas kvalifikacijas ir iki kiekvienų metų sausio 1 dienos pateikia Švietimo, mokslo ir sporto ministerijai. Švietimo, mokslo ir sporto ministras, įvertinęs valstybės institucijų, atsakingų už atitinkamos srities specialistų poreikio planavimą, pateiktus specialistų poreikio duomenis, atsižvelgdamas į universitetų nustatytas atitinkamų metų profesinių studijų kainas ir neviršydamas valstybės finansavimo, tvirtina valstybės finansuojamų profesinių studijų vietų skaičių pagal aukštąsias mokyklas ir kvalifikacijas, kurias teisės aktų nustatytais atvejais ir tvarka suteikia aukštoji mokykla (rezidentūros atveju – pagal studijų programas, pedagogų rengimo atveju – pagal ugdymo sričių dalyką arba ugdymo sričių dalykų grupes). ^9f189f8817214d1205270287
+11. Valstybės finansuojamų profesinių studijų vietų skaičius nustatomas įvertinus valstybės institucijų, atsakingų už atitinkamos srities specialistų poreikio planavimą, siūlymus ir specialistų įsidarbinamumo rodiklius. Specialistų poreikį, atsižvelgusios į valstybės reikmes, institucijos nustato pagal atitinkamas kvalifikacijas ir iki kiekvienų metų sausio 1 dienos pateikia Švietimo, mokslo ir sporto ministerijai. Švietimo, mokslo ir sporto ministras, įvertinęs valstybės institucijų, atsakingų už atitinkamos srities specialistų poreikio planavimą, pateiktus specialistų poreikio duomenis, atsižvelgdamas į universitetų nustatytas atitinkamų metų profesinių studijų kainas ir neviršydamas valstybės finansavimo, tvirtina valstybės finansuojamų profesinių studijų vietų skaičių pagal aukštąsias mokyklas ir kvalifikacijas, kurias teisės aktų nustatytais atvejais ir tvarka suteikia aukštoji mokykla (rezidentūros atveju – pagal studijų programas, pedagogų rengimo atveju – pagal ugdymo sričių dalyką arba ugdymo sričių dalykų grupes). ^d8367f916d94e67e5b427a45
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-12. Valstybė finansuoja studentų, studijuojančių valstybės finansuojamose studijų vietose, studijų kainą šio įstatymo [[#83 straipsnis. Studijų kaina|83 straipsnyje]] nustatyta tvarka. ^4b0f268216f9f6dd003f40a9
+12. Valstybė finansuoja studentų, studijuojančių valstybės finansuojamose studijų vietose, studijų kainą šio įstatymo [[#83 straipsnis. Studijų kaina|83 straipsnyje]] nustatyta tvarka. ^04e102c0e9e360c7a3343509
 
 
-13. Valstybės biudžeto lėšos studijų kainai valstybės finansuojamose studijų vietose apmokėti skiriamos Vyriausybės nustatyta tvarka. ^fb7ea862502749ffd5b4126a
+13. Valstybės biudžeto lėšos studijų kainai valstybės finansuojamose studijų vietose apmokėti skiriamos Vyriausybės nustatyta tvarka. ^9435822e2b67c068ff55e6ae
 
 
-14. Valstybės finansuojamose studijų vietose studijavę asmenys ir studijų stipendiją gavę asmenys, pašalinti iš mokslo ir studijų institucijos arba nutraukę studijas, Vyriausybės nustatytais atvejais ir tvarka privalo į valstybės biudžetą grąžinti studijų kainai valstybės finansuojamose studijų vietose apmokėti skirtas lėšas arba jų dalį. ^64ce36f960ec680421aa851b
+14. Valstybės finansuojamose studijų vietose studijavę asmenys ir studijų stipendiją gavę asmenys, pašalinti iš mokslo ir studijų institucijos arba nutraukę studijas, Vyriausybės nustatytais atvejais ir tvarka privalo į valstybės biudžetą grąžinti studijų kainai valstybės finansuojamose studijų vietose apmokėti skirtas lėšas arba jų dalį. ^6ce1cae0d7922fe394e5f5b8
 
 
-15. Švietimo, mokslo ir sporto ministras nustato konkuravimo dėl priėmimo į valstybės finansuojamas studijas aukštosiose mokyklose tvarką asmenims: ^30bf3497e38ec941a38f15cb
+15. Švietimo, mokslo ir sporto ministras nustato konkuravimo dėl priėmimo į valstybės finansuojamas studijas aukštosiose mokyklose tvarką asmenims: ^1592bf8c587a35bfed497121
 
 
-1) įgijusiems kvalifikaciją, suteikiančią teisę į aukštąjį mokslą, pagal tarptautinių organizacijų arba užsienio valstybių švietimo programas; ^7987c1048aa99c0915dc0f68
+1) įgijusiems kvalifikaciją, suteikiančią teisę į aukštąjį mokslą, pagal tarptautinių organizacijų arba užsienio valstybių švietimo programas; ^01ec392f2ec2eacb2e69ed4e
 
 
-2) Lietuvos Respublikoje vidurinį išsilavinimą įgijusiems iki įsigaliojant šiam įstatymui; ^a3e45fbb79e266b37ae694af
+2) Lietuvos Respublikoje vidurinį išsilavinimą įgijusiems iki įsigaliojant šiam įstatymui; ^5aa8f34f02d16ef7aa52a746
 
 
-3) švietimo, mokslo ir sporto ministro nustatyta tvarka ir atvejais atleistiems nuo valstybinių brandos egzaminų. ^c1c15d2a8b5bfb7690d9230e
+3) švietimo, mokslo ir sporto ministro nustatyta tvarka ir atvejais atleistiems nuo valstybinių brandos egzaminų. ^5322a22bb59046ff6a049541
 
 
-16. Užsienio lietuvių, įgijusių vidurinį išsilavinimą Lietuvoje, konkuravimo dėl priėmimo į valstybės finansuojamas studijų aukštosiose mokyklose vietas tvarką nustato švietimo, mokslo ir sporto ministras. ^5ebcb5672d71eca3560f29e9
+16. Užsienio lietuvių, įgijusių vidurinį išsilavinimą Lietuvoje, konkuravimo dėl priėmimo į valstybės finansuojamas studijų aukštosiose mokyklose vietas tvarką nustato švietimo, mokslo ir sporto ministras. ^9ba3ed8bb80db04bbfced5b1
 
 
-17. Iš mokslo ir studijų institucijos pašalinus valstybės finansuojamoje studijų vietoje studijavusį asmenį arba jam nutraukus studijas (išskyrus [[#^a3717c81b6ed230418ca97b2|šio straipsnio 7 dalyje]] numatytus atvejus), į atsilaisvinusią valstybės finansuojamą studijų vietą valstybės nefinansuojamoje studijų vietoje studijavę asmenys perkeliami aukštosios mokyklos nustatyta tvarka, vadovaujantis šio įstatymo [[#78 straipsnis. Nemokamas aukštasis mokslas gerai besimokantiems studentams|78 straipsnyje]] įtvirtintais principais. ^9ce2eafdf00926b9106a2af1
+17. Iš mokslo ir studijų institucijos pašalinus valstybės finansuojamoje studijų vietoje studijavusį asmenį arba jam nutraukus studijas (išskyrus [[#^a3474717d044f566d55ec311|šio straipsnio 7 dalyje]] numatytus atvejus), į atsilaisvinusią valstybės finansuojamą studijų vietą valstybės nefinansuojamoje studijų vietoje studijavę asmenys perkeliami aukštosios mokyklos nustatyta tvarka, vadovaujantis šio įstatymo [[#78 straipsnis. Nemokamas aukštasis mokslas gerai besimokantiems studentams|78 straipsnyje]] įtvirtintais principais. ^6aab83dbc981f4afa0a47606
 
 
 Straipsnio pakeitimai:
@@ -3168,43 +3202,43 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 ### 78 straipsnis. Nemokamas aukštasis mokslas gerai besimokantiems studentams
 
 
-1. Studento pasiekti studijų rezultatai baigus modulį (dalyką) vertinami priskiriant juos studijų pasiekimų lygmeniui. ^1e15c4d5bf0db9e6ed69b4ba
+1. Studento pasiekti studijų rezultatai baigus modulį (dalyką) vertinami priskiriant juos studijų pasiekimų lygmeniui. ^10ae932350bcc7b6745f6aaf
 
 
-2. Skiriami trys studijų pasiekimų modulių (dalykų) lygmenys: puikus, tipinis ir slenkstinis: ^e0ce8b223984dcfda08e8ffa
+2. Skiriami trys studijų pasiekimų modulių (dalykų) lygmenys: puikus, tipinis ir slenkstinis: ^e02aa2d2be9ffe464c481295
 
 
-1) puikiam pasiekimų lygmeniui priskiriamas studentas, kuris: žino naujausius studijų dalyko (krypties) šaltinius, teoriją ir principus ir gali kurti bei plėtoti naujas idėjas; geba taikyti žinias ir spręsti sudėtingas ir netipines studijų krypties ir su ja susijusios profesinės veiklos problemas; gali savarankiškai rinkti, vertinti, interpretuoti duomenis ir jais remdamasis priimti sprendimus; geba logiškai perteikti informaciją, idėjas, problemas ir sprendimus bendraudamas su savo studijų krypties ir kitų studijų krypčių specialistais; turi mokymosi gebėjimų, būtinų tolesnėms studijoms ir savarankiškam mokymuisi; ^a451d5ca1b978baa12a57507
+1) puikiam pasiekimų lygmeniui priskiriamas studentas, kuris: žino naujausius studijų dalyko (krypties) šaltinius, teoriją ir principus ir gali kurti bei plėtoti naujas idėjas; geba taikyti žinias ir spręsti sudėtingas ir netipines studijų krypties ir su ja susijusios profesinės veiklos problemas; gali savarankiškai rinkti, vertinti, interpretuoti duomenis ir jais remdamasis priimti sprendimus; geba logiškai perteikti informaciją, idėjas, problemas ir sprendimus bendraudamas su savo studijų krypties ir kitų studijų krypčių specialistais; turi mokymosi gebėjimų, būtinų tolesnėms studijoms ir savarankiškam mokymuisi; ^d7a075bb6ea33b8c8d156bab
 
 
-2) tipiniam pasiekimų lygmeniui priskiriamas studentas, kuris: žino svarbiausias savo studijų dalyko (krypties) teorijas ir principus ir gali pagrįsti esminius studijų krypties pasiekimus; geba taikyti žinias spręsdamas standartines savo studijų krypties ar su ja susijusios profesinės veiklos problemas; gali savarankiškai rinkti, vertinti ir interpretuoti savo studijų krypties duomenis, reikalingus sprendimams priimti; geba perteikti įprastinę studijų krypties informaciją, idėjas, problemas ir sprendimus; turi mokymosi gebėjimų, būtinų tolesnėms studijoms ir savarankiškam mokymuisi; ^b2ee2e69ac5dc4d37e94d43f
+2) tipiniam pasiekimų lygmeniui priskiriamas studentas, kuris: žino svarbiausias savo studijų dalyko (krypties) teorijas ir principus ir gali pagrįsti esminius studijų krypties pasiekimus; geba taikyti žinias spręsdamas standartines savo studijų krypties ar su ja susijusios profesinės veiklos problemas; gali savarankiškai rinkti, vertinti ir interpretuoti savo studijų krypties duomenis, reikalingus sprendimams priimti; geba perteikti įprastinę studijų krypties informaciją, idėjas, problemas ir sprendimus; turi mokymosi gebėjimų, būtinų tolesnėms studijoms ir savarankiškam mokymuisi; ^f136eceea8b9320b1d5c23e1
 
 
-3) slenkstiniam pasiekimų lygmeniui priskiriamas studentas, kuris: žino svarbiausias savo studijų dalyko (krypties) teorijas ir principus; geba taikyti žinias spręsdamas nesudėtingas savo studijų krypties problemas; gali dalyvauti renkant, vertinant ir interpretuojant savo studijų krypties duomenis, reikalingus sprendimams priimti; geba perteikti pagrindinę studijų krypties informaciją, idėjas, problemas; turi savarankiško mokymosi gebėjimų. ^54c40cbdf43bc980469045e5
+3) slenkstiniam pasiekimų lygmeniui priskiriamas studentas, kuris: žino svarbiausias savo studijų dalyko (krypties) teorijas ir principus; geba taikyti žinias spręsdamas nesudėtingas savo studijų krypties problemas; gali dalyvauti renkant, vertinant ir interpretuojant savo studijų krypties duomenis, reikalingus sprendimams priimti; geba perteikti pagrindinę studijų krypties informaciją, idėjas, problemas; turi savarankiško mokymosi gebėjimų. ^03ca753546d6d981033a2291
 
 
-3. Po aukštosios mokyklos nustatyto vertinamojo laikotarpio, ne ilgesnio kaip studijų metai, modulių (dalykų) vertinimai apibendrinami ir nustatomas vertinamojo laikotarpio studijų pasiekimų lygmuo: ^359efb4d4db9f356af3ba270
+3. Po aukštosios mokyklos nustatyto vertinamojo laikotarpio, ne ilgesnio kaip studijų metai, modulių (dalykų) vertinimai apibendrinami ir nustatomas vertinamojo laikotarpio studijų pasiekimų lygmuo: ^5d3a68cc252723fdbcc1632e
 
 
-1) studentas laikomas pasiekusiu puikų vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu ne mažiau kaip keturi penktadaliai modulių (dalykų) įvertinimų yra puikaus lygmens, o kiti – ne žemesnio kaip tipinio lygmens; ^1241e56c2e8ed4def2b071bf
+1) studentas laikomas pasiekusiu puikų vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu ne mažiau kaip keturi penktadaliai modulių (dalykų) įvertinimų yra puikaus lygmens, o kiti – ne žemesnio kaip tipinio lygmens; ^a8ef9832eb9de2343db2ea36
 
 
-2) studentas laikomas pasiekusiu tipinį vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu ne mažiau kaip trys ketvirtadaliai modulių (dalykų) įvertinimų yra tipinio arba puikaus lygmens, o kiti – slenkstinio lygmens; ^3ad81f18233766b2efbd5968
+2) studentas laikomas pasiekusiu tipinį vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu ne mažiau kaip trys ketvirtadaliai modulių (dalykų) įvertinimų yra tipinio arba puikaus lygmens, o kiti – slenkstinio lygmens; ^6f1a21d02cba583218c410bf
 
 
-3) studentas laikomas pasiekusiu slenkstinį vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu jis yra atsiskaitęs už visus modulius (dalykus), bet jo studijų pasiekimai nesiekia tipinio lygmens. ^2574b33a8706ed002bf2f90e
+3) studentas laikomas pasiekusiu slenkstinį vertinamojo laikotarpio studijų pasiekimų lygmenį, jeigu jis yra atsiskaitęs už visus modulius (dalykus), bet jo studijų pasiekimai nesiekia tipinio lygmens. ^072a2e0a17bdad180f17dea9
 
 
-4. Gerai besimokančiu laikomas studentas, neturintis akademinių skolų, įvykdęs visus studijų programai vertinamuoju laikotarpiu keliamus reikalavimus ir pasiekęs puikų arba tipinį pasiekimų lygmenį. ^8810dfc16cde1eb39ffd8dd9
+4. Gerai besimokančiu laikomas studentas, neturintis akademinių skolų, įvykdęs visus studijų programai vertinamuoju laikotarpiu keliamus reikalavimus ir pasiekęs puikų arba tipinį pasiekimų lygmenį. ^b69fc53692a56b95b943de40
 
 
-5. Studentui, kurio trumposios pakopos, pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos, po aukštosios mokyklos nustatyto vertinamojo laikotarpio, ne ilgesnio kaip studijų metai, valstybės finansavimas studijoms išlieka, jeigu jis atitinka [[#^8810dfc16cde1eb39ffd8dd9|šio straipsnio 4 dalyje]] nustatytus gero mokymosi kriterijus. Jeigu studentas neatitinka gero mokymosi kriterijų, jis netenka valstybės finansavimo, išskyrus [[#^2c48db4fa31882e81063a312|šio straipsnio 6 dalyje]] nustatytą atvejį. Valstybės finansavimo studijoms netekęs studentas už studijas turi mokėti aukštosios mokyklos nustatytą studijų kainą, o atsilaisvinusią valstybės finansuojamą studijų vietą aukštosios mokyklos nustatyta tvarka užima geriausiai toje pačioje studijų kryptyje, tame pačiame kurse ir pagal tokią pačią studijų formą valstybės nefinansuojamoje studijų vietoje besimokantis studentas, atitinkantis gero mokymosi kriterijus. Jeigu atsilaisvinusių vietų yra mažiau negu studentų, atitinkančių gero mokymosi kriterijus, pirmenybė teikiama studentams, vertinamuoju laikotarpiu surinkusiems daugiau modulių (dalykų) puikaus pasiekimų lygmens įvertinimų. ^fd3b977f0ef699d1403c0e1e
+5. Studentui, kurio trumposios pakopos, pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos, po aukštosios mokyklos nustatyto vertinamojo laikotarpio, ne ilgesnio kaip studijų metai, valstybės finansavimas studijoms išlieka, jeigu jis atitinka [[#^b69fc53692a56b95b943de40|šio straipsnio 4 dalyje]] nustatytus gero mokymosi kriterijus. Jeigu studentas neatitinka gero mokymosi kriterijų, jis netenka valstybės finansavimo, išskyrus [[#^16ceb514d99187b5f5e727f7|šio straipsnio 6 dalyje]] nustatytą atvejį. Valstybės finansavimo studijoms netekęs studentas už studijas turi mokėti aukštosios mokyklos nustatytą studijų kainą, o atsilaisvinusią valstybės finansuojamą studijų vietą aukštosios mokyklos nustatyta tvarka užima geriausiai toje pačioje studijų kryptyje, tame pačiame kurse ir pagal tokią pačią studijų formą valstybės nefinansuojamoje studijų vietoje besimokantis studentas, atitinkantis gero mokymosi kriterijus. Jeigu atsilaisvinusių vietų yra mažiau negu studentų, atitinkančių gero mokymosi kriterijus, pirmenybė teikiama studentams, vertinamuoju laikotarpiu surinkusiems daugiau modulių (dalykų) puikaus pasiekimų lygmens įvertinimų. ^b93e3d2743932eac8a984fcf
 Straipsnio dalies pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-6. Jeigu trumposios pakopos, pirmosios studijų pakopos ir vientisųjų studijų atitinkamos studijų krypties ir studijų formos studijų kurse nėra valstybės nefinansuojamose studijų vietose studijuojančių studentų, atitinkančių gero mokymosi kriterijus, valstybės finansuojamose studijų vietose studijuojantiems ir neturintiems akademinių skolų studentams valstybės finansavimas studijoms išlieka, nors jų vertinamojo laikotarpio pasiekimų lygmuo yra slenkstinis. ^2c48db4fa31882e81063a312
+6. Jeigu trumposios pakopos, pirmosios studijų pakopos ir vientisųjų studijų atitinkamos studijų krypties ir studijų formos studijų kurse nėra valstybės nefinansuojamose studijų vietose studijuojančių studentų, atitinkančių gero mokymosi kriterijus, valstybės finansuojamose studijų vietose studijuojantiems ir neturintiems akademinių skolų studentams valstybės finansavimas studijoms išlieka, nors jų vertinamojo laikotarpio pasiekimų lygmuo yra slenkstinis. ^16ceb514d99187b5f5e727f7
 Straipsnio dalies pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
@@ -3213,10 +3247,10 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 ### 79 straipsnis. Kainos, sumokėtos už studijas, kompensavimas
 
 
-1. Vyriausybės nustatyta tvarka ir dydžiu daliai valstybės nefinansuojamose trumposios, pirmosios ir antrosios pakopų ar vientisųjų studijų vietose geriausiais rezultatais studijų metus baigusių asmenų kiekvienais metais kompensuojama per atitinkamą laikotarpį sumokėta studijų kaina (studijų kainos dalis, ne didesnė kaip norminė studijų kaina). Asmenų, kuriems kompensuojama studijų kaina (studijų kainos dalis, ne didesnė kaip norminė studijų kaina), skaičius pagal konkrečią aukštosios mokyklos studijų kryptį nustatomas [[#^2125f7e5a8afa4d3fd93cc30|šio straipsnio 2 dalyje]] nustatyta tvarka. Valstybės nefinansuojamose studijų vietose geriausiai studijų metus baigusių asmenų eilės pagal studijų kryptis sudaromos aukštosios mokyklos nustatyta tvarka. ^648b4994fa3699e3174db06b
+1. Vyriausybės nustatyta tvarka ir dydžiu daliai valstybės nefinansuojamose trumposios, pirmosios ir antrosios pakopų ar vientisųjų studijų vietose geriausiais rezultatais studijų metus baigusių asmenų kiekvienais metais kompensuojama per atitinkamą laikotarpį sumokėta studijų kaina (studijų kainos dalis, ne didesnė kaip norminė studijų kaina). Asmenų, kuriems kompensuojama studijų kaina (studijų kainos dalis, ne didesnė kaip norminė studijų kaina), skaičius pagal konkrečią aukštosios mokyklos studijų kryptį nustatomas [[#^94e7650c9d93f81264c03c5e|šio straipsnio 2 dalyje]] nustatyta tvarka. Valstybės nefinansuojamose studijų vietose geriausiai studijų metus baigusių asmenų eilės pagal studijų kryptis sudaromos aukštosios mokyklos nustatyta tvarka. ^8c54107fdde10336819cfdd4
 
 
-2. Geriausiais rezultatais studijų metus baigusių asmenų, kuriems pagal [[#^648b4994fa3699e3174db06b|šio straipsnio 1 dalies]] nuostatas kompensuojama studijų kaina (kainos dalis, ne didesnė kaip norminė studijų kaina), skaičius pagal konkrečią aukštosios mokyklos studijų kryptį yra proporcingas atitinkamais priėmimo į aukštąją mokyklą metais įstojusiųjų į tos krypties studijų vietas skaičiui. Bendras asmenų, kuriems pagal [[#^648b4994fa3699e3174db06b|šio straipsnio 1 dalies]] nuostatas kompensuojama studijų kaina, skaičius yra ne didesnis kaip 10 procentų tais studijų metais trumposios, pirmosios ir antrosios pakopų ar vientisąsias studijas baigusių asmenų skaičiaus. ^2125f7e5a8afa4d3fd93cc30
+2. Geriausiais rezultatais studijų metus baigusių asmenų, kuriems pagal [[#^8c54107fdde10336819cfdd4|šio straipsnio 1 dalies]] nuostatas kompensuojama studijų kaina (kainos dalis, ne didesnė kaip norminė studijų kaina), skaičius pagal konkrečią aukštosios mokyklos studijų kryptį yra proporcingas atitinkamais priėmimo į aukštąją mokyklą metais įstojusiųjų į tos krypties studijų vietas skaičiui. Bendras asmenų, kuriems pagal [[#^8c54107fdde10336819cfdd4|šio straipsnio 1 dalies]] nuostatas kompensuojama studijų kaina, skaičius yra ne didesnis kaip 10 procentų tais studijų metais trumposios, pirmosios ir antrosios pakopų ar vientisąsias studijas baigusių asmenų skaičiaus. ^94e7650c9d93f81264c03c5e
 
 
 Straipsnio pakeitimai:
@@ -3227,46 +3261,49 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 ### 80 straipsnis. Valstybės finansavimo studijoms ir studijų kainos kompensavimo atvejai
 
 
-1. Šio įstatymo [[#77 straipsnis. Studijų kainos apmokėjimas valstybės biudžeto lėšomis|77 straipsnyje]] nustatyta tvarka valstybės biudžeto lėšomis gali būti finansuojama tik viena studijų vieta, jeigu: ^829d7bd99a8f2b654cbe0e3c
+1. Šio įstatymo [[#77 straipsnis. Studijų kainos apmokėjimas valstybės biudžeto lėšomis|77 straipsnyje]] nustatyta tvarka valstybės biudžeto lėšomis gali būti finansuojama tik viena studijų vieta, jeigu: ^faa4de02c00647a4814555d4
 
 
-1) asmenys vienu metu studijuoja pagal dvi ar daugiau tos pačios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis; jeigu asmuo vienu metu studijuoja pagal pirmosios pakopos ir vientisųjų studijų programas, valstybės biudžeto lėšomis gali būti finansuojama tik viena jo pasirinktos studijų programos studijų vieta; jeigu asmuo vienu metu studijuoja pagal vientisųjų studijų ir antrosios pakopos studijų programas, valstybės biudžeto lėšomis gali būti finansuojama tik viena jo pasirinktos studijų programos studijų vieta; ^abdf949e317aa7ebe57cc8e5
+1) asmenys vienu metu studijuoja pagal dvi ar daugiau tos pačios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis; jeigu asmuo vienu metu studijuoja pagal pirmosios pakopos ir vientisųjų studijų programas, valstybės biudžeto lėšomis gali būti finansuojama tik viena jo pasirinktos studijų programos studijų vieta; jeigu asmuo vienu metu studijuoja pagal vientisųjų studijų ir antrosios pakopos studijų programas, valstybės biudžeto lėšomis gali būti finansuojama tik viena jo pasirinktos studijų programos studijų vieta; ^2554688d481f7590e21e7157
 
 
-2) asmenys vienu metu studijuoja dviejose ar daugiau doktorantūrose ir bent viena jų finansuojama valstybės biudžeto lėšomis; ^d57d1cc7c2338f0800ce7cf2
+2) asmenys vienu metu studijuoja dviejose ar daugiau doktorantūrose ir bent viena jų finansuojama valstybės biudžeto lėšomis; ^5651b1468dbcb191ce384611
 
 
-3) asmenys vienu metu studijuoja pagal dvi ar daugiau profesinių studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis; ^8e735bc1259d0973054fed32
+3) asmenys vienu metu studijuoja pagal dvi ar daugiau profesinių studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis; ^41e9abf52def64f8c4a7cf87
 
 
-4) asmenys vienu metu studijuoja pagal dvi ar daugiau trumposios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis. ^f5598fb0bf6143b188ac90a8
+4) asmenys vienu metu studijuoja pagal dvi ar daugiau trumposios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis. ^f5990438253004891c3aa629
 
 
-2. Teisės šio įstatymo 77 ir [[#79 straipsnis. Kainos, sumokėtos už studijas, kompensavimas|79 straipsniuose]] nustatyta tvarka į valstybės finansuojamą studijų vietą ar į studijų kainos kompensavimą neturi: ^f4fc19744ea36db4983448c7
+2. Teisės šio įstatymo 77 ir [[#79 straipsnis. Kainos, sumokėtos už studijas, kompensavimas|79 straipsniuose]] nustatyta tvarka į valstybės finansuojamą studijų vietą ar į studijų kainos kompensavimą neturi: ^e13aa35fa372ae818106ce0a
 
 
-1) asmenys, pakartotinai studijuojantys pagal tos pačios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; jeigu asmuo baigė vientisųjų studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą pirmosios pakopos studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė pirmosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė antrosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; ^129a0e4d68eb6f2cba297e23
+1) asmenys, pakartotinai studijuojantys pagal tos pačios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; jeigu asmuo baigė vientisųjų studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą pirmosios pakopos studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė pirmosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė antrosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; ^d2f191133d93f207d5e4ffbb
 
 
-2) asmenys, pakartotinai studijuojantys doktorantūroje, jeigu daugiau kaip pusę doktorantūros trukmės jie buvo studijavę valstybės biudžeto lėšomis; ^8cd2d4e41e93fdc017101dc3
+2) asmenys, pakartotinai studijuojantys doktorantūroje, jeigu daugiau kaip pusę doktorantūros trukmės jie buvo studijavę valstybės biudžeto lėšomis; ^3c60fe103a6ba4f0cef73a52
 
 
-3) asmenys, pakartotinai studijuojantys pagal profesinių studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; ^4c16ab2534d3bb0f93d2ef9b
+3) asmenys, pakartotinai studijuojantys pagal profesinių studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; ^6a5b2ba9634c6e320d5cc4f2
 
 
-4) asmenys, pakartotinai studijuojantys pagal trumposios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; ^2f6accce9ca67075449f0f5f
+4) asmenys, pakartotinai studijuojantys pagal trumposios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; ^69b1c1fd006abb408ff315fc
 
 
-5) užsieniečiai, išskyrus šio įstatymo [[#82 straipsnis. Stipendijos ir kita parama studentams|82 straipsnio]] 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat arba laikinai gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, taip pat išskyrus kitus užsieniečius ir asmenis be pilietybės, turinčius teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, įgijusius vidurinį išsilavinimą pagal Lietuvos vidurinio ugdymo programą, studijuojančius pagal trumposios, pirmosios pakopų ar vientisųjų studijų programą, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose įstatymuose nenustatyta kitaip. ^57cb06ef89449dffe61c2148
+5) užsieniečiai, išskyrus šio įstatymo [[#82 straipsnis. Stipendijos ir kita parama studentams|82 straipsnio]] 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat arba laikinai gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, taip pat išskyrus kitus užsieniečius ir asmenis be pilietybės, turinčius teisę nuolat ar laikinai gyventi Lietuvos Respublikoje arba turinčius teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju, įgijusius vidurinį išsilavinimą pagal Lietuvos vidurinio ugdymo programą, studijuojančius pagal trumposios, pirmosios pakopų ar vientisųjų studijų programą, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose įstatymuose nenustatyta kitaip. ^cda2d48670af8ab72782587d
+Straipsnio punkto pakeitimai:
+Nr. XV-949, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08450
 
 
-3. Už studijas kainą, proporcingą dalyko (modulio) apimčiai, moka: ^d6b0972d5ab7cf298b15e484
+
+3. Už studijas kainą, proporcingą dalyko (modulio) apimčiai, moka: ^f71e976e71e96cf5ede585d4
 
 
-1) asmenys, studijuojantys atskirus dalykus ar modulius; ^13b2d07286d991a5c2bde22c
+1) asmenys, studijuojantys atskirus dalykus ar modulius; ^51b2586104824a2cc1633077
 
 
-2) asmenys, kartojantys studijų programos atskirus dalykus. ^865fe6bb77a0fac64d6a52a2
+2) asmenys, kartojantys studijų programos atskirus dalykus. ^c769c938993e989f50be7275
 
 
 Straipsnio pakeitimai:
@@ -3277,22 +3314,22 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 ### 81 straipsnis. Valstybės paskolos ir valstybės remiamos paskolos
 
 
-1. Studentai gali gauti valstybės paskolas arba valstybės remiamas paskolas: ^a3674bbadc67f213b6f0bb95
+1. Studentai gali gauti valstybės paskolas arba valstybės remiamas paskolas: ^a347f6455156dee63c024663
 
 
-1) studijų kainai sumokėti; ^b8cce1b3da9ee29e1f9e1a68
+1) studijų kainai sumokėti; ^9aa7c3b4420f48700989273a
 
 
-2) gyvenimo išlaidoms; ^b3e6321dcf86642be1fb68d1
+2) gyvenimo išlaidoms; ^9ece7db4caf5cb7803662480
 
 
-3) dalinėms studijoms pagal tarptautines arba tarpžinybines sutartis. ^b4afe18b40502f65fb92e124
+3) dalinėms studijoms pagal tarptautines arba tarpžinybines sutartis. ^f5791fa722f6d554b06fad4a
 
 
-2. Valstybės paskoloms arba valstybės remiamoms paskoloms teikti ir jų administravimo išlaidoms padengti gali būti naudojami Valstybiniam studijų fondui šiam tikslui skirti valstybės biudžeto asignavimai, lėšos, sukauptos iš grąžinamų paskolų, palūkanų ir delspinigių, paramos, taip pat privačių ūkio subjektų ir kitos lėšos. Valstybės paskolų arba valstybės remiamų paskolų studentams suteikimo, administravimo ir grąžinimo tvarką nustato Vyriausybė. ^9fac4fa57c0f85019db1d902
+2. Valstybės paskoloms arba valstybės remiamoms paskoloms teikti ir jų administravimo išlaidoms padengti gali būti naudojami Valstybiniam studijų fondui šiam tikslui skirti valstybės biudžeto asignavimai, lėšos, sukauptos iš grąžinamų paskolų, palūkanų ir delspinigių, paramos, taip pat privačių ūkio subjektų ir kitos lėšos. Valstybės paskolų arba valstybės remiamų paskolų studentams suteikimo, administravimo ir grąžinimo tvarką nustato Vyriausybė. ^143ac1e68ae3fc42f817012a
 
 
-3. Valstybės remiamų paskolų limitas nustatomas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme. ^b20abf38944c3fc61a432eca
+3. Valstybės remiamų paskolų limitas nustatomas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme. ^57e7a37c8d440e066a5c19f5
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
@@ -3301,13 +3338,13 @@ Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 ### 82 straipsnis. Stipendijos ir kita parama studentams
 
 
-1. Studentams gali būti mokamos socialinės, skatinamosios, tikslinės ir studijų stipendijos. ^848854a0a75b3e836f0f6d28
+1. Studentams gali būti mokamos socialinės, skatinamosios, tikslinės ir studijų stipendijos. ^f8715164a01ca05378add544
 Straipsnio dalies pakeitimai:
 Nr. XIII-3153, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14368
 
 
 
-2. Neteko galios nuo 2020-07-01 ^cfe73a5463838224d0ea8ff6
+2. Neteko galios nuo 2020-07-01 ^0c6c18a4d452700d5ecacef6
 Straipsnio dalies naikinimas:
 Nr. XIII-2991, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12613
 Straipsnio dalies pakeitimai:
@@ -3315,41 +3352,41 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-3. Skatinamosios stipendijos geriausiems studentams, neatsižvelgiant į jų studijų finansavimo pobūdį, skiriamos iš aukštųjų mokyklų ar kitų lėšų, atsižvelgiant į studijų rezultatus ar kitus akademinius laimėjimus. Valstybinių aukštųjų mokyklų skatinamųjų stipendijų fondas sudaromas ir šios stipendijos skiriamos valstybinių aukštųjų mokyklų senatų (akademinių tarybų) nustatyta tvarka, suderinta su studentų atstovybe. ^c8382717edfe595ea7d2b426
+3. Skatinamosios stipendijos geriausiems studentams, neatsižvelgiant į jų studijų finansavimo pobūdį, skiriamos iš aukštųjų mokyklų ar kitų lėšų, atsižvelgiant į studijų rezultatus ar kitus akademinius laimėjimus. Valstybinių aukštųjų mokyklų skatinamųjų stipendijų fondas sudaromas ir šios stipendijos skiriamos valstybinių aukštųjų mokyklų senatų (akademinių tarybų) nustatyta tvarka, suderinta su studentų atstovybe. ^381230e0e449c8c62ab62e84
 
 
-4. Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų aukštųjų mokyklų studentams gali būti teikiama parama. ^f25123c665909e5e824ee3d1
+4. Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų aukštųjų mokyklų studentams gali būti teikiama parama. ^a253ad9e39ebb68f9f74dd0a
 
 
-5. Paramos aukštųjų mokyklų doktorantams ir studentams, studijuojantiems pagal profesines studijų programas (išskyrus gydytojus rezidentus, gydytojus odontologus rezidentus ir veterinarijos gydytojus rezidentus, dirbančius rezidentūros bazėje), priimtiems į studijų vietas, kuriose studijos apmokamos valstybės biudžeto lėšomis, arba gaunantiems studijų stipendiją, teikimo tvarką nustato Vyriausybė. ^c265ae218a83158adabf0426
+5. Paramos aukštųjų mokyklų doktorantams ir studentams, studijuojantiems pagal profesines studijų programas (išskyrus gydytojus rezidentus, gydytojus odontologus rezidentus ir veterinarijos gydytojus rezidentus, dirbančius rezidentūros bazėje), priimtiems į studijų vietas, kuriose studijos apmokamos valstybės biudžeto lėšomis, arba gaunantiems studijų stipendiją, teikimo tvarką nustato Vyriausybė. ^ef05e1d2546fba759b5b808d
 Straipsnio dalies pakeitimai:
 Nr. XIII-1412, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11477
 Nr. XIII-1687, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20236
 
 
 
-51. Aukštųjų mokyklų doktorantams, priimtiems į valstybės nefinansuojamas vietas, gali būti teikiama parama už studijų rezultatus ir parama akademinėms išvykoms. Paramos teikimo tvarką nustato Vyriausybė. ^3a58909914dd410c2f40d6ed
+51. Aukštųjų mokyklų doktorantams, priimtiems į valstybės nefinansuojamas vietas, gali būti teikiama parama už studijų rezultatus ir parama akademinėms išvykoms. Paramos teikimo tvarką nustato Vyriausybė. ^fbe51f5b27914ac347e72b8d
 Papildyta straipsnio dalimi:
 Nr. XIII-1700, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20941
 
 
 
-6. Švietimo ir mokslo ministro nustatyta tvarka gali būti skiriama parama aukštųjų mokyklų studentams, vykstantiems studijuoti arba atlikti praktikos užsienyje, taip pat užsieniečiams ir užsienio lietuviams, atvykusiems į studijas, lietuvių kalbos ir kultūros kursus mokslo ir studijų institucijose. ^65eeacc9517fdab3951759a4
+6. Švietimo ir mokslo ministro nustatyta tvarka gali būti skiriama parama aukštųjų mokyklų studentams, vykstantiems studijuoti arba atlikti praktikos užsienyje, taip pat užsieniečiams ir užsienio lietuviams, atvykusiems į studijas, lietuvių kalbos ir kultūros kursus mokslo ir studijų institucijose. ^f71b9fa87426b2cc2ca52059
 
 
-7. Švietimo ir mokslo ministro nustatyta tvarka gali būti skiriama parama Lietuvos Respublikos aukštosiose mokyklose studijuojantiems užsienio lietuviams ir finansuojamos užsienio lietuvių, įgijusių išsilavinimą užsienyje, trumposios, pirmosios, antrosios ir trečiosios pakopos studijos. ^497e1d9f948fcf15864dddf5
+7. Švietimo ir mokslo ministro nustatyta tvarka gali būti skiriama parama Lietuvos Respublikos aukštosiose mokyklose studijuojantiems užsienio lietuviams ir finansuojamos užsienio lietuvių, įgijusių išsilavinimą užsienyje, trumposios, pirmosios, antrosios ir trečiosios pakopos studijos. ^3363d58509ae83a99e524d47
 Straipsnio dalies pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-8. Švietimo ir mokslo ministro nustatyta tvarka gali būti finansuojamos Lietuvos Respublikos aukštosiose mokyklose studijuojančių užsienio valstybių piliečių trumposios, pirmosios, antrosios ir trečiosios pakopos studijos. ^6e8e227dc6cbcb31bc8cc51a
+8. Švietimo ir mokslo ministro nustatyta tvarka gali būti finansuojamos Lietuvos Respublikos aukštosiose mokyklose studijuojančių užsienio valstybių piliečių trumposios, pirmosios, antrosios ir trečiosios pakopos studijos. ^bb76392fc5810fabeaf5c316
 Straipsnio dalies pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip. ^19a452c6b337dde4462a3a4d
+9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip. ^dab74fea427afc8ef350eb43
 Papildyta straipsnio dalimi:
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
 Straipsnio dalies pakeitimai:
@@ -3357,7 +3394,7 @@ Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
 
 
 
-10. Aukščiausius konkursinius balus pagal stojančiųjų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas konkursinę eilę surinkusiems asmenims, priimtiems į valstybės nefinansuojamas vietas, iš valstybės biudžeto lėšų studijų laikotarpiui skiriama norminės studijų kainos dydžio (kai už studijas mokama metinė studijų kaina mažesnė už norminę studijų kainą, – studijų kainos dydžio) studijų stipendija. Atitinkamais metais priimamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų studentų valstybės finansavimą studijų stipendijoms ir preliminarų gaunančių studijų stipendijas trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros studijų studentų skaičių (nustatytą pagal patvirtintas atitinkamų metų normines studijų kainas) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Studijų stipendijų skyrimo ir mokėjimo tvarką nustato Vyriausybė. Studijų stipendijas administruoja Valstybinis studijų fondas. ^f7c62f3e09e888d708695ca4
+10. Aukščiausius konkursinius balus pagal stojančiųjų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas konkursinę eilę surinkusiems asmenims, priimtiems į valstybės nefinansuojamas vietas, iš valstybės biudžeto lėšų studijų laikotarpiui skiriama norminės studijų kainos dydžio (kai už studijas mokama metinė studijų kaina mažesnė už norminę studijų kainą, – studijų kainos dydžio) studijų stipendija. Atitinkamais metais priimamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų studentų valstybės finansavimą studijų stipendijoms ir preliminarų gaunančių studijų stipendijas trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros studijų studentų skaičių (nustatytą pagal patvirtintas atitinkamų metų normines studijų kainas) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. Studijų stipendijų skyrimo ir mokėjimo tvarką nustato Vyriausybė. Studijų stipendijas administruoja Valstybinis studijų fondas. ^e50a138ca0b3dae2f660136d
 Straipsnio dalies pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
@@ -3366,13 +3403,13 @@ Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
 
 
 
-101.  Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų tikslinės stipendijos gali būti mokamos studentams, įstojusiems į Vyriausybės nustatytų prioritetinių studijų krypčių, studijų programų grupių ar studijų programų valstybės finansuojamas studijų vietas ar nefinansuojamas studijų vietas su studijų stipendija, neatsižvelgiant į kitas gaunamas stipendijas ar paramą. Tikslinė stipendija mokama neturintiems akademinių skolų studentams ne rečiau kaip kartą per pusę metų visą studijų laikotarpį, bet ne ilgiau kaip studijų programoje nustatyta studijų trukmė. Atitinkamų metų trumposios pakopos, pirmosios pakopos, antrosios pakopos ir vientisųjų studijų prioritetines studijų kryptis, studijų programų grupes ar studijų programas nustato Vyriausybė iki kiekvienų metų balandžio 2 dienos, atsižvelgdama į ministerijų pasiūlymus, valstybės ūkinės, socialinės, kultūrinės ir regioninės plėtros poreikius, nacionalinės žmogiškųjų išteklių stebėsenos informaciją, Vyriausybės nustatytas prioritetines mokslo tiriamosios ir eksperimentinės plėtros ir inovacijų raidos kryptis ir jų prioritetus bei valstybės finansines galimybes. Tikslines stipendijas administruoja Valstybinis studijų fondas. ^7e7f6386d27336b8c74badc2
+101.  Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų tikslinės stipendijos gali būti mokamos studentams, įstojusiems į Vyriausybės nustatytų prioritetinių studijų krypčių, studijų programų grupių ar studijų programų valstybės finansuojamas studijų vietas ar nefinansuojamas studijų vietas su studijų stipendija, neatsižvelgiant į kitas gaunamas stipendijas ar paramą. Tikslinė stipendija mokama neturintiems akademinių skolų studentams ne rečiau kaip kartą per pusę metų visą studijų laikotarpį, bet ne ilgiau kaip studijų programoje nustatyta studijų trukmė. Atitinkamų metų trumposios pakopos, pirmosios pakopos, antrosios pakopos ir vientisųjų studijų prioritetines studijų kryptis, studijų programų grupes ar studijų programas nustato Vyriausybė iki kiekvienų metų balandžio 2 dienos, atsižvelgdama į ministerijų pasiūlymus, valstybės ūkinės, socialinės, kultūrinės ir regioninės plėtros poreikius, nacionalinės žmogiškųjų išteklių stebėsenos informaciją, Vyriausybės nustatytas prioritetines mokslo tiriamosios ir eksperimentinės plėtros ir inovacijų raidos kryptis ir jų prioritetus bei valstybės finansines galimybes. Tikslines stipendijas administruoja Valstybinis studijų fondas. ^c632afcbc8c786cc0a16f9c5
 Papildyta straipsnio dalimi:
 Nr. XIII-3153, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14368
 
 
 
-11. Aukštųjų mokyklų studentai turi teisę gauti ir kitą juridinių asmenų, kitų organizacijų, jų padalinių, fizinių asmenų paramą. ^f688f2f6f91b2b782725a601
+11. Aukštųjų mokyklų studentai turi teisę gauti ir kitą juridinių asmenų, kitų organizacijų, jų padalinių, fizinių asmenų paramą. ^5e72a2d93ea97c252e28281b
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
 
@@ -3381,64 +3418,64 @@ Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
 ### 821 straipsnis. Aukštojo mokslo socialinės dimensijos plėtra
 
 
-1. Aukštojo mokslo socialinės dimensijos plėtra grindžiama įtraukios aukštojo mokslo aplinkos formavimu pagal Europos aukštojo mokslo erdvės socialinės dimensijos plėtros nuostatas ir gaires. Plėtojant aukštojo mokslo socialinę dimensiją numatomos socialinės, akademinės, fizinės, informacinės, aplinkos prieinamumo, finansinės pagalbos priemonės, kurios yra finansuojamos iš valstybės biudžeto lėšų pagal švietimo, mokslo ir sporto ministro nustatytus aukštojo mokslo socialinės dimensijos plėtros prioritetus. Šios priemones yra skiriamos asmeniui, atitinkančiam bent vieną iš šių kriterijų: ^114e1a33624866de281420a5
+1. Aukštojo mokslo socialinės dimensijos plėtra grindžiama įtraukios aukštojo mokslo aplinkos formavimu pagal Europos aukštojo mokslo erdvės socialinės dimensijos plėtros nuostatas ir gaires. Plėtojant aukštojo mokslo socialinę dimensiją numatomos socialinės, akademinės, fizinės, informacinės, aplinkos prieinamumo, finansinės pagalbos priemonės, kurios yra finansuojamos iš valstybės biudžeto lėšų pagal švietimo, mokslo ir sporto ministro nustatytus aukštojo mokslo socialinės dimensijos plėtros prioritetus. Šios priemones yra skiriamos asmeniui, atitinkančiam bent vieną iš šių kriterijų: ^211dd5df2ba1a9e9787e5b50
 
 
-1) jis priklauso asmenų, kurių reprezentavimas aukštosiose mokyklose yra nepakankamas, grupei; ^2290a0f12de9257f68fd98e2
+1) jis priklauso asmenų, kurių reprezentavimas aukštosiose mokyklose yra nepakankamas, grupei; ^80f8bcac17e5ba203e57c3eb
 
 
-2) įgyti aukštojo mokslo kvalifikaciją jam trukdo akademiniai, socialiniai, finansiniai, geografiniai, informaciniai ar su požiūriu susiję barjerai. ^b29e410bba6c3a4fdace0fb5
+2) įgyti aukštojo mokslo kvalifikaciją jam trukdo akademiniai, socialiniai, finansiniai, geografiniai, informaciniai ar su požiūriu susiję barjerai. ^d45176a9501cd9596547eab4
 
 
-2. Aukštųjų mokyklų trumposios, pirmosios, antrosios, trečiosios pakopų, vientisųjų ir profesinių studijų studentams dėl jų finansinės ir socialinės padėties kylančių barjerų iš valstybės biudžeto lėšų mokamos socialinės stipendijos. Socialinės stipendijos dydis – 6,5 bazinės socialinės išmokos per mėnesį. Socialinės stipendijos skiriamos studijų semestrui. ^1b94deacc567797fe24bfb2e
+2. Aukštųjų mokyklų trumposios, pirmosios, antrosios, trečiosios pakopų, vientisųjų ir profesinių studijų studentams dėl jų finansinės ir socialinės padėties kylančių barjerų iš valstybės biudžeto lėšų mokamos socialinės stipendijos. Socialinės stipendijos dydis – 6,5 bazinės socialinės išmokos per mėnesį. Socialinės stipendijos skiriamos studijų semestrui. ^dfbda06f2d8714b73bfcae08
 
 
-3. Socialinė stipendija skiriama, kai prašymų skirti socialinę stipendiją priėmimo metu studentas atitinka bent vieną iš kriterijų: ^169dd7cea4dfdc388a9f0b20
+3. Socialinė stipendija skiriama, kai prašymų skirti socialinę stipendiją priėmimo metu studentas atitinka bent vieną iš kriterijų: ^4cb183dfb689acab49abf6ea
 
 
-1) jis yra vienas iš bendrai gyvenančių asmenų arba vienas gyvenantis asmuo, turintys teisę gauti arba gaunantys socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymą; ^f8c4b5f8f6b7241ca783ac69
+1) jis yra vienas iš bendrai gyvenančių asmenų arba vienas gyvenantis asmuo, turintys teisę gauti arba gaunantys socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymą; ^8c6529fec990bb14ba3efad7
 
 
-2) turi 45 procentų ar mažesnį dalyvumo lygį (iki 2023 m. gruodžio 31 d. nustatytą 45 procentų ar mažesnį darbingumo lygį) arba sunkaus ar vidutinio neįgalumo lygį (iki 2023 m. gruodžio 31 d. – sunkų ar vidutinį neįgalumo lygį); ^3f4ab000603d6ed5f5bd8682
+2) turi 45 procentų ar mažesnį dalyvumo lygį (iki 2023 m. gruodžio 31 d. nustatytą 45 procentų ar mažesnį darbingumo lygį) arba sunkaus ar vidutinio neįgalumo lygį (iki 2023 m. gruodžio 31 d. – sunkų ar vidutinį neįgalumo lygį); ^84a126e7d91960335ba1bf6f
 Straipsnio punkto pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
 
 
-3) yra ne vyresnis kaip 25 metų ir jam iki pilnametystės įstatymų nustatyta tvarka buvo nustatyta globa (rūpyba) arba jo abu tėvai (turėtas vienintelis iš tėvų) yra mirę. ^6a7a5b7fde76f572a5775b2e
+3) yra ne vyresnis kaip 25 metų ir jam iki pilnametystės įstatymų nustatyta tvarka buvo nustatyta globa (rūpyba) arba jo abu tėvai (turėtas vienintelis iš tėvų) yra mirę. ^5022d6309de3a8baaeb8530f
 
 
-4. Socialinės stipendijos neturi teisės gauti šie studentai: ^7110ceaa13bc8139f9aad5b0
+4. Socialinės stipendijos neturi teisės gauti šie studentai: ^79643163838ccfec5b7a9d92
 
 
-1) šio įstatymo [[#^f4fc19744ea36db4983448c7|80 straipsnio 2 dalyje]] nurodyti asmenys; ^5d6a1d4c443a828132ad3976
+1) šio įstatymo [[#^e13aa35fa372ae818106ce0a|80 straipsnio 2 dalyje]] nurodyti asmenys; ^0c4d420b98543b2d85f51986
 
 
-2) išėję akademinių atostogų; ^08f9e0ecb7f1fff347403418
+2) išėję akademinių atostogų; ^a5852d2726b61501a7a4fa5a
 
 
-3) aukštosios mokyklos nustatyta tvarka turintys daugiau kaip 3 akademines skolas; ^1988b9f086f3eff2d93c170d
+3) aukštosios mokyklos nustatyta tvarka turintys daugiau kaip 3 akademines skolas; ^ac39078d2243fb510eb26cf7
 
 
-4) studentai, kurie įvykdė studijų programos reikalavimus, tačiau jiems atidėtas baigiamojo darbo gynimas ar baigiamojo egzamino laikymas. ^f9fd697f2cd6ba7fd2a35843
+4) studentai, kurie įvykdė studijų programos reikalavimus, tačiau jiems atidėtas baigiamojo darbo gynimas ar baigiamojo egzamino laikymas. ^f450ebdaade465466dc10dce
 
 
-5. Studentui, atitinkančiam daugiau kaip vieną [[#^169dd7cea4dfdc388a9f0b20|šio straipsnio 3 dalyje]] nustatytų kriterijų arba vienu metu studijuojančiam pagal kelias studijų programas, skiriama tik viena socialinė stipendija per studijų semestrą. ^b642c78b7833a25633758171
+5. Studentui, atitinkančiam daugiau kaip vieną [[#^4cb183dfb689acab49abf6ea|šio straipsnio 3 dalyje]] nustatytų kriterijų arba vienu metu studijuojančiam pagal kelias studijų programas, skiriama tik viena socialinė stipendija per studijų semestrą. ^54e377d7a784ae6192e26860
 
 
-6.  Socialinės stipendijos mokėjimas nutraukiamas: ^0141e0d73dd10d3ed1450ebc
+6.  Socialinės stipendijos mokėjimas nutraukiamas: ^03178e3bbf39d4ba27457262
 
 
-1) studentui baigus studijas anksčiau, negu numatyta studijų baigimo data, nutraukus studijas ar pašalinus studentą iš aukštosios mokyklos; ^b1b4b8a99bf0491696efaf7e
+1) studentui baigus studijas anksčiau, negu numatyta studijų baigimo data, nutraukus studijas ar pašalinus studentą iš aukštosios mokyklos; ^e701f4c943d21416f67c7f30
 
 
-2) atsiradus ir (arba) paaiškėjus [[#^7110ceaa13bc8139f9aad5b0|šio straipsnio 4 dalyje]] nustatytoms aplinkybėms, dėl kurių studentui negalėjo būti skirta socialinė stipendija; ^6892cfaad684554eaa08b026
+2) atsiradus ir (arba) paaiškėjus [[#^79643163838ccfec5b7a9d92|šio straipsnio 4 dalyje]] nustatytoms aplinkybėms, dėl kurių studentui negalėjo būti skirta socialinė stipendija; ^4e8d8bf7df04bcbc35adb6f9
 
 
-3) studentui mirus. ^02c25b8f4be9b8648fe73937
+3) studentui mirus. ^8a9594f558b36872e4327d0b
 
 
-7. Socialinių stipendijų skyrimo ir administravimo tvarką nustato Vyriausybė. ^2c35929cf0578d612215abb8
+7. Socialinių stipendijų skyrimo ir administravimo tvarką nustato Vyriausybė. ^1b5f7ebb05cc2900c420d481
 
 
 Straipsnio pakeitimai:
@@ -3449,25 +3486,25 @@ Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
 ### 83 straipsnis. Studijų kaina
 
 
-1. Studijų kainą nustato aukštoji mokykla. Kai vykdoma jungtinė studijų programa arba doktorantūros teisė suteikiama kelioms mokslo ir studijų institucijoms, jungtinės studijų programos ar doktorantūros studijų kainą nustato institucijos, susiderinusios tarpusavyje. Studijų kaina nurodoma priėmimo į aukštąją mokyklą taisyklėse. ^2cf5187b3c6df91ff56362c9
+1. Studijų kainą nustato aukštoji mokykla. Kai vykdoma jungtinė studijų programa arba doktorantūros teisė suteikiama kelioms mokslo ir studijų institucijoms, jungtinės studijų programos ar doktorantūros studijų kainą nustato institucijos, susiderinusios tarpusavyje. Studijų kaina nurodoma priėmimo į aukštąją mokyklą taisyklėse. ^79e43749f785f0bc7781649a
 
 
-2. Studijų kaina valstybinėse aukštosiose mokyklose nustatoma atsižvelgiant į [[#^4d542ee28ea33e66fcca4735|šio straipsnio 3 dalyje]] nurodytas studijų išlaidas. Tais atvejais, kai valstybinėse aukštosiose mokyklose apskaičiuojama studijuojančiųjų valstybės nefinansuojamose studijų vietose studijų kaina, į ją gali būti papildomai įskaičiuojamos studijų kokybei užtikrinti būtinos išlaidos, nenurodytos [[#^4d542ee28ea33e66fcca4735|šio straipsnio 3 dalyje]]. ^bcd88abcfee0740fddd00573
+2. Studijų kaina valstybinėse aukštosiose mokyklose nustatoma atsižvelgiant į [[#^332ce605cf64cc1e34c46717|šio straipsnio 3 dalyje]] nurodytas studijų išlaidas. Tais atvejais, kai valstybinėse aukštosiose mokyklose apskaičiuojama studijuojančiųjų valstybės nefinansuojamose studijų vietose studijų kaina, į ją gali būti papildomai įskaičiuojamos studijų kokybei užtikrinti būtinos išlaidos, nenurodytos [[#^332ce605cf64cc1e34c46717|šio straipsnio 3 dalyje]]. ^71a641edcc5eea8060959482
 
 
-3. Į studijų išlaidas įskaičiuojamos lėšos, būtinos studijoms vykdyti, tai yra lėšos: ^4d542ee28ea33e66fcca4735
+3. Į studijų išlaidas įskaičiuojamos lėšos, būtinos studijoms vykdyti, tai yra lėšos: ^332ce605cf64cc1e34c46717
 
 
-1) dėstytojų, mokslo ir kitų su studijomis susijusių darbuotojų darbo užmokesčiui; ^e17151ead9363aec0f849ad9
+1) dėstytojų, mokslo ir kitų su studijomis susijusių darbuotojų darbo užmokesčiui; ^6154feb2d2aa9d60caa60be2
 
 
-2) prekėms ir paslaugoms, susijusioms su studijomis, pirkti; ^e080be013650462994b304a2
+2) prekėms ir paslaugoms, susijusioms su studijomis, pirkti; ^c8c0c9100927238b7f45e5a0
 
 
-3) studentams skatinti; ^b7ec107c75d32c03016c3cc4
+3) studentams skatinti; ^fd3ed6062cda67c13445cf58
 
 
-4) neteko galios. ^efacbe991cfbf8e9a936c405
+4) neteko galios. ^3baef75df61c4b4174fccc67
 Straipsnio punkto pakeitimai:
 Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
 
@@ -3478,53 +3515,53 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-4. Vyriausybės nustatyta tvarka apskaičiuojama norminė atitinkamos studijų krypties arba studijų programų grupės studijų kaina, apimanti [[#^4d542ee28ea33e66fcca4735|šio straipsnio 3 dalyje]] nurodytas studijų išlaidas. Normines atitinkamais metais priimamų studentų studijų kainas kiekvienais metais iki sausio 31 dienos tvirtina švietimo, mokslo ir sporto ministras. Kai aukštosios mokyklos nustatyta studijų kaina neviršija norminės studijų kainos, valstybės biudžeto lėšomis apmokama aukštosios mokyklos nustatyta studijų kaina. Kai aukštosios mokyklos nustatyta studijų kaina viršija norminę studijų kainą, valstybės biudžeto lėšomis apmokama norminė studijų kaina. ^ddcd606c6b359db6ccaef137
+4. Vyriausybės nustatyta tvarka apskaičiuojama norminė atitinkamos studijų krypties arba studijų programų grupės studijų kaina, apimanti [[#^332ce605cf64cc1e34c46717|šio straipsnio 3 dalyje]] nurodytas studijų išlaidas. Normines atitinkamais metais priimamų studentų studijų kainas kiekvienais metais iki sausio 31 dienos tvirtina švietimo, mokslo ir sporto ministras. Kai aukštosios mokyklos nustatyta studijų kaina neviršija norminės studijų kainos, valstybės biudžeto lėšomis apmokama aukštosios mokyklos nustatyta studijų kaina. Kai aukštosios mokyklos nustatyta studijų kaina viršija norminę studijų kainą, valstybės biudžeto lėšomis apmokama norminė studijų kaina. ^dff8f842fda67b414036cf7f
 Straipsnio dalies pakeitimai:
 Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 
 
 
-5. Asmenys, studijuojantys valstybės finansuojamose vietose, valstybinei aukštajai mokyklai neturi mokėti jokių tiesiogiai su studijų programos įgyvendinimu susijusių įmokų, išskyrus šio įstatymo [[#^d6b0972d5ab7cf298b15e484|80 straipsnio 3 dalyje]] nurodytus atvejus. ^0953b12c01f6f0e752c7c5c7
+5. Asmenys, studijuojantys valstybės finansuojamose vietose, valstybinei aukštajai mokyklai neturi mokėti jokių tiesiogiai su studijų programos įgyvendinimu susijusių įmokų, išskyrus šio įstatymo [[#^f71e976e71e96cf5ede585d4|80 straipsnio 3 dalyje]] nurodytus atvejus. ^499d8ad2abaf06585fc49c84
 
 
-6. Asmens, studijuojančio valstybės nefinansuojamoje studijų vietoje, studijų kaina, apimanti visas su studijų reikmėmis susijusias išlaidas, nustatoma studijų sutartyje. Studijų kainą arba jos dalį gali apmokėti studijuojančio asmens darbdaviai, aukštoji mokykla, kiti fiziniai ir juridiniai asmenys. Ministerijos turi teisę apmokėti asmenų, studijuojančių valstybės nefinansuojamose studijų vietose, studijų kainą arba jos dalį iš joms patvirtintų valstybės biudžeto asignavimų Vyriausybės nustatyta tvarka. ^51891f77e6cab566ab257e3e
+6. Asmens, studijuojančio valstybės nefinansuojamoje studijų vietoje, studijų kaina, apimanti visas su studijų reikmėmis susijusias išlaidas, nustatoma studijų sutartyje. Studijų kainą arba jos dalį gali apmokėti studijuojančio asmens darbdaviai, aukštoji mokykla, kiti fiziniai ir juridiniai asmenys. Ministerijos turi teisę apmokėti asmenų, studijuojančių valstybės nefinansuojamose studijų vietose, studijų kainą arba jos dalį iš joms patvirtintų valstybės biudžeto asignavimų Vyriausybės nustatyta tvarka. ^979ac4b98e069296bd977a62
 
 
 
 ### 831 straipsnis. Specialiosios sutartys su mokslo ir studijų institucijomis
 
 
-1. Vyriausybė ar jos įgaliota institucija gali sudaryti su mokslo ir studijų institucijomis specialiąsias sutartis dėl valstybės biudžeto asignavimų skyrimo. ^556987d1e2437bdefe936c42
+1. Vyriausybė ar jos įgaliota institucija gali sudaryti su mokslo ir studijų institucijomis specialiąsias sutartis dėl valstybės biudžeto asignavimų skyrimo. ^9ed0572128072638cf46cfd0
 
 
-2. Specialiosios sutarties objektu gali būti: ^58d90510851a8936b109a609
+2. Specialiosios sutarties objektu gali būti: ^172966239978e2db1d44fd9d
 
 
-1) mokslo ir studijų institucijos mokslo ir (arba) studijų veiklos plėtra; ^bf17a491e379249f638c1f88
+1) mokslo ir studijų institucijos mokslo ir (arba) studijų veiklos plėtra; ^61f5466ba12ce0c057ad2463
 
 
-2) mokslo ir studijų institucijos mokslo ir (arba) studijų veiklos kokybės didinimas; ^d20bbff9c0ad11864fe3df46
+2) mokslo ir studijų institucijos mokslo ir (arba) studijų veiklos kokybės didinimas; ^d012498729acb75bdc22d9be
 
 
-3) investicijos į valstybinės mokslo ir studijų institucijos infrastruktūrą; ^0e3d515c27bd968c2e4daa42
+3) investicijos į valstybinės mokslo ir studijų institucijos infrastruktūrą; ^0697081d266c1e7fad73f8d7
 
 
-4) valstybinių mokslo ir studijų institucijų veiklos optimizavimas; ^b5fd5bc8bc27e8ed7c82bd79
+4) valstybinių mokslo ir studijų institucijų veiklos optimizavimas; ^e4be4f243f6c4ba4eb941523
 
 
-5) valstybės tarptautinių įsipareigojimų vykdymas; ^e73b344b7a5f9f933bb215be
+5) valstybės tarptautinių įsipareigojimų vykdymas; ^88bd1eb69cb3b8906713fa34
 
 
-6) kitos priemonės, įgyvendinančios Vyriausybės tvirtinamame Nacionaliniame pažangos plane nustatytus strateginius tikslus ir pažangos uždavinius, jeigu šių priemonių įgyvendinimo tvarką reglamentuojantys teisės aktai nenustato kitaip. ^3887aeacdbac6d8ac4b4dadc
+6) kitos priemonės, įgyvendinančios Vyriausybės tvirtinamame Nacionaliniame pažangos plane nustatytus strateginius tikslus ir pažangos uždavinius, jeigu šių priemonių įgyvendinimo tvarką reglamentuojantys teisės aktai nenustato kitaip. ^8b945ae41ce076153bb7af89
 
 
-3. Specialiojoje sutartyje turi būti nustatytas sutarties vykdymo laikotarpis, skiriamos lėšos, stebėsenos mechanizmas ir šalių atsakomybė už sutarties nevykdymą arba už nepasiektus joje numatytus rodiklius. ^967bbe0b7886b579e02ded78
+3. Specialiojoje sutartyje turi būti nustatytas sutarties vykdymo laikotarpis, skiriamos lėšos, stebėsenos mechanizmas ir šalių atsakomybė už sutarties nevykdymą arba už nepasiektus joje numatytus rodiklius. ^1461b92efcb97dba32e37be4
 
 
-4. Įvertinęs Lietuvos mokslo tarybos rekomendacinę išvadą ir gavęs Vyriausybės įgaliojimą, specialiąją sutartį pasirašo švietimo, mokslo ir sporto ministras ir universiteto rektorius (kolegijos, mokslinių tyrimų instituto direktorius), gavęs mokslo ir studijų institucijos tarybos (mokslo tarybos) pritarimą. ^15c1e2712f86a4b94c897d39
+4. Įvertinęs Lietuvos mokslo tarybos rekomendacinę išvadą ir gavęs Vyriausybės įgaliojimą, specialiąją sutartį pasirašo švietimo, mokslo ir sporto ministras ir universiteto rektorius (kolegijos, mokslinių tyrimų instituto direktorius), gavęs mokslo ir studijų institucijos tarybos (mokslo tarybos) pritarimą. ^da7f4d0734ce6be0e715700a
 
 
-5. Valstybės biudžeto lėšos, skirtos specialiosioms sutartims su mokslo ir studijų institucijomis, skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^8195ae893a7b3db23dfe80e0
+5. Valstybės biudžeto lėšos, skirtos specialiosioms sutartims su mokslo ir studijų institucijomis, skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. ^ddb3b5ce853529f97a72ea95
 
 
 Papildyta straipsniu:
@@ -3535,67 +3572,67 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 ### 84 straipsnis. Mokslinių tyrimų, eksperimentinės plėtros ir meno veiklos finansavimas
 
 
-1. Moksliniai tyrimai ir eksperimentinė plėtra, meno veikla valstybinėse ir nevalstybinėse mokslo ir studijų institucijose finansuojami: ^1a97344c6b5424c6b194f957
+1. Moksliniai tyrimai ir eksperimentinė plėtra, meno veikla valstybinėse ir nevalstybinėse mokslo ir studijų institucijose finansuojami: ^ac86ccba8715fb65df74a309
 Straipsnio dalies pakeitimai:
 Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
 
 
-1) iš valstybės biudžeto bazinio finansavimo lėšų, skirtų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai; ^1fddf1209fb09f407e57fe74
+1) iš valstybės biudžeto bazinio finansavimo lėšų, skirtų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai; ^32ad21704df817d38ff947bf
 Straipsnio punkto pakeitimai:
 Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
 
 
 
-2) pagal nacionalines mokslo ir technologijų programas; ^b5c59ce52f4d54c1ebaaaeb1
+2) pagal nacionalines mokslo ir technologijų programas; ^39a6d74eb607a6aed3e94abf
 
 
-3) pagal konkursines mokslinių tyrimų programas; ^ec72403f1f273f445099f409
+3) pagal konkursines mokslinių tyrimų programas; ^8bc15c25c14ccaece26a283b
 
 
-4) pagal konkursines technologijų programas; ^7c177aecd602b1d494b908ba
+4) pagal konkursines technologijų programas; ^dab529c5a66bf5e2870521d1
 
 
-5) pagal valstybės užsakymus inovacinei veiklai vykdyti; ^7ea8dce183eefabfe7d597d0
+5) pagal valstybės užsakymus inovacinei veiklai vykdyti; ^c8b39f7df92f5ae6544cc522
 
 
-6) pagal ūkio subjektų užsakymus vykdyti eksperimentinės plėtros veiklą; ^77ee96b71c3b0e2fa66ef2fa
+6) pagal ūkio subjektų užsakymus vykdyti eksperimentinės plėtros veiklą; ^5712c5b438d18ceddcd75666
 
 
-7) pagal valstybės investicijų programas ir valstybės investicijų projektus valstybinėms mokslo ir studijų institucijoms; ^14ba33cab1ad51056e9b85a7
+7) pagal valstybės investicijų programas ir valstybės investicijų projektus valstybinėms mokslo ir studijų institucijoms; ^611bd4e0a7df9de4ea7371f6
 
 
-8) iš valstybės fondų lėšų; ^f5ca7aa58057e0a8c52f952b
+8) iš valstybės fondų lėšų; ^6b073d13502d6948013965a1
 
 
-9) iš tarptautinių ir užsienio fondų ir organizacijų skiriamų lėšų; ^4078f35ff1f833cb57bfb21a
+9) iš tarptautinių ir užsienio fondų ir organizacijų skiriamų lėšų; ^dd995088e522b442b867b2e3
 
 
-10) iš kitų teisėtai gautų lėšų. ^f173537ba3f10186418f93a5
+10) iš kitų teisėtai gautų lėšų. ^016aff66a441bc272d39b6c5
 
 
-2. Konkursinės mokslinių tyrimų programos – mokslinių tyrimų darbų priemonių visuma, kurios tikslas yra naujos mokslo žinios ir intelektiniai produktai, nauja mokslinių tyrimų infrastruktūra, aukštesnė tyrėjų kompetencija. ^2d6843e1c18de691639c0867
+2. Konkursinės mokslinių tyrimų programos – mokslinių tyrimų darbų priemonių visuma, kurios tikslas yra naujos mokslo žinios ir intelektiniai produktai, nauja mokslinių tyrimų infrastruktūra, aukštesnė tyrėjų kompetencija. ^b50914c5f023eb465a9f1c9d
 
 
-3. Konkursinės mokslinių tyrimų programos inicijuojamos ir įgyvendinamos šias programas administruojančios institucijos nustatyta tvarka. ^01099b66c0ba302783d59626
+3. Konkursinės mokslinių tyrimų programos inicijuojamos ir įgyvendinamos šias programas administruojančios institucijos nustatyta tvarka. ^04e18b1cb53ec0330b591cd7
 
 
-4. Pareiškėjai konkuruoja dėl programinio konkursinio finansavimo teikdami paraiškas, kurios vertinamos pagal atitiktį konkrečių mokslinių tyrimų projektų keliamiems tikslams, aktualumo, kompetencijos, kokybės ir kitiems programinį konkursinį finansavimą administruojančių institucijų nustatytiems kriterijams. ^2ba918f7dfbba4cb9a798aaf
+4. Pareiškėjai konkuruoja dėl programinio konkursinio finansavimo teikdami paraiškas, kurios vertinamos pagal atitiktį konkrečių mokslinių tyrimų projektų keliamiems tikslams, aktualumo, kompetencijos, kokybės ir kitiems programinį konkursinį finansavimą administruojančių institucijų nustatytiems kriterijams. ^55827b86da5f46bedc714cbc
 
 
-5. Programinį konkursinį finansavimą administruoja Lietuvos mokslo taryba, ekonomikos ir inovacijų ministro, švietimo, mokslo ir sporto ministro įgaliotos institucijos. ^609e4e5ced03b6161c05adf4
+5. Programinį konkursinį finansavimą administruoja Lietuvos mokslo taryba, ekonomikos ir inovacijų ministro, švietimo, mokslo ir sporto ministro įgaliotos institucijos. ^7f72da6f2017eca723f11e35
 Straipsnio dalies pakeitimai:
 Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
 Nr. XIV-1040, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08794
 
 
 
-6. Su konkursinėmis mokslinių tyrimų programomis susiję Lietuvos ūkio, kultūros, socialinės, sveikatos, krašto ir gamtos apsaugos, kitų sričių moksliniai tyrimai, specialistų rengimas ir kitos veiklos sritys finansuojami iš tvirtinant šias programas joms numatomų lėšų, kuriomis disponuoja suinteresuotos ministerijos, fondai, mokslo ir studijų institucijos, verslo subjektai. ^f00952c3a2567e22000747f5
+6. Su konkursinėmis mokslinių tyrimų programomis susiję Lietuvos ūkio, kultūros, socialinės, sveikatos, krašto ir gamtos apsaugos, kitų sričių moksliniai tyrimai, specialistų rengimas ir kitos veiklos sritys finansuojami iš tvirtinant šias programas joms numatomų lėšų, kuriomis disponuoja suinteresuotos ministerijos, fondai, mokslo ir studijų institucijos, verslo subjektai. ^8ca5bd1ce035ca059c7f8569
 
 
-7. Nacionalines mokslo ir technologijų programas, konkursines technologijų programas ir valstybės užsakymus inovacinei veiklai vykdyti reguliuoja Technologijų ir inovacijų įstatymas. ^215c1e5586914856b27c8b81
+7. Nacionalines mokslo ir technologijų programas, konkursines technologijų programas ir valstybės užsakymus inovacinei veiklai vykdyti reguliuoja Technologijų ir inovacijų įstatymas. ^26c0b365b24b181790619e3a
 
 
-8. Ūkio subjektai ir jų grupės valstybės finansavimą moksliniams tyrimams gauna dalyvaudami konkursinėse mokslinių tyrimų programose ir konkursinėse technologijų programose. ^b48092b988732b5319b8a877
+8. Ūkio subjektai ir jų grupės valstybės finansavimą moksliniams tyrimams gauna dalyvaudami konkursinėse mokslinių tyrimų programose ir konkursinėse technologijų programose. ^9b7eeb5647b53d0b28698c13
 
 
 Straipsnio pakeitimai:
@@ -3609,23 +3646,23 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-1. Valstybinių mokslo ir studijų institucijų finansinę apskaitą, jos organizavimą ir tvarkymą, finansinių ir biudžeto vykdymo ataskaitų sudarymą nustato įstatymai ir kiti teisės aktai. ^4f130fdc852f6de937861c7b
+1. Valstybinių mokslo ir studijų institucijų finansinę apskaitą, jos organizavimą ir tvarkymą, finansinių ir biudžeto vykdymo ataskaitų sudarymą nustato įstatymai ir kiti teisės aktai. ^3e8210f6bb8f0f15b9fa88af
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-2. Valstybinių biudžetinių mokslinių tyrimų institutų pajamos, gautos iš mokslinių tyrimų ir eksperimentinės plėtros ūkinės veiklos ir teikiamų paslaugų, įtraukiamos į valstybės biudžeto pajamas ir naudojamos pagal programas mokslinių tyrimų institutų įstatuose nustatytiems tikslams ir uždaviniams įgyvendinti. ^a7e5fd2c343e0973ae93fc1e
+2. Valstybinių biudžetinių mokslinių tyrimų institutų pajamos, gautos iš mokslinių tyrimų ir eksperimentinės plėtros ūkinės veiklos ir teikiamų paslaugų, įtraukiamos į valstybės biudžeto pajamas ir naudojamos pagal programas mokslinių tyrimų institutų įstatuose nustatytiems tikslams ir uždaviniams įgyvendinti. ^28e8b94faa2efffacce5c4af
 
 
-3. Pagal patikėjimo sutartį perduotas valstybės turtas turi būti įtraukiamas į apskaitą atskirai nuo kito valstybinės aukštosios mokyklos turto. ^ef21f1f711750f007229b833
+3. Pagal patikėjimo sutartį perduotas valstybės turtas turi būti įtraukiamas į apskaitą atskirai nuo kito valstybinės aukštosios mokyklos turto. ^eb91004d149c484f9b4c61a6
 
 
-4. Valstybinės mokslo ir studijų institucijos kiekvienais metais (ne vėliau kaip iki kovo mėnesio) viešai paskelbia ir teikia Švietimo ir mokslo ministerijai ir steigėjui praėjusių kalendorinių metų veiklos ataskaitas už praėjusius metus, taip pat viešai skelbia metines pajamų ir išlaidų sąmatas ir jų įvykdymo ataskaitas. ^bd384b6c9453fe1f76c4509b
+4. Valstybinės mokslo ir studijų institucijos kiekvienais metais (ne vėliau kaip iki kovo mėnesio) viešai paskelbia ir teikia Švietimo ir mokslo ministerijai ir steigėjui praėjusių kalendorinių metų veiklos ataskaitas už praėjusius metus, taip pat viešai skelbia metines pajamų ir išlaidų sąmatas ir jų įvykdymo ataskaitas. ^313db5be7cdea7614f104906
 
 
-5. Valstybės kontrolė atlieka valstybinių mokslo ir studijų institucijų auditą teisės aktų nustatyta tvarka. Valstybinių mokslo ir studijų institucijų, kurių teisinė forma yra viešoji įstaiga, finansinių ataskaitų auditas turi būti atliekamas Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme ir Lietuvos Respublikos viešųjų įstaigų įstatyme nustatytais atvejais. ^853c943affa5a5c9a8f9ade9
-TAR pastaba. [[#^853c943affa5a5c9a8f9ade9|5 dalies]] nuostatos taikomos 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių valstybinių mokslo ir studijų institucijų, veikiančių kaip viešosios įstaigos, finansinių ataskaitų rinkinių auditams.
+5. Valstybės kontrolė atlieka valstybinių mokslo ir studijų institucijų auditą teisės aktų nustatyta tvarka. Valstybinių mokslo ir studijų institucijų, kurių teisinė forma yra viešoji įstaiga, finansinių ataskaitų auditas turi būti atliekamas Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme ir Lietuvos Respublikos viešųjų įstaigų įstatyme nustatytais atvejais. ^394637fc3e26a3926e23d62d
+TAR pastaba. [[#^394637fc3e26a3926e23d62d|5 dalies]] nuostatos taikomos 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių valstybinių mokslo ir studijų institucijų, veikiančių kaip viešosios įstaigos, finansinių ataskaitų rinkinių auditams.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1186, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09077
 
@@ -3639,126 +3676,126 @@ VALSTYBINIŲ AUKŠTŲJŲ MOKYKLŲ TURTO VALDYMAS, NAUDOJIMAS IR DISPONAVIMAS JUO
 ### 86 straipsnis. Valstybinių aukštųjų mokyklų turto valdymo, naudojimo ir disponavimo juo principai ir valstybinių aukštųjų mokyklų žemės sklypų, pastatų ir kito turto, skirto mokslo ir studijų reikalams, neliečiamumas
 
 
-1. Valstybinės aukštosios mokyklos, valdydamos, naudodamos joms patikėtą turtą ir juo disponuodamos, vadovaujasi šiais principais: ^25de973b83e3a8533d3b367a
+1. Valstybinės aukštosios mokyklos, valdydamos, naudodamos joms patikėtą turtą ir juo disponuodamos, vadovaujasi šiais principais: ^f051a82968d6621fc2bc52e2
 
 
-1) visuomeninės naudos. Šis principas reiškia, kad turtas turi būti valdomas, naudojamas ir juo disponuojama rūpestingai, siekiant ugdyti išsilavinusią, mokslui, kultūros vertybėms ir naujausioms technologijoms imlią asmenybę ir visuomenę, laisvai kuriančią, kaupiančią ir skleidžiančią mokslo žinias ir kultūros vertybes, puoselėjančią Lietuvos tapatybę; ^cb31286042d26d854e9f2135
+1) visuomeninės naudos. Šis principas reiškia, kad turtas turi būti valdomas, naudojamas ir juo disponuojama rūpestingai, siekiant ugdyti išsilavinusią, mokslui, kultūros vertybėms ir naujausioms technologijoms imlią asmenybę ir visuomenę, laisvai kuriančią, kaupiančią ir skleidžiančią mokslo žinias ir kultūros vertybes, puoselėjančią Lietuvos tapatybę; ^2e34aa991291463114720a06
 
 
-2) efektyvumo. Šis principas reiškia, kad valstybinė aukštoji mokykla, turtą valdydama, naudodama ir juo disponuodama, turi siekti didžiausios naudos visuomenei; ^14b19854f0ca1a9b2789c419
+2) efektyvumo. Šis principas reiškia, kad valstybinė aukštoji mokykla, turtą valdydama, naudodama ir juo disponuodama, turi siekti didžiausios naudos visuomenei; ^a6ccffa93d8962929a5c95d6
 
 
-3) racionalumo. Šis principas reiškia, kad turtas turi būti tausojamas ir protingai, tikslingai, tinkamai tvarkomas; ^d52452522d515b04cac95183
+3) racionalumo. Šis principas reiškia, kad turtas turi būti tausojamas ir protingai, tikslingai, tinkamai tvarkomas; ^281034b62cc5a14659ec51e6
 
 
-4) atskaitingumo visuomenei. Šis principas reiškia, kad valstybinės aukštosios mokyklos, įgyvendindamos joms Lietuvos Respublikos Konstitucijos laiduojamą autonomiją, kultūros, mokslo, tyrinėjimo, dėstymo laisvę ir savarankiškai tvarkydamos joms patikėtą turtą, yra atskaitingos visuomenei už valdomo, naudojamo ir disponuojamo turto kiekybinius ir kokybinius pokyčius; ^0378b9728f715b13c8568c99
+4) atskaitingumo visuomenei. Šis principas reiškia, kad valstybinės aukštosios mokyklos, įgyvendindamos joms Lietuvos Respublikos Konstitucijos laiduojamą autonomiją, kultūros, mokslo, tyrinėjimo, dėstymo laisvę ir savarankiškai tvarkydamos joms patikėtą turtą, yra atskaitingos visuomenei už valdomo, naudojamo ir disponuojamo turto kiekybinius ir kokybinius pokyčius; ^34047e1e68b2e8cdb077bdde
 
 
-5) ūkinės veiklos autonomijos. Šis principas reiškia, kad valstybinei aukštajai mokyklai suteikiama ūkinės veiklos laisvė, siejama su jos atsakomybe už aukštosios mokyklos misijos įgyvendinimą. ^17a2c2ec620b2f9d8da5eafb
+5) ūkinės veiklos autonomijos. Šis principas reiškia, kad valstybinei aukštajai mokyklai suteikiama ūkinės veiklos laisvė, siejama su jos atsakomybe už aukštosios mokyklos misijos įgyvendinimą. ^13d3300bdf012209a9b307c6
 
 
-2. Valstybinės aukštosios mokyklos naudojasi žemės sklypų, pastatų ir kito turto, skirto mokslo ir studijų reikalams, neliečiamumo teise. Keisti valstybinės aukštosios mokyklos panaudos pagrindais naudojamų valstybei nuosavybės teise priklausančių žemės sklypų ribas, pastatų ar kito turto, skirto mokslo ir studijų reikalams, perduotų valdyti valstybinėms aukštosioms mokykloms patikėjimo teise, valdytojus gali tik Vyriausybė, įvertinusi valstybinės aukštosios mokyklos tarybos nuomonę. Jeigu valstybinio universiteto taryba nesutinka, žemės sklypų ribas, valstybės pastatų ar kito turto, skirto mokslo ir studijų reikalams, valdytojus gali keisti Seimas. ^0a38f4a2fbe35c67ab34a240
+2. Valstybinės aukštosios mokyklos naudojasi žemės sklypų, pastatų ir kito turto, skirto mokslo ir studijų reikalams, neliečiamumo teise. Keisti valstybinės aukštosios mokyklos panaudos pagrindais naudojamų valstybei nuosavybės teise priklausančių žemės sklypų ribas, pastatų ar kito turto, skirto mokslo ir studijų reikalams, perduotų valdyti valstybinėms aukštosioms mokykloms patikėjimo teise, valdytojus gali tik Vyriausybė, įvertinusi valstybinės aukštosios mokyklos tarybos nuomonę. Jeigu valstybinio universiteto taryba nesutinka, žemės sklypų ribas, valstybės pastatų ar kito turto, skirto mokslo ir studijų reikalams, valdytojus gali keisti Seimas. ^6d14fe352ff113d70081ec23
 
 
 
 ### 87 straipsnis. Valstybės turto perdavimas pagal patikėjimo sutartis valstybinėms aukštosioms mokykloms
 
 
-1. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą Vyriausybės nustatyta tvarka gali perduoti valstybinėms aukštosioms mokykloms patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį. Valstybinės aukštosios mokyklos negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, išskyrus Lietuvos Respublikos elektroninių ryšių įstatymo 461 straipsnyje nustatytą išimtį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. ^3dd945a8411f31651fb40782
-TAR pastaba: [[#^3dd945a8411f31651fb40782|87 straipsnio 1 dalies]] nuostatos taikomos ir valstybės nekilnojamajam turtui, kuris valstybinėms aukštosioms mokykloms yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki 2023-10-26  įstatymo Nr. XIV-2203 įsigaliojimo dienos (2024-01-01) .
+1. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą Vyriausybės nustatyta tvarka gali perduoti valstybinėms aukštosioms mokykloms patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį. Valstybinės aukštosios mokyklos negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, išskyrus Lietuvos Respublikos elektroninių ryšių įstatymo 461 straipsnyje nustatytą išimtį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. ^a266368c4ccf995dbd12bead
+TAR pastaba: [[#^a266368c4ccf995dbd12bead|87 straipsnio 1 dalies]] nuostatos taikomos ir valstybės nekilnojamajam turtui, kuris valstybinėms aukštosioms mokykloms yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki 2023-10-26  įstatymo Nr. XIV-2203 įsigaliojimo dienos (2024-01-01) .
 Straipsnio dalies pakeitimai:
 Nr. XIV-2203, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21643
 
 
 
-2. Valstybės turto patikėjimo sutartis sudaroma ne ilgesniam kaip 99 metų terminui. Patikėjimo sutarties pavyzdinę formą tvirtina Vyriausybė. ^4b318afec62c73e56c453c10
+2. Valstybės turto patikėjimo sutartis sudaroma ne ilgesniam kaip 99 metų terminui. Patikėjimo sutarties pavyzdinę formą tvirtina Vyriausybė. ^0c4fd19ede0c2962eae942d1
 
 
-3. Be kitų Civiliniame kodekse numatytų pagrindų, valstybės turto patikėjimo sutartis nutrūksta pasibaigus valstybinės aukštosios mokyklos veiklai, kuriai vykdyti buvo perduotas valstybės turtas. ^0e245feb5f36f4372cb099fc
+3. Be kitų Civiliniame kodekse numatytų pagrindų, valstybės turto patikėjimo sutartis nutrūksta pasibaigus valstybinės aukštosios mokyklos veiklai, kuriai vykdyti buvo perduotas valstybės turtas. ^a619177e135835feaf640605
 
 
-4. Valstybės turto patikėjimo sutartyje, be kitų Civiliniame kodekse nurodytų esminių turto patikėjimo sutarties sąlygų, turi būti numatyta pareiga, kad valstybinė aukštoji mokykla privalo ne vėliau kaip iki kitų metų gegužės 1 dienos paskelbti praėjusių finansinių metų valstybės turto valdymo, naudojimo ir disponavimo juo ataskaitą valstybinės aukštosios mokyklos interneto svetainėje. ^59af3192b8f66546d26465c7
+4. Valstybės turto patikėjimo sutartyje, be kitų Civiliniame kodekse nurodytų esminių turto patikėjimo sutarties sąlygų, turi būti numatyta pareiga, kad valstybinė aukštoji mokykla privalo ne vėliau kaip iki kitų metų gegužės 1 dienos paskelbti praėjusių finansinių metų valstybės turto valdymo, naudojimo ir disponavimo juo ataskaitą valstybinės aukštosios mokyklos interneto svetainėje. ^fc3c5ce846084b12e095a625
 
 
-5. Valstybinės aukštosios mokyklos joms pagal patikėjimo sutartį perduotą valstybės turtą gali nuomoti arba perduoti panaudai Vyriausybės nustatyta tvarka. Valstybinių aukštųjų mokyklų išnuomotas turtas gali būti subnuomojamas įmonėms, vykdančioms taikomųjų mokslinių tyrimų ir eksperimentinės plėtros darbus ir diegiančioms inovacijas, kai yra turtą perdavusios valstybinės aukštosios mokyklos ir Švietimo ir mokslo ministerijos rašytinis sutikimas. ^a296d02420250325d3aa3032
+5. Valstybinės aukštosios mokyklos joms pagal patikėjimo sutartį perduotą valstybės turtą gali nuomoti arba perduoti panaudai Vyriausybės nustatyta tvarka. Valstybinių aukštųjų mokyklų išnuomotas turtas gali būti subnuomojamas įmonėms, vykdančioms taikomųjų mokslinių tyrimų ir eksperimentinės plėtros darbus ir diegiančioms inovacijas, kai yra turtą perdavusios valstybinės aukštosios mokyklos ir Švietimo ir mokslo ministerijos rašytinis sutikimas. ^691ad670864f7e0864fa8aac
 
 
-6. Į valstybės turtą, perduotą pagal patikėjimo sutartį, negali būti nukreipiamas išieškojimas pagal valstybinės aukštosios mokyklos prievoles, įskaitant prievoles, atsiradusias šį turtą valdant, naudojant ir juo disponuojant. ^6fa2f18f6810c3dd60928eee
+6. Į valstybės turtą, perduotą pagal patikėjimo sutartį, negali būti nukreipiamas išieškojimas pagal valstybinės aukštosios mokyklos prievoles, įskaitant prievoles, atsiradusias šį turtą valdant, naudojant ir juo disponuojant. ^0656324ffea6eaa272b12831
 
 
-7. Valstybinės aukštosios mokyklos Vyriausybės nustatyta tvarka, kai yra Švietimo ir mokslo ministerijos sutikimas, priima sprendimus dėl valstybės nekilnojamųjų daiktų, kurie joms perduoti valdyti, naudoti ir jais disponuoti patikėjimo teise pagal patikėjimo sutartis, pripažinimo nereikalingais arba netinkamais (negalimais) naudoti. ^47577e5c3f3fa46e954dffc3
+7. Valstybinės aukštosios mokyklos Vyriausybės nustatyta tvarka, kai yra Švietimo ir mokslo ministerijos sutikimas, priima sprendimus dėl valstybės nekilnojamųjų daiktų, kurie joms perduoti valdyti, naudoti ir jais disponuoti patikėjimo teise pagal patikėjimo sutartis, pripažinimo nereikalingais arba netinkamais (negalimais) naudoti. ^8860fba8e0b476ccfa6dffd2
 
 
 
 ### 88 straipsnis. Valstybinių aukštųjų mokyklų turto valdymas, naudojimas ir disponavimas juo nuosavybės teise
 
 
-1. Turtas, kurį valstybinės aukštosios mokyklos valdo, naudoja ir kuriuo disponuoja nuosavybės teise, yra: ^346e703c282ff96dc974c35d
+1. Turtas, kurį valstybinės aukštosios mokyklos valdo, naudoja ir kuriuo disponuoja nuosavybės teise, yra: ^ee670ce672b8d21ec0ee55a0
 
 
-1) valstybės investuotas turtas; ^a561f4ac9085eee89ad437c1
+1) valstybės investuotas turtas; ^23860651aebb81348e5cfb02
 
 
-2) pajamos, gautos kaip apmokėjimas už studijas, taip pat pajamos iš mokslinių tyrimų, eksperimentinės plėtros, ūkinės, mokslinės veiklos ir teikiamų paslaugų; ^ce636456bbd7bd0e7471a0ca
+2) pajamos, gautos kaip apmokėjimas už studijas, taip pat pajamos iš mokslinių tyrimų, eksperimentinės plėtros, ūkinės, mokslinės veiklos ir teikiamų paslaugų; ^85e6b97b8b46bce303c17976
 
 
-3) lėšos ir kitas turtas, kurie gauti kaip parama pagal Labdaros ir paramos įstatymą; ^f592f905c381ac5740edb16e
+3) lėšos ir kitas turtas, kurie gauti kaip parama pagal Labdaros ir paramos įstatymą; ^746f9b91a0fca2ca56b97132
 
 
-4) kitos piniginės lėšos, išskyrus valstybės biudžeto lėšas; ^d727c126169ea8cc121ca1f6
+4) kitos piniginės lėšos, išskyrus valstybės biudžeto lėšas; ^a6b3fab08f6b7c55986232a4
 
 
-5) iš valstybės biudžeto lėšų ir iš šios dalies 2–[[#^d727c126169ea8cc121ca1f6|4 punktuose]] numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^f2c0394fb9729575af4a543f
+5) iš valstybės biudžeto lėšų ir iš šios dalies 2–[[#^a6b3fab08f6b7c55986232a4|4 punktuose]] numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^23e5f0717c586bc886ce4672
 
 
-6) dovanotas turtas; ^8d0953b3cd0952dfd9e92935
+6) dovanotas turtas; ^7ab748b4d07c959cffab2cea
 
 
-7) paveldėtas turtas; ^b2f3473a6806a736094698c4
+7) paveldėtas turtas; ^a6caf2bae7728f2231682810
 
 
-8) turtinės teisės, atsirandančios iš intelektinės veiklos rezultatų (mokslo ar meno kūrinių ir pramoninės nuosavybės teisių objektų – išradimų patentų, dizaino, prekių ženklų ir puslaidininkinių gaminių topografijų, kitų intelektinės nuosavybės objektų); ^2fa9b32e0e1c6a9284120f39
+8) turtinės teisės, atsirandančios iš intelektinės veiklos rezultatų (mokslo ar meno kūrinių ir pramoninės nuosavybės teisių objektų – išradimų patentų, dizaino, prekių ženklų ir puslaidininkinių gaminių topografijų, kitų intelektinės nuosavybės objektų); ^dc7c0df4a366ec12ef1ee6bb
 
 
-9) pajamos, turtas ar kita nauda, gauta valdant, naudojant šios dalies 1–[[#^2fa9b32e0e1c6a9284120f39|8 punktuose]] nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^d12d522d2a21e412e148a028
+9) pajamos, turtas ar kita nauda, gauta valdant, naudojant šios dalies 1–[[#^dc7c0df4a366ec12ef1ee6bb|8 punktuose]] nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^fee3ecc4dd8387a417abee17
 
 
-2. Valdydamos, naudodamos [[#^346e703c282ff96dc974c35d|šio straipsnio 1 dalyje]] numatytą turtą ir juo disponuodamos, valstybinės aukštosios mokyklos gali sudaryti tik tokius civilinius sandorius, kurie neprieštarauja jų steigimo dokumentams ir veiklos tikslams. ^cebc3274ea2f33eaf35341aa
+2. Valdydamos, naudodamos [[#^ee670ce672b8d21ec0ee55a0|šio straipsnio 1 dalyje]] numatytą turtą ir juo disponuodamos, valstybinės aukštosios mokyklos gali sudaryti tik tokius civilinius sandorius, kurie neprieštarauja jų steigimo dokumentams ir veiklos tikslams. ^9eed4ba5c326238474d4222d
 
 
 
 ### 89 straipsnis. Teisės, atsirandančios iš intelektinės veiklos rezultatų
 
 
-1. Valstybinėms aukštosioms mokykloms nuosavybės teise priklauso turtinės teisės, atsirandančios iš intelektinės veiklos rezultatų (mokslo ar meno kūrinių ir pramoninės nuosavybės teisių objektų – išradimų patentų, dizaino, prekių ženklų ir puslaidininkinių gaminių topografijų, kitų intelektinės nuosavybės objektų), įgytų pagal sutartį ar įstatymų nustatyta tvarka. ^877004cd831a611f0cbf2b87
+1. Valstybinėms aukštosioms mokykloms nuosavybės teise priklauso turtinės teisės, atsirandančios iš intelektinės veiklos rezultatų (mokslo ar meno kūrinių ir pramoninės nuosavybės teisių objektų – išradimų patentų, dizaino, prekių ženklų ir puslaidininkinių gaminių topografijų, kitų intelektinės nuosavybės objektų), įgytų pagal sutartį ar įstatymų nustatyta tvarka. ^c74cf15233c462442b435486
 
 
-2. Apie savo intelektinės veiklos rezultatus, kurie buvo sukurti valstybinėje aukštojoje mokykloje atliekant mokslinius tyrimus ir (arba) eksperimentinę plėtrą, naudojantis jos patirtimi arba technologijomis ir (arba) įranga, vykdant darbo funkcijas, asmuo privalo pranešti valstybinei aukštajai mokyklai jos nustatyta tvarka. Turtinių teisių perdavimo aukštajai mokyklai ar suteikimo jomis naudotis klausimai reglamentuojami įstatymų ir (arba) sutarčių nustatyta tvarka. ^24517a4ed01dd419a9e9f02b
+2. Apie savo intelektinės veiklos rezultatus, kurie buvo sukurti valstybinėje aukštojoje mokykloje atliekant mokslinius tyrimus ir (arba) eksperimentinę plėtrą, naudojantis jos patirtimi arba technologijomis ir (arba) įranga, vykdant darbo funkcijas, asmuo privalo pranešti valstybinei aukštajai mokyklai jos nustatyta tvarka. Turtinių teisių perdavimo aukštajai mokyklai ar suteikimo jomis naudotis klausimai reglamentuojami įstatymų ir (arba) sutarčių nustatyta tvarka. ^5a6b8c25e278191dac7164f3
 
 
-3. Ne mažiau kaip trečdalis pajamų, gautų už intelektinės veiklos rezultatų (sukurtų valstybinės aukštosios mokyklos darbuotojams atliekant mokslinius tyrimus ir (arba) eksperimentinę plėtrą, vykdant darbo funkcijas ir studentams atliekant mokslo tiriamąjį, eksperimentinės plėtros ar meno darbą) komercinį panaudojimą, turi būti skiriama autoriui (bendraautoriams), jeigu darbo ar kitoje valstybinės aukštosios mokyklos ir darbuotojo (studento) sudarytoje sutartyje nenumatyta kitaip. ^04995ba365431883baf0d526
+3. Ne mažiau kaip trečdalis pajamų, gautų už intelektinės veiklos rezultatų (sukurtų valstybinės aukštosios mokyklos darbuotojams atliekant mokslinius tyrimus ir (arba) eksperimentinę plėtrą, vykdant darbo funkcijas ir studentams atliekant mokslo tiriamąjį, eksperimentinės plėtros ar meno darbą) komercinį panaudojimą, turi būti skiriama autoriui (bendraautoriams), jeigu darbo ar kitoje valstybinės aukštosios mokyklos ir darbuotojo (studento) sudarytoje sutartyje nenumatyta kitaip. ^346e4bdd22da410d825f8e52
 
 
-4. Valstybinės aukštosios mokyklos, bendradarbiaudamos mokslinių tyrimų ir (arba) eksperimentinės plėtros srityje su kitomis įstaigomis, įmonėmis ir organizacijomis, intelektinės nuosavybės valdymo, naudojimo ir disponavimo ja sąlygas nustato sutartyje. ^5c0c1d4c047a40457b77d8ba
+4. Valstybinės aukštosios mokyklos, bendradarbiaudamos mokslinių tyrimų ir (arba) eksperimentinės plėtros srityje su kitomis įstaigomis, įmonėmis ir organizacijomis, intelektinės nuosavybės valdymo, naudojimo ir disponavimo ja sąlygas nustato sutartyje. ^f8f4762d142d598f2dd8300a
 
 
 
 ### 90 straipsnis. Disponavimo valstybinių aukštųjų mokyklų nuosavybės teise valdomu ir naudojamu turtu ribojimai
 
 
-1. Sandoriai, kuriais remiantis kitų juridinių ir fizinių asmenų nuosavybėn perleidžiamas valstybinės aukštosios mokyklos nuosavybės teise valdomas nekilnojamasis turtas, sudaromi vadovaujantis rinkos kainomis, nustatytomis pagal Turto ir verslo vertinimo pagrindų įstatymą, gavus Vyriausybės arba jos įgaliotos institucijos sutikimą Vyriausybės nustatyta tvarka. ^856f7d120785ce4efb72cf2a
+1. Sandoriai, kuriais remiantis kitų juridinių ir fizinių asmenų nuosavybėn perleidžiamas valstybinės aukštosios mokyklos nuosavybės teise valdomas nekilnojamasis turtas, sudaromi vadovaujantis rinkos kainomis, nustatytomis pagal Turto ir verslo vertinimo pagrindų įstatymą, gavus Vyriausybės arba jos įgaliotos institucijos sutikimą Vyriausybės nustatyta tvarka. ^4437ad3b49e65d9e95facb36
 
 
-2. Jeigu valstybinės aukštosios mokyklos nuosavybės teise turimas nekilnojamasis turtas perleidžiamas viešo aukciono būdu, aukštoji mokykla, nesudariusi sandorio per 2 viešus aukcionus, turi teisę Vyriausybės nustatyta tvarka sumažinti perleidžiamo nekilnojamojo turto pradinę kainą. ^b425b9c6f5569c607a95f24b
+2. Jeigu valstybinės aukštosios mokyklos nuosavybės teise turimas nekilnojamasis turtas perleidžiamas viešo aukciono būdu, aukštoji mokykla, nesudariusi sandorio per 2 viešus aukcionus, turi teisę Vyriausybės nustatyta tvarka sumažinti perleidžiamo nekilnojamojo turto pradinę kainą. ^e0a5030a9501a5a0526abc74
 
 
-3. Valstybinės aukštosios mokyklos neturi teisės investuoti į neribotos civilinės atsakomybės juridinius asmenis ir jų steigti. Ribotos civilinės atsakomybės juridinius asmenis valstybinės aukštosios mokyklos gali steigti ir į juos investuoti nuosavybės teise valdomą turtą, vadovaudamosi valstybinių aukštųjų mokyklų turto valdymo, naudojimo ir disponavimo juo principais, įtvirtintais šio įstatymo [[#^25de973b83e3a8533d3b367a|86 straipsnio 1 dalyje]]. Sprendimus investuoti valstybinės aukštosios mokyklos nuosavybės teise valdomą turtą priima valstybinės aukštosios mokyklos taryba jos nustatyta tvarka, jeigu tenkinami šie investavimo kriterijai: ^acf58b4869531aa7b87d2786
+3. Valstybinės aukštosios mokyklos neturi teisės investuoti į neribotos civilinės atsakomybės juridinius asmenis ir jų steigti. Ribotos civilinės atsakomybės juridinius asmenis valstybinės aukštosios mokyklos gali steigti ir į juos investuoti nuosavybės teise valdomą turtą, vadovaudamosi valstybinių aukštųjų mokyklų turto valdymo, naudojimo ir disponavimo juo principais, įtvirtintais šio įstatymo [[#^f051a82968d6621fc2bc52e2|86 straipsnio 1 dalyje]]. Sprendimus investuoti valstybinės aukštosios mokyklos nuosavybės teise valdomą turtą priima valstybinės aukštosios mokyklos taryba jos nustatyta tvarka, jeigu tenkinami šie investavimo kriterijai: ^753f87be463dea853e3ee9f1
 
 
-1) investuojama į juridinius asmenis, kurie vykdys su valstybinės aukštosios mokyklos vykdoma studijų ar mokslinių tyrimų ir (ar) eksperimentine plėtra susijusias veiklas; ^068ae9db1fdd619a837742fe
+1) investuojama į juridinius asmenis, kurie vykdys su valstybinės aukštosios mokyklos vykdoma studijų ar mokslinių tyrimų ir (ar) eksperimentine plėtra susijusias veiklas; ^5e5f9b4fb1964c1d77ba1d70
 
 
-2) valstybinės aukštosios mokyklos taryba, atsižvelgdama į valstybinės aukštosios mokyklos paskutinių kalendorinių metų finansinę būklę, veiklos rezultatus, užtikrindama kitų metų valstybinės aukštosios mokyklos vykdomą studijų ir mokslinių tyrimų veiklą ir (ar) eksperimentinę plėtrą, lėšas, reikalingas investuoti į ribotos civilinės atsakomybės juridinį asmenį, yra patvirtinusi atitinkamų metų valstybinės aukštosios mokyklos pajamų ir išlaidų sąmatoje. ^89fd05bffcaf3d49180a901d
+2) valstybinės aukštosios mokyklos taryba, atsižvelgdama į valstybinės aukštosios mokyklos paskutinių kalendorinių metų finansinę būklę, veiklos rezultatus, užtikrindama kitų metų valstybinės aukštosios mokyklos vykdomą studijų ir mokslinių tyrimų veiklą ir (ar) eksperimentinę plėtrą, lėšas, reikalingas investuoti į ribotos civilinės atsakomybės juridinį asmenį, yra patvirtinusi atitinkamų metų valstybinės aukštosios mokyklos pajamų ir išlaidų sąmatoje. ^ce26241573c4be8a2f3df64b
 
 
 Straipsnio dalies pakeitimai:
@@ -3766,10 +3803,10 @@ Nr. XIII-3144, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14365
 
 
 
-4. Valstybinėms aukštosioms mokykloms draudžiama jų nuosavybės teise valdomu turtu užtikrinti trečiųjų asmenų prievoles. ^1a5d89a6b89916aa1ac69bb8
+4. Valstybinėms aukštosioms mokykloms draudžiama jų nuosavybės teise valdomu turtu užtikrinti trečiųjų asmenų prievoles. ^dfe0fd925269b2c3231fff28
 
 
-5. Valstybinės aukštosios mokyklos turi teisę skolintis, tai yra pasirašyti paskolų sutartis, finansinės nuomos sutartis ir kitus įsipareigojamuosius skolos dokumentus, laikydamosi Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatyto bendro valstybinėms aukštosioms mokykloms skolinimosi limito. Švietimo, mokslo ir sporto ministerija paskirsto šį skolinimosi limitą valstybinėms aukštosioms mokykloms. Valstybinės aukštosios mokyklos už prisiimtus skolinius įsipareigojimus atsiskaito Švietimo, mokslo ir sporto ministerijai švietimo, mokslo ir sporto ministro nustatyta tvarka. Valstybinė aukštoji mokykla negali įkeisti daugiau kaip 20 procentų nuosavybės teise valdomo materialiojo turto, kad užtikrintų skolinių įsipareigojimų laikymąsi. Nekilnojamojo turto įkeitimo sandoriams turi būti gautas Vyriausybės arba jos įgaliotos institucijos sutikimas Vyriausybės nustatyta tvarka. ^257caaea36dc17f79e5629a1
+5. Valstybinės aukštosios mokyklos turi teisę skolintis, tai yra pasirašyti paskolų sutartis, finansinės nuomos sutartis ir kitus įsipareigojamuosius skolos dokumentus, laikydamosi Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatyto bendro valstybinėms aukštosioms mokykloms skolinimosi limito. Švietimo, mokslo ir sporto ministerija paskirsto šį skolinimosi limitą valstybinėms aukštosioms mokykloms. Valstybinės aukštosios mokyklos už prisiimtus skolinius įsipareigojimus atsiskaito Švietimo, mokslo ir sporto ministerijai švietimo, mokslo ir sporto ministro nustatyta tvarka. Valstybinė aukštoji mokykla negali įkeisti daugiau kaip 20 procentų nuosavybės teise valdomo materialiojo turto, kad užtikrintų skolinių įsipareigojimų laikymąsi. Nekilnojamojo turto įkeitimo sandoriams turi būti gautas Vyriausybės arba jos įgaliotos institucijos sutikimas Vyriausybės nustatyta tvarka. ^b4306653b935eb63f539710b
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
@@ -4034,7 +4071,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 41.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT208-N17/2020, 2020-12-07, paskelbta TAR 2021-07-01, i. k. 2021-14848
-Dėl Lietuvos Respublikos mokslo ir studijų įstatymo [[#75 straipsnis. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos|75 straipsnio]] 2, [[#^acf58b4869531aa7b87d2786|3 dalių]], Lietuvos Respublikos Vyriausybės 2017 m. kovo 1 d. nutarimo Nr. 149 „Dėl Lietuvos Respublikos mokslo ir studijų įstatymo įgyvendinimo“ 1.2, 3.6 papunkčių ir šiuo nutarimu patvirtinto Lietuvos Respublikos valstybės biudžeto lėšų moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti skyrimo mokslo ir studijų institucijoms tvarkos aprašo atitikties Lietuvos Respublikos Konstitucijai
+Dėl Lietuvos Respublikos mokslo ir studijų įstatymo [[#75 straipsnis. Valstybės biudžeto bazinio ir skatinamojo finansavimo lėšos|75 straipsnio]] 2, [[#^753f87be463dea853e3ee9f1|3 dalių]], Lietuvos Respublikos Vyriausybės 2017 m. kovo 1 d. nutarimo Nr. 149 „Dėl Lietuvos Respublikos mokslo ir studijų įstatymo įgyvendinimo“ 1.2, 3.6 papunkčių ir šiuo nutarimu patvirtinto Lietuvos Respublikos valstybės biudžeto lėšų moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti skyrimo mokslo ir studijų institucijoms tvarkos aprašo atitikties Lietuvos Respublikos Konstitucijai
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4215,3 +4252,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#85 straipsnis. Valstybinių mokslo ir studijų institucijų finansinė apskaita, atskaitomybė ir auditas|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 [[#13 straipsnis. Mokslinių tyrimų instituto teisės ir pareigos|13 straipsnio]] pakeitimo įstatymas
+
+78.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-949, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08450
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#80 straipsnis. Valstybės finansavimo studijoms ir studijų kainos kompensavimo atvejai|80 straipsnio]] pakeitimo įstatymas

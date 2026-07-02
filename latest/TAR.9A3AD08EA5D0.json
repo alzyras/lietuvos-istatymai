@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.9A3AD08EA5D0.md",
   "latest_revision": "1991-07-01",
-  "latest_sha256": "74eb458298661ad0cac1628aed4ed4413c92613018c51b4415dd1cd8f04a6e15",
+  "latest_sha256": "5e0f005b9a54656245db62520a214847e2313c7df549813c953f731e35acab56",
   "metadata_path": "latest/TAR.9A3AD08EA5D0.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos švietimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:34Z"
 }

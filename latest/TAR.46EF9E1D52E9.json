@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.46EF9E1D52E9.md",
   "latest_revision": "1999-01-15",
-  "latest_sha256": "a78b2624f0d549a13f8afcd6ecc0b44d6631089cf13fe8acb0b49e825c096038",
+  "latest_sha256": "9196c959cd8ae75c68697ab73c85d708843677930b872c955d65141eac653a4d",
   "metadata_path": "latest/TAR.46EF9E1D52E9.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos diplomatinės tarnybos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

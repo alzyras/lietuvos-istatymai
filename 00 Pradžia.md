@@ -33,4 +33,4 @@ Duomenų šaltinis: [Teisės aktų registro duomenys](https://data.gov.lt/datase
 
 | Būsena | Kiekis |
 | --- | ---: |
-| galioja | 12117 |
+| galioja | 12271 |

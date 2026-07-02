@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-10-01"
 latest_path: "latest/TAR.424F7C72601E.md"
-latest_sha256: "3c52f4fd4963eb6f8bb4a5ac7025fded49c2b972a158da5c801968dbbf7a2833"
+latest_sha256: "c941485b569082fd96dc8593d9e5bd3cf1a9e8e1b24c011565dde79069439b32"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos branduolinės saugos įstatymas
@@ -23,7 +23,7 @@ parser_version: "0.1.0"
 LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
 
-Suvestinė redakcija nuo 2021-05-01 iki 2025-11-30
+Suvestinė redakcija nuo 2027-01-01
 
 Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
 
@@ -1062,7 +1062,7 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 18. Šio straipsnio 16 ir [[#^7fbec41812c30de1e7ccca05|17 dalyse]] nustatyti terminai gali būti pratęsiami vieną kartą ne ilgesniam kaip 30 dienų laikotarpiui. Valstybinė atominės energetikos saugos inspekcija pranešimą apie sprendimą pratęsti terminą pareiškėjui išsiunčia ne vėliau kaip likus 5 darbo dienoms iki termino, nustatyto šio straipsnio 16 ir [[#^7fbec41812c30de1e7ccca05|17 dalyse]], pabaigos ir nurodo termino pratęsimo priežastis. ^be037ceaa9aece1f07221904
 
 
-19. Laikoma, kad yra gauti visi tinkamai įforminti dokumentai, reikalingi sprendimui dėl licencijos išdavimo priimti, kai Valstybinė atominės energetikos saugos inspekcija gauna visus šio įstatymo [[#^97fff9a067a8e065d4a2a8a4|24 straipsnio 1 dalyje]] nurodytus dokumentus ir visus dokumentų pateikimo grafike nurodytus dokumentus, įskaitant šių dokumentų patikslinimą pagal visuomenės komentarus, informaciją, analizes ir nuomones, pateiktus vadovaujantis šio įstatymo [[#^21287a973535dea653b3e080|391 straipsnio 3 dalies 4 punktu]]. ^cd63c5481050ddd2f8dd8bd3
+19. Laikoma, kad yra gauti visi tinkamai įforminti dokumentai, reikalingi sprendimui dėl licencijos išdavimo priimti, kai Valstybinė atominės energetikos saugos inspekcija gauna visus šio įstatymo [[#^97fff9a067a8e065d4a2a8a4|24 straipsnio 1 dalyje]] nurodytus dokumentus ir visus dokumentų pateikimo grafike nurodytus dokumentus, įskaitant šių dokumentų patikslinimą pagal visuomenės komentarus, informaciją, analizes ir nuomones, pateiktus vadovaujantis šio įstatymo [[#^e95d20af5659a3cad44ac277|391 straipsnio 3 dalies 4 punktu]]. ^cd63c5481050ddd2f8dd8bd3
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
@@ -1141,7 +1141,7 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 12. Jeigu pareiškėjas negauna atsakymo dėl sprendimo išduoti leidimą per nustatytą terminą, nėra laikoma, kad leidimas išduotas. ^bd8f3dc21e1bede8dc01e96a
 
 
-13. Laikoma, kad yra gauti visi tinkamai įforminti dokumentai, reikalingi sprendimui dėl leidimo išdavimo priimti, kai Valstybinė atominės energetikos saugos inspekcija gauna visus šio įstatymo [[#24 straipsnis. Paraiška gauti licenciją ir leidimą|24 straipsnio]] 2 ir [[#^ea17061d083a6c87cc68ff58|3 dalyse]] nurodytus dokumentus, o dokumentų, šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytų licencijų turėtojų teikiamų šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 1 ar 2 punkte nurodytiems leidimams gauti, atveju, įskaitant šių dokumentų patikslinimą, kaip nurodyta šio įstatymo [[#^21287a973535dea653b3e080|391 straipsnio 3 dalies 4 punkte]]. ^ff3ceb9557fa709db4457383
+13. Laikoma, kad yra gauti visi tinkamai įforminti dokumentai, reikalingi sprendimui dėl leidimo išdavimo priimti, kai Valstybinė atominės energetikos saugos inspekcija gauna visus šio įstatymo [[#24 straipsnis. Paraiška gauti licenciją ir leidimą|24 straipsnio]] 2 ir [[#^ea17061d083a6c87cc68ff58|3 dalyse]] nurodytus dokumentus, o dokumentų, šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytų licencijų turėtojų teikiamų šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 1 ar 2 punkte nurodytiems leidimams gauti, atveju, įskaitant šių dokumentų patikslinimą, kaip nurodyta šio įstatymo [[#^e95d20af5659a3cad44ac277|391 straipsnio 3 dalies 4 punkte]]. ^ff3ceb9557fa709db4457383
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
@@ -1270,7 +1270,7 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 
 
-31. Be [[#^77d44b5e3a2c1ff68fa61a79|šio straipsnio 3 dalyje]] nurodyto atvejo, licencijos galiojimas taip pat sustabdomas šio įstatymo [[#^b40c4443f73e88f101da252e|32 straipsnio 75 dalyje]] nurodytu atveju. ^0a3622fa2a8133479aa86f49
+31. Be [[#^77d44b5e3a2c1ff68fa61a79|šio straipsnio 3 dalyje]] nurodyto atvejo, licencijos galiojimas taip pat sustabdomas šio įstatymo [[#^7b105b7879c16509cadfc57f|32 straipsnio 75 dalyje]] nurodytu atveju. ^0a3622fa2a8133479aa86f49
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
@@ -1417,7 +1417,7 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 
 
-51. Licencijos, nurodytos šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]], turėtojas, siekdamas patvirtinti, kad branduolinės energetikos objekto eksploatavimo nutraukimas yra įvykdytas, Valstybinei atominės energetikos saugos inspekcijai kartu su prašymu panaikinti šios licencijos galiojimą turi pateikti galutinę branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitą. Galutinėje branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitoje turi būti pateikta informacija, skirta patvirtinti, kad branduolinės energetikos objekto eksploatavimo nutraukimas yra įvykdytas laikantis jam galutiniame branduolinės energetikos objekto eksploatavimo nutraukimo plane ir branduolinės energetikos objekto eksploatavimo nutraukimo saugos analizės ataskaitoje nustatytų sąlygų ir branduolinės energetikos objekto būklė po branduolinės energetikos objekto eksploatavimo nutraukimo darbų baigimo atitinka galutinę branduolinės energetikos objekto ir (ar) jo aikštelės būklę, nurodytą galutiniame branduolinės energetikos objekto eksploatavimo nutraukimo plane. Galutinės branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitos turinio reikalavimus nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. Sprendimas dėl licencijos, nurodytos šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]], galiojimo panaikinimo priimamas šio įstatymo [[#^caff9786ee378a515877d523|34 straipsnio 2 dalyje]] nurodytais terminais. ^9a8c6b6cf2a87bfbf2c8437d
+51. Licencijos, nurodytos šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]], turėtojas, siekdamas patvirtinti, kad branduolinės energetikos objekto eksploatavimo nutraukimas yra įvykdytas, Valstybinei atominės energetikos saugos inspekcijai kartu su prašymu panaikinti šios licencijos galiojimą turi pateikti galutinę branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitą. Galutinėje branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitoje turi būti pateikta informacija, skirta patvirtinti, kad branduolinės energetikos objekto eksploatavimo nutraukimas yra įvykdytas laikantis jam galutiniame branduolinės energetikos objekto eksploatavimo nutraukimo plane ir branduolinės energetikos objekto eksploatavimo nutraukimo saugos analizės ataskaitoje nustatytų sąlygų ir branduolinės energetikos objekto būklė po branduolinės energetikos objekto eksploatavimo nutraukimo darbų baigimo atitinka galutinę branduolinės energetikos objekto ir (ar) jo aikštelės būklę, nurodytą galutiniame branduolinės energetikos objekto eksploatavimo nutraukimo plane. Galutinės branduolinės energetikos objekto eksploatavimo nutraukimo ataskaitos turinio reikalavimus nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. Sprendimas dėl licencijos, nurodytos šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]], galiojimo panaikinimo priimamas šio įstatymo [[#^9597807b0260292b6ff866f1|34 straipsnio 2 dalyje]] nurodytais terminais. ^9a8c6b6cf2a87bfbf2c8437d
 Papildyta straipsnio dalimi:
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
@@ -1495,19 +1495,25 @@ Nr. XIII-1565, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17485
 6. Atskiroms branduolinės energetikos objekto modifikacijoms, nenumatytiems projekte bandymams atlikti, kitokiems nukrypimams nuo branduolinės energetikos objekto projekto įgyvendinti ir kitais teisės aktuose ar branduolinės energetikos objekto projekte nustatytais atvejais turi būti atliekama atskira saugos analizė ir pagrindimas, kurie įforminami saugą pagrindžiančiuose dokumentuose. Šių dokumentų rengimo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. Valstybinės atominės energetikos saugos inspekcijos viršininkas, kai Valstybinė atominės energetikos saugos inspekcija peržiūri ir įvertina pateiktus saugos pagrindimo dokumentus, priima sprendimą dėl šių dokumentų derinimo. ^7c51e476d5b403cda74729e3
 
 
-7. Branduolinės energetikos objektus eksploatuojantys licencijos turėtojai periodiškumu, nurodytu [[#^f428526229752660291351ce|šio straipsnio 71 dalyje]], turi atlikti šių objektų periodinę saugos analizę ir pagrindimą ir parengti periodinio saugos vertinimo ataskaitą. Periodinė saugos analizė ir pagrindimas turi būti atliekami ir periodinio saugos vertinimo ataskaita turi būti parengta vadovaujantis šiomis nuostatomis: ^7ff142ed891cfc129c507e2d
+61. Įgyvendinant branduolinės energetikos objekto modifikacijas, susijusias su radioaktyviųjų atliekų, pasižyminčių viena ar keliomis pavojingosiomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas, priede ir 2017 m. birželio 8 d. Tarybos reglamento (ES) 2017/997, kuriuo iš dalies keičiamos Europos Parlamento ir Tarybos direktyvos 2008/98/EB III priedo nuostatos dėl pavojingos savybės HP 14 „ekotoksiškumas“, priede (toliau – radioaktyviosios atliekos, pasižyminčios pavojingosiomis savybėmis), tvarkymu, Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą dėl [[#^7c51e476d5b403cda74729e3|šio straipsnio 6 dalyje]] nurodytų saugos pagrindimo dokumentų derinimo, gavęs aplinkos ministro įgaliotos institucijos išvadą dėl šių dokumentų atitikties aplinkos ministro kartu su Valstybinės atominės energetikos saugos inspekcijos viršininku nustatytiems radioaktyviųjų atliekų, pasižyminčių pavojingosiomis savybėmis, tvarkymo reikalavimams dėl pavojingųjų savybių galimo poveikio visuomenės sveikatai ir aplinkai. ^457ac08be7a2fca4ddf76be6
+Papildyta straipsnio dalimi:
+Nr. XV-291, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11285
 
 
-1) periodinės saugos analizės ir pagrindimo metu turi būti nustatyta, ar, atsižvelgiant į branduolinės energetikos objekto aikštelės ir (arba) jos aplinkos pasikeitimus, į konstrukcijų, sistemų ir komponentų senėjimą ir kitus saugai galinčius turėti įtakos veiksnius, yra užtikrinama, kad branduolinės energetikos objektas atitinka ir iki kito periodinės saugos analizės ir pagrindimo atlikimo atitiks jo projektą, teisės aktų, reglamentuojančių branduolinės energetikos objektų branduolinę, radiacinę ir fizinę saugą bei avarinę parengtį, ir branduolinės saugos normatyvinių techninių dokumentų reikalavimus. Jeigu periodinės saugos analizės ir pagrindimo metu nustatoma esamų ar iki kitos periodinės saugos analizės ataskaitos pateikimo galinčių atsirasti neatitikčių branduolinės energetikos objekto projektui, periodinės saugos analizės ir pagrindimo metu galiojantiems teisės aktams, reglamentuojantiems branduolinės energetikos objektų branduolinę, radiacinę ir fizinę saugą bei avarinę parengtį, ar branduolinės saugos normatyvinių techninių dokumentų reikalavimams, licencijos turėtojas turi nustatyti koreguojančias priemones šioms neatitiktims pašalinti. Šios priemonės ir jų įvykdymo terminai turi būti nurodyti periodinio saugos vertinimo ataskaitoje; ^7e68754566172192b1106ddf
+
+7. Branduolinės energetikos objektus eksploatuojantys licencijos turėtojai periodiškumu, nurodytu [[#^f421d2348ea068463ef187b5|šio straipsnio 71 dalyje]], turi atlikti šių objektų periodinę saugos analizę ir pagrindimą ir parengti periodinio saugos vertinimo ataskaitą. Periodinė saugos analizė ir pagrindimas turi būti atliekami ir periodinio saugos vertinimo ataskaita turi būti parengta vadovaujantis šiomis nuostatomis: ^f31b7a9c3b8b2b46a22f6d3b
 
 
-2) periodinės saugos analizės ir pagrindimo metu licencijos turėtojas turi išanalizuoti naujausių mokslinių tyrimų rezultatus, tarptautinių branduolinės saugos standartų pokyčius bei pažangią tarptautinę praktiką, taip pat turi įvertinti savo ir kitų asmenų, veikiančių branduolinės energetikos sektoriuje, patirties analizės rezultatus. Jeigu atsižvelgiant į šios analizės ir įvertinimo rezultatus nustatyta sričių, kuriose galima pagerinti branduolinę, radiacinę ir fizinę saugą bei avarinę parengtį, licencijos turėtojas turi nustatyti saugos gerinimo priemones. Šios saugos gerinimo priemonės ir jų įgyvendinimo terminai turi būti nurodyti periodinio saugos vertinimo ataskaitoje. Šios saugos gerinimo priemonės turi atitikti pasitvirtinusią inžinerinę praktiką; ^695e031244f40b52c6c9b545
+1) periodinės saugos analizės ir pagrindimo metu turi būti nustatyta, ar, atsižvelgiant į branduolinės energetikos objekto aikštelės ir (arba) jos aplinkos pasikeitimus, į konstrukcijų, sistemų ir komponentų senėjimą ir kitus saugai galinčius turėti įtakos veiksnius, yra užtikrinama, kad branduolinės energetikos objektas atitinka ir iki kito periodinės saugos analizės ir pagrindimo atlikimo atitiks jo projektą, teisės aktų, reglamentuojančių branduolinės energetikos objektų branduolinę, radiacinę ir fizinę saugą bei avarinę parengtį, ir branduolinės saugos normatyvinių techninių dokumentų reikalavimus. Jeigu periodinės saugos analizės ir pagrindimo metu nustatoma esamų ar iki kitos periodinės saugos analizės ataskaitos pateikimo galinčių atsirasti neatitikčių branduolinės energetikos objekto projektui, periodinės saugos analizės ir pagrindimo metu galiojantiems teisės aktams, reglamentuojantiems branduolinės energetikos objektų branduolinę, radiacinę ir fizinę saugą bei avarinę parengtį, ar branduolinės saugos normatyvinių techninių dokumentų reikalavimams, licencijos turėtojas turi nustatyti koreguojančias priemones šioms neatitiktims pašalinti. Šios priemonės ir jų įvykdymo terminai turi būti nurodyti periodinio saugos vertinimo ataskaitoje; ^7e2789aae20f3f12fccfc8e6
 
 
-3) periodinės saugos analizės ir pagrindimo metu turi būti nustatyta, ar į aplinką išmetami radionuklidai, jų aktyvumas, išmetimo keliai, būdai ar taškai atitinka nustatytuosius radionuklidų išmetimo į aplinką plane, ir, jeigu nustatoma neatitiktis, kartu su periodinio saugos vertinimo ataskaita pateikiamas atnaujintas radionuklidų išmetimo į aplinką planas; ^9007dfb5b9f0d0632221f960
+2) periodinės saugos analizės ir pagrindimo metu licencijos turėtojas turi išanalizuoti naujausių mokslinių tyrimų rezultatus, tarptautinių branduolinės saugos standartų pokyčius bei pažangią tarptautinę praktiką, taip pat turi įvertinti savo ir kitų asmenų, veikiančių branduolinės energetikos sektoriuje, patirties analizės rezultatus. Jeigu atsižvelgiant į šios analizės ir įvertinimo rezultatus nustatyta sričių, kuriose galima pagerinti branduolinę, radiacinę ir fizinę saugą bei avarinę parengtį, licencijos turėtojas turi nustatyti saugos gerinimo priemones. Šios saugos gerinimo priemonės ir jų įgyvendinimo terminai turi būti nurodyti periodinio saugos vertinimo ataskaitoje. Šios saugos gerinimo priemonės turi atitikti pasitvirtinusią inžinerinę praktiką; ^ef1c12fdefafd69ebb64e436
 
 
-4) periodinio saugos vertinimo ataskaitoje, vadovaujantis [[#^f428526229752660291351ce|šio straipsnio 71 dalimi]], turi būti nurodytas terminas, iki kurio turi būti atlikta kita periodinė saugos analizė ir pagrindimas. ^3534e5656f888259480d6d53
+3) periodinės saugos analizės ir pagrindimo metu turi būti nustatyta, ar į aplinką išmetami radionuklidai, jų aktyvumas, išmetimo keliai, būdai ar taškai atitinka nustatytuosius radionuklidų išmetimo į aplinką plane, ir, jeigu nustatoma neatitiktis, kartu su periodinio saugos vertinimo ataskaita pateikiamas atnaujintas radionuklidų išmetimo į aplinką planas; ^0d5dc7e2920e15c3396e8265
+
+
+4) periodinio saugos vertinimo ataskaitoje, vadovaujantis [[#^f421d2348ea068463ef187b5|šio straipsnio 71 dalimi]], turi būti nurodytas terminas, iki kurio turi būti atlikta kita periodinė saugos analizė ir pagrindimas. ^f3a19b14d08369a54f78a08d
 
 
 Straipsnio dalies pakeitimai:
@@ -1515,39 +1521,16 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-71. Branduolinės energetikos objekto periodinė saugos analizė ir pagrindimas turi būti atlikti ir periodinio saugos vertinimo ataskaita pateikta Valstybinės atominės energetikos saugos inspekcijai suderinti: ^f428526229752660291351ce
+71. Branduolinės energetikos objekto periodinė saugos analizė ir pagrindimas turi būti atlikti ir periodinio saugos vertinimo ataskaita pateikta Valstybinės atominės energetikos saugos inspekcijai suderinti: ^f421d2348ea068463ef187b5
 
 
-1) ne rečiau kaip kas 10 metų po šio įstatymo [[#^d8e952a769e148f2b678ba47|22 straipsnio 2 dalies 4 punkte]] nurodyto leidimo išdavimo, išskyrus šios dalies 2 ir [[#^b63b48ebab816f148c02de49|3 punktuose]] nurodytus atvejus; ^aa3e2b7c8527dbab195bc2ee
+1) ne rečiau kaip kas 10 metų po šio įstatymo [[#^d8e952a769e148f2b678ba47|22 straipsnio 2 dalies 4 punkte]] nurodyto leidimo išdavimo, išskyrus šios dalies 2 ir [[#^4d09582eea7f8540fce251fd|3 punktuose]] nurodytus atvejus; ^9772a4c74f274dd797603c96
 
 
-2) ne rečiau kaip kas 10 metų nuo branduolinės energetikos objekto pirmosios periodinio saugos vertinimo ataskaitos suderinimo su Valstybine atominės energetikos saugos inspekcija dienos, jeigu licencija eksploatuoti vertinamą branduolinės energetikos objektą išduota anksčiau negu 2011 m. spalio 1 d.; ^b851b106b6c49277749344e7
+2) ne rečiau kaip kas 10 metų nuo branduolinės energetikos objekto pirmosios periodinio saugos vertinimo ataskaitos suderinimo su Valstybine atominės energetikos saugos inspekcija dienos, jeigu licencija eksploatuoti vertinamą branduolinės energetikos objektą išduota anksčiau negu 2011 m. spalio 1 d.; ^b777ea6be96d647d66b19870
 
 
-3) iki 2020 m. gruodžio 29 d. ir ne rečiau kaip kas 10 metų skaičiuojant nuo šios datos, jeigu branduolinės energetikos objekto pirmoji periodinio saugos vertinimo ataskaita nebuvo pateikta Valstybinei atominės energetikos saugos inspekcijai suderinti iki 2017 m. rugpjūčio 15 d. ^b63b48ebab816f148c02de49
-
-
-Papildyta straipsnio dalimi:
-Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
-
-
-
-72. Branduolinės energetikos objektų branduolinės, radiacinės ir fizinės saugos bei avarinės parengties reikalavimus, taikomus atliekant periodinę saugos analizę ir pagrindimą, kiek jie nereglamentuoti [[#^7ff142ed891cfc129c507e2d|šio straipsnio 7 dalyje]], nustato Valstybinė atominės energetikos saugos inspekcija. ^956000013f961af732c40caf
-Papildyta straipsnio dalimi:
-Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
-
-
-
-73. Jeigu branduolinės energetikos objekto periodinio saugos vertinimo ataskaita nėra pateikta Valstybinės atominės energetikos saugos inspekcijai suderinti terminais, nurodytais [[#^f428526229752660291351ce|šio straipsnio 71 dalyje]], ankstesnėje periodinio saugos vertinimo ataskaitoje vadovaujantis [[#^3534e5656f888259480d6d53|šio straipsnio 7 dalies 4 punktu]] arba [[#^cc7165ff208cedac5296d79e|šio straipsnio 78 dalyje]], Valstybinės atominės energetikos saugos inspekcijos viršininkas: ^8817cd27fc88aa2fa2b6a5a4
-
-
-1) įspėja licencijos turėtoją apie galimą licencijos sustabdymą dėl periodinio saugos vertinimo ataskaitos nepateikimo; ^bef67b5fbfa02d6e20e5cbcb
-
-
-2) nurodo pateikti periodinio saugos vertinimo ataskaitą suderinti ir nustato vienų metų terminą, skaičiuojamą nuo šio sprendimo gavimo dienos, per kurį licencijos turėtojas turi pateikti periodinio saugos vertinimo ataskaitą suderinti; ^393c73577d286cfa28b35d0c
-
-
-3) nurodo sustabdyti branduolinės energetikos objekto, dėl kurio periodinė saugos vertinimo ataskaita nepateikta, eksploatavimą ir nurodo sustabdymo terminą. ^c6eecbcc97ff210aeef65acb
+3) iki 2020 m. gruodžio 29 d. ir ne rečiau kaip kas 10 metų skaičiuojant nuo šios datos, jeigu branduolinės energetikos objekto pirmoji periodinio saugos vertinimo ataskaita nebuvo pateikta Valstybinei atominės energetikos saugos inspekcijai suderinti iki 2017 m. rugpjūčio 15 d. ^4d09582eea7f8540fce251fd
 
 
 Papildyta straipsnio dalimi:
@@ -1555,100 +1538,123 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-74. [[#^8817cd27fc88aa2fa2b6a5a4|Šio straipsnio 73 dalies]] 1, 2 ir 3 punktuose nurodytus sprendimus Valstybinės atominės energetikos saugos inspekcijos viršininkas priima ir pateikia licencijos turėtojui raštu per 5 darbo dienas nuo periodinio saugos vertinimo ataskaitos pateikimo termino, nurodyto [[#^f428526229752660291351ce|šio straipsnio 71 dalyje]], ankstesnėje periodinio saugos vertinimo ataskaitoje vadovaujantis [[#^3534e5656f888259480d6d53|šio straipsnio 7 dalies 4 punktu]] arba [[#^cc7165ff208cedac5296d79e|šio straipsnio 78 dalyje]], pabaigos. ^a8cf02ffb167a90a0128bdb8
+72. Branduolinės energetikos objektų branduolinės, radiacinės ir fizinės saugos bei avarinės parengties reikalavimus, taikomus atliekant periodinę saugos analizę ir pagrindimą, kiek jie nereglamentuoti [[#^f31b7a9c3b8b2b46a22f6d3b|šio straipsnio 7 dalyje]], nustato Valstybinė atominės energetikos saugos inspekcija. ^bf9286737e81f39c54503b6a
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-75. Licencijos galiojimas sustabdomas, jeigu per [[#^393c73577d286cfa28b35d0c|šio straipsnio 73 dalies 2 punkte]] nurodytą terminą periodinio saugos vertinimo ataskaita Valstybinei atominės energetikos saugos inspekcijai suderinti nebuvo pateikta. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą panaikinti licencijos galiojimo sustabdymą ir branduolinės energetikos objekto eksploatavimo sustabdymą po to, kai su Valstybine atominės energetikos saugos inspekcija yra suderinta periodinio saugos vertinimo ataskaita. ^b40c4443f73e88f101da252e
+73. Jeigu branduolinės energetikos objekto periodinio saugos vertinimo ataskaita nėra pateikta Valstybinės atominės energetikos saugos inspekcijai suderinti terminais, nurodytais [[#^f421d2348ea068463ef187b5|šio straipsnio 71 dalyje]], ankstesnėje periodinio saugos vertinimo ataskaitoje vadovaujantis [[#^f3a19b14d08369a54f78a08d|šio straipsnio 7 dalies 4 punktu]] arba [[#^e73d7aff3f4bea5b5ec39aca|šio straipsnio 78 dalyje]], Valstybinės atominės energetikos saugos inspekcijos viršininkas: ^68e318e5f7fb1d7c1c86cace
+
+
+1) įspėja licencijos turėtoją apie galimą licencijos sustabdymą dėl periodinio saugos vertinimo ataskaitos nepateikimo; ^a85f42a8f186d68a8eada08a
+
+
+2) nurodo pateikti periodinio saugos vertinimo ataskaitą suderinti ir nustato vienų metų terminą, skaičiuojamą nuo šio sprendimo gavimo dienos, per kurį licencijos turėtojas turi pateikti periodinio saugos vertinimo ataskaitą suderinti; ^990b15bd63f99762c438f709
+
+
+3) nurodo sustabdyti branduolinės energetikos objekto, dėl kurio periodinė saugos vertinimo ataskaita nepateikta, eksploatavimą ir nurodo sustabdymo terminą. ^4ccfbc2d91bddd48a1ad317b
+
+
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-76. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą nesuderinti periodinio saugos vertinimo ataskaitos, jeigu ji neatitinka šio įstatymo, Branduolinės energijos įstatymo, Radiacinės saugos įstatymo, Radioaktyviųjų atliekų tvarkymo įstatymo ir branduolinės saugos normatyvinių techninių dokumentų nuostatų ir (arba) joje pateikta informacija neatitinka faktinių aplinkybių. Sprendimas dėl periodinio saugos vertinimo ataskaitos suderinimo įforminamas Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu. ^6a79a53765cbdd6eb0124515
+74. [[#^68e318e5f7fb1d7c1c86cace|Šio straipsnio 73 dalies]] 1, 2 ir 3 punktuose nurodytus sprendimus Valstybinės atominės energetikos saugos inspekcijos viršininkas priima ir pateikia licencijos turėtojui raštu per 5 darbo dienas nuo periodinio saugos vertinimo ataskaitos pateikimo termino, nurodyto [[#^f421d2348ea068463ef187b5|šio straipsnio 71 dalyje]], ankstesnėje periodinio saugos vertinimo ataskaitoje vadovaujantis [[#^f3a19b14d08369a54f78a08d|šio straipsnio 7 dalies 4 punktu]] arba [[#^e73d7aff3f4bea5b5ec39aca|šio straipsnio 78 dalyje]], pabaigos. ^98b4b5b259dcbd78c6a31cb7
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-77. Jeigu Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą nesuderinti periodinio saugos vertinimo ataskaitos, jis nurodo sustabdyti šioje ataskaitoje vertinamų branduolinės energetikos objektų eksploatavimą arba nurodo sustabdyti atskirus technologinius procesus, vykdomus šiame objekte, nurodant eksploatavimo ar technologinių procesų sustabdymo terminus, jeigu tai būtina siekiant išvengti žalingo jonizuojančiosios spinduliuotės poveikio branduolinės energetikos objekto darbuotojams, gyventojams, jų turtui ir (arba) aplinkai. Valstybinės atominės energetikos saugos inspekcijos viršininkas pripažįsta netekusiu galios šį sprendimą po to, kai periodinio saugos vertinimo ataskaita yra suderinta. ^134ad1a25b96199c6edec7d9
+75. Licencijos galiojimas sustabdomas, jeigu per [[#^990b15bd63f99762c438f709|šio straipsnio 73 dalies 2 punkte]] nurodytą terminą periodinio saugos vertinimo ataskaita Valstybinei atominės energetikos saugos inspekcijai suderinti nebuvo pateikta. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą panaikinti licencijos galiojimo sustabdymą ir branduolinės energetikos objekto eksploatavimo sustabdymą po to, kai su Valstybine atominės energetikos saugos inspekcija yra suderinta periodinio saugos vertinimo ataskaita. ^7b105b7879c16509cadfc57f
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-78. Jeigu Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą nesuderinti periodinio saugos vertinimo ataskaitos, licencijos turėtojas, atsižvelgdamas į nesuderinimo motyvus, ne vėliau kaip per vienus metus nuo sprendimo nesuderinti periodinio saugos vertinimo ataskaitos gavimo dienos turi pakartotinai atlikti periodinę saugos analizę ir pagrindimą bei pateikti Valstybinei atominės energetikos saugos inspekcijai suderinti naują periodinio saugos vertinimo ataskaitą. ^cc7165ff208cedac5296d79e
+76. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą nesuderinti periodinio saugos vertinimo ataskaitos, jeigu ji neatitinka šio įstatymo, Branduolinės energijos įstatymo, Radiacinės saugos įstatymo, Radioaktyviųjų atliekų tvarkymo įstatymo ir branduolinės saugos normatyvinių techninių dokumentų nuostatų ir (arba) joje pateikta informacija neatitinka faktinių aplinkybių. Sprendimas dėl periodinio saugos vertinimo ataskaitos suderinimo įforminamas Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu. ^abc6b37586eb631e7d45f78a
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-79 Neįgyvendinus koreguojančių priemonių, nurodytų periodinio saugos vertinimo ataskaitoje vadovaujantis [[#^7e68754566172192b1106ddf|šio straipsnio 7 dalies 1 punktu]], šioje ataskaitoje nustatytais terminais, taikomos administracinio poveikio priemonės šio įstatymo [[#6 straipsnis. Administraciniai sprendimai, priimami vykdant priežiūrą, ir poveikio priemonės|6 straipsnyje]] nustatyta tvarka.
+77. Jeigu Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą nesuderinti periodinio saugos vertinimo ataskaitos, jis nurodo sustabdyti šioje ataskaitoje vertinamų branduolinės energetikos objektų eksploatavimą arba nurodo sustabdyti atskirus technologinius procesus, vykdomus šiame objekte, nurodant eksploatavimo ar technologinių procesų sustabdymo terminus, jeigu tai būtina siekiant išvengti žalingo jonizuojančiosios spinduliuotės poveikio branduolinės energetikos objekto darbuotojams, gyventojams, jų turtui ir (arba) aplinkai. Valstybinės atominės energetikos saugos inspekcijos viršininkas pripažįsta netekusiu galios šį sprendimą po to, kai periodinio saugos vertinimo ataskaita yra suderinta. ^118341f80e4a38ee97fe0dd8
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-8. Kartu su saugos analizės ataskaita Valstybinei atominės energetikos saugos inspekcijai pateikiami branduolinės energetikos objekto projekto dokumentai, kurie yra reikalingi šiai ataskaitai vertinti. Šiuose projekto dokumentuose visos branduolinės energetikos objekto konstrukcijos, sistemos ir komponentai turi būti nustatyti ir suklasifikuoti pagal jų atliekamas funkcijas ir svarbą saugai bei turi būti išsamiai aprašytos visos objekto saugai svarbios konstrukcijos, sistemos ir komponentai, technologiniai procesai. ^ea73da6eb1e1b7301af1b046
+78. Jeigu Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą nesuderinti periodinio saugos vertinimo ataskaitos, licencijos turėtojas, atsižvelgdamas į nesuderinimo motyvus, ne vėliau kaip per vienus metus nuo sprendimo nesuderinti periodinio saugos vertinimo ataskaitos gavimo dienos turi pakartotinai atlikti periodinę saugos analizę ir pagrindimą bei pateikti Valstybinei atominės energetikos saugos inspekcijai suderinti naują periodinio saugos vertinimo ataskaitą. ^e73d7aff3f4bea5b5ec39aca
+Papildyta straipsnio dalimi:
+Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
-9. Pareiškėjas kartu su kitais paraiškos gauti šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]] nurodytą licenciją dokumentais teikia derinti Valstybinei atominės energetikos saugos inspekcijai branduolinės energetikos objekto eksploatavimo nutraukimo saugos analizės ataskaitą. ^15eae14f3c9ead35692ca987
+
+79 Neįgyvendinus koreguojančių priemonių, nurodytų periodinio saugos vertinimo ataskaitoje vadovaujantis [[#^7e2789aae20f3f12fccfc8e6|šio straipsnio 7 dalies 1 punktu]], šioje ataskaitoje nustatytais terminais, taikomos administracinio poveikio priemonės šio įstatymo [[#6 straipsnis. Administraciniai sprendimai, priimami vykdant priežiūrą, ir poveikio priemonės|6 straipsnyje]] nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
-10. Pareiškėjas kartu su paraiškos gauti šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 ar 3 punkte nurodytą licenciją dokumentais teikia Valstybinei atominės energetikos saugos inspekcijai pirminį branduolinės energetikos objekto eksploatavimo nutraukimo planą. Pareiškėjas kartu su paraiškos gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją arba šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais teikia Valstybinei atominės energetikos saugos inspekcijai atnaujintą branduolinės energetikos objekto eksploatavimo nutraukimo planą. Valstybinei atominės energetikos saugos inspekcijai teikiami su Energetikos ministerija suderinti ir pareiškėjo patvirtinti branduolinės energetikos objekto eksploatavimo nutraukimo planai. ^b17ab07501684a03c6856d09
+
+8. Kartu su saugos analizės ataskaita Valstybinei atominės energetikos saugos inspekcijai pateikiami branduolinės energetikos objekto projekto dokumentai, kurie yra reikalingi šiai ataskaitai vertinti. Šiuose projekto dokumentuose visos branduolinės energetikos objekto konstrukcijos, sistemos ir komponentai turi būti nustatyti ir suklasifikuoti pagal jų atliekamas funkcijas ir svarbą saugai bei turi būti išsamiai aprašytos visos objekto saugai svarbios konstrukcijos, sistemos ir komponentai, technologiniai procesai. ^9e84117e01387be47e662ad8
 
 
-11. Neteko galios nuo 2017-10-10 ^036a8e7d6738006c3631867e
+9. Pareiškėjas kartu su kitais paraiškos gauti šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]] nurodytą licenciją dokumentais teikia derinti Valstybinei atominės energetikos saugos inspekcijai branduolinės energetikos objekto eksploatavimo nutraukimo saugos analizės ataskaitą. ^6f181ded29e26b03957ab669
+
+
+10. Pareiškėjas kartu su paraiškos gauti šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 ar 3 punkte nurodytą licenciją dokumentais teikia Valstybinei atominės energetikos saugos inspekcijai pirminį branduolinės energetikos objekto eksploatavimo nutraukimo planą. Pareiškėjas kartu su paraiškos gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją arba šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais teikia Valstybinei atominės energetikos saugos inspekcijai atnaujintą branduolinės energetikos objekto eksploatavimo nutraukimo planą. Valstybinei atominės energetikos saugos inspekcijai teikiami su Energetikos ministerija suderinti ir pareiškėjo patvirtinti branduolinės energetikos objekto eksploatavimo nutraukimo planai. ^e1c594ddbeb01447563b9ddc
+
+
+11. Neteko galios nuo 2017-10-10 ^8dd54571cb044f4ec852a313
 Straipsnio dalies naikinimas:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-12. Visus neįprastuosius įvykius branduolinės energetikos objektuose ir veiklos, susijusios su branduolinių ir (arba) branduolinio kuro ciklo medžiagų naudojimu, metu licencijos turėtojas turi ištirti, nustatyti jų priežastis ir Valstybinei atominės energetikos saugos inspekcijai pateikti tyrimo ataskaitą. Neįprastųjų įvykių tyrimo ataskaitų rengimo ir pateikimo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. ^bfa4775c0f6824ff0d9ecb0f
+12. Visus neįprastuosius įvykius branduolinės energetikos objektuose ir veiklos, susijusios su branduolinių ir (arba) branduolinio kuro ciklo medžiagų naudojimu, metu licencijos turėtojas turi ištirti, nustatyti jų priežastis ir Valstybinei atominės energetikos saugos inspekcijai pateikti tyrimo ataskaitą. Neįprastųjų įvykių tyrimo ataskaitų rengimo ir pateikimo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. ^189fc16a12ec17db977b0420
 
 
-13. Kartu su paraiškos gauti šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 2 ir 4 punktuose nurodytas licencijas ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais pateikiamas su Sveikatos apsaugos ministerija suderintas radionuklidų išmetimo į aplinką planas. Kartu su paraiškos gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais radionuklidų išmetimo į aplinką planas neteikiamas, jeigu saugos analizės ataskaitoje pagrindžiama, kad iš branduolinės energetikos objekto normalaus eksploatavimo sąlygomis radionuklidų išmetimų į aplinką nebus. Radionuklidų išmetimo į aplinką planas parengiamas ir atnaujinamas vadovaujantis Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytais reikalavimais. ^40b0e12c5c548cdc10429fd3
+13. Kartu su paraiškos gauti šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 2 ir 4 punktuose nurodytas licencijas ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais pateikiamas su Sveikatos apsaugos ministerija suderintas radionuklidų išmetimo į aplinką planas. Kartu su paraiškos gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais radionuklidų išmetimo į aplinką planas neteikiamas, jeigu saugos analizės ataskaitoje pagrindžiama, kad iš branduolinės energetikos objekto normalaus eksploatavimo sąlygomis radionuklidų išmetimų į aplinką nebus. Radionuklidų išmetimo į aplinką planas parengiamas ir atnaujinamas vadovaujantis Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytais reikalavimais. ^13c4914171b9e587663e52aa
 Straipsnio dalies pakeitimai:
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 
 
-14. Radionuklidų išmetimo į aplinką planas turi būti atnaujinamas ir teikiamas Valstybinei atominės energetikos saugos inspekcijai ir Sveikatos apsaugos ministerijai derinti šiais atvejais: ^8c5b4b4bfe32d577ca06df9f
+14. Radionuklidų išmetimo į aplinką planas turi būti atnaujinamas ir teikiamas Valstybinei atominės energetikos saugos inspekcijai ir Sveikatos apsaugos ministerijai derinti šiais atvejais: ^caba5ef3b5742c78d12b3288
 
 
-1) kai Vyriausybės sprendimu planuojama pradėti projektuoti naują branduolinės energetikos objektą (kurio poveikį gali patirti ta pati gyventojų kritinė grupė, suprantama taip, kaip apibrėžta radiologinį monitoringą (stebėseną) reglamentuojančiuose teisės aktuose) greta jau veikiančio branduolinės energetikos objekto; ^990644d10cb5e33cf5f710da
+1) kai Vyriausybės sprendimu planuojama pradėti projektuoti naują branduolinės energetikos objektą (kurio poveikį gali patirti ta pati gyventojų kritinė grupė, suprantama taip, kaip apibrėžta radiologinį monitoringą (stebėseną) reglamentuojančiuose teisės aktuose) greta jau veikiančio branduolinės energetikos objekto; ^525f26f2c26494055c17e69d
 
 
-2) kai atsiranda nauji išmetami radionuklidai, jų išmetimo keliai, būdai ar taškai; ^822e6d60b719e5821ef11733
+2) kai atsiranda nauji išmetami radionuklidai, jų išmetimo keliai, būdai ar taškai; ^8f78614953aa1d21f8bdc191
 
 
-3) kai nustatoma, kad į aplinką išmetami radionuklidų išmetimo į aplinką plane nenurodyti radionuklidai (neplanuotas išmetimas); ^f8f14836d22e5cffc718947f
+3) kai nustatoma, kad į aplinką išmetami radionuklidų išmetimo į aplinką plane nenurodyti radionuklidai (neplanuotas išmetimas); ^dcb43e54409797efc91ba90f
 
 
-4) kai gyventojų kritinių grupių narių apšvitos dozė viršija arba gali viršyti apribotąją dozę; ^e5c0a4a8b506e78cbdd130c8
+4) kai gyventojų kritinių grupių narių apšvitos dozė viršija arba gali viršyti apribotąją dozę; ^f9ec8da74a3645e3cd22bfba
 
 
-5) kitais šiame įstatyme nustatytais atvejais. ^93a4a79b6918d380705d4448
+5) kitais šiame įstatyme nustatytais atvejais. ^94f9ab26f8cf1c164a585d9b
 
 
-141. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą suderinti radionuklidų išmetimo į aplinką planą, kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad radionuklidų išmetimo į aplinką planas yra suderintas su Sveikatos apsaugos ministerija ir jo turinys bei jame pateikta informacija atitinka teisės aktų ir branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių radionuklidų išmetimo į aplinką iš branduolinės energetikos objektų ribojimą, reikalavimus. ^b10597f311f6eb0939278451
+141. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą suderinti radionuklidų išmetimo į aplinką planą, kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad radionuklidų išmetimo į aplinką planas yra suderintas su Sveikatos apsaugos ministerija ir jo turinys bei jame pateikta informacija atitinka teisės aktų ir branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių radionuklidų išmetimo į aplinką iš branduolinės energetikos objektų ribojimą, reikalavimus. ^ea48e02aa9fbc6fa69c71f94
 Papildyta straipsnio dalimi:
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 
 
-15. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl [[#^c3d94497d48208c2e6665d34|šio straipsnio 1 dalyje]] nurodytų dokumentų suderinimo priimamas ne vėliau kaip per 12 mėnesių nuo visų tinkamai įformintų dokumentų gavimo dienos. ^6bdd033911755524c78d5db5
+15. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl [[#^c3d94497d48208c2e6665d34|šio straipsnio 1 dalyje]] nurodytų dokumentų suderinimo priimamas ne vėliau kaip per 12 mėnesių nuo visų tinkamai įformintų dokumentų gavimo dienos. ^257d440c5342bfd38121350e
 
 
-16. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl šio straipsnio 5 ir [[#^7c51e476d5b403cda74729e3|6 dalyse]] nurodytų dokumentų suderinimo priimamas ne vėliau kaip per 6 mėnesius nuo visų tinkamai įformintų dokumentų gavimo dienos. ^db814007bed936dc44715c70
+16. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl šio straipsnio 5 ir [[#^7c51e476d5b403cda74729e3|6 dalyse]] nurodytų dokumentų suderinimo priimamas ne vėliau kaip per 6 mėnesius nuo visų tinkamai įformintų dokumentų gavimo dienos. ^bb639864acac4b1d3a107c5d
 
 
-17. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl [[#^7ff142ed891cfc129c507e2d|šio straipsnio 7 dalyje]] nurodytų dokumentų suderinimo priimamas ne vėliau kaip per 18 mėnesių nuo visų tinkamai įformintų dokumentų gavimo dienos. ^c8792ae3683c0b6089837d96
+17. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl [[#^f31b7a9c3b8b2b46a22f6d3b|šio straipsnio 7 dalyje]] nurodytų dokumentų suderinimo priimamas ne vėliau kaip per 18 mėnesių nuo visų tinkamai įformintų dokumentų gavimo dienos. ^8b529576c61b93a95d0ecdf0
 
 
-18. Šio straipsnio 15, 16 ir [[#^c8792ae3683c0b6089837d96|17 dalyse]] nustatyti terminai gali būti pratęsti vieną kartą ne daugiau kaip 30 dienų. Valstybinė atominės energetikos saugos inspekcija, priėmusi sprendimą pratęsti terminą, apie tai iki šio straipsnio 15–[[#^c8792ae3683c0b6089837d96|17 dalyse]] nustatyto termino pabaigos likus ne mažiau kaip 5 darbo dienoms pareiškėjui praneša raštu, kartu nurodydama termino pratęsimo priežastis. ^75de04112e77aad6f2f5935f
+18. Šio straipsnio 15, 16 ir [[#^8b529576c61b93a95d0ecdf0|17 dalyse]] nustatyti terminai gali būti pratęsti vieną kartą ne daugiau kaip 30 dienų. Valstybinė atominės energetikos saugos inspekcija, priėmusi sprendimą pratęsti terminą, apie tai iki šio straipsnio 15–[[#^8b529576c61b93a95d0ecdf0|17 dalyse]] nustatyto termino pabaigos likus ne mažiau kaip 5 darbo dienoms pareiškėjui praneša raštu, kartu nurodydama termino pratęsimo priežastis. ^c18fc6226e2d8c88e3861f96
 
 
 
@@ -1662,13 +1668,13 @@ Pareiškėjas kartu su paraiškos gauti šio įstatymo [[#^64c014a7d1ed8a92029a2
 ### 34 straipsnis. Saugos analizės ataskaitų ir kitų su branduolinės saugos įvertinimu susijusių techninių dokumentų rengimo, peržiūros ir įvertinimo tvarka
 
 
-1. Šio įstatymo 32 ir [[#33 straipsnis. Veiklos su branduolinėmis ir (arba) branduolinio kuro ciklo medžiagomis ir uždarytų radioaktyviųjų atliekų atliekynų saugos vertinimas|33 straipsniuose]] nurodytų dokumentų turinys, forma ir detalumas turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytus reikalavimus, o juose pateikiama informacija turi būti išsami ir leidžianti objektyviai spręsti apie branduolinės saugos lygį. ^6a07ac6b5715b0d905764adc
+1. Šio įstatymo 32 ir [[#33 straipsnis. Veiklos su branduolinėmis ir (arba) branduolinio kuro ciklo medžiagomis ir uždarytų radioaktyviųjų atliekų atliekynų saugos vertinimas|33 straipsniuose]] nurodytų dokumentų turinys, forma ir detalumas turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytus reikalavimus, o juose pateikiama informacija turi būti išsami ir leidžianti objektyviai spręsti apie branduolinės saugos lygį. ^1004d1a5678fae193e9f3c41
 
 
-2. Saugos analizės ataskaitas ir kitus su branduolinės saugos įvertinimu susijusius dokumentus peržiūri ir įvertina Valstybinė atominės energetikos saugos inspekcija. Saugos analizės ataskaitas ir kitus su branduolinės saugos įvertinimu susijusius dokumentus, išskyrus paraiškos gauti šio įstatymo [[#22 straipsnis. Licencijos ir leidimai|22 straipsnio]] 1 ir [[#^caff9786ee378a515877d523|2 dalyse]] nurodytas licencijas ar leidimus dokumentus ir kitus dokumentus, kurių įvertinimo terminai nustatyti kituose šio įstatymo straipsniuose, Valstybinė atominės energetikos saugos inspekcija peržiūri, įvertina ir priima atitinkamą sprendimą dėl šių dokumentų ne vėliau kaip per 3 mėnesius nuo visų reikiamų ir tinkamai įformintų dokumentų ar informacijos, Valstybinės atominės energetikos saugos inspekcijos prašomos pateikti ar patikslinti, gavimo ir nurodytų trūkumų pašalinimo. Tais atvejais, kai dėl pateiktų dokumentų apimties ir pobūdžio būtina sudaryti komisiją, sušaukti posėdį, konsultuotis su kitomis institucijomis ar vykdyti kitas organizacines priemones, dėl kurių atsakymo pateikimo terminas gali užsitęsti ilgiau negu 3 mėnesius, Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimu likus ne mažiau kaip vienam mėnesiui iki šio termino pabaigos, atsakymo pateikimo terminas gali būti pratęstas ne ilgiau kaip papildomam 3 mėnesių laikotarpiui, apie tai pareiškėjui pranešant raštu. ^caff9786ee378a515877d523
+2. Saugos analizės ataskaitas ir kitus su branduolinės saugos įvertinimu susijusius dokumentus peržiūri ir įvertina Valstybinė atominės energetikos saugos inspekcija. Saugos analizės ataskaitas ir kitus su branduolinės saugos įvertinimu susijusius dokumentus, išskyrus paraiškos gauti šio įstatymo [[#22 straipsnis. Licencijos ir leidimai|22 straipsnio]] 1 ir [[#^9597807b0260292b6ff866f1|2 dalyse]] nurodytas licencijas ar leidimus dokumentus ir kitus dokumentus, kurių įvertinimo terminai nustatyti kituose šio įstatymo straipsniuose, Valstybinė atominės energetikos saugos inspekcija peržiūri, įvertina ir priima atitinkamą sprendimą dėl šių dokumentų ne vėliau kaip per 3 mėnesius nuo visų reikiamų ir tinkamai įformintų dokumentų ar informacijos, Valstybinės atominės energetikos saugos inspekcijos prašomos pateikti ar patikslinti, gavimo ir nurodytų trūkumų pašalinimo. Tais atvejais, kai dėl pateiktų dokumentų apimties ir pobūdžio būtina sudaryti komisiją, sušaukti posėdį, konsultuotis su kitomis institucijomis ar vykdyti kitas organizacines priemones, dėl kurių atsakymo pateikimo terminas gali užsitęsti ilgiau negu 3 mėnesius, Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimu likus ne mažiau kaip vienam mėnesiui iki šio termino pabaigos, atsakymo pateikimo terminas gali būti pratęstas ne ilgiau kaip papildomam 3 mėnesių laikotarpiui, apie tai pareiškėjui pranešant raštu. ^9597807b0260292b6ff866f1
 
 
-3. Valstybinės atominės energetikos saugos inspekcijos viršininkas, kai Valstybinė atominės energetikos saugos inspekcija išnagrinėja saugos analizės ataskaitas ir kitus branduolinės saugos pagrindimo dokumentus, remdamasis šiame įstatyme ir kituose teisės aktuose nustatyta tvarka ir sąlygomis, atliktų patikrinimų rezultatais, priima sprendimą dėl branduolinės energetikos objekto ar veiklos atitikties branduolinės saugos reikalavimams. ^68bfbf038585a6588066fdff
+3. Valstybinės atominės energetikos saugos inspekcijos viršininkas, kai Valstybinė atominės energetikos saugos inspekcija išnagrinėja saugos analizės ataskaitas ir kitus branduolinės saugos pagrindimo dokumentus, remdamasis šiame įstatyme ir kituose teisės aktuose nustatyta tvarka ir sąlygomis, atliktų patikrinimų rezultatais, priima sprendimą dėl branduolinės energetikos objekto ar veiklos atitikties branduolinės saugos reikalavimams. ^76ce8c9ed1aef4f8ced6ed33
 
 
 
@@ -1682,28 +1688,28 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 ### 341 straipsnis. Branduolinių ir radiologinių avarijų padarinių apribojimas
 
 
-1. Licencijos turėtojas turi užtikrinti, kad branduolinės energetikos objekte būtų išvengta branduolinių ir radiologinių avarijų, kurios nulemtų tokius radionuklidų išmetimus į aplinką, kuriems įvykus: ^26dae7bf05caa046c093e77a
+1. Licencijos turėtojas turi užtikrinti, kad branduolinės energetikos objekte būtų išvengta branduolinių ir radiologinių avarijų, kurios nulemtų tokius radionuklidų išmetimus į aplinką, kuriems įvykus: ^618f5c242faa0b46bdabf922
 
 
-1) nebūtų spėta pritaikyti sveikatos apsaugos ministro tvirtinamuose teisės aktuose nustatytų gyventojų apsaugomųjų veiksmų; ^8bbc349a0a54b30a4ecb9649
+1) nebūtų spėta pritaikyti sveikatos apsaugos ministro tvirtinamuose teisės aktuose nustatytų gyventojų apsaugomųjų veiksmų; ^95c8019b9b7bb7302743072c
 
 
-2) sveikatos apsaugos ministro tvirtinamuose teisės aktuose nustatyti gyventojų apsaugomieji veiksmai būtų taikomi didelėje teritorijoje ir (arba) labai ilgai. ^f1741cad9c3b94fc7532e965
+2) sveikatos apsaugos ministro tvirtinamuose teisės aktuose nustatyti gyventojų apsaugomieji veiksmai būtų taikomi didelėje teritorijoje ir (arba) labai ilgai. ^b9d7d3749b4c4c9fa835b218
 
 
-2. Valstybinė atominės energetikos saugos inspekcija, tvirtindama teisės aktus, reglamentuojančius branduolinės energetikos objektų statybos vietos (aikštelės) vertinimą, branduolinės energetikos objektų statybą, projektavimą, pripažinimą tinkamais eksploatuoti, eksploatavimą ir eksploatavimo nutraukimą, nustato [[#^26dae7bf05caa046c093e77a|šio straipsnio 1 dalyje]] nurodyto tikslo įgyvendinimo kriterijus ir šio tikslo įgyvendinimo būdų techninius reikalavimus. Tvirtindama šiuos teisės aktus, Valstybinė atominės energetikos saugos inspekcija turi atsižvelgti į Europos branduolinės saugos reguliavimo institucijų grupės, Vakarų Europos šalių branduolinės saugos reguliavimo institucijų asociacijos paskelbtus leidinius ir TATENA nustatytus saugos reikalavimus. ^54d2a17eadcd148c0b35dc2b
+2. Valstybinė atominės energetikos saugos inspekcija, tvirtindama teisės aktus, reglamentuojančius branduolinės energetikos objektų statybos vietos (aikštelės) vertinimą, branduolinės energetikos objektų statybą, projektavimą, pripažinimą tinkamais eksploatuoti, eksploatavimą ir eksploatavimo nutraukimą, nustato [[#^618f5c242faa0b46bdabf922|šio straipsnio 1 dalyje]] nurodyto tikslo įgyvendinimo kriterijus ir šio tikslo įgyvendinimo būdų techninius reikalavimus. Tvirtindama šiuos teisės aktus, Valstybinė atominės energetikos saugos inspekcija turi atsižvelgti į Europos branduolinės saugos reguliavimo institucijų grupės, Vakarų Europos šalių branduolinės saugos reguliavimo institucijų asociacijos paskelbtus leidinius ir TATENA nustatytus saugos reikalavimus. ^1f44fddd0cc6e4bf8e264daa
 
 
-3. [[#^26dae7bf05caa046c093e77a|Šio straipsnio 1 dalyje]] nurodytas tikslas turi būti pasiektas: ^dbc4007724047d0c9c5fe833
+3. [[#^618f5c242faa0b46bdabf922|Šio straipsnio 1 dalyje]] nurodytas tikslas turi būti pasiektas: ^a270ac051a6fd6490d108aad
 
 
-1) kituose negu radioaktyviųjų atliekų atliekynai branduolinės energetikos objektuose, kuriems šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 arba [[#^c673ad667be925cb33ce60c3|2 punkte]] nustatyta licencija yra išduota po 2014 m. rugpjūčio 14 d.; ^f697edc8007700bcbabb9995
+1) kituose negu radioaktyviųjų atliekų atliekynai branduolinės energetikos objektuose, kuriems šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 arba [[#^0d7e195c57c26c1f2341f2a0|2 punkte]] nustatyta licencija yra išduota po 2014 m. rugpjūčio 14 d.; ^cf1c230f66579473e4a3a0c6
 
 
-2) radioaktyviųjų atliekų atliekynuose, kuriems paraiška šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 arba 2 punkte nustatytai licencijai gauti pateikta po 2017 m. rugpjūčio 14 d. ^c673ad667be925cb33ce60c3
+2) radioaktyviųjų atliekų atliekynuose, kuriems paraiška šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 arba 2 punkte nustatytai licencijai gauti pateikta po 2017 m. rugpjūčio 14 d. ^0d7e195c57c26c1f2341f2a0
 
 
-4. Kitiems negu [[#^dbc4007724047d0c9c5fe833|šio straipsnio 3 dalyje]] nurodytiems branduolinės energetikos objektams [[#^26dae7bf05caa046c093e77a|šio straipsnio 1 dalyje]] nurodytas tikslas turi būti taikomas analizuojant ir gerinant branduolinės, radiacinės ir fizinės saugos būklę ir atliekant periodinę saugos analizę ir pagrindimą. ^d28adcd754c36ec63871be3f
+4. Kitiems negu [[#^a270ac051a6fd6490d108aad|šio straipsnio 3 dalyje]] nurodytiems branduolinės energetikos objektams [[#^618f5c242faa0b46bdabf922|šio straipsnio 1 dalyje]] nurodytas tikslas turi būti taikomas analizuojant ir gerinant branduolinės, radiacinės ir fizinės saugos būklę ir atliekant periodinę saugos analizę ir pagrindimą. ^9588cb5c12238aa90169b5e8
 
 
 Papildyta straipsniu:
@@ -1714,19 +1720,19 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 ### 35 straipsnis. Branduolinių ir radiologinių avarijų ir branduolinių incidentų prevencija, valdymas ir jų padarinių sušvelninimas
 
 
-1. Projektuojant branduolinės energetikos objektus, pripažįstant tinkamais eksploatuoti ir eksploatuojant branduolinės energetikos objektus, siekiant išvengti branduolinių ir radiologinių avarijų ir branduolinių incidentų ar sušvelninti jų padarinius, turi būti taikomas pakopinės apsaugos principas, reiškiantis, kad turi būti sudarytas daugiau kaip vienas fizinis barjeras radionuklidams sulaikyti ir (arba) jonizuojančiajai spinduliuotei nuslopinti ir numatytos techninės ir (arba) organizacinės priemonės šių barjerų vientisumui užtikrinti ir žalingą jonizuojančiosios spinduliuotės poveikį švelninančios techninės ir (arba) organizacinės priemonės, taikomos tuo atveju, jeigu šie barjerai suirtų ar sumažėtų jų veiksmingumas. Pakopinės apsaugos principo taikymo reikalavimus nustato Valstybinė atominės energetikos saugos inspekcija. ^fab09e8b03ce40ed22087717
+1. Projektuojant branduolinės energetikos objektus, pripažįstant tinkamais eksploatuoti ir eksploatuojant branduolinės energetikos objektus, siekiant išvengti branduolinių ir radiologinių avarijų ir branduolinių incidentų ar sušvelninti jų padarinius, turi būti taikomas pakopinės apsaugos principas, reiškiantis, kad turi būti sudarytas daugiau kaip vienas fizinis barjeras radionuklidams sulaikyti ir (arba) jonizuojančiajai spinduliuotei nuslopinti ir numatytos techninės ir (arba) organizacinės priemonės šių barjerų vientisumui užtikrinti ir žalingą jonizuojančiosios spinduliuotės poveikį švelninančios techninės ir (arba) organizacinės priemonės, taikomos tuo atveju, jeigu šie barjerai suirtų ar sumažėtų jų veiksmingumas. Pakopinės apsaugos principo taikymo reikalavimus nustato Valstybinė atominės energetikos saugos inspekcija. ^90cf90c3b174d17fe5bee713
 
 
-2. Technologijos, naudojamos projektuojant ir statant branduolinės energetikos objektą, turi atitikti pasitvirtinusią inžinerinę praktiką – technologijos turi būti pagrįstos patirtimi arba jų tinkamumas būtų nustatytas bandymais ar analize. Pasitvirtinusios inžinerinės praktikos taikymo reikalavimus nustato Valstybinė atominės energetikos saugos inspekcija. ^af98054a2fbda3fa4facc98b
+2. Technologijos, naudojamos projektuojant ir statant branduolinės energetikos objektą, turi atitikti pasitvirtinusią inžinerinę praktiką – technologijos turi būti pagrįstos patirtimi arba jų tinkamumas būtų nustatytas bandymais ar analize. Pasitvirtinusios inžinerinės praktikos taikymo reikalavimus nustato Valstybinė atominės energetikos saugos inspekcija. ^fe4e088854abbc15d874f8a0
 
 
-3. Parenkant branduolinės energetikos objekto statybos vietą (aikštelę), projektuojant, statant, pripažįstant tinkamu eksploatuoti, eksploatuojant branduolinės energetikos objektą ir vykdant branduolinės energetikos objekto eksploatavimo nutraukimą, turi būti užtikrinta, kad panaudojant projektinius sprendinius, technines ir organizacines priemones bus siekiama šiame objekte išvengti branduolinių ir radiologinių avarijų bei branduolinių incidentų. Su branduolinių ir radiologinių avarijų bei branduolinių incidentų prevencija susijusius branduolinės energetikos objektų projektavimo, statybos, pripažinimo tinkamais eksploatuoti, eksploatavimo ir eksploatavimo nutraukimo reikalavimus ir branduolinės saugos vertinimo kriterijus nustato Valstybinė atominės energetikos saugos inspekcija. ^ccff8b53b58f35e22601d509
+3. Parenkant branduolinės energetikos objekto statybos vietą (aikštelę), projektuojant, statant, pripažįstant tinkamu eksploatuoti, eksploatuojant branduolinės energetikos objektą ir vykdant branduolinės energetikos objekto eksploatavimo nutraukimą, turi būti užtikrinta, kad panaudojant projektinius sprendinius, technines ir organizacines priemones bus siekiama šiame objekte išvengti branduolinių ir radiologinių avarijų bei branduolinių incidentų. Su branduolinių ir radiologinių avarijų bei branduolinių incidentų prevencija susijusius branduolinės energetikos objektų projektavimo, statybos, pripažinimo tinkamais eksploatuoti, eksploatavimo ir eksploatavimo nutraukimo reikalavimus ir branduolinės saugos vertinimo kriterijus nustato Valstybinė atominės energetikos saugos inspekcija. ^c457d13ac2ae47d04edceb46
 
 
-4. Branduolinės energetikos objektuose turi būti įdiegtos techninės ir organizacinės priemonės branduolinėms ir radiologinėms avarijoms šiuose objektuose valdyti ir šių avarijų padariniams apriboti. Branduolinėms ir radiologinėms avarijoms valdyti ir šių avarijų padariniams apriboti skirtų techninių ir organizacinių priemonių reikalavimus nustato Valstybinė atominės energetikos saugos inspekcija. ^c4ee5bdfe68caf01c1bc1b06
+4. Branduolinės energetikos objektuose turi būti įdiegtos techninės ir organizacinės priemonės branduolinėms ir radiologinėms avarijoms šiuose objektuose valdyti ir šių avarijų padariniams apriboti. Branduolinėms ir radiologinėms avarijoms valdyti ir šių avarijų padariniams apriboti skirtų techninių ir organizacinių priemonių reikalavimus nustato Valstybinė atominės energetikos saugos inspekcija. ^f979623168c8a3694b1752b8
 
 
-5. Licencijos turėtojas visais branduolinės energetikos objekto gyvavimo etapais arba kitos branduolinės energetikos srities veiklos vykdymo laikotarpiu, siekdamas užkirsti kelią branduolinėms ir (arba) radiologinėms avarijoms, branduoliniams incidentams ir kitiems neįprastiesiems įvykiams, išvengti jų pasikartojimo ir užtikrinti saugą branduolinės energetikos srityje ir toliau ją gerinti, Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka privalo nuolat analizuoti savo ir kitų asmenų, veikiančių branduolinės energetikos sektoriuje, patirtį, ja dalytis ir imtis būtinų prevencinių ir (arba) koreguojančių priemonių, užtikrinančių branduolinės saugos reikalavimų tinkamą vykdymą. ^5d76491058fb95977ea53038
+5. Licencijos turėtojas visais branduolinės energetikos objekto gyvavimo etapais arba kitos branduolinės energetikos srities veiklos vykdymo laikotarpiu, siekdamas užkirsti kelią branduolinėms ir (arba) radiologinėms avarijoms, branduoliniams incidentams ir kitiems neįprastiesiems įvykiams, išvengti jų pasikartojimo ir užtikrinti saugą branduolinės energetikos srityje ir toliau ją gerinti, Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka privalo nuolat analizuoti savo ir kitų asmenų, veikiančių branduolinės energetikos sektoriuje, patirtį, ja dalytis ir imtis būtinų prevencinių ir (arba) koreguojančių priemonių, užtikrinančių branduolinės saugos reikalavimų tinkamą vykdymą. ^6cd5e230f33ccec87a8b2359
 
 
 Straipsnio pakeitimai:
@@ -1737,13 +1743,13 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 ### 36 straipsnis. Pranešimas apie branduolines ir radiologines avarijas, branduolinius incidentus ir kitus neįprastuosius įvykius
 
 
-1. Valstybinė atominės energetikos saugos inspekcija yra valstybės įgaliota institucija perduoti ir priimti informaciją pagal 1986 m. Konvenciją dėl ankstyvo pranešimo apie branduolinę avariją, pagal 1987 m. gruodžio 14 d. Tarybos sprendimą 87/600/Euratomas dėl Bendrijoje nustatomos skubaus pasikeitimo informacija radiologinės avarijos atveju tvarkos ir pagal tarpvalstybinius dvišalius susitarimus. ^1eb5f92c010f40f4bbdffd9c
+1. Valstybinė atominės energetikos saugos inspekcija yra valstybės įgaliota institucija perduoti ir priimti informaciją pagal 1986 m. Konvenciją dėl ankstyvo pranešimo apie branduolinę avariją, pagal 1987 m. gruodžio 14 d. Tarybos sprendimą 87/600/Euratomas dėl Bendrijoje nustatomos skubaus pasikeitimo informacija radiologinės avarijos atveju tvarkos ir pagal tarpvalstybinius dvišalius susitarimus. ^38d4fe67a8f910ba41992150
 Straipsnio dalies pakeitimai:
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 
 
-2. Licencijų ir leidimų turėtojai privalo nedelsdami pranešti Valstybinei atominės energetikos saugos inspekcijai apie įvykusias branduolines ir radiologines avarijas, branduolinius incidentus ir kitus neįprastuosius įvykius. Pranešimų perdavimo tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^38fde4c820f6eb6999d5704d
+2. Licencijų ir leidimų turėtojai privalo nedelsdami pranešti Valstybinei atominės energetikos saugos inspekcijai apie įvykusias branduolines ir radiologines avarijas, branduolinius incidentus ir kitus neįprastuosius įvykius. Pranešimų perdavimo tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^a3fe23ea29352813aeca2a40
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
@@ -1752,68 +1758,73 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 ### 37 straipsnis. Neįprastųjų įvykių tyrimas ir klasifikavimas
 
 
-1. Licencijos turėtojas neįprastuosius įvykius branduolinės energetikos objektuose ir su branduolinių ir (arba) branduolinio kuro ciklo medžiagų naudojimu susijusioje veikloje turi klasifikuoti vadovaudamasis TATENA Tarptautine branduolinių ir radiologinių įvykių skale (INES). ^8ef68b7fd19ae13ae0abc39f
+1. Licencijos turėtojas neįprastuosius įvykius branduolinės energetikos objektuose ir su branduolinių ir (arba) branduolinio kuro ciklo medžiagų naudojimu susijusioje veikloje turi klasifikuoti vadovaudamasis TATENA Tarptautine branduolinių ir radiologinių įvykių skale (INES). ^77c9fb6b29956c5afe027bb9
 
 
-2. Valstybinė atominės energetikos saugos inspekcija nepriklausomai nuo licencijos turėtojo analizuoja neįprastuosius įvykius ir, vadovaudamasi atlikta analize, galutinai patvirtina jų klasifikaciją. ^983cb6a8a71aece71fd65d2b
+2. Valstybinė atominės energetikos saugos inspekcija nepriklausomai nuo licencijos turėtojo analizuoja neįprastuosius įvykius ir, vadovaudamasi atlikta analize, galutinai patvirtina jų klasifikaciją. ^a7414d1cad26b936def0562e
 
 
-3. Licencijos turėtojai, remdamiesi neįprastųjų įvykių tyrimų rezultatais ir išvadomis, turi parengti ir įgyvendinti priemones tokiems ir panašiems įvykiams išvengti. ^e3ffea08a3f3806ec92404d9
+3. Licencijos turėtojai, remdamiesi neįprastųjų įvykių tyrimų rezultatais ir išvadomis, turi parengti ir įgyvendinti priemones tokiems ir panašiems įvykiams išvengti. ^ec5d071388b28b579ee3709a
 
 
 
 ### 38 straipsnis. Avarinė parengtis
 
 
-1. Vadovaujantis Lietuvos Respublikos civilinės saugos įstatymu, turi būti parengtas ir reguliariai tikslinamas valstybinis gyventojų apsaugos planas branduolinės ar radiologinės avarijos atveju. Šiame plane turi būti numatomos priemonės apsaugoti Lietuvos Respublikos gyventojus, jų turtą ir aplinką nuo branduolinės ar radiologinės avarijos branduolinės energetikos objektuose ir jos sukeliamų radiologinių padarinių, nesvarbu, ar radiologinio pavojaus šaltinis yra Lietuvos Respublikoje, ar už jos ribų. ^ce7967e7b19e4240ff5e2a6b
+1. Vadovaujantis Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymu, turi būti parengtas ir reguliariai tikslinamas valstybinis krizių ir ekstremaliųjų situacijų valdymo planas, kuriame valstybės lygiu numatomos priemonės, taikomos įvykus branduolinei ar radiologinei avarijai branduolinės energetikos objekte Lietuvos Respublikoje ar už jos ribų, siekiant apsaugoti ir (ar) iki minimumo sumažinti atsitiktinių ir (ar) nulemtųjų jonizuojančiosios spinduliuotės sukeltų reiškinių galimą poveikį Lietuvos Respublikos gyventojams, apsaugoti jų turtą ir aplinką nuo radioaktyviojo užterštumo (toliau – valstybinis krizių ir ekstremaliųjų situacijų valdymo planas). ^e540ff8dcb819093983619c4
+Straipsnio dalies pakeitimai:
+Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
+Nr. XV-1008, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11094
+
+
+
+2. Rengiant [[#^e540ff8dcb819093983619c4|šio straipsnio 1 dalyje]] nurodytą planą, turi dalyvauti ministerijos ir (arba) jų įgaliotos institucijos ir savivaldybių institucijos, kurios pagal kompetenciją vykdys civilinės saugos funkcijas rengiantis, gresiant ar įvykus branduolinei ar radiologinei avarijai branduolinės energetikos objektuose, jas likviduojant ar šalinant jų padarinius, ir šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–5 punktuose nurodytų licencijų turėtojai. ^fac8136c5769462b3dec9f0d
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-2. Rengiant [[#^ce7967e7b19e4240ff5e2a6b|šio straipsnio 1 dalyje]] nurodytą planą, turi dalyvauti ministerijos ir (arba) jų įgaliotos institucijos ir savivaldybių institucijos, kurios pagal kompetenciją vykdys civilinės saugos funkcijas rengiantis, gresiant ar įvykus branduolinei ar radiologinei avarijai branduolinės energetikos objektuose, jas likviduojant ar šalinant jų padarinius, ir šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–5 punktuose nurodytų licencijų turėtojai. ^33049a3da62a4ae4d8b1135c
-Straipsnio dalies pakeitimai:
-Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
-
-
-
-3. Vadovaudamasi licencijos turėtojų Lietuvos Respublikos branduolinės energijos įstatymo nustatyta tvarka atliktomis Lietuvos Respublikos teritorijoje esančių branduolinės energetikos objektų branduolinių ir radiologinių avarijų padarinių analizėmis ir duomenimis apie kaimyninių valstybių branduolinės energetikos objektus, Valstybinė atominės energetikos saugos inspekcija atlieka branduolinės energetikos objektų keliamo pavojaus Lietuvos Respublikai branduolinių ir radiologinių avarijų atveju įvertinimą, reikalingą valstybiniam gyventojų apsaugos planui branduolinės ar radiologinės avarijos atveju parengti. ^b5e4dff78ddb1d164073d626
+3. Vadovaudamasi licencijos turėtojų Lietuvos Respublikos branduolinės energijos įstatymo nustatyta tvarka atliktomis Lietuvos Respublikos teritorijoje esančių branduolinės energetikos objektų branduolinių ir radiologinių avarijų padarinių analizėmis ir duomenimis apie kaimyninių valstybių branduolinės energetikos objektus, Valstybinė atominės energetikos saugos inspekcija atlieka branduolinės energetikos objektų keliamo pavojaus Lietuvos Respublikai branduolinių ir radiologinių avarijų atveju įvertinimą, reikalingą valstybiniam krizių ir ekstremaliųjų situacijų valdymo planui parengti. ^6fd238887500273b243b734f
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
+Straipsnio dalies pakeitimai:
+Nr. XV-1008, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11094
 
 
 
-4. Įvykus branduolinei ar radiologinei avarijai, šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 2–5 punktuose nurodytos licencijos turėtojas turi dalyvauti vykdant valstybinį gyventojų apsaugos planą branduolinės ar radiologinės avarijos atveju, teikti šiame plane nurodytą informaciją šiame plane nurodytoms institucijoms. ^c46e8bb7c54b323b4ee2e90c
+4. Įvykus branduolinei ar radiologinei avarijai, šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 2–5 punktuose nurodytos licencijos turėtojas turi dalyvauti vykdant valstybinį krizių ir ekstremaliųjų situacijų valdymo planą, teikti šiame plane nurodytą informaciją šiame plane nurodytoms institucijoms. ^fede8e091af8f6823e3d47a3
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
+Nr. XV-1008, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11094
 
 
 
-5. Avarinės parengties planai turi būti parengti visuose branduolinės energetikos objektuose ir galioti (su atitinkamais pakeitimais) iki šių objektų eksploatavimo nutraukimo pabaigos, išskyrus radioaktyviųjų atliekų atliekynus, kurių avarinės parengties planai turi galioti iki uždarytų radioaktyviųjų atliekų atliekynų priežiūros pabaigos. Šie planai turi būti ne rečiau kaip kartą per metus išbandomi rengiant mokymus ir pratybas. Valstybinė atominės energetikos saugos inspekcija nustato specialiuosius reikalavimus avarinei parengčiai ir derina avarinės parengties planus. Branduolinės energetikos objektų avarinės parengties planus tvirtina licencijos turėtojas. ^046816fc3f24d1bb55afb1fa
+5. Avarinės parengties planai turi būti parengti visuose branduolinės energetikos objektuose ir galioti iki šių objektų eksploatavimo pabaigos ir (ar) eksploatavimo nutraukimo pabaigos, išskyrus uždarytus radioaktyviųjų atliekų atliekynus, kurių avarinės parengties planai turi galioti iki uždarytų radioaktyviųjų atliekų atliekynų priežiūros pabaigos. Šie planai turi būti ne rečiau kaip kartą per metus išbandomi rengiant mokymus ir pratybas. Valstybinė atominės energetikos saugos inspekcija nustato specialiuosius reikalavimus avarinei parengčiai ir derina avarinės parengties planus. Branduolinės energetikos objektų avarinės parengties planus tvirtina licencijos turėtojas. ^10ff065933ae7184a3306af0
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
+Nr. XV-1008, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11094
 
 
 
-6. Pareiškėjas kartu su kitais paraiškos gauti šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 ir 3 punktuose nurodytas licencijas dokumentais, turi pateikti Valstybinei atominės energetikos saugos inspekcijai pirminį avarinės parengties planą. ^5c0c70ae4db8fa1b2e2a3d8f
+6. Pareiškėjas kartu su kitais paraiškos gauti šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1 ir 3 punktuose nurodytas licencijas dokumentais, turi pateikti Valstybinei atominės energetikos saugos inspekcijai pirminį avarinės parengties planą. ^c4ee21ef319eb9e7ba1e660e
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-7. Pareiškėjas kartu su kitais paraiškos gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją arba šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais turi pateikti Valstybinei atominės energetikos saugos inspekcijai galutinį avarinės parengties planą. ^6ebeac455c1ba4164d1b4901
+7. Pareiškėjas kartu su kitais paraiškos gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją arba šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus dokumentais turi pateikti Valstybinei atominės energetikos saugos inspekcijai galutinį avarinės parengties planą. ^b07c8354e01963ef625a11de
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-8. Pareiškėjas, siekiantis gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją, ir licencijos turėtojas, siekiantis gauti šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus, turi pateikti informaciją, patvirtinančią, kad avarinės parengties planai yra tinkamai išbandyti. Šių bandymų tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^5b4304e684497ae51b682767
+8. Pareiškėjas, siekiantis gauti šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytą licenciją, ir licencijos turėtojas, siekiantis gauti šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytus leidimus, turi pateikti informaciją, patvirtinančią, kad avarinės parengties planai yra tinkamai išbandyti. Šių bandymų tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^f09b4e771f5e63ca9af19f5e
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
 
 
-9. Šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 2, 3 ir 4 punktuose nurodytų licencijų turėtojai, parengę ar patikslinę branduolinės energetikos objekto galutinį avarinės parengties planą, ir šio įstatymo [[#^337c64244a3f4948bde40653|22 straipsnio 1 dalies 5 punkte]] nurodytos licencijos turėtojai, parengę ar patikslinę avarinės parengties planą, per 30 dienų nuo jų parengimo ar patikslinimo dienos privalo informuoti šio objekto sanitarinės apsaugos zonoje veiklą vykdančius ūkio subjektus apie branduolinės energetikos objekto avarinės parengties plane numatytas priemones, galinčias turėti įtakos įprastinėms jų veiklos sąlygoms. ^02c2ffe32371fc10c8742d15
+9. Šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 2, 3 ir 4 punktuose nurodytų licencijų turėtojai, parengę ar patikslinę branduolinės energetikos objekto galutinį avarinės parengties planą, ir šio įstatymo [[#^337c64244a3f4948bde40653|22 straipsnio 1 dalies 5 punkte]] nurodytos licencijos turėtojai, parengę ar patikslinę avarinės parengties planą, per 30 dienų nuo jų parengimo ar patikslinimo dienos privalo informuoti šio objekto sanitarinės apsaugos zonoje veiklą vykdančius ūkio subjektus apie branduolinės energetikos objekto avarinės parengties plane numatytas priemones, galinčias turėti įtakos įprastinėms jų veiklos sąlygoms. ^8e73f4c6666d75d08f7c79a6
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
@@ -1827,37 +1838,37 @@ INFORMACIJOS TEIKIMAS
 ### 39 straipsnis. Informacijos teikimo visuomenei ir kitiems suinteresuotiems asmenims privalomumas
 
 
-1. Valstybinė atominės energetikos saugos inspekcija ir šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalyje]] nurodytų licencijų turėtojai suinteresuotiems asmenims jų prašymu arba savo iniciatyva teikia turimą su branduoline, radiacine ir fizine sauga bei su tarptautiniais branduolinio ginklo neplatinimo įsipareigojimais susijusią informaciją, jeigu ši informacija nėra pripažįstama kaip neteiktina šio įstatymo [[#^09646ce9cfd97ed140e75a08|391 straipsnio 10 dalyje]] arba kituose įstatymuose nurodytais pagrindais. Kai yra suinteresuoto asmens prašymas, informacija turi būti pateikiama ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo dienos, išskyrus šio straipsnio 4 ir [[#^13be0268aba38a0f2a097a5e|6 dalyse]] nurodytus atvejus. Jeigu prašoma daug ar sudėtingos informacijos, šis terminas gali būti pratęsiamas dar iki 20 darbo dienų, apie tai ne vėliau kaip kitą darbo dieną raštu pranešama prašymą pateikusiam asmeniui ir nurodomos termino pratęsimo priežastys. Jeigu pateikęs prašymą asmuo paprašo patikslinti ar papildyti prašymą, informacijos pateikimo terminas skaičiuojamas nuo patikslinto ar papildyto prašymo gavimo dienos. ^2cd1805dd14ac0541a73e182
+1. Valstybinė atominės energetikos saugos inspekcija ir šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalyje]] nurodytų licencijų turėtojai suinteresuotiems asmenims jų prašymu arba savo iniciatyva teikia turimą su branduoline, radiacine ir fizine sauga bei su tarptautiniais branduolinio ginklo neplatinimo įsipareigojimais susijusią informaciją, jeigu ši informacija nėra pripažįstama kaip neteiktina šio įstatymo [[#^5a0b3764ba9059aff48d3bc9|391 straipsnio 10 dalyje]] arba kituose įstatymuose nurodytais pagrindais. Kai yra suinteresuoto asmens prašymas, informacija turi būti pateikiama ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo dienos, išskyrus šio straipsnio 4 ir [[#^27e3e98cf895de65ec3db2be|6 dalyse]] nurodytus atvejus. Jeigu prašoma daug ar sudėtingos informacijos, šis terminas gali būti pratęsiamas dar iki 20 darbo dienų, apie tai ne vėliau kaip kitą darbo dieną raštu pranešama prašymą pateikusiam asmeniui ir nurodomos termino pratęsimo priežastys. Jeigu pateikęs prašymą asmuo paprašo patikslinti ar papildyti prašymą, informacijos pateikimo terminas skaičiuojamas nuo patikslinto ar papildyto prašymo gavimo dienos. ^1a7a9d3a112938ad91fc6a2a
 
 
-2. Valstybinė atominės energetikos saugos inspekcija ir šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalyje]] nurodytų licencijų turėtojai privalo informuoti valstybės ir savivaldybių institucijas ir įstaigas, visuomenę ir asmenis, kurių ūkinė komercinė veikla yra tiesiogiai susijusi su licencijų turėtojų vykdoma licencijuojama veikla, apie branduolinės, radiacinės ir fizinės saugos užtikrinimo būklę ne rečiau kaip kartą per metus visuomenės informavimo priemonėse ir (arba) savo interneto svetainėje viešai paskelbdami informaciją apie savo veiklą. Valstybinė atominės energetikos saugos inspekcija taip pat ne rečiau kaip kartą per trejus metus organizuoja susitikimus su savivaldybių institucijomis, įstaigomis, visuomene ir kitais asmenimis branduolinės energetikos objekto kaimynystėje, siekdama juos informuoti apie šio objekto branduolinės, radiacinės ir fizinės saugos būklę. Valstybinė atominės energetikos saugos inspekcija ne rečiau kaip kartą per metus visuomenės informavimo priemonėse ir (ar) savo interneto svetainėje paskelbia pranešimus apie ūkio subjektų, kurių veiklos priežiūrą vadovaudamasi šiuo ir kitais įstatymais vykdo Valstybinė atominės energetikos saugos inspekcija, veiklos priežiūros vykdymo rezultatus. ^fb5a26a874b2ad7425526928
+2. Valstybinė atominės energetikos saugos inspekcija ir šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalyje]] nurodytų licencijų turėtojai privalo informuoti valstybės ir savivaldybių institucijas ir įstaigas, visuomenę ir asmenis, kurių ūkinė komercinė veikla yra tiesiogiai susijusi su licencijų turėtojų vykdoma licencijuojama veikla, apie branduolinės, radiacinės ir fizinės saugos užtikrinimo būklę ne rečiau kaip kartą per metus visuomenės informavimo priemonėse ir (arba) savo interneto svetainėje viešai paskelbdami informaciją apie savo veiklą. Valstybinė atominės energetikos saugos inspekcija taip pat ne rečiau kaip kartą per trejus metus organizuoja susitikimus su savivaldybių institucijomis, įstaigomis, visuomene ir kitais asmenimis branduolinės energetikos objekto kaimynystėje, siekdama juos informuoti apie šio objekto branduolinės, radiacinės ir fizinės saugos būklę. Valstybinė atominės energetikos saugos inspekcija ne rečiau kaip kartą per metus visuomenės informavimo priemonėse ir (ar) savo interneto svetainėje paskelbia pranešimus apie ūkio subjektų, kurių veiklos priežiūrą vadovaudamasi šiuo ir kitais įstatymais vykdo Valstybinė atominės energetikos saugos inspekcija, veiklos priežiūros vykdymo rezultatus. ^b2be8c1ef70e4c0c7f40150c
 
 
-3. Šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytos licencijos turėtojai ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytų leidimų turėtojai turi pateikti savo darbuotojams, kitiems asmenims, teisėtai esantiems branduolinės energetikos objekto aikštelėje, šią informaciją apie esamas branduolinės energetikos objekto eksploatavimo sąlygas ir esamų branduolinės energetikos objekto eksploatavimo sąlygų atitiktį normalaus eksploatavimo sąlygoms: ^b5a6269afa8cf89f5a62f2bd
+3. Šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytos licencijos turėtojai ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytų leidimų turėtojai turi pateikti savo darbuotojams, kitiems asmenims, teisėtai esantiems branduolinės energetikos objekto aikštelėje, šią informaciją apie esamas branduolinės energetikos objekto eksploatavimo sąlygas ir esamų branduolinės energetikos objekto eksploatavimo sąlygų atitiktį normalaus eksploatavimo sąlygoms: ^372d7e47a9a67593eaf713b2
 
 
-1) informaciją apie radiologines sąlygas branduolinės energetikos objekto aikštelėje ir patalpose, kuriose numatoma, kad šie asmenys dirbs ar lankysis, ir (arba) jų atitiktį teisės aktų bei branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių radiacinę saugą branduolinės energetikos objektuose, reikalavimams; ^cc2bc2e3e9b621dff5f30c29
+1) informaciją apie radiologines sąlygas branduolinės energetikos objekto aikštelėje ir patalpose, kuriose numatoma, kad šie asmenys dirbs ar lankysis, ir (arba) jų atitiktį teisės aktų bei branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių radiacinę saugą branduolinės energetikos objektuose, reikalavimams; ^a97ea9d74fc2a2bba034e0e2
 
 
-2) informaciją apie esamus nukrypimus nuo normalaus eksploatavimo sąlygų, jeigu jie gali turėti įtakos šių asmenų sveikatai. ^bd910a0c96439ac727230341
+2) informaciją apie esamus nukrypimus nuo normalaus eksploatavimo sąlygų, jeigu jie gali turėti įtakos šių asmenų sveikatai. ^b275e8a77e4cf970d73275bd
 
 
-4. [[#^b5a6269afa8cf89f5a62f2bd|Šio straipsnio 3 dalyje]] nurodyta informacija turi būti pateikta [[#^b5a6269afa8cf89f5a62f2bd|šio straipsnio 3 dalyje]] nurodytiems asmenims arba šiems asmenims turi būti sudaryta galimybė su tokia informacija susipažinti kiekvieną kartą prieš jiems patenkant į branduolinės energetikos objekto aikštelę. ^45c00d10f1667a3ca35d53ae
+4. [[#^372d7e47a9a67593eaf713b2|Šio straipsnio 3 dalyje]] nurodyta informacija turi būti pateikta [[#^372d7e47a9a67593eaf713b2|šio straipsnio 3 dalyje]] nurodytiems asmenims arba šiems asmenims turi būti sudaryta galimybė su tokia informacija susipažinti kiekvieną kartą prieš jiems patenkant į branduolinės energetikos objekto aikštelę. ^ad52f0dac00aa6c0daed1a6a
 
 
-5. Šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytos licencijos turėtojai ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytų leidimų turėtojai turi pateikti visuomenei šią informaciją apie esamas branduolinės energetikos objekto eksploatavimo sąlygas ir jų atitiktį normalaus eksploatavimo sąlygoms: ^8ab7e18523aa365456647143
+5. Šio įstatymo [[#^ed5859821f5b55cdc8d6f609|22 straipsnio 1 dalies 2 punkte]] nurodytos licencijos turėtojai ir šio įstatymo [[#^0f0a40c3a6c3813cf812f764|22 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytų leidimų turėtojai turi pateikti visuomenei šią informaciją apie esamas branduolinės energetikos objekto eksploatavimo sąlygas ir jų atitiktį normalaus eksploatavimo sąlygoms: ^cd834cbdb302fcef8f36971a
 
 
-1) radiologines sąlygas branduolinės energetikos objekto aikštelėje bei objekte ir (arba) jų atitiktį teisės aktų bei branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių radiacinę saugą branduolinės energetikos objektuose, reikalavimams; ^304225d33c409bc4df8d08a2
+1) radiologines sąlygas branduolinės energetikos objekto aikštelėje bei objekte ir (arba) jų atitiktį teisės aktų bei branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių radiacinę saugą branduolinės energetikos objektuose, reikalavimams; ^7fbabcd5f2b8b0c051ce7203
 
 
-2) radionuklidų išmetimą į aplinką iš branduolinės energetikos objekto ir (arba) šio išmetimo atitiktį teisės aktų bei branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių leistiną radionuklidų išmetimą į aplinką iš branduolinės energetikos objektų, reikalavimams; ^76abf7089a2b3acb60333844
+2) radionuklidų išmetimą į aplinką iš branduolinės energetikos objekto ir (arba) šio išmetimo atitiktį teisės aktų bei branduolinės saugos normatyvinių techninių dokumentų, reglamentuojančių leistiną radionuklidų išmetimą į aplinką iš branduolinės energetikos objektų, reikalavimams; ^4373da287f1ca81d12a3a027
 
 
-3) esamus nukrypimus nuo normalaus eksploatavimo sąlygų, jeigu jie gali kelti pavojų žmonių sveikatai ir saugumui, jų turtui ir aplinkai. ^4be0ce933ef38596fb7ae0f4
+3) esamus nukrypimus nuo normalaus eksploatavimo sąlygų, jeigu jie gali kelti pavojų žmonių sveikatai ir saugumui, jų turtui ir aplinkai. ^65e2972217d92015452bb0d1
 
 
-6. [[#^8ab7e18523aa365456647143|Šio straipsnio 5 dalyje]] nurodyta informacija turi būti paskelbta visuomenės informavimo priemonėse ir (arba) [[#^8ab7e18523aa365456647143|šio straipsnio 5 dalyje]] nurodyto licencijos ar leidimo turėtojo interneto svetainėje. Kai yra suinteresuoto asmens prašymas, informacija turi būti pateikta ne vėliau kaip per vieną darbo dieną gavus prašymą ją pateikti. ^13be0268aba38a0f2a097a5e
+6. [[#^cd834cbdb302fcef8f36971a|Šio straipsnio 5 dalyje]] nurodyta informacija turi būti paskelbta visuomenės informavimo priemonėse ir (arba) [[#^cd834cbdb302fcef8f36971a|šio straipsnio 5 dalyje]] nurodyto licencijos ar leidimo turėtojo interneto svetainėje. Kai yra suinteresuoto asmens prašymas, informacija turi būti pateikta ne vėliau kaip per vieną darbo dieną gavus prašymą ją pateikti. ^27e3e98cf895de65ec3db2be
 
 
 Straipsnio pakeitimai:
@@ -1868,112 +1879,112 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 ### 391 straipsnis. Visuomenės dalyvavimas priimant sprendimus branduolinės energetikos srityje
 
 
-1. Visuomenė, kuri šiame straipsnyje suprantama kaip vienas arba daugiau fizinių ir (arba) juridinių asmenų, jų asociacijos, organizacijos arba grupės, turi teisę šiame straipsnyje nurodyta tvarka dalyvauti priimant šiuos sprendimus branduolinės energetikos srityje: ^9caa84be8e8898266ad5b0a7
+1. Visuomenė, kuri šiame straipsnyje suprantama kaip vienas arba daugiau fizinių ir (arba) juridinių asmenų, jų asociacijos, organizacijos arba grupės, turi teisę šiame straipsnyje nurodyta tvarka dalyvauti priimant šiuos sprendimus branduolinės energetikos srityje: ^ae96b290c49f55b6d27a604e
 
 
-1) sprendimus dėl branduolinės energetikos objektų statybos vietos (aikštelės) vertinimo ataskaitos suderinimo; ^d36d4e4f0a9b86787f93fd43
+1) sprendimus dėl branduolinės energetikos objektų statybos vietos (aikštelės) vertinimo ataskaitos suderinimo; ^bd12ee08280e6fedcd69aefa
 
 
-2) sprendimus dėl šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–[[#^5778c8d2e3135f7dc769dca0|5 punktuose]] nurodytų licencijų išdavimo; ^ff7b5f209a5a1ec42d7ce3e7
+2) sprendimus dėl šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–[[#^4c95474fd3f27e8140e68c77|5 punktuose]] nurodytų licencijų išdavimo; ^b363175a83df8a147805e18d
 
 
-3) sprendimus dėl leidimų, nurodytų šio įstatymo [[#^7b443e1f099c5e06b148964e|22 straipsnio 2 dalies 1 punkte]], išdavimo šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytų licencijų turėtojams; ^791f82d657d1dabd02694adb
+3) sprendimus dėl leidimų, nurodytų šio įstatymo [[#^7b443e1f099c5e06b148964e|22 straipsnio 2 dalies 1 punkte]], išdavimo šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytų licencijų turėtojams; ^6befa4a9fe4f576dcd81bc82
 
 
-4) sprendimus dėl leidimų, nurodytų šio įstatymo [[#^a2c77ea2fb294a26254321f0|22 straipsnio 2 dalies 2 punkte]], išdavimo šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytų licencijų turėtojams; ^5211633efae563c275dcf0df
+4) sprendimus dėl leidimų, nurodytų šio įstatymo [[#^a2c77ea2fb294a26254321f0|22 straipsnio 2 dalies 2 punkte]], išdavimo šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytų licencijų turėtojams; ^cb0a9e4004bf520a18124ad6
 
 
-5) sprendimus dėl licencijos, nurodytos šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]], galiojimo panaikinimo. ^5778c8d2e3135f7dc769dca0
+5) sprendimus dėl licencijos, nurodytos šio įstatymo [[#^589be919aa6930d666ccd76d|22 straipsnio 1 dalies 4 punkte]], galiojimo panaikinimo. ^4c95474fd3f27e8140e68c77
 Papildyta straipsnio punktu:
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 
 
-2. Dėl kitų Valstybinės atominės energetikos saugos inspekcijos ir kitų institucijų ar įstaigų sprendimų, priimamų vadovaujantis šiuo įstatymu, Branduolinės energijos įstatymu ir Radioaktyviųjų atliekų tvarkymo įstatymu, visuomenė turi teisę gauti informaciją vadovaudamasi kitais valstybės institucijų informacijos teikimą reglamentuojančiais teisės aktais, tačiau teikiant informaciją dėl tokių sprendimų mutatis mutandis taikomi šio straipsnio 10 ir [[#^1c3c8ab8dbac17f6e89de3ad|11 dalyse]] nurodyti apribojimai. ^60ca6fb1dbc9d557e2d08da9
+2. Dėl kitų Valstybinės atominės energetikos saugos inspekcijos ir kitų institucijų ar įstaigų sprendimų, priimamų vadovaujantis šiuo įstatymu, Branduolinės energijos įstatymu ir Radioaktyviųjų atliekų tvarkymo įstatymu, visuomenė turi teisę gauti informaciją vadovaudamasi kitais valstybės institucijų informacijos teikimą reglamentuojančiais teisės aktais, tačiau teikiant informaciją dėl tokių sprendimų mutatis mutandis taikomi šio straipsnio 10 ir [[#^a79ebd3a9118d2f294a0a83f|11 dalyse]] nurodyti apribojimai. ^8fe7b1dca8ddabf56bf66d95
 
 
-3. Visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje procesą sudaro: ^6b8b314c275501a58e7b1108
+3. Visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje procesą sudaro: ^36b423f9db50664428fede2f
 
 
-1) informacijos teikimas visuomenei apie [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytų procesų pradžią; ^0ac500ac3b1e4366df77ec27
+1) informacijos teikimas visuomenei apie [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytų procesų pradžią; ^84616716417fa8e4fcb1db24
 
 
-2) visuomenės susipažinimas su [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingais dokumentais; ^6edeaa2d0a286d9e0e8d0833
+2) visuomenės susipažinimas su [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingais dokumentais; ^c327d9e9b59bf2a3ff566257
 
 
-3) visuomenės susipažinimas su [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytų sprendimų projektais; ^d5cc93963764c42b8cc0b797
+3) visuomenės susipažinimas su [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytų sprendimų projektais; ^0b8bcd7cc230b5bec4842869
 
 
-4) visuomenės komentarų, informacijos, analizių arba nuomonių (toliau – pasiūlymai) teikimas dėl [[#^6edeaa2d0a286d9e0e8d0833|šios dalies 2 punkte]] nurodytų dokumentų ir [[#^d5cc93963764c42b8cc0b797|3 punkte]] nurodytų sprendimų projektų; ^21287a973535dea653b3e080
+4) visuomenės komentarų, informacijos, analizių arba nuomonių (toliau – pasiūlymai) teikimas dėl [[#^c327d9e9b59bf2a3ff566257|šios dalies 2 punkte]] nurodytų dokumentų ir [[#^0b8bcd7cc230b5bec4842869|3 punkte]] nurodytų sprendimų projektų; ^e95d20af5659a3cad44ac277
 
 
-5) [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingų dokumentų arba [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytų sprendimų galutinių projektų viešas svarstymas. ^04ebe19dfb974a0c6895132a
+5) [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingų dokumentų arba [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytų sprendimų galutinių projektų viešas svarstymas. ^3c2d4c7b7a9600de3c5738ed
 
 
-4. Visuomenė turi teisę susipažinti su [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingais dokumentais, išskyrus dokumentus ir juose esančią informaciją, kuriuos teikti draudžia įstatymai, ir pateikti pasiūlymus ūkio subjektui per vieną mėnesį po informacijos pateikimo visuomenei apie [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytų procesų pradžią, o tais atvejais, kai dokumentai, reikalingi [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti, pateikiami vėliau negu [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytų procesų pradžioje, dėl šių dokumentų pateikti pasiūlymus ūkio subjektui per vieną mėnesį po informacijos apie dokumentų pateikimą Valstybinei atominės energetikos saugos inspekcijai paskelbimo. Šį supažindinimą organizuoja ūkio subjektas [[#^4130ee5da42b862616312a50|šio straipsnio 9 dalyje]] nurodyta tvarka. Savivaldybės, kurios teritorijoje planuojama vykdyti su [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytais sprendimais susijusi veikla, institucija ūkio subjektui jo prašymu neatlygintinai suteikia patalpas, reikalingas ūkio subjektui įgyvendinti visuomenės supažindinimo su šioje dalyje nurodytais dokumentais pareigą. ^911878551aff89a770fded37
+4. Visuomenė turi teisę susipažinti su [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingais dokumentais, išskyrus dokumentus ir juose esančią informaciją, kuriuos teikti draudžia įstatymai, ir pateikti pasiūlymus ūkio subjektui per vieną mėnesį po informacijos pateikimo visuomenei apie [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytų procesų pradžią, o tais atvejais, kai dokumentai, reikalingi [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti, pateikiami vėliau negu [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytų procesų pradžioje, dėl šių dokumentų pateikti pasiūlymus ūkio subjektui per vieną mėnesį po informacijos apie dokumentų pateikimą Valstybinei atominės energetikos saugos inspekcijai paskelbimo. Šį supažindinimą organizuoja ūkio subjektas [[#^49380685e91956b646946ea4|šio straipsnio 9 dalyje]] nurodyta tvarka. Savivaldybės, kurios teritorijoje planuojama vykdyti su [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytais sprendimais susijusi veikla, institucija ūkio subjektui jo prašymu neatlygintinai suteikia patalpas, reikalingas ūkio subjektui įgyvendinti visuomenės supažindinimo su šioje dalyje nurodytais dokumentais pareigą. ^c6169c33116d104165d6d43f
 
 
-5. Valstybinė atominės energetikos saugos inspekcija viešai informuoja apie tai, kad yra parengtas sprendimo, nurodyto [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]], projektas ir leidžia su šiuo projektu ir dokumentais, pateiktais sprendimui priimti, susipažinti ir raštu pateikti dėl jo pasiūlymus ne vėliau negu likus: ^cc13058328f4b5371c1a576e
+5. Valstybinė atominės energetikos saugos inspekcija viešai informuoja apie tai, kad yra parengtas sprendimo, nurodyto [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]], projektas ir leidžia su šiuo projektu ir dokumentais, pateiktais sprendimui priimti, susipažinti ir raštu pateikti dėl jo pasiūlymus ne vėliau negu likus: ^8f101363b6551f03a9f18b05
 
 
-1) 3 mėnesiams iki [[#^d36d4e4f0a9b86787f93fd43|šio straipsnio 1 dalies 1 punkte]] nurodytiems sprendimams priimti šio įstatymo [[#^6bdd033911755524c78d5db5|32 straipsnio 15 dalyje]] nustatyto termino pabaigos; ^054f7a8d975b47c3dc315191
+1) 3 mėnesiams iki [[#^bd12ee08280e6fedcd69aefa|šio straipsnio 1 dalies 1 punkte]] nurodytiems sprendimams priimti šio įstatymo [[#^257d440c5342bfd38121350e|32 straipsnio 15 dalyje]] nustatyto termino pabaigos; ^94b3469e6e648acf6509071e
 
 
-2) 5 mėnesiams iki sprendimams dėl šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1, 2, 3 ir [[#^fe3a8ea3807fd39afd5a1c98|4 punktuose]] nurodytų licencijų priimti šio įstatymo [[#^277ea5d29c9bbce7259b955b|25 straipsnio 16 dalyje]] nustatyto termino pabaigos; ^db42dcf83cb33e2c1e10c96e
+2) 5 mėnesiams iki sprendimams dėl šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1, 2, 3 ir [[#^c0f02c8a8a8a655dc05a612c|4 punktuose]] nurodytų licencijų priimti šio įstatymo [[#^277ea5d29c9bbce7259b955b|25 straipsnio 16 dalyje]] nustatyto termino pabaigos; ^e1532f8851714f3931ed2bc7
 
 
-3) 5 mėnesiams iki sprendimui dėl šio įstatymo [[#^337c64244a3f4948bde40653|22 straipsnio 1 dalies 5 punkte]] nurodytos licencijos priimti šio įstatymo [[#^7fbec41812c30de1e7ccca05|25 straipsnio 17 dalyje]] nustatyto termino pabaigos; ^eeecf0050c2094b99085526c
+3) 5 mėnesiams iki sprendimui dėl šio įstatymo [[#^337c64244a3f4948bde40653|22 straipsnio 1 dalies 5 punkte]] nurodytos licencijos priimti šio įstatymo [[#^7fbec41812c30de1e7ccca05|25 straipsnio 17 dalyje]] nustatyto termino pabaigos; ^33bc99cc71fc1132542b0dd1
 
 
-4) 2 mėnesiams iki [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytiems sprendimams priimti, kai dėl jų kreipiasi šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytos licencijos turėtojas, šio įstatymo [[#^2253c0dd9f0081eb951eb6bb|26 straipsnio 7 dalyje]] nustatyto termino pabaigos; ^fe3a8ea3807fd39afd5a1c98
+4) 2 mėnesiams iki [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytiems sprendimams priimti, kai dėl jų kreipiasi šio įstatymo [[#^00826ef8b60e3b38bb9f89b3|22 straipsnio 1 dalies 3 punkte]] nurodytos licencijos turėtojas, šio įstatymo [[#^2253c0dd9f0081eb951eb6bb|26 straipsnio 7 dalyje]] nustatyto termino pabaigos; ^c0f02c8a8a8a655dc05a612c
 
 
-5) 2 mėnesiams iki [[#^5778c8d2e3135f7dc769dca0|šio straipsnio 1 dalies 5 punkte]] nurodytiems sprendimams priimti šio įstatymo [[#^caff9786ee378a515877d523|34 straipsnio 2 dalyje]] nustatyto termino pabaigos. ^14ba216f69edeab6af9292a4
+5) 2 mėnesiams iki [[#^4c95474fd3f27e8140e68c77|šio straipsnio 1 dalies 5 punkte]] nurodytiems sprendimams priimti šio įstatymo [[#^9597807b0260292b6ff866f1|34 straipsnio 2 dalyje]] nustatyto termino pabaigos. ^053b3c6c55cc060635a6cdcd
 Papildyta straipsnio punktu:
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 
 
-6. Visuomenė turi teisę susipažinti su sprendimo projektu ir raštu pateikti pasiūlymus Valstybinei atominės energetikos saugos inspekcijai: ^9e6398036a6c5fdd16c2dbcd
+6. Visuomenė turi teisę susipažinti su sprendimo projektu ir raštu pateikti pasiūlymus Valstybinei atominės energetikos saugos inspekcijai: ^855b60f89f01ac1f13b46b78
 
 
-1) dėl [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalies]] 1 ir [[#^d2b545733fad6b893c641aee|2 punktuose]] nurodytų sprendimų projektų – per 2 mėnesius nuo [[#^cc13058328f4b5371c1a576e|šio straipsnio 5 dalyje]] nurodyto informavimo; ^615ff58b49a5c77479e34b69
+1) dėl [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalies]] 1 ir [[#^db6d5ab6f4115afa16e1b4f6|2 punktuose]] nurodytų sprendimų projektų – per 2 mėnesius nuo [[#^8f101363b6551f03a9f18b05|šio straipsnio 5 dalyje]] nurodyto informavimo; ^f9fc9eb6bbba9a859f0c1818
 
 
-2) dėl [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytų sprendimų projektų – per vieną mėnesį nuo [[#^cc13058328f4b5371c1a576e|šio straipsnio 5 dalyje]] nurodyto informavimo; ^d2b545733fad6b893c641aee
+2) dėl [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytų sprendimų projektų – per vieną mėnesį nuo [[#^8f101363b6551f03a9f18b05|šio straipsnio 5 dalyje]] nurodyto informavimo; ^db6d5ab6f4115afa16e1b4f6
 
 
-3) dėl [[#^5778c8d2e3135f7dc769dca0|šio straipsnio 1 dalies 5 punkte]] nurodytų sprendimų projektų – per 14 darbo dienų nuo [[#^cc13058328f4b5371c1a576e|šio straipsnio 5 dalyje]] nurodyto informavimo. ^1571efdba0a066698f9c3536
+3) dėl [[#^4c95474fd3f27e8140e68c77|šio straipsnio 1 dalies 5 punkte]] nurodytų sprendimų projektų – per 14 darbo dienų nuo [[#^8f101363b6551f03a9f18b05|šio straipsnio 5 dalyje]] nurodyto informavimo. ^8cddfe1b53faa527acef8281
 Papildyta straipsnio punktu:
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 
 
 
-7. Visi visuomenės pateikti pasiūlymai turi būti įvertinti. Informaciją dėl to, kaip yra įvertinti pasiūlymai, kartu nurodant ir argumentus, jeigu į pasiūlymus nebuvo atsižvelgta arba atsižvelgta iš dalies, ūkio subjektas visuomenės atstovams, pateikusiems pasiūlymus ūkio subjektui, pateikia raštu, o Valstybinė atominės energetikos saugos inspekcija paskelbia kartu su galutiniu sprendimu. ^5b60fad87e06e6c99f1f1842
+7. Visi visuomenės pateikti pasiūlymai turi būti įvertinti. Informaciją dėl to, kaip yra įvertinti pasiūlymai, kartu nurodant ir argumentus, jeigu į pasiūlymus nebuvo atsižvelgta arba atsižvelgta iš dalies, ūkio subjektas visuomenės atstovams, pateikusiems pasiūlymus ūkio subjektui, pateikia raštu, o Valstybinė atominės energetikos saugos inspekcija paskelbia kartu su galutiniu sprendimu. ^f7d6c58eaf79fbc0d64b0158
 
 
-8. [[#^9caa84be8e8898266ad5b0a7|Šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingų dokumentų ir [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytų sprendimų galutinių projektų viešas svarstymas nėra privalomas. Viešas svarstymas gali būti organizuojamas ūkio subjekto (dėl [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingų dokumentų) ar Valstybinės atominės energetikos saugos inspekcijos (dėl [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytų sprendimų galutinių projektų) iniciatyva, kai yra daug pasiūlymų, siekiant suteikti visuomenei galimybę efektyviau ir operatyviau susipažinti su informacija, susijusia su [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytais sprendimais. Viešo svarstymo metu pristatomas šioje dalyje nurodytų dokumentų turinys, aptariami gauti pasiūlymai, paaiškinama, kodėl ir į kokius pasiūlymus bus neatsižvelgiama, išklausomi papildomi pasiūlymai. Viešas svarstymas organizuojamas jį inicijavusio subjekto lėšomis. ^8b91c535b65405381db7bb06
+8. [[#^ae96b290c49f55b6d27a604e|Šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingų dokumentų ir [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytų sprendimų galutinių projektų viešas svarstymas nėra privalomas. Viešas svarstymas gali būti organizuojamas ūkio subjekto (dėl [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytiems sprendimams priimti reikalingų dokumentų) ar Valstybinės atominės energetikos saugos inspekcijos (dėl [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytų sprendimų galutinių projektų) iniciatyva, kai yra daug pasiūlymų, siekiant suteikti visuomenei galimybę efektyviau ir operatyviau susipažinti su informacija, susijusia su [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytais sprendimais. Viešo svarstymo metu pristatomas šioje dalyje nurodytų dokumentų turinys, aptariami gauti pasiūlymai, paaiškinama, kodėl ir į kokius pasiūlymus bus neatsižvelgiama, išklausomi papildomi pasiūlymai. Viešas svarstymas organizuojamas jį inicijavusio subjekto lėšomis. ^c5bb88a47042e3366b852329
 
 
-9. Visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje procedūrų organizavimo tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^4130ee5da42b862616312a50
+9. Visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje procedūrų organizavimo tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^49380685e91956b646946ea4
 
 
-10. Visuomenei jos dalyvavimo priimant sprendimus branduolinės energetikos srityje proceso metu neteikiama informacija, kurios teikimui netaikomos Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nuostatos, išskyrus: ^09646ce9cfd97ed140e75a08
+10. Visuomenei jos dalyvavimo priimant sprendimus branduolinės energetikos srityje proceso metu neteikiama informacija, kurios teikimui netaikomos Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nuostatos, išskyrus: ^5a0b3764ba9059aff48d3bc9
 
 
-1) informaciją, sudarančią komercinę paslaptį, jeigu ši informacija yra susijusi su radionuklidų išmetimu į aplinką, turinčiu įtakos aplinkos apsaugai; ^696d888f45ebbdee23560893
+1) informaciją, sudarančią komercinę paslaptį, jeigu ši informacija yra susijusi su radionuklidų išmetimu į aplinką, turinčiu įtakos aplinkos apsaugai; ^b0e1b1d227cd7c6307cf74fc
 
 
-2) asmens vardą, pavardę ir pareigas tais atvejais, kai paraiškos dokumentuose ši informacija pateikiama nurodant, kas pasirašė, vizavo ar suderino teikiamą dokumentą, ir kai vardas, pavardė ir pareigos nurodomi teikiant informaciją apie paskyrimą vykdyti funkcijas, kai dėl tokio paskyrimo būtina informuoti Valstybinę atominės energetikos saugos inspekciją vadovaujantis jos teisės aktais. ^f780f317e84318ca46b53cd6
+2) asmens vardą, pavardę ir pareigas tais atvejais, kai paraiškos dokumentuose ši informacija pateikiama nurodant, kas pasirašė, vizavo ar suderino teikiamą dokumentą, ir kai vardas, pavardė ir pareigos nurodomi teikiant informaciją apie paskyrimą vykdyti funkcijas, kai dėl tokio paskyrimo būtina informuoti Valstybinę atominės energetikos saugos inspekciją vadovaujantis jos teisės aktais. ^f68ee37a2a907ab409c74c78
 
 
-11. Prašymas suteikti informaciją visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje priėmimo proceso metu nenagrinėjamas ir apie nenagrinėjimo priežastis prašymo teikėjas informuojamas Viešojo administravimo įstatyme nurodytais atvejais ir jeigu: ^1c3c8ab8dbac17f6e89de3ad
+11. Prašymas suteikti informaciją visuomenės dalyvavimo priimant sprendimus branduolinės energetikos srityje priėmimo proceso metu nenagrinėjamas ir apie nenagrinėjimo priežastis prašymo teikėjas informuojamas Viešojo administravimo įstatyme nurodytais atvejais ir jeigu: ^a79ebd3a9118d2f294a0a83f
 
 
-1) Valstybinė atominės energetikos saugos inspekcija ar kitos institucijos, ar įstaigos, dalyvaujančios priimant [[#^9caa84be8e8898266ad5b0a7|šio straipsnio 1 dalyje]] nurodytus sprendimus, neturi prašomos informacijos; ^841acca8c1c8c1f1d1c38161
+1) Valstybinė atominės energetikos saugos inspekcija ar kitos institucijos, ar įstaigos, dalyvaujančios priimant [[#^ae96b290c49f55b6d27a604e|šio straipsnio 1 dalyje]] nurodytus sprendimus, neturi prašomos informacijos; ^7833c3b148d9cc0fdd871325
 
 
-2) prašymas yra susijęs su rengiama (negalutine) informacija, išskyrus informaciją, nurodytą [[#^d5cc93963764c42b8cc0b797|šio straipsnio 3 dalies 3 punkte]]. ^fe3170df57393d9ff9322597
+2) prašymas yra susijęs su rengiama (negalutine) informacija, išskyrus informaciją, nurodytą [[#^0b8bcd7cc230b5bec4842869|šio straipsnio 3 dalies 3 punkte]]. ^a6f7310bab64bde3ae5de896
 
 
 Papildyta straipsniu:
@@ -1991,10 +2002,10 @@ Licencijos, nurodytos šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 
 ### 41 straipsnis. Skubi informacija
 
 
-1. Įvykus branduolinei ar radiologinei avarijai ar branduoliniam incidentui branduolinės energetikos objekte, taip pat branduolinei avarijai, radiologinei avarijai ar branduoliniam incidentui, susijusiam su branduolinių ir (ar) branduolinio kuro ciklo medžiagų naudojimu, atitinkamos licencijos turėtojas privalo nedelsdamas pateikti informaciją avarinės parengties planuose nustatyta tvarka. ^2bbc624ea2d455b1decee355
+1. Įvykus branduolinei ar radiologinei avarijai ar branduoliniam incidentui branduolinės energetikos objekte, taip pat branduolinei avarijai, radiologinei avarijai ar branduoliniam incidentui, susijusiam su branduolinių ir (ar) branduolinio kuro ciklo medžiagų naudojimu, atitinkamos licencijos turėtojas privalo nedelsdamas pateikti informaciją avarinės parengties planuose nustatyta tvarka. ^3f86ae8cd8acd051a2056a6f
 
 
-2. Valstybinė atominės energetikos saugos inspekcija teikia skubią informaciją Lietuvos Respublikos, tarptautinių teisės aktų, tarptautinių sutarčių ir (ar) sutarčių tarp Valstybinės atominės energetikos saugos inspekcijos ir kitų valstybių institucijų nustatyta tvarka kaimynystėje esančių Europos Sąjungos valstybių narių branduolinės saugos priežiūros ir kitoms suinteresuotoms institucijoms, kitoms Europos Sąjungos valstybėms narėms, kitoms valstybėms ir tarptautinėms organizacijoms apie branduolinės avarijos, radiologinės avarijos branduolinės energetikos objekte, radiologinės avarijos, įvykusios vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, ar branduolinio incidento faktą, šių neįprastųjų įvykių technines aplinkybes, šių neįprastųjų įvykių padarinius ir padarinių likvidavimo eigą, taip pat prognozuojamą arba nustatytą branduolinės ar radiologinės avarijos ar branduolinio incidento klasę pagal INES skalę ir rekomenduojamus gyventojų apsaugomuosius veiksmus. ^1cfa2ad657cdbeaedf20ee0f
+2. Valstybinė atominės energetikos saugos inspekcija teikia skubią informaciją Lietuvos Respublikos, tarptautinių teisės aktų, tarptautinių sutarčių ir (ar) sutarčių tarp Valstybinės atominės energetikos saugos inspekcijos ir kitų valstybių institucijų nustatyta tvarka kaimynystėje esančių Europos Sąjungos valstybių narių branduolinės saugos priežiūros ir kitoms suinteresuotoms institucijoms, kitoms Europos Sąjungos valstybėms narėms, kitoms valstybėms ir tarptautinėms organizacijoms apie branduolinės avarijos, radiologinės avarijos branduolinės energetikos objekte, radiologinės avarijos, įvykusios vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, ar branduolinio incidento faktą, šių neįprastųjų įvykių technines aplinkybes, šių neįprastųjų įvykių padarinius ir padarinių likvidavimo eigą, taip pat prognozuojamą arba nustatytą branduolinės ar radiologinės avarijos ar branduolinio incidento klasę pagal INES skalę ir rekomenduojamus gyventojų apsaugomuosius veiksmus. ^e6f31f37ef67020f086dbb80
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
@@ -2003,13 +2014,13 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 ### 42 straipsnis. Ataskaitos
 
 
-1. Valstybinė atominės energetikos saugos inspekcija viešai ir reguliariai skelbia informaciją apie branduolinės saugos būklę Lietuvos Respublikoje. ^cf2888d317d47d38cbc9280b
+1. Valstybinė atominės energetikos saugos inspekcija viešai ir reguliariai skelbia informaciją apie branduolinės saugos būklę Lietuvos Respublikoje. ^cd1a51f99845792b3941e39a
 
 
-2. Licencijos, nurodytos šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–5 punktuose, turėtojas ne rečiau kaip kartą per metus privalo viešai paskelbti informaciją apie branduolinės saugos būklę atitinkamame objekte. ^751b5af1a29b733154d871b0
+2. Licencijos, nurodytos šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–5 punktuose, turėtojas ne rečiau kaip kartą per metus privalo viešai paskelbti informaciją apie branduolinės saugos būklę atitinkamame objekte. ^e23b39edf796d1b571522717
 
 
-3. Šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–5 punktuose nurodytų licencijų turėtojai kartą per metus teikia Valstybinei atominės energetikos saugos inspekcijai ataskaitą apie branduolinės, radiacinės ir fizinės saugos užtikrinimą vykdant licencijuojamą ir leidimais reguliuojamą veiklą. Šios ataskaitos turinį ir pateikimo tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^3912092e6fbfd5edf512adbe
+3. Šio įstatymo [[#^64c014a7d1ed8a92029a2273|22 straipsnio 1 dalies]] 1–5 punktuose nurodytų licencijų turėtojai kartą per metus teikia Valstybinei atominės energetikos saugos inspekcijai ataskaitą apie branduolinės, radiacinės ir fizinės saugos užtikrinimą vykdant licencijuojamą ir leidimais reguliuojamą veiklą. Šios ataskaitos turinį ir pateikimo tvarką nustato Valstybinė atominės energetikos saugos inspekcija. ^3c5fd2a003c2436dc7dea6b3
 Papildyta straipsnio dalimi:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 
@@ -2033,10 +2044,10 @@ Branduolinės saugos mokslinės-techninės paramos sistemos paskirtis – padėt
 Branduolinės saugos mokslinės-techninės paramos sistemą sudaro:
 
 
-1) studijų, mokslo tiriamųjų, projektavimo ir konstravimo, konsultavimo ir kitą veiklą vykdančios Lietuvos Respublikos ir užsienio valstybių įstaigos ir kiti juridiniai asmenys – mokslinės-techninės paramos organizacijos (toliau – MTPO), turinčios būtiną mokslinę-techninę kvalifikaciją, kompetenciją, specialiųjų žinių ir įgūdžių branduolinės saugos užtikrinimo, reglamentavimo ir priežiūros srityse; ^866f338de07eabd00e375b88
+1) studijų, mokslo tiriamųjų, projektavimo ir konstravimo, konsultavimo ir kitą veiklą vykdančios Lietuvos Respublikos ir užsienio valstybių įstaigos ir kiti juridiniai asmenys – mokslinės-techninės paramos organizacijos (toliau – MTPO), turinčios būtiną mokslinę-techninę kvalifikaciją, kompetenciją, specialiųjų žinių ir įgūdžių branduolinės saugos užtikrinimo, reglamentavimo ir priežiūros srityse; ^0f88efe7ab461aadc9812f17
 
 
-2) ekspertai, konsultantai, turintys būtiną mokslinę-techninę kvalifikaciją, kompetenciją, specialiųjų žinių ir įgūdžių branduolinės saugos užtikrinimo, gerinimo, reglamentavimo ir priežiūros srityje. ^a440bd9493b42c826b3e1e66
+2) ekspertai, konsultantai, turintys būtiną mokslinę-techninę kvalifikaciją, kompetenciją, specialiųjų žinių ir įgūdžių branduolinės saugos užtikrinimo, gerinimo, reglamentavimo ir priežiūros srityje. ^33d1ac18820884cb322b8860
 
 
 
@@ -2062,13 +2073,13 @@ Asmenys, nesilaikantys, nevykdantys ar pažeidę šį įstatymą ir kitus brandu
 ### 47 straipsnis. Baudos
 
 
-1. Juridiniam asmeniui, kuris nesilaiko šiame įstatyme ir kituose teisės aktuose nustatytų branduolinės saugos, radiacinės saugos vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, fizinės saugos reikalavimų ir dėl to yra pažeidžiami radionuklidus sulaikantys ir (ar) jonizuojančiąją spinduliuotę slopinantys barjerai ir (ar) į aplinką išmetamų radionuklidų aktyvumas viršija nustatytas normas, ir (ar) darbuotojų apšvitos dozės viršija nustatytas normas, taip pat kuris nesilaiko reikalavimų, atsirandančių dėl Lietuvos Respublikos prisiimtų tarptautinių branduolinio ginklo neplatinimo įsipareigojimų, ir tai yra susiję su dideliais branduolinių medžiagų kiekiais, apibrėžtais TATENA, Valstybinės atominės energetikos saugos inspekcijos viršininkas  turi teisę skirti baudą nuo 0,75 procento iki 3 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 3 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 144 810 (vienas šimtas keturiasdešimt keturi tūkstančiai aštuoni šimtai dešimt) eurų arba tokios veiklos mastą apskaičiuoti yra sunku ar neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 36 202 (trisdešimt šešių tūkstančių dviejų šimtų dviejų) iki 144 810 (vieno šimto keturiasdešimt keturių tūkstančių aštuonių šimtų dešimties) eurų. ^4ea0173d058820f8be80284b
+1. Juridiniam asmeniui, kuris nesilaiko šiame įstatyme ir kituose teisės aktuose nustatytų branduolinės saugos, radiacinės saugos vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, fizinės saugos reikalavimų ir dėl to yra pažeidžiami radionuklidus sulaikantys ir (ar) jonizuojančiąją spinduliuotę slopinantys barjerai ir (ar) į aplinką išmetamų radionuklidų aktyvumas viršija nustatytas normas, ir (ar) darbuotojų apšvitos dozės viršija nustatytas normas, taip pat kuris nesilaiko reikalavimų, atsirandančių dėl Lietuvos Respublikos prisiimtų tarptautinių branduolinio ginklo neplatinimo įsipareigojimų, ir tai yra susiję su dideliais branduolinių medžiagų kiekiais, apibrėžtais TATENA, Valstybinės atominės energetikos saugos inspekcijos viršininkas  turi teisę skirti baudą nuo 0,75 procento iki 3 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 3 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 144 810 (vienas šimtas keturiasdešimt keturi tūkstančiai aštuoni šimtai dešimt) eurų arba tokios veiklos mastą apskaičiuoti yra sunku ar neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 36 202 (trisdešimt šešių tūkstančių dviejų šimtų dviejų) iki 144 810 (vieno šimto keturiasdešimt keturių tūkstančių aštuonių šimtų dešimties) eurų. ^5e2c8a45e1782fa5a790d3e6
 
 
-2. Juridiniam asmeniui, padariusiam pakartotinį [[#^4ea0173d058820f8be80284b|šio straipsnio 1 dalyje]] nurodytą pažeidimą, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 1,25 procento iki 5 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 5 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 289 620 (du šimtai aštuoniasdešimt devyni tūkstančiai šeši šimtai dvidešimt) eurų arba tokios veiklos mastą apskaičiuoti sunku ar neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 72 405 (septyniasdešimt dviejų tūkstančių keturių šimtų penkių) iki 289 620 (dviejų šimtų aštuoniasdešimt devynių tūkstančių šešių šimtų dvidešimties) eurų. Pakartotiniu pažeidimu laikomas tos pačios teisės normos pažeidimas, padarytas pakartotinai per vienus metus nuo baudos paskyrimo. ^8b2a46d65eb1a315a50cdd70
+2. Juridiniam asmeniui, padariusiam pakartotinį [[#^5e2c8a45e1782fa5a790d3e6|šio straipsnio 1 dalyje]] nurodytą pažeidimą, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 1,25 procento iki 5 procentų bendrųjų metinių pajamų, gaunamų iš atitinkamos licencijuojamos veiklos. Jeigu 5 procentai juridinio asmens bendrųjų metinių pajamų, gaunamų iš licencijuojamos veiklos, yra mažiau negu 289 620 (du šimtai aštuoniasdešimt devyni tūkstančiai šeši šimtai dvidešimt) eurų arba tokios veiklos mastą apskaičiuoti sunku ar neįmanoma, Valstybinės atominės energetikos saugos inspekcijos viršininkas turi teisę skirti baudą nuo 72 405 (septyniasdešimt dviejų tūkstančių keturių šimtų penkių) iki 289 620 (dviejų šimtų aštuoniasdešimt devynių tūkstančių šešių šimtų dvidešimties) eurų. Pakartotiniu pažeidimu laikomas tos pačios teisės normos pažeidimas, padarytas pakartotinai per vienus metus nuo baudos paskyrimo. ^6ab9d920d82c3116aed787f5
 
 
-3. Juridiniam asmeniui kartu su šio straipsnio 1 ir [[#^8b2a46d65eb1a315a50cdd70|2 dalyse]] nustatytomis baudomis Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka teikiami privalomi vykdyti nurodymai, nurodyti šio įstatymo [[#6 straipsnis. Administraciniai sprendimai, priimami vykdant priežiūrą, ir poveikio priemonės|6 straipsnio]] 2 ir [[#^2268f614c62fa8c1a4b4cb71|3 dalyse]], kai pažeidimas atitinka ir [[#6 straipsnis. Administraciniai sprendimai, priimami vykdant priežiūrą, ir poveikio priemonės|6 straipsnio]] 2 ar [[#^2268f614c62fa8c1a4b4cb71|3 dalyje]] nurodytus kriterijus. ^2268f614c62fa8c1a4b4cb71
+3. Juridiniam asmeniui kartu su šio straipsnio 1 ir [[#^6ab9d920d82c3116aed787f5|2 dalyse]] nustatytomis baudomis Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka teikiami privalomi vykdyti nurodymai, nurodyti šio įstatymo [[#6 straipsnis. Administraciniai sprendimai, priimami vykdant priežiūrą, ir poveikio priemonės|6 straipsnio]] 2 ir [[#^bab1b10148a84db1fcc85161|3 dalyse]], kai pažeidimas atitinka ir [[#6 straipsnis. Administraciniai sprendimai, priimami vykdant priežiūrą, ir poveikio priemonės|6 straipsnio]] 2 ar [[#^bab1b10148a84db1fcc85161|3 dalyje]] nurodytus kriterijus. ^bab1b10148a84db1fcc85161
 
 
 Straipsnio pakeitimai:
@@ -2080,103 +2091,103 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 ### 48 straipsnis. Pažeidimų tyrimo, baudų skyrimo ir vykdymo tvarka
 
 
-1. Baudų, nurodytų šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ir [[#^f3a4b0a2e4940954293b062d|2 dalyse]], skyrimą inicijuoja Valstybinės atominės energetikos saugos inspekcijos darbuotojas, nustatęs pažeidimo požymių turinčią veiką, surašydamas tarnybinį pranešimą Valstybinės atominės energetikos saugos inspekcijos viršininkui apie pažeidimo požymių turinčią veiką su siūlymu pradėti galimo pažeidimo tyrimą. Valstybinės atominės energetikos saugos inspekcijos viršininkas, atsižvelgdamas į tarnybiniame pranešime nurodytas galimo pažeidimo aplinkybes ir kitas su galimu pažeidimu susijusias objektyvias aplinkybes, ne vėliau kaip per 3 darbo dienas nuo tarnybinio pranešimo gavimo dienos priima sprendimą pradėti galimo pažeidimo tyrimą arba atmesti siūlymą dėl galimo pažeidimo tyrimo pradėjimo. Ne vėliau kaip kitą darbo dieną po to, kai priimamas sprendimas pradėti galimo pažeidimo tyrimą, juridiniam asmeniui išsiunčiama šio sprendimo kopija. ^2273fea78c5974339a6aad67
+1. Baudų, nurodytų šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ir [[#^26cbf5d9ccead614c0a1fea6|2 dalyse]], skyrimą inicijuoja Valstybinės atominės energetikos saugos inspekcijos darbuotojas, nustatęs pažeidimo požymių turinčią veiką, surašydamas tarnybinį pranešimą Valstybinės atominės energetikos saugos inspekcijos viršininkui apie pažeidimo požymių turinčią veiką su siūlymu pradėti galimo pažeidimo tyrimą. Valstybinės atominės energetikos saugos inspekcijos viršininkas, atsižvelgdamas į tarnybiniame pranešime nurodytas galimo pažeidimo aplinkybes ir kitas su galimu pažeidimu susijusias objektyvias aplinkybes, ne vėliau kaip per 3 darbo dienas nuo tarnybinio pranešimo gavimo dienos priima sprendimą pradėti galimo pažeidimo tyrimą arba atmesti siūlymą dėl galimo pažeidimo tyrimo pradėjimo. Ne vėliau kaip kitą darbo dieną po to, kai priimamas sprendimas pradėti galimo pažeidimo tyrimą, juridiniam asmeniui išsiunčiama šio sprendimo kopija. ^a327605efd8e5c55d69c5eb3
 
 
-2. Galimo pažeidimo tyrimas turi būti baigtas ne vėliau kaip per 30 darbo dienų nuo sprendimo pradėti galimo pažeidimo tyrimą priėmimo dienos. ^f3a4b0a2e4940954293b062d
+2. Galimo pažeidimo tyrimas turi būti baigtas ne vėliau kaip per 30 darbo dienų nuo sprendimo pradėti galimo pažeidimo tyrimą priėmimo dienos. ^26cbf5d9ccead614c0a1fea6
 
 
-3. Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai, atlikdami galimo pažeidimo tyrimą, turi šio įstatymo [[#^2568c56275387166d7f5c9a3|12 straipsnio 2 dalyje]] nurodytas teises. ^49a6c1ac66735cab0a378217
+3. Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai, atlikdami galimo pažeidimo tyrimą, turi šio įstatymo [[#^2568c56275387166d7f5c9a3|12 straipsnio 2 dalyje]] nurodytas teises. ^bba5d2ca355825a5c5a27787
 
 
-4. Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai, prieš atlikdami galimo pažeidimo tyrimo veiksmus, turi juridiniam asmeniui pateikti Valstybinės atominės energetikos saugos inspekcijos viršininko išduotą dokumentą, patvirtinantį jų įgaliojimus, tyrimo tikslus ir terminus. ^e49756b0503f2b8ac73e4bc1
+4. Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai, prieš atlikdami galimo pažeidimo tyrimo veiksmus, turi juridiniam asmeniui pateikti Valstybinės atominės energetikos saugos inspekcijos viršininko išduotą dokumentą, patvirtinantį jų įgaliojimus, tyrimo tikslus ir terminus. ^b995f6e44a8f1659a733aeaf
 
 
-5. Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai galimo pažeidimo tyrimo veiksmus įformina raštu. Šių dokumentų formą ir pildymo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. ^96a20eadf7ca04ffc00111e1
+5. Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai galimo pažeidimo tyrimo veiksmus įformina raštu. Šių dokumentų formą ir pildymo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. ^e7def4dd6956b5db804cc6d3
 
 
-6. Baigę galimo pažeidimo tyrimą, ne vėliau kaip iki [[#^f3a4b0a2e4940954293b062d|šio straipsnio 2 dalyje]] nurodyto termino pabaigos, jį atlikę Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai surašo tarnybinį pranešimą Valstybinės atominės energetikos saugos inspekcijos viršininkui ir prideda susijusius dokumentus bei kitus surinktus įrodymus. ^5cffc6b13490db78b395f968
+6. Baigę galimo pažeidimo tyrimą, ne vėliau kaip iki [[#^26cbf5d9ccead614c0a1fea6|šio straipsnio 2 dalyje]] nurodyto termino pabaigos, jį atlikę Valstybinės atominės energetikos saugos inspekcijos įgalioti darbuotojai surašo tarnybinį pranešimą Valstybinės atominės energetikos saugos inspekcijos viršininkui ir prideda susijusius dokumentus bei kitus surinktus įrodymus. ^3a61e234c40dfc523439fd06
 
 
-7. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą pradėti galimo pažeidimo bylos nagrinėjimą ir tam sudaro komisiją. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą tyrimą nutraukti, jeigu tyrimo metu paaiškėja, kad teisės pažeidimo nėra. Šioje dalyje nurodyti sprendimai priimami ne vėliau kaip per 3 darbo dienas nuo [[#^5cffc6b13490db78b395f968|šio straipsnio 6 dalyje]] nurodytų dokumentų gavimo dienos. ^e8047809ba78e7825301cdbf
+7. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą pradėti galimo pažeidimo bylos nagrinėjimą ir tam sudaro komisiją. Valstybinės atominės energetikos saugos inspekcijos viršininkas priima sprendimą tyrimą nutraukti, jeigu tyrimo metu paaiškėja, kad teisės pažeidimo nėra. Šioje dalyje nurodyti sprendimai priimami ne vėliau kaip per 3 darbo dienas nuo [[#^3a61e234c40dfc523439fd06|šio straipsnio 6 dalyje]] nurodytų dokumentų gavimo dienos. ^babb6623811047963390051f
 
 
-8. Komisijos posėdis dėl galimo pažeidimo bylos nagrinėjimo turi būti surengtas ne anksčiau kaip po 20 darbo dienų ir ne vėliau kaip per 30 darbo dienų nuo sprendimo sudaryti komisiją priėmimo dienos. ^aae0b419c399606d2ae48209
+8. Komisijos posėdis dėl galimo pažeidimo bylos nagrinėjimo turi būti surengtas ne anksčiau kaip po 20 darbo dienų ir ne vėliau kaip per 30 darbo dienų nuo sprendimo sudaryti komisiją priėmimo dienos. ^3ef54c6d7921e437091e1cd9
 
 
-9. Ne vėliau kaip kitą darbo dieną po to, kai priimamas sprendimas sudaryti komisiją, juridiniam asmeniui išsiunčiamas kvietimas į komisijos posėdį. Šiame kvietime pranešama apie galimą šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ar [[#^f3a4b0a2e4940954293b062d|2 dalyje]] nurodytą pažeidimą, nurodoma galimo pažeidimo esmė, įvardijama galimai pažeisto įstatymo ar kito teisės akto nuostata, nurodoma informacija apie komisijos posėdį (data, laikas ir vieta) ir apie Valstybinės atominės energetikos saugos inspekcijos tyrimo metu surinktus įrodymus, kuriais grindžiamas galimas pažeidimas, bei kitą surinktą medžiagą, su kuria juridinis asmuo gali susipažinti [[#^b03231fcb4e7d718a0539cd8|šio straipsnio 12 dalyje]] nurodyta tvarka. Atsakingai valstybės institucijai, prižiūrinčiai priskirtą sritį, ir (ar) kitam subjektui, raštu pateikusiam informaciją apie galimą pažeidimą (jeigu tokia informacija buvo pateikta), ne vėliau kaip kitą darbo dieną po to, kai priimamas sprendimas sudaryti komisiją, išsiunčiamas kvietimas į komisijos posėdį. Šiame kvietime pranešama apie galimą šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ar [[#^f3a4b0a2e4940954293b062d|2 dalyje]] nurodytą pažeidimą, nurodoma galimo pažeidimo esmė, įvardijama galimai pažeisto įstatymo ar kito teisės akto nuostata ir nurodoma informacija apie komisijos posėdį (data, laikas ir vieta). ^47eaa7e257c51fd420a4a2bd
+9. Ne vėliau kaip kitą darbo dieną po to, kai priimamas sprendimas sudaryti komisiją, juridiniam asmeniui išsiunčiamas kvietimas į komisijos posėdį. Šiame kvietime pranešama apie galimą šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ar [[#^26cbf5d9ccead614c0a1fea6|2 dalyje]] nurodytą pažeidimą, nurodoma galimo pažeidimo esmė, įvardijama galimai pažeisto įstatymo ar kito teisės akto nuostata, nurodoma informacija apie komisijos posėdį (data, laikas ir vieta) ir apie Valstybinės atominės energetikos saugos inspekcijos tyrimo metu surinktus įrodymus, kuriais grindžiamas galimas pažeidimas, bei kitą surinktą medžiagą, su kuria juridinis asmuo gali susipažinti [[#^6e25b312b58a1ec4282e0295|šio straipsnio 12 dalyje]] nurodyta tvarka. Atsakingai valstybės institucijai, prižiūrinčiai priskirtą sritį, ir (ar) kitam subjektui, raštu pateikusiam informaciją apie galimą pažeidimą (jeigu tokia informacija buvo pateikta), ne vėliau kaip kitą darbo dieną po to, kai priimamas sprendimas sudaryti komisiją, išsiunčiamas kvietimas į komisijos posėdį. Šiame kvietime pranešama apie galimą šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ar [[#^26cbf5d9ccead614c0a1fea6|2 dalyje]] nurodytą pažeidimą, nurodoma galimo pažeidimo esmė, įvardijama galimai pažeisto įstatymo ar kito teisės akto nuostata ir nurodoma informacija apie komisijos posėdį (data, laikas ir vieta). ^b8b37761003b687250a8306c
 
 
-10. Juridinis asmuo, kuriam ketinama skirti baudą, bet kuriuo galimo pažeidimo tyrimo ar galimo pažeidimo bylos nagrinėjimo momentu gali pateikti turimus įrodymus, susijusius su nustatytu galimu pažeidimu, įrodančius, kad pažeidimas nebuvo padarytas, patvirtinančius lengvinančias aplinkybes, ar kitus reikalingus įrodymus bei paaiškinimus, teikti prašymus. ^c0e84964f472e209d3cbef82
+10. Juridinis asmuo, kuriam ketinama skirti baudą, bet kuriuo galimo pažeidimo tyrimo ar galimo pažeidimo bylos nagrinėjimo momentu gali pateikti turimus įrodymus, susijusius su nustatytu galimu pažeidimu, įrodančius, kad pažeidimas nebuvo padarytas, patvirtinančius lengvinančias aplinkybes, ar kitus reikalingus įrodymus bei paaiškinimus, teikti prašymus. ^f9320638e8809f4c0a82dc9b
 
 
-11. Juridinis asmuo, kuriam ketinama skirti baudą ar bauda yra paskirta, ir kiti suinteresuoti asmenys turi teisę susipažinti su Valstybinės atominės energetikos saugos inspekcijos surinkta medžiaga, išskyrus medžiagą, kuri yra valstybės, tarnybos ar komercinė paslaptis, bet kuriuo momentu nuo galimo pažeidimo tyrimo pradžios iki sprendimo dėl baudos skyrimo ar neskyrimo įsigaliojimo dienos. Laikoma, kad juridinis asmuo susipažino su Valstybinės atominės energetikos saugos inspekcijos surinkta medžiaga po to, kai ši medžiaga buvo jam pateikta. ^4a247c78d7528962242d7b63
+11. Juridinis asmuo, kuriam ketinama skirti baudą ar bauda yra paskirta, ir kiti suinteresuoti asmenys turi teisę susipažinti su Valstybinės atominės energetikos saugos inspekcijos surinkta medžiaga, išskyrus medžiagą, kuri yra valstybės, tarnybos ar komercinė paslaptis, bet kuriuo momentu nuo galimo pažeidimo tyrimo pradžios iki sprendimo dėl baudos skyrimo ar neskyrimo įsigaliojimo dienos. Laikoma, kad juridinis asmuo susipažino su Valstybinės atominės energetikos saugos inspekcijos surinkta medžiaga po to, kai ši medžiaga buvo jam pateikta. ^ba623c3f3678d15c476c1d56
 
 
-12. Komisijos posėdyje dėl galimo pažeidimo bylos nagrinėjimo gali dalyvauti ir savo paaiškinimus pateikti juridinio asmens, kuriam ketinama skirti baudą, atstovai ir kiti suinteresuoti asmenys, taip pat asmenys, kurių dalyvavimas reikalingas klausimui dėl baudos skyrimo tinkamai išnagrinėti (liudytojai, ekspertai, specialistai ar kiti asmenys). Jeigu posėdyje apklausiami liudytojai, ekspertai, specialistai ar kiti asmenys, juridiniam asmeniui suteikiama teisė apklausti juos, taip pat siūlyti savo liudytojus, ekspertus, specialistus ar kitus asmenis, teikti kitus įrodymus. Juridinio asmens, kuriam ketinama skirti baudą, atstovams neatvykus į posėdį, galimo pažeidimo bylos nagrinėjimas galimas tik tada, kai šiam juridiniam asmeniui tinkamai pranešta apie posėdžio datą, laiką ir vietą ir jis iki komisijos posėdžio nepateikia dokumentų, pateisinančių savo neatvykimą (atostogos, komandiruotė, kitoks užimtumas ir kiti panašūs atvejai nelaikomi svarbiomis neatvykimą pateisinančiomis priežastimis, taip pat svarbiomis priežastimis paprastai nelaikomas neatvykimas dėl ligos ir proceso šalies atstovo užimtumas kitose bylose). Tinkamu pranešimu laikomas šaukimas, išsiųstas registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo rašytiniu pranešimu arba prašymu nurodo kitą korespondencijos įteikimo adresą, arba šaukimas, išsiųstas Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Kitų asmenų neatvykimas nelaikomas svarbia priežastimi, dėl kurios negalima būtų nagrinėti pažeidimo. Posėdis yra viešas, išskyrus atvejus, kai komisija savo iniciatyva arba šio proceso dalyvių prašymu, siekdama apsaugoti valstybės, tarnybos ar komercines paslaptis, motyvuotai nusprendžia klausimą dėl baudos skyrimo nagrinėti uždarame posėdyje. ^b03231fcb4e7d718a0539cd8
+12. Komisijos posėdyje dėl galimo pažeidimo bylos nagrinėjimo gali dalyvauti ir savo paaiškinimus pateikti juridinio asmens, kuriam ketinama skirti baudą, atstovai ir kiti suinteresuoti asmenys, taip pat asmenys, kurių dalyvavimas reikalingas klausimui dėl baudos skyrimo tinkamai išnagrinėti (liudytojai, ekspertai, specialistai ar kiti asmenys). Jeigu posėdyje apklausiami liudytojai, ekspertai, specialistai ar kiti asmenys, juridiniam asmeniui suteikiama teisė apklausti juos, taip pat siūlyti savo liudytojus, ekspertus, specialistus ar kitus asmenis, teikti kitus įrodymus. Juridinio asmens, kuriam ketinama skirti baudą, atstovams neatvykus į posėdį, galimo pažeidimo bylos nagrinėjimas galimas tik tada, kai šiam juridiniam asmeniui tinkamai pranešta apie posėdžio datą, laiką ir vietą ir jis iki komisijos posėdžio nepateikia dokumentų, pateisinančių savo neatvykimą (atostogos, komandiruotė, kitoks užimtumas ir kiti panašūs atvejai nelaikomi svarbiomis neatvykimą pateisinančiomis priežastimis, taip pat svarbiomis priežastimis paprastai nelaikomas neatvykimas dėl ligos ir proceso šalies atstovo užimtumas kitose bylose). Tinkamu pranešimu laikomas šaukimas, išsiųstas registruotu laišku Juridinių asmenų registre nurodytu buveinės adresu, išskyrus atvejus, kai juridinis asmuo rašytiniu pranešimu arba prašymu nurodo kitą korespondencijos įteikimo adresą, arba šaukimas, išsiųstas Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Kitų asmenų neatvykimas nelaikomas svarbia priežastimi, dėl kurios negalima būtų nagrinėti pažeidimo. Posėdis yra viešas, išskyrus atvejus, kai komisija savo iniciatyva arba šio proceso dalyvių prašymu, siekdama apsaugoti valstybės, tarnybos ar komercines paslaptis, motyvuotai nusprendžia klausimą dėl baudos skyrimo nagrinėti uždarame posėdyje. ^6e25b312b58a1ec4282e0295
 
 
-13. Komisija posėdžio metu dėl objektyvių priežasčių turi teisę nuspręsti atidėti posėdį, paskirdama naujo posėdžio laiką. Priėmus sprendimą atidėti posėdį, apie tai pranešama posėdyje dalyvaujantiems asmenims. Jeigu juridinio asmens, kuriam ketinama skirti baudą, atstovai ir (ar) kiti kviesti į posėdį (arba kuriuos nuspręsta kviesti į kitą posėdį) asmenys ar jų atstovai nedalyvauja, jiems taip pat yra siunčiamas pranešimas apie kito posėdžio datą, laiką ir vietą. ^67d7411f0759a7a010175c85
+13. Komisija posėdžio metu dėl objektyvių priežasčių turi teisę nuspręsti atidėti posėdį, paskirdama naujo posėdžio laiką. Priėmus sprendimą atidėti posėdį, apie tai pranešama posėdyje dalyvaujantiems asmenims. Jeigu juridinio asmens, kuriam ketinama skirti baudą, atstovai ir (ar) kiti kviesti į posėdį (arba kuriuos nuspręsta kviesti į kitą posėdį) asmenys ar jų atstovai nedalyvauja, jiems taip pat yra siunčiamas pranešimas apie kito posėdžio datą, laiką ir vietą. ^80200dc8c2993b8f4e9a1e99
 
 
-14. Galimo pažeidimo bylos nagrinėjimo metu komisija turi teisę duoti nurodymus Valstybinės atominės energetikos saugos inspekcijos darbuotojams papildyti surinktą medžiagą. Papildomai medžiagai surinkti nustatomas iki 14 darbo dienų terminas. Terminas papildomai medžiagai surinkti nėra įskaičiuojamas į [[#^2683f0bcb19a6710d33f6714|šio straipsnio 19 dalyje]] nurodytą terminą. Su surinkta medžiaga, taip pat su kitų proceso dalyvių pateikta nauja medžiaga juridiniam asmeniui suteikiama teisė susipažinti ne vėliau kaip per 3 darbo dienas nuo medžiagos surinkimo ir (ar) užfiksavimo raštu informavus jį apie tokios medžiagos surinkimą ir (ar) užfiksavimą. Laikoma, kad juridinis asmuo susipažino su iš naujo surinkta medžiaga po to, kai ši informacija buvo jam pateikta. Juridinis asmuo turi teisę pateikti savo paaiškinimus dėl šios medžiagos per 5 darbo dienas nuo susipažinimo su šia medžiaga. ^2d300297d9a587b53f36a10e
+14. Galimo pažeidimo bylos nagrinėjimo metu komisija turi teisę duoti nurodymus Valstybinės atominės energetikos saugos inspekcijos darbuotojams papildyti surinktą medžiagą. Papildomai medžiagai surinkti nustatomas iki 14 darbo dienų terminas. Terminas papildomai medžiagai surinkti nėra įskaičiuojamas į [[#^2236677e09da2ee75848d8f3|šio straipsnio 19 dalyje]] nurodytą terminą. Su surinkta medžiaga, taip pat su kitų proceso dalyvių pateikta nauja medžiaga juridiniam asmeniui suteikiama teisė susipažinti ne vėliau kaip per 3 darbo dienas nuo medžiagos surinkimo ir (ar) užfiksavimo raštu informavus jį apie tokios medžiagos surinkimą ir (ar) užfiksavimą. Laikoma, kad juridinis asmuo susipažino su iš naujo surinkta medžiaga po to, kai ši informacija buvo jam pateikta. Juridinis asmuo turi teisę pateikti savo paaiškinimus dėl šios medžiagos per 5 darbo dienas nuo susipažinimo su šia medžiaga. ^fce7233bf5c30b5d7cc1afa5
 
 
-15. Galimo pažeidimo bylos nagrinėjimo procedūra laikoma baigta, kai komisija pateikia Valstybinės atominės energetikos saugos inspekcijos viršininkui išvadą. ^e4de17705f59a578d978512f
+15. Galimo pažeidimo bylos nagrinėjimo procedūra laikoma baigta, kai komisija pateikia Valstybinės atominės energetikos saugos inspekcijos viršininkui išvadą. ^1b584e6d8d6a27e316992e58
 
 
-16. Valstybinės atominės energetikos saugos inspekcijos viršininkas, atsižvelgdamas į komisijos išvadoje nurodytas galimo pažeidimo aplinkybes ir kitas su galimu pažeidimu susijusias komisijos nustatytas objektyvias aplinkybes bei informacijos pakankamumą ir pagrįstumą, priima sprendimą (įsakymą) skirti baudą, grąžinti komisijos išvadą komisijai papildyti ar patikslinti arba baudos neskirti. Priėmus sprendimą grąžinti komisijos išvadą komisijai papildyti ar patikslinti, komisija baudos skyrimo procedūrą pradeda iš naujo. Baudos skyrimo procedūra laikoma baigta priėmus sprendimą skirti arba neskirti baudą. ^b947d9cc2ce0a6919a4c0434
+16. Valstybinės atominės energetikos saugos inspekcijos viršininkas, atsižvelgdamas į komisijos išvadoje nurodytas galimo pažeidimo aplinkybes ir kitas su galimu pažeidimu susijusias komisijos nustatytas objektyvias aplinkybes bei informacijos pakankamumą ir pagrįstumą, priima sprendimą (įsakymą) skirti baudą, grąžinti komisijos išvadą komisijai papildyti ar patikslinti arba baudos neskirti. Priėmus sprendimą grąžinti komisijos išvadą komisijai papildyti ar patikslinti, komisija baudos skyrimo procedūrą pradeda iš naujo. Baudos skyrimo procedūra laikoma baigta priėmus sprendimą skirti arba neskirti baudą. ^502614b211a13559a18d39c8
 
 
-17. Komisijos išvadoje siūlomas sprendimas Valstybinės atominės energetikos saugos inspekcijos viršininkui neprivalomas. ^9df3b743e5790bd9323763ed
+17. Komisijos išvadoje siūlomas sprendimas Valstybinės atominės energetikos saugos inspekcijos viršininkui neprivalomas. ^b75a0331deb1fcdc791eaa73
 
 
-18. Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymo nuorašas dėl sprendimo skirti ar neskirti baudą kartu su komisijos išvados kopija, o tuo atveju, jeigu priimamas sprendimas grąžinti komisijos išvadą komisijai papildyti ar patikslinti, – pranešimas išsiunčiami juridiniam asmeniui ne vėliau kaip per vieną darbo dieną nuo atitinkamo sprendimo priėmimo dienos. ^564114cea1094c61f2a47f3e
+18. Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymo nuorašas dėl sprendimo skirti ar neskirti baudą kartu su komisijos išvados kopija, o tuo atveju, jeigu priimamas sprendimas grąžinti komisijos išvadą komisijai papildyti ar patikslinti, – pranešimas išsiunčiami juridiniam asmeniui ne vėliau kaip per vieną darbo dieną nuo atitinkamo sprendimo priėmimo dienos. ^f9497ef7951813da9170204f
 
 
-19. Sprendimas dėl baudos skyrimo ar neskyrimo turi būti priimtas ne vėliau kaip per 90 darbo dienų nuo tarnybinio pranešimo apie pažeidimą surašymo dienos. Šio termino skaičiavimas yra sustabdomas komisijai priėmus sprendimą surinkti papildomą medžiagą šios medžiagos surinkimo terminui pasibaigus ir tęsiamas šiam terminui pasibaigus. ^2683f0bcb19a6710d33f6714
+19. Sprendimas dėl baudos skyrimo ar neskyrimo turi būti priimtas ne vėliau kaip per 90 darbo dienų nuo tarnybinio pranešimo apie pažeidimą surašymo dienos. Šio termino skaičiavimas yra sustabdomas komisijai priėmus sprendimą surinkti papildomą medžiagą šios medžiagos surinkimo terminui pasibaigus ir tęsiamas šiam terminui pasibaigus. ^2236677e09da2ee75848d8f3
 
 
-20. Skiriant baudą, atsižvelgiama į: ^6092297e366309f5213b3364
+20. Skiriant baudą, atsižvelgiama į: ^d831c33e9d21c37310aeceed
 
 
-1) pažeidimo pobūdį; ^c6d50e3cc5af468e2ccf8380
+1) pažeidimo pobūdį; ^486c8f5161e005d51d415548
 
 
-2) pažeidimo pavojingumą; ^a351745eb97487e48963c385
+2) pažeidimo pavojingumą; ^b6cf9bdbce93de32106ed6c5
 
 
-3) pažeidimo trukmę; ^efbf964f5186be943901dcd1
+3) pažeidimo trukmę; ^d42b4c1eea97837df8a761fd
 
 
-4) pažeidimu padarytos žalos dydį, mastą; ^d79eb35970a97e39b0fc549c
+4) pažeidimu padarytos žalos dydį, mastą; ^38b41fa747a9d25ef7dfd291
 
 
-5) atsakomybę lengvinančias ar sunkinančias aplinkybes. ^38a7462680d4032679ca369c
+5) atsakomybę lengvinančias ar sunkinančias aplinkybes. ^35d3dfc664a09eaa136ec338
 
 
-21. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pažeidimą padaręs juridinis asmuo savo noru užkirto kelią pažeidimo padariniams, padėjo nustatyti pažeidimo aplinkybes, nedelsdamas ėmėsi priemonių pašalinti pažeidimą, atlygino nuostolius ar pašalino padarytą žalą. ^61787d32143a9f28600855ea
+21. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pažeidimą padaręs juridinis asmuo savo noru užkirto kelią pažeidimo padariniams, padėjo nustatyti pažeidimo aplinkybes, nedelsdamas ėmėsi priemonių pašalinti pažeidimą, atlygino nuostolius ar pašalino padarytą žalą. ^c66692fb2e998b369c271706
 
 
-22. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo kliudė nustatyti pažeidimo aplinkybes, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydamas Valstybinės atominės energetikos saugos inspekcijos įpareigojimo nutraukti neteisėtus veiksmus, arba pakartotinai įvykdė pažeidimą, už kurį jam jau buvo paskirtos šio įstatymo nustatytos baudos, arba nevykdė atsakingų valstybės institucijų, prižiūrinčių priskirtą sritį, nurodymų dėl nustatytų pažeidimų pašalinimo. ^b99936358bba27c971277cd6
+22. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo kliudė nustatyti pažeidimo aplinkybes, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydamas Valstybinės atominės energetikos saugos inspekcijos įpareigojimo nutraukti neteisėtus veiksmus, arba pakartotinai įvykdė pažeidimą, už kurį jam jau buvo paskirtos šio įstatymo nustatytos baudos, arba nevykdė atsakingų valstybės institucijų, prižiūrinčių priskirtą sritį, nurodymų dėl nustatytų pažeidimų pašalinimo. ^cd371d0934ebd4fe2556eeed
 
 
-23. Skiriamos baudos dydis, neviršijant šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ir [[#^f3a4b0a2e4940954293b062d|2 dalyse]] nurodytų dydžių, nustatomas įvertinus [[#^6092297e366309f5213b3364|šio straipsnio 20 dalies]] 1–4 punktuose nurodytas aplinkybes ir vadovaujantis teisingumo, protingumo ir sąžiningumo principais. Nustatytas baudos dydis mažinamas, jeigu yra atsakomybę lengvinančių aplinkybių, arba didinamas, jeigu yra atsakomybę sunkinančių aplinkybių. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, pinginės baudos dydis nustatomas atsižvelgiant į tokių aplinkybių skaičių ir reikšmingumą. ^ab090e8a84033d481a96f9c8
+23. Skiriamos baudos dydis, neviršijant šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ir [[#^26cbf5d9ccead614c0a1fea6|2 dalyse]] nurodytų dydžių, nustatomas įvertinus [[#^d831c33e9d21c37310aeceed|šio straipsnio 20 dalies]] 1–4 punktuose nurodytas aplinkybes ir vadovaujantis teisingumo, protingumo ir sąžiningumo principais. Nustatytas baudos dydis mažinamas, jeigu yra atsakomybę lengvinančių aplinkybių, arba didinamas, jeigu yra atsakomybę sunkinančių aplinkybių. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, pinginės baudos dydis nustatomas atsižvelgiant į tokių aplinkybių skaičių ir reikšmingumą. ^6b9838ac1c720b7bc8794029
 
 
-24. Už tą patį pažeidimą gali būti skiriama tik viena bauda. Baudos skyrimas neatleidžia juridinio asmens, kuriam skiriama bauda, nuo pareigos, už kurios nevykdymą paskirta bauda, vykdymo teisės aktuose nustatyta tvarka ir sąlygomis. ^747d98799e560d1b7b2774af
+24. Už tą patį pažeidimą gali būti skiriama tik viena bauda. Baudos skyrimas neatleidžia juridinio asmens, kuriam skiriama bauda, nuo pareigos, už kurios nevykdymą paskirta bauda, vykdymo teisės aktuose nustatyta tvarka ir sąlygomis. ^712f1da992847412ec36c586
 
 
-25. Bauda už pažeidimus gali būti skiriama ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos, o esant trunkamam pažeidimui – per 3 metus nuo jo paaiškėjimo dienos. ^aacad1103cd27d40460b6bd5
+25. Bauda už pažeidimus gali būti skiriama ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos, o esant trunkamam pažeidimui – per 3 metus nuo jo paaiškėjimo dienos. ^e4590bfb830805a9b06a06f3
 
 
-26. Valstybinės atominės energetikos saugos inspekcijos viršininko paskirta bauda sumokama į valstybės biudžetą per 3 mėnesius nuo Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimo dėl baudos skyrimo įsigaliojimo dienos. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl baudos skyrimo įsigalioja po 30 dienų nuo sprendimo priėmimo dienos, jeigu per tą laiką įstatymų nustatyta tvarka nebuvo apskųstas teismui. Tais atvejais, kai sprendimas dėl baudos skyrimo apskundžiamas teismui, bauda turi būti sumokama ne vėliau kaip per 3 mėnesius nuo teismo sprendimo įsiteisėjimo dienos, išskyrus atvejus, kai teismas priima sprendimą Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimą dėl baudos skyrimo panaikinti. ^029d5d9ded420f7835abd048
+26. Valstybinės atominės energetikos saugos inspekcijos viršininko paskirta bauda sumokama į valstybės biudžetą per 3 mėnesius nuo Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimo dėl baudos skyrimo įsigaliojimo dienos. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl baudos skyrimo įsigalioja po 30 dienų nuo sprendimo priėmimo dienos, jeigu per tą laiką įstatymų nustatyta tvarka nebuvo apskųstas teismui. Tais atvejais, kai sprendimas dėl baudos skyrimo apskundžiamas teismui, bauda turi būti sumokama ne vėliau kaip per 3 mėnesius nuo teismo sprendimo įsiteisėjimo dienos, išskyrus atvejus, kai teismas priima sprendimą Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimą dėl baudos skyrimo panaikinti. ^35bdfb2410ac902c22745272
 
 
-27. Valstybinės atominės energetikos saugos inspekcijos sprendimas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiamas teismui. Teismas turi teisę palikti Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimą nepakeistą arba, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes, dėl kurių bauda juridiniam asmeniui yra akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui, jo pavojingumui, trukmei ir sukeliamiems padariniams ir dėl to neteisinga, sumažinti Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimu skirtą piniginę baudą, įskaitant sumažinimą iki dydžio, mažesnio negu šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ir [[#^f3a4b0a2e4940954293b062d|2 dalyse]] nustatytos minimalios baudos, arba Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimą panaikinti. ^84965827f3066bd4d9a64bf8
+27. Valstybinės atominės energetikos saugos inspekcijos sprendimas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiamas teismui. Teismas turi teisę palikti Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimą nepakeistą arba, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes, dėl kurių bauda juridiniam asmeniui yra akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui, jo pavojingumui, trukmei ir sukeliamiems padariniams ir dėl to neteisinga, sumažinti Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimu skirtą piniginę baudą, įskaitant sumažinimą iki dydžio, mažesnio negu šio įstatymo [[#47 straipsnis. Baudos|47 straipsnio]] 1 ir [[#^26cbf5d9ccead614c0a1fea6|2 dalyse]] nustatytos minimalios baudos, arba Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimą panaikinti. ^290c5839fc1ad46967030a05
 
 
-28. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl baudos skyrimo yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis turi būti priverstinai vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^c8fb688acdf91229b4f8714f
+28. Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimas dėl baudos skyrimo yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis turi būti priverstinai vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^e8a023d5045eed39c212f6c0
 
 
 Straipsnio pakeitimai:
@@ -2192,13 +2203,13 @@ BAIGIAMOSIOS NUOSTATOS
 ### 49 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Šis įstatymas, išskyrus [[#51 straipsnis. Įstatymo įgyvendinimas|51 straipsnį]], įsigalioja 2011 m. spalio 1 d. ^422f88c8f15be99f60706447
+1. Šis įstatymas, išskyrus [[#51 straipsnis. Įstatymo įgyvendinimas|51 straipsnį]], įsigalioja 2011 m. spalio 1 d. ^5cc8b145da33f2913aa3d506
 
 
-2. Šio įstatymo [[#^c3d94497d48208c2e6665d34|32 straipsnio 1 dalis]] taikoma po šio įstatymo įsigaliojimo pradėtiems įgyvendinti radioaktyviųjų atliekų tvarkymo įrenginių projektams. ^819c126c25ed5229130ff444
+2. Šio įstatymo [[#^c3d94497d48208c2e6665d34|32 straipsnio 1 dalis]] taikoma po šio įstatymo įsigaliojimo pradėtiems įgyvendinti radioaktyviųjų atliekų tvarkymo įrenginių projektams. ^5f779880cb0eb50fa785549a
 
 
-3. Valstybinė atominės energetikos saugos inspekcija per vienus metus nuo šio įstatymo įsigaliojimo dienos peržiūri galiojančias licencijas ar leidimus, išduotus iki šio įstatymo įsigaliojimo dienos, ir, jeigu šis įstatymas nustato kitokias licencijų ar leidimų rūšis ar veiklos, kuriai išduota licencija ar leidimas, sąlygas, Valstybinės atominės energetikos saugos inspekcijos viršininkas juos panaikina, jeigu veiklai, kuriai buvo išduoti licencija ar leidimas, vykdyti, vadovaujantis šiuo įstatymu, licencija ar leidimas nėra reikalingi, pakeičia išduotus licencijas ar leidimus arba raštu praneša licencijos ar leidimo turėtojui, kad licencija ar leidimas nebus keičiami. Reikiamiems pakeitimams atlikti Valstybinė atominės energetikos saugos inspekcija gali pareikalauti iš licencijos ar leidimo turėtojo reikalingų dokumentų. Licencijos ar leidimo turėtojas šiuos dokumentus privalo pateikti ne vėliau kaip per Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą, kuris negali būti trumpesnis negu 3 mėnesiai. Pateikti dokumentai nagrinėjami ir licencijos galiojimo sąlygos keičiamos šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka. Laikotarpiu iki Valstybinės atominės energetikos saugos inspekcijos viršininko atitinkamo sprendimo priėmimo licencijos ar leidimo turėtojas gali tęsti savo veiklą, vykdydamas licencijuojamos ar leidimu reguliuojamos veiklos sąlygas pagal galiojančius licenciją ar leidimą. ^2e29a69ca812a4c0d1784898
+3. Valstybinė atominės energetikos saugos inspekcija per vienus metus nuo šio įstatymo įsigaliojimo dienos peržiūri galiojančias licencijas ar leidimus, išduotus iki šio įstatymo įsigaliojimo dienos, ir, jeigu šis įstatymas nustato kitokias licencijų ar leidimų rūšis ar veiklos, kuriai išduota licencija ar leidimas, sąlygas, Valstybinės atominės energetikos saugos inspekcijos viršininkas juos panaikina, jeigu veiklai, kuriai buvo išduoti licencija ar leidimas, vykdyti, vadovaujantis šiuo įstatymu, licencija ar leidimas nėra reikalingi, pakeičia išduotus licencijas ar leidimus arba raštu praneša licencijos ar leidimo turėtojui, kad licencija ar leidimas nebus keičiami. Reikiamiems pakeitimams atlikti Valstybinė atominės energetikos saugos inspekcija gali pareikalauti iš licencijos ar leidimo turėtojo reikalingų dokumentų. Licencijos ar leidimo turėtojas šiuos dokumentus privalo pateikti ne vėliau kaip per Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą, kuris negali būti trumpesnis negu 3 mėnesiai. Pateikti dokumentai nagrinėjami ir licencijos galiojimo sąlygos keičiamos šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka. Laikotarpiu iki Valstybinės atominės energetikos saugos inspekcijos viršininko atitinkamo sprendimo priėmimo licencijos ar leidimo turėtojas gali tęsti savo veiklą, vykdydamas licencijuojamos ar leidimu reguliuojamos veiklos sąlygas pagal galiojančius licenciją ar leidimą. ^e4f8ee78e3a502fe0b503ec2
 
 
 
@@ -2294,10 +2305,10 @@ branduolinės saugos įstatymo
 
 
 
-1. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/117/Euratomas dėl radioaktyviųjų atliekų ir panaudoto branduolinio kuro vežimo priežiūros ir kontrolės. ^b5b5b75adc4ff11b4875bf1e
+1. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/117/Euratomas dėl radioaktyviųjų atliekų ir panaudoto branduolinio kuro vežimo priežiūros ir kontrolės. ^2069d1461b82a34e3e4110c1
 
 
-2. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema, su paskutiniais pakeitimais, padarytais 2014 m. liepos 8 d. Tarybos direktyva 2014/87/Euratomas, kuria iš dalies keičiama Direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema. ^ad6bd651680be268f7fc507d
+2. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema, su paskutiniais pakeitimais, padarytais 2014 m. liepos 8 d. Tarybos direktyva 2014/87/Euratomas, kuria iš dalies keičiama Direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema. ^70040559d627b641e501eab2
 
 
 Priedo pakeitimai:
@@ -2341,3 +2352,13 @@ Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 5, 22, 23, 24, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3365, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24521
 Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 [[#25 straipsnis. Sprendimo dėl licencijos išdavimo priėmimas|25 straipsnio]] pakeitimo įstatymas
+
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-291, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11285
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 [[#32 straipsnis. Branduolinės energetikos objekto veiklos ir kitos su branduolinėmis ir (arba) branduolinio kuro ciklo medžiagomis susijusios veiklos saugos analizės ir pagrindimo dokumentai|32 straipsnio]] pakeitimo įstatymas
+
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-1008, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11094
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 [[#38 straipsnis. Avarinė parengtis|38 straipsnio]] pakeitimo įstatymas

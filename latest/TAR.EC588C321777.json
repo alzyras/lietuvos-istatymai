@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.EC588C321777.md",
   "latest_revision": "2002-04-09",
-  "latest_sha256": "dbd8b5e12572dd215b5abeb2b5aa124b22c82094e250cfa063fb55a9239c4922",
+  "latest_sha256": "d4e2294bede4729e4aeb6562745f46af417731e40b31858070963299c7cae897",
   "metadata_path": "latest/TAR.EC588C321777.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:40Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/398a02704a6f11e6b5d09300a16a686c.md",
   "latest_revision": "2017-01-01",
-  "latest_sha256": "ab99ccab517ba0eae499d60f94e7d1504401a93c5c90931b8e74d3abcfa9e86e",
+  "latest_sha256": "2083c6738700613437a81325470c20a43ade562cccd85883184031a6916db8f2",
   "metadata_path": "latest/398a02704a6f11e6b5d09300a16a686c.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos tikslinių kompensacijų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:25Z"
 }

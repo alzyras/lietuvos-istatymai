@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.1B4D7B687895.md",
   "latest_revision": "1994-12-23",
-  "latest_sha256": "ff29710edf05f6282dda3ec74203ead1ffa9570937776958178c96ec83e6e4af",
+  "latest_sha256": "b192bc8dd64b071a476416d4be6ee74fb2fb430f5de1b9da55efeee11fa0a7d7",
   "metadata_path": "latest/TAR.1B4D7B687895.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos Lietuvos banko įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:58:27Z"
+  "updated_from_source_at": "2026-07-02T19:25:52Z"
 }

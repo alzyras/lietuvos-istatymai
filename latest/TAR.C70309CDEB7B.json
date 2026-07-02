@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.C70309CDEB7B.md",
   "latest_revision": "2000-06-28",
-  "latest_sha256": "08447fb27f4204b5fae627490432bf5589e2bd7b8bad71d573dc167563241753",
+  "latest_sha256": "73f3e759f53139576c30da30de713de646051c0f7a6fba3bdbcfb14441216c05",
   "metadata_path": "latest/TAR.C70309CDEB7B.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos karo padėties įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:07Z"
 }

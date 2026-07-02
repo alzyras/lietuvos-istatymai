@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.0F9036415DBD.md",
   "latest_revision": "1991-06-01",
-  "latest_sha256": "431a91eb8a2501e39c74e511c05d94e59cff05f6b271ab016ad4f26ab026d376",
+  "latest_sha256": "dc27aaebb552eff78b26246f733da726a2aa83eba0c963c4f3a79e039e46f1bb",
   "metadata_path": "latest/TAR.0F9036415DBD.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos valstybinio socialinio draudimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:52Z"
 }

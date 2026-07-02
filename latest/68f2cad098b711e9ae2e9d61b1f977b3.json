@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/68f2cad098b711e9ae2e9d61b1f977b3.md",
   "latest_revision": "2020-01-01",
-  "latest_sha256": "e7ef25d92b79d8403eb6d03f2d17ffeb29da108cc28629921ac151a2fa26e92c",
+  "latest_sha256": "ea8c1995acb349d84a6414014cb83c19e9aeacff2768c9890d01a4e2e3663426",
   "metadata_path": "latest/68f2cad098b711e9ae2e9d61b1f977b3.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos juridinių asmenų nemokumo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:28Z"
 }

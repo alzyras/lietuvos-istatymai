@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.D790096B17EE.md",
   "latest_revision": "1994-12-07",
-  "latest_sha256": "9c53052727563efe62df491c4adb14be58363844e1b5a36aa9fccfe637eb74a8",
+  "latest_sha256": "0401974e3481b410429e29af97b3ae66a650c9e2fe2f9776e6949616d0484e38",
   "metadata_path": "latest/TAR.D790096B17EE.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:58:27Z"
+  "updated_from_source_at": "2026-07-02T19:25:42Z"
 }

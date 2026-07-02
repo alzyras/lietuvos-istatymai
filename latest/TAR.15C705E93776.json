@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.15C705E93776.md",
   "latest_revision": "1998-05-27",
-  "latest_sha256": "b855ca0e1b755242af0082fd473c222e400406a864e7a1a2f2aba615f3219ca9",
+  "latest_sha256": "ae2ffda4891099ce2cb1dea1c8829d389a33ac7d88b751d640fbd1f78dafc970",
   "metadata_path": "latest/TAR.15C705E93776.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

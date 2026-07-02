@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.9C9FA25983BC.md",
   "latest_revision": "2000-06-01",
-  "latest_sha256": "b4ff0b7e3174e375c7872fa4e1516a81f852ca2b0796369b9cc301dabdee83fb",
+  "latest_sha256": "0c701d839ad2d3bd82ad4124147ee9d5c63d2e7d75f50b89ec8466478c947494",
   "metadata_path": "latest/TAR.9C9FA25983BC.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:52Z"
 }

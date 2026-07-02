@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2011-08-01"
 latest_path: "latest/TAR.314C413DE28C.md"
-latest_sha256: "a4d3914c67120ddea0ab37052f98fdaa10a5aadc8afc7d4a4084d93f70061c2c"
+latest_sha256: "c025b45c05440999b9fcb5516f22277b00fbb7aac7e18aab0634eae8e800cbb4"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos savanoriškos veiklos įstatymas
@@ -23,6 +23,13 @@ parser_version: "0.1.0"
 LIETUVOS RESPUBLIKOS SAVANORIŠKOS VEIKLOS ĮSTATYMAS
 
 
+Suvestinė redakcija nuo 2024-07-01 iki 2026-06-16
+
+Įstatymas paskelbtas: Žin. 2011, Nr. 86-4142, i. k. 1111010ISTA0XI-1500
+
+Nauja redakcija nuo 2024-07-01:
+Nr. XIV-2301, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24168
+
 LIETUVOS RESPUBLIKOS
 SAVANORIŠKOS VEIKLOS
 ĮSTATYMAS
@@ -32,7 +39,7 @@ Vilnius
 
 
 
-### PIRMASIS SKIRSNIS
+## I SKYRIUS
 BENDROSIOS NUOSTATOS
 
 
@@ -40,272 +47,387 @@ BENDROSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato savanoriškos veiklos ypatumus, savanoriškos veiklos principus, savanorio ir savanoriškos veiklos organizatoriaus teises ir pareigas, savanoriškos veiklos organizavimo tvarką, savanorių draudimo, savanoriškos veiklos išlaidų kompensavimo atvejus.
+1. Šis įstatymas nustato savanoriškos veiklos ypatumus, principus, ilgalaikės savanoriškos veiklos ir savanoriškos tarnybos ypatumus, savanorio, priimančiosios organizacijos ir koordinuojančiosios organizacijos teises ir pareigas, savanoriškos veiklos organizavimo tvarką, savanorių draudimo, savanoriškos veiklos išlaidų kompensavimo ir apmokėjimo atvejus. ^cbb4e2034088bfa833aa4ff8
+
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. ^58f7b4ffb973402aa7a21658
 
 
 
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Savanoriška veikla – savanorio neatlyginamai atliekama visuomenei naudinga veikla, kurios sąlygos nustatomos savanorio ir šios veiklos organizatoriaus susitarimu. ^77887ecccbc75ff2f4a5a037
+1. Ilgalaikė savanoriška veikla – savanorio veikla pagal savanoriškos veiklos sutartį, sudarytą ne trumpesniam kaip 60 dienų laikotarpiui. ^30c6eb36ce932f13fb4b4e80
 
 
-2. Tarptautinė savanoriškos veiklos programa – programa, kuri įgyvendinama vykdant Lietuvos Respublikos tarptautinius įsipareigojimus ir kurioje nustatytos savanorių dalyvavimo, savanoriškos veiklos organizavimo ir finansavimo sąlygos. ^fffc3d8ba831bf4be30de794
+2. Koordinuojančioji organizacija – Lietuvos Respublikoje veikianti nevyriausybinė organizacija, koordinuojanti ir užtikrinanti savanorių dalyvavimą priimančiųjų organizacijų organizuojamose savanoriškose veiklose. ^1cd9a9122da7f44ff9a12a84
+
+
+3. Priimančioji organizacija – Lietuvos Respublikoje veikiantis pelno nesiekiantis juridinis asmuo arba tarptautinės organizacijos filialas, atstovybė, organizuojantis savanorišką veiklą savanoriams, užtikrinantis jų asmeninį, profesinį tobulėjimą, juos konsultuojantis ir teikiantis jiems pagalbą. ^f7f433bd2aa69d5bcfc1b949
+
+
+4. Savanoris – fizinis asmuo, laisva valia neatlyginamai skiriantis laiką, žinias ir gebėjimus savanoriškai veiklai. ^48b07ddeeb56f50207b0b2ba
+
+
+5. Savanoriška tarnyba – visuma priimančiosios organizacijos organizuojamų, koordinuojančiosios organizacijos koordinuojamų ir savanorio vykdomų savanoriškų veiklų, kurių trukmė – ne mažiau kaip 100 valandų per savanoriškos tarnybos programoje nustatytą laikotarpį. ^72bd72766501b5176d59f0a1
+
+
+6. Savanoriška veikla – savanorio laisva valia neatlyginamai vykdoma visuomenei naudinga veikla, kurios sąlygos nustatomos savanoriškos veiklos žodinėje arba rašytinėje sutartyje, sudarytoje tarp savanorio ir priimančiosios ir (ar) koordinuojančiosios organizacijos. ^c235ad55587ab883f5dfae58
+
+
+7. Tarptautinė savanoriškos veiklos programa – dokumentas, kuriame nustatomos savanorių dalyvavimo savanoriškoje veikloje, savanoriškos veiklos organizavimo ir finansavimo sąlygos ir kuriuo vadovaujantis įgyvendinami Lietuvos Respublikos tarptautiniai įsipareigojimai. ^fd3ed5cb7960b88c360e85e4
+
+
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos ar vartojamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos lygių galimybių įstatyme ir Lietuvos Respublikos užimtumo įstatyme. ^500c91bb9019f5778cb16851
 
 
 
 ### 3 straipsnis. Savanoriškos veiklos ypatumai
 
 
-1. Savanoriškos veiklos organizatoriaus ir savanorio santykiai yra civiliniai teisiniai santykiai. ^fc822bf32126bcd9b4184d16
+1. Savanorio, priimančiosios organizacijos ir (ar) koordinuojančiosios organizacijos santykiai yra civiliniai teisiniai santykiai. ^c9c87d6ee21c1cc07568a3ae
 
 
-2. Veikla, kuri atitinka šiame įstatyme nustatytus savanoriškos veiklos principus ir organizuojama šio įstatymo nustatyta tvarka, nėra laikoma nelegaliu darbu. ^6412027a9ae5a874306e76ad
+2. Veikla, kuri atitinka šiame įstatyme nustatytus savanoriškos veiklos principus ir organizuojama šio įstatymo nustatyta tvarka, nelaikoma nelegaliu darbu. ^b40dd5bd1fa1870f714c46b3
+
+
+3. Savanoris negali tą pačią dieną, atlikdamas tas pačias funkcijas, dirbti pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu ir savanoriauti toje pačioje priimančiojoje arba koordinuojančiojoje organizacijoje. ^a1d29da552aa874c2516063f
 
 
 
 ### 4 straipsnis. Savanoriškos veiklos principai
 
 
-Savanoriška veikla atliekama vadovaujantis šiais principais:
+Savanoriška veikla vykdoma laikantis šių principų:
 
 
-1) naudos visuomenei ir asmeniui – dalyvavimas savanoriškoje veikloje sudaro asmenims galimybę aktyviai prisidėti prie visuomenės gerovės kūrimo ir skatina savanorių asmeninę saviraišką ir tobulėjimą; ^c098a1896959909b4a564d1f
+1) naudos visuomenei ir asmeniui – dalyvavimas savanoriškoje veikloje savanoriams suteikia galimybę aktyviai prisidėti prie visuomenės gerovės kūrimo ir skatina asmeninę jų saviraišką ir tobulėjimą; ^ae2b48ea7ef32257acc82c2b
 
 
-2) bendradarbiavimo – savanoriška veikla remiasi savanorių ir savanoriškos veiklos organizatorių tarpusavio bendradarbiavimu, siekiant suderinti savanorių ir savanoriškos veiklos organizatorių poreikius ir galimybes; ^9598c71ed0522eab3f585711
+2) bendradarbiavimo – savanoriška veikla grindžiama savanorių ir priimančiųjų organizacijų tarpusavio bendradarbiavimu, siekiant suderinti savanorių ir priimančiųjų organizacijų poreikius ir galimybes; ^2b7f69deb929a28598599b8d
 
 
-3) įvairovės ir lankstumo – savanoriška veikla gali būti atliekama įvairiose visuomenei naudingos veiklos srityse. Savanoriškos veiklos organizatorius ir savanoris gali susitarti dėl įvairių savanoriškos veiklos formų ir būdų, taip pat juos keisti. ^942ff38a86ef7aebc0563fd1
+3) įvairovės ir lankstumo – savanoriška veikla gali būti vykdoma įvairiose visuomenei naudingos veiklos srityse; priimančioji organizacija ir savanoris gali susitarti dėl įvairių savanoriškos veiklos formų ir būdų, taip pat juos keisti; ^c3966968584b50da61db16a6
 
 
+4) kito žmogaus orumo, teisių ir kultūros gerbimo – siekiama užtikrinti, kad savanoriškoje veikloje nebūtų diskriminacijos; veikla, turinti nusikalstamos veikos požymių, nėra laikoma savanoriška veikla. ^51abc4f30e0ae9e6ea99a507
 
-### ANTRASIS SKIRSNIS
-SAVANORIAI IR SAVANORIŠKOS VEIKLOS ORGANIZATORIAI
 
 
+### 5 straipsnis. Ilgalaikės savanoriškos veiklos ir savanoriškos tarnybos ypatumai
 
-### 5 straipsnis. Reikalavimai savanoriui
 
+1. Ilgalaikė savanoriška veikla gali būti koordinuojama koordinuojančiųjų organizacijų. ^079017e54d314251e57d09b7
 
-1. Savanoriais gali būti vyresni kaip 14 metų Lietuvos Respublikos piliečiai ir Lietuvos Respublikos teritorijoje teisėtai esantys užsieniečiai. ^df979c066d4329ca6cfd4f98
 
+2. Savanoriška tarnyba privalo būti koordinuojama koordinuojančiųjų organizacijų. ^9cff12b94722d44ef201b94e
 
-2. Asmenys, jaunesni kaip 18 metų, gali dalyvauti savanoriškoje veikloje, jeigu tam neprieštarauja vaiko atstovas pagal įstatymą. ^d0d9d342d6801052b5899842
 
+3. Savanoriškos tarnybos organizavimo, trukmės, priimančiosios organizacijos ir koordinuojančiosios organizacijos vertinimo, savanorio savanoriškos veiklos metu įgytų kompetencijų vertinimo ir pripažinimo reikalavimai bei šių organizacijų funkcijos pagal savanoriškos tarnybos tikslinę savanorių grupę numatomi tam tikros valdymo srities ministro patvirtintoje savanoriškos tarnybos programoje. ^16653bb12d179b7f2a166c43
 
-3. Savanoriui kvalifikacija nėra būtina, išskyrus tokį savanoriškos veiklos pobūdį, kuris reikalauja specialios kvalifikacijos pagal kitus teisės aktus arba pagal savanoriškos veiklos organizatorių reikalavimus. ^964fa872fdd05460b94e365e
 
 
-4. Savanoriui pagal atliekamos veiklos pobūdį gali būti taikomi kiti reikalavimai, nustatyti atskiras sritis reglamentuojančiuose teisės aktuose. ^0a2f9e97140c3e33fdeaa22e
+## II SKYRIUS
+SAVANORIAI, PRIIMANČIOSios organizacijos IR KOORDINUOJANČIOSios ORGAniZACIJOS
 
 
 
-### 6 straipsnis. Savanoriškos veiklos organizatoriai
+### 6 straipsnis. Reikalavimai savanoriui
 
 
-Savanoriškos veiklos organizatoriais gali būti Lietuvos Respublikoje įregistruoti:
+1. Savanoriais gali būti 14 metų ir vyresni Lietuvos Respublikos piliečiai ir Lietuvos Respublikos teritorijoje teisėtai esantys užsieniečiai. Jaunesni kaip 18 metų asmenys savanoriais gali būti, jeigu tam neprieštarauja vaiko atstovas pagal įstatymą. ^1f3b6e73550695d88d7d3ef3
 
 
-1) labdaros ir paramos fondai; ^f60c213d5f1af5b2eb182ccb
+2. Savanoriui turėti kvalifikaciją nebūtina, išskyrus tokį savanoriškos veiklos pobūdį, kuris reikalauja specialios kvalifikacijos pagal jo vykdomą veiklą reglamentuojančius teisės aktus arba pagal priimančiosios organizacijos reikalavimus. ^6da3222607fb7136e556c9df
 
 
-2) biudžetinės įstaigos; ^98bdc1474223d4e2c683d342
+3. Savanoriui pagal vykdomos veiklos pobūdį gali būti taikomi kiti reikalavimai, nustatyti jo vykdomą veiklą reglamentuojančiuose teisės aktuose. ^9f460eb91b785b48fa5b5db2
 
 
-3) asociacijos; ^3e2a1213f3fe16029ba2bd4c
 
+### 7 straipsnis. Priimančiosios organizacijos
 
-4) viešosios įstaigos; ^5fae045964f2c64f4a72fc55
 
+Priimančiosios organizacijos gali būti:
 
-5) religinės bendruomenės, bendrijos ir religiniai centrai; ^f8a78666a4ca00e7ec050b56
 
+1) labdaros ir paramos fondai; ^7ad5d0a67ddd48c3893cc309
 
-6) tarptautinių visuomeninių organizacijų filialai, atstovybės; ^a029003308935cca3f77d1e2
 
+2) biudžetinės įstaigos; ^34f36ff0b72f7480685c2dd2
 
-7) politinės partijos; ^e2aa2714cb9b2d0e4d90ad57
 
+3) asociacijos; ^f5654efdca0aa22fb411f388
 
-8) profesinės sąjungos; ^ac60d19bd1577eb07c75b4c8
 
+4) viešosios įstaigos; ^ee6b52ac598b865e1b9d0ee1
 
-9) kiti juridiniai asmenys, kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams. ^9fa03443b8a7731810a57dd2
 
+5) religinės bendruomenės, bendrijos ir religiniai centrai; ^9aa93c1cc5dcf98e1553a2c9
 
 
-### 7 straipsnis. Savanorio teisės ir pareigos
+6) tarptautinių organizacijų filialai, atstovybės; ^421f20d61c7cf1e0d9495442
 
 
-1. Savanoris turi teisę: ^52bcb752d9186cf4d2e37a97
+7) politinės partijos; ^a508c15d9317be7a44a6b586
 
 
-1) būti informuotas apie savanoriškos veiklos mastą ir apimtis, apie esančius ir galimus rizikos veiksnius sveikatai ir saugai, kurie gali iškilti savanoriškos veiklos metu, ir apsisaugojimo nuo jų priemonių panaudojimą; ^ad4ddb76d408d71de3566c36
+8) profesinės sąjungos; ^91382df48a15a0eb06258583
 
 
-2) gauti savanoriškai veiklai atlikti reikalingas priemones, informaciją, mokymus, konsultacinę ir techninę pagalbą; ^9d0900110a3302ea6db77cf3
+9) kiti juridiniai asmenys, kurių veiklą reglamentuoja specialūs įstatymai, kurių veiklos tikslas nėra pelno siekimas ir kurių gautas pelnas negali būti skiriamas jų dalyviams. ^1e4529a835576e54f16a4264
 
 
-3) gauti dokumentą, patvirtinantį savanorio atliktą savanorišką veiklą, įgytą kompetenciją; ^9b2a608a7b714a5b4300083f
 
+### 8 straipsnis. Savanorio teisės ir pareigos
 
-4) nutraukti savanorišką veiklą. ^6a3d557f7ef91d448e109136
 
+1. Savanoris turi teisę: ^27c51290021374847bd958db
 
-2. Savanorio pareigos: ^c6e6a2982d52cd77058cdfbb
 
+1) užsiimti norima savanoriška veikla; ^bad182a39da05fa31a0bf32a
 
-1) laikytis su savanoriškos veiklos organizatoriumi aptartos savanoriškos veiklos atlikimo tvarkos; ^f2b31acb6c04bf191df13753
 
+2) būti informuotas apie savanoriškos veiklos mastą ir apimtį, savanorio užduotis ir atsakomybę, savanoriui teikiamą priimančiosios organizacijos pagalbą, apie esamus ir galimus vykdant savanorišką veiklą galinčios kilti rizikos sveikatai ir saugai veiksnius, jam išduotų asmeninių apsaugos priemonių panaudojimą; ^f13552b61b99669765d956f4
 
-2) dalyvauti pasirengimo savanoriškai veiklai kursuose, jeigu tokių numato savanoriškos veiklos organizatorius; ^d1657d12e003286ed6f318c7
 
+3) gauti savanoriškai veiklai vykdyti reikalingas priemones; ^e8e2297008ed8e2252b8d876
 
-3) nepažeisti savanoriškos veiklos organizatoriaus ir asmenų, kurių labui atliekama savanoriška veikla, teisėtų interesų; ^c82212c238de4216e2411344
 
+4) gauti savanoriškai veiklai vykdyti reikalingą informaciją, konsultacinę bei techninę pagalbą ir būti apmokytas vykdyti savanorišką veiklą; ^2ec78bea4fa05a51bcd5e7d9
 
-4) sąžiningai atlikti savanorišką veiklą. ^14d74d3c6bfadd09255d1065
 
+5) gauti priimančiosios organizacijos nustatyta tvarka išduodamą dokumentą, patvirtinantį savanorio vykdytą savanorišką veiklą, ją vykdant įgytą kompetenciją; ^7f3d33641a7e0d5e57330f80
 
 
-### 8 straipsnis. Savanoriškos veiklos organizatoriaus teisės ir pareigos
+6) gauti kompensaciją ar avansinį apmokėjimą už su savanoriška veikla susijusias išlaidas savanoriškos veiklos sutartyje numatytais atvejais; ^1a7f115574f93160dd09fac3
 
 
-1. Savanoriškos veiklos organizatoriaus teisės: ^5a45abf9e019138eb213d6fd
+7) nutraukti savanorišką veiklą. ^c49b300474722582e59a3719
 
 
-1) pasitelkti savanorius; ^70a2ee1367eeedeb6f4fc598
+2. Savanorio pareigos: ^8ff783ac671a20ba073dfed0
 
 
-2) nustatyti savanoriškos veiklos atlikimo tikslus ir tvarką; ^b30c3c4af5de0a273b928c03
+1) laikytis su priimančiąja organizacija aptartos savanoriškos veiklos vykdymo tvarkos; ^b125e85ac8feeee43084cdf4
 
 
-3) kompensuoti savanoriams su savanoriška veikla susijusias išlaidas; ^dd4ada9cbccffdc43ff0a30c
+2) dalyvauti pasirengimo savanoriškai veiklai mokymuose, jeigu tokius mokymus numato rengti priimančioji arba koordinuojančioji organizacija; ^b8fb0e517f196cf34ec8585f
 
 
-4) reikalauti, kad savanoris dalyvautų pasirengimo savanoriškai veiklai kursuose; ^219312790535930dde5f7ccf
+3) nepažeisti priimančiosios organizacijos ir asmenų, kurių labui vykdoma savanoriška veikla, teisėtų interesų; ^d67ebcdcaf0f78cffd886088
 
 
-5) atsisakyti savanorio, nurodant atsisakymo priežastis. ^77d6c6f9ebc82d75d7b85a4e
+4) sąžiningai vykdyti savanorišką veiklą, nesinaudoti savanoriška veikla tenkinant privačius interesus. ^ecf06dddbeec2d314116d2d4
 
 
-2. Savanoriškos veiklos organizatoriaus pareigos: ^3812d260ed0906f253da5633
 
+### 9 straipsnis. Priimančiosios organizacijos teisės ir pareigos
 
-1) informuoti savanorį apie savanoriškos veiklos pobūdį ir mastą, jos eigą, esančius ir galimus rizikos veiksnius sveikatai ir saugai, kurie gali iškilti savanoriškos veiklos metu, ir apsisaugojimo nuo jų priemonių panaudojimą; ^bfcb0cd40f5caa064704e481
 
+1. Priimančiosios organizacijos teisės: ^4f3d8a2be1d9b1d578e0f84d
 
-2) suteikti savanoriui savanoriškai veiklai atlikti reikalingą informaciją, rengti mokymus, teikti konsultacinę ir techninę pagalbą ir savanorio pageidavimu aprūpinti jį savanoriškai veiklai atlikti reikalingomis priemonėmis; ^fd60db5bc4a963059feca113
 
+1) pasitelkti savanorius; ^a3e8e2af4c46a77cb231ba6c
 
-3) sudaryti su savanoriu savanoriškos veiklos sutartį šio įstatymo [[#^46f568df544ac969f7c45950|9 straipsnio 1 dalyje]] nurodytais atvejais; ^7d89d25f6a3c208af4bcecb8
 
+2) nustatyti vykdomos savanoriškos veiklos tikslus ir tvarką; ^041f61ce3561fc1f5b40f77f
 
-4) savanoriui prašant išduoti dokumentą, patvirtinantį savanorio atliktą savanorišką veiklą, įgytą kompetenciją. ^f7ec7422911783716e489646
 
+3) atlikti asmenų, norinčių vykdyti savanorišką veiklą, atranką; ^84ede8bc97bee7c3eeb077c6
 
 
-### TREČIASIS SKIRSNIS
-SAVANORIŠKOS VEIKLOS ORGANIZAVIMAS, SAVANORIO DRAUDIMAS IR IŠLAIDŲ KOMPENSAVIMAS
+4) atsisakyti savanorio, nurodant jam atsisakymo priežastis. ^631c45b12ff2b3d120699f9a
 
 
+2. Priimančiosios organizacijos pareigos: ^78ab5ea7671f3976718c692e
 
-### 9 straipsnis. Savanoriškos veiklos organizavimas
 
+1) informuoti savanorį apie savanoriškos veiklos pobūdį ir mastą, jos eigą, savanorio užduotis ir atsakomybę vykdant savanorišką veiklą, jam teikiamą pagalbą, esamus ir galimus vykdant savanorišką veiklą galinčios kilti rizikos sveikatai bei saugai veiksnius ir savanoriui išduotų asmeninių apsaugos priemonių naudojimą; ^1d664c0a5672c2e6d0f943b2
 
-1. Savanoriškos veiklos organizatorius su savanoriu sudaro rašytinę savanoriškos veiklos sutartį, jeigu: ^46f568df544ac969f7c45950
 
+2) supažindinti savanorį su galiojančiomis priimančiosios organizacijos vidaus tvarkos taisyklėmis, saugos bei kitomis taisyklėmis ir asmenims, norintiems vykdyti savanorišką veiklą, keliamais reikalavimais; ^e828fa1221441d6373b2aab3
 
-1) kompensuojamos su savanoriška veikla susijusios išlaidos; ^94188fa9b4a4ba3952a73d4f
 
+3) suteikti savanoriui savanoriškai veiklai vykdyti reikalingą informaciją, rengti mokymus, teikti konsultacinę ir techninę pagalbą, prireikus aprūpinti jį savanoriškai veiklai vykdyti reikalingomis priemonėmis; ^eb881d03c02ece13ee53c32f
 
-2) sudaryti sutartį pageidauja viena iš šalių. ^d346c89c9d78662896fc6f19
 
+4) paskirti savanoriui priimančiosios organizacijos atstovą, kuris organizuoja savanorišką veiklą; ^23a13a9155c18a47f466f325
 
-2. Sutartyje gali būti susitariama dėl savanoriškos veiklos trukmės ir laiko, išlaidų, išvardytų šio įstatymo [[#^9766229e993bfe91dd553c28|11 straipsnio 1 dalyje]], kompensavimo, kitų sąlygų. ^ba376fa0bca370fbc595014f
 
+5) sudaryti su savanoriu savanoriškos veiklos sutartį šio įstatymo [[#11 straipsnis. Savanoriškos veiklos organizavimas|11 straipsnio]] 2 ir 3 dalyse nurodytais atvejais; ^3922e8c70946dcf526bbf7e9
 
-3. Atsižvelgiant į savanoriškos veiklos pobūdį ir teisės aktų nustatytus reikalavimus, savanoriškos veiklos organizatorius iš savanorišką veiklą norinčių atlikti asmenų gali reikalauti pateikti tokiai veiklai atlikti reikalingus dokumentus (sveikatos pažymėjimą, pažymą apie teistumą ir kt.). ^38d4a365bfb8b5dcde4f1960
 
+6) savanorio prašymu išduoti dokumentą, patvirtinantį savanorio vykdytą savanorišką veiklą, įgytas kompetencijas; ^5eda50a121d7d6421f172609
 
-4. Savanorišką veiklą savanoris gali atlikti vietovėje, kurioje yra savanoriškos veiklos organizatoriaus buveinė, arba gali būti siunčiamas savanoriškos veiklos organizatoriaus tam tikram laikui tam tikrai užduočiai atlikti į kitą vietovę. ^9e364136e0aad8ce36581046
 
+7) savanoriškos veiklos sutartyje nustatytais atvejais kompensuoti arba avansu apmokėti savanoriams su savanoriška veikla susijusias išlaidas. ^ee183ea8a99968d814180c3b
 
 
-### 10 straipsnis. Savanorio draudimas
 
+### 10 straipsnis. Koordinuojančiosios organizacijos teisės ir pareigos
 
-1. Atsižvelgdamas į savanoriškos veiklos trukmę ir pobūdį, savanoriškos veiklos organizatorius gali drausti savanorį draudimo įmonėse arba kompensuoti savanoriui draudimo įmokas teisės aktų nustatyta tvarka. ^b6e790edd5639493b49d821d
 
+1. Koordinuojančiosios organizacijos teisės: ^b48d0e5605ba5ddcb23fe9cb
 
-2. Tarptautinės savanoriškos veiklos programos savanorių draudimo, draudimo įmokų kompensavimo sąlygas nustato tarptautinė savanoriškos veiklos programa. ^815d9f67733722115f3d3bc9
 
+1) koordinuojant savanorišką veiklą pasitelkti savanorius; ^6b0da9747027d5d6a48de0fb
 
 
-### 11 straipsnis. Savanoriškos veiklos išlaidų kompensavimas
+2) supažindinti savanorį su savanoriškomis veiklomis ir jas organizuojančiomis priimančiosiomis organizacijomis; ^bf5530f58a305d1d8be630a8
 
 
-1. Savanoriškos veiklos organizatorius gali kompensuoti savanoriui su savanoriška veikla susijusias: ^9766229e993bfe91dd553c28
+3) rengti savanoriams mokymus, reikalingus savanoriškai veiklai vykdyti. ^fc30d44939ffc18eacb96b52
 
 
-1) kelionės išlaidas; ^878297606b5a149e4c0db009
+2. Koordinuojančiosios organizacijos pareigos: ^52505a7cc40aa8aee98352cb
 
 
-2) nakvynės išlaidas; ^d71ae1969c1fe2a0cd895624
+1) teikti informaciją apie savanorišką veiklą asmenims, norintiems vykdyti tokią veiklą, ir priimančiosioms organizacijoms; ^5458bd424f701709d0cebe84
 
 
-3) maitinimo išlaidas; ^85664176dde104de7eee387e
+2) analizuoti savanoriškos veiklos organizavimą ir teikti priimančiajai organizacijai pasiūlymus dėl jos organizavimo gerinimo; ^f95cd19819a2a6a6c9cd055f
 
 
-4) pašto, telefono išlaidas; ^dede25447648fd01b321ab3f
+3) savanoriškos veiklos sutartyje nustatyta tvarka ir atsižvelgiant į savanorio nurodytas norimas savanoriškas veiklas siūlyti priimančiąsias organizacijas, kuriose gali būti atliekama savanoriška veikla; ^8f2039ae3de73d98f2974582
 
 
-5) mokymų, susijusių su savanorio parengimu numatytai veiklai atlikti, išlaidas; ^662cb24f4d3f4f48b24eca83
+4) užtikrinti savanorių dalyvavimą priimančiųjų organizacijų organizuojamose savanoriškose veiklose, koordinuoti savanoriškos veiklos vykdymą ir paskirti už savanorį atsakingą koordinuojančiosios organizacijos atstovą, kuris organizuoja savanorišką veiklą, įgytų kompetencijų vertinimą ir įsivertinimą, vykdo priimančiųjų organizacijų atstovų, kurie organizuoja savanorišką veiklą, informavimą ir konsultavimą; ^ae5fec4b00d4980a7f917924
 
 
-6) išlaidas savanoriškai veiklai atlikti reikalingoms priemonėms, specialiesiems drabužiams; ^349eacf11b027e138a2000b5
+5) informuoti ir konsultuoti priimančiąsias organizacijas dėl savanoriškos veiklos organizavimo; ^d54fdbf0f50d6f56ce09ccc3
 
 
-7) savanoriškos veiklos sutarties galiojimo laikotarpiui tenkančias draudimo išlaidas; ^a4308e78aa5efd37ad68ab5c
+6) tvarkyti su savanorio veikla susijusius administracinius klausimus; ^5c45e3dd90475757147d9c99
 
 
-8) kitas tarptautinėse savanoriškos veiklos programose nustatytas išlaidas. ^c9b5a508e22798451e50c245
+7) savanoriškos veiklos sutartyje nustatytais atvejais kompensuoti arba avansu apmokėti savanoriams su savanoriška veikla susijusias išlaidas. ^0db29ed6a4151df7ecc9d521
 
 
-2. Savanoriškos veiklos išlaidų kompensavimo sąlygas ir tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras. ^ec91dcf34f2ba829287a73a7
 
+## III SKYRIUS
+SAVANORIŠKOS VEIKLOS ORGANIZAVIMAS, SAVANORIO DRAUDIMAS, SAVANORIŠKOS VEIKLOS IŠLAIDŲ KOMPENSAVIMAS Ir APMOKĖJIMAS
 
-3. Savanoriui kompensuojamos savanoriškos veiklos išlaidos nėra savanorio pajamos. ^d9544d982eabf2bdeadc0cb9
 
 
+### 11 straipsnis. Savanoriškos veiklos organizavimas
 
-### KETVIRTASIS SKIRSNIS
+
+1. Rašytinės savanoriškos veiklos sutartys skirstomos į dvišales ir trišales pagal sutartį sudarančių šalių skaičių. ^e5645f17e3de8491c38172a1
+
+
+2. Rašytinė dvišalė savanoriškos veiklos sutartis tarp priimančiosios organizacijos ir savanorio privalo būti sudaroma, jeigu atitinka bent vieną iš šių sąlygų: ^8693749b496a4117fc7373dd
+
+
+1) vykdoma ilgalaikė savanoriška veikla; ^aafd48929513ecdf8954eb2e
+
+
+2) vykdoma savanoriška veikla ir numatoma kompensuoti su savanoriška veikla susijusias išlaidas; ^9b1c555192a2fe2d191449c6
+
+
+3) sudaryti savanoriškos veiklos sutartį pageidauja viena iš šalių. ^6b548308847ff219438d3426
+
+
+3. Rašytinė trišalė savanoriškos veiklos sutartis tarp savanorio, priimančiosios organizacijos ir koordinuojančiosios organizacijos privalo būti sudaroma, jeigu atitinka bent vieną iš šių sąlygų: ^b50eb86444172a3f4a9a9494
+
+
+1) atliekama savanoriška tarnyba; ^8c530006e193f10701fcdbca
+
+
+2) koordinuojančioji organizacija pasitelkiama vykdant ilgalaikę savanorišką veiklą. ^b198fd65035b4f7738cebdf0
+
+
+4. Rašytinėje dvišalėje arba trišalėje savanoriškos veiklos sutartyje apibrėžiami šalių įsipareigojimai bei atsakomybės, savanoriškos veiklos trukmė, išlaidų, išvardytų šio įstatymo [[#13 straipsnis. Savanoriškos veiklos išlaidų kompensavimas, apmokėjimas|13 straipsnyje]], kompensavimo arba apmokėjimo avansu, šios sutarties nutraukimo sąlygos. Savanoriškos veiklos sutartyje gali būti numatytos ir kitos sąlygos. Savanoriškos veiklos sutarties formą tvirtina priimančioji organizacija ir (ar) koordinuojančioji organizacija. ^f1ceefff9703b67d3ed0d72b
+
+
+5. Atsižvelgdama į savanoriškos veiklos pobūdį ir jos vykdymą reguliuojančiuose teisės aktuose nustatytus reikalavimus, priimančioji organizacija iš asmenų, norinčių vykdyti savanorišką veiklą, turi teisę reikalauti pateikti tokiai veiklai vykdyti reikalingus dokumentus ir (ar) duomenis, įrodančius atitiktį specialiuosiuose teisės aktuose nustatytiems reikalavimams, keliamiems asmenims, norintiems vykdyti konkrečią savanorišką veiklą. Jeigu šiuose dokumentuose, atsižvelgiant į konkretų teisės akto reikalavimą, yra specialių kategorijų asmens duomenų arba duomenų apie apkaltinamuosius teismo nuosprendžius ir nusikalstamas veikas arba tiesiogiai pateikiami specialių kategorijų asmens duomenys ar duomenys apie apkaltinamuosius teismo nuosprendžius ir nusikalstamas veikas, taikomos tinkamos duomenų subjektų teisių ir laisvių apsaugos priemonės. ^14cabdce4436852cec39a000
+
+
+6. Viešojo administravimo subjektas, veikiantis kaip priimančioji organizacija, [[#^14cabdce4436852cec39a000|šio straipsnio 5 dalyje]] nurodytu atveju gali iš savanorio reikalauti tik tų dokumentų ir informacijos, kurių nėra valstybės registruose (kadastruose), žinybiniuose registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose, finansuojamose iš valstybės ar savivaldybės biudžeto ir (ar) valstybės pinigų fondų. ^bac7896ca2c6f78dd44aea8a
+
+
+
+### 12 straipsnis. Savanorio draudimas
+
+
+1. Atsižvelgdama į savanoriškos veiklos trukmę ir pobūdį, priimančioji arba koordinuojančioji organizacija gali drausti savanorį draudimo įmonėse arba kompensuoti savanoriui sveikatos ir civilinės atsakomybės draudimo išlaidas savanoriškos veiklos sutartyje nustatyta tvarka bei laikantis Lietuvos Respublikos Vyriausybės nustatytų savanoriškos veiklos dienpinigių ir išlaidų kompensavimo sąlygų ir tvarkos. ^1c1f4cd56b8538dcaa3bf4c1
+
+
+2. Tarptautinės savanoriškos veiklos programos savanorių draudimo, draudimo įmokų kompensavimo sąlygos nustatomos tarptautinėje savanoriškos veiklos programoje, išskyrus atvejus, kai tarptautinė savanoriškos veiklos programa finansuojama iš valstybės ar savivaldybės biudžeto arba kitų valstybės ar savivaldybės fondų lėšomis. Jeigu tarptautinė savanoriškos veiklos programa finansuojama valstybės ar savivaldybės biudžeto arba kitų valstybės ar savivaldybės fondų lėšomis, išlaidoms kompensuoti taikomi šio įstatymo [[#13 straipsnis. Savanoriškos veiklos išlaidų kompensavimas, apmokėjimas|13 straipsnyje]] nustatyti reikalavimai. ^578c87ba4f86e99b1352b663
+
+
+
+### 13 straipsnis. Savanoriškos veiklos išlaidų kompensavimas, apmokėjimas
+
+
+1. Priimančioji organizacija arba koordinuojančioji organizacija, įgyvendindama veiklas, finansuojamas valstybės ar savivaldybės biudžeto arba kitų valstybės ar savivaldybės fondų lėšomis, gali kompensuoti savanoriui su savanoriška veikla susijusias: ^767cecaaeb53bf348dbd90f2
+
+
+1) kelionės išlaidas; ^c0c4395d17c256418a5783fc
+
+
+2) nakvynės išlaidas; ^5c9d783bee9a499c0c57dfda
+
+
+3) maitinimosi išlaidas; ^5d59d905a6e771fa7556d316
+
+
+4) pašto, ryšio paslaugų išlaidas; ^6a98db01ea88ffdcb46b96d2
+
+
+5) mokymų, susijusių su savanorio parengimu vykdyti numatytą savanorišką veiklą, dalyvių registravimosi dalyvauti renginyje išlaidas; ^be065247fa6210a5f24abf53
+
+
+6) savanoriškai veiklai vykdyti reikalingų priemonių, specialiųjų drabužių įsigijimo išlaidas; ^bfae22ad562237378fd3deb8
+
+
+7) savanoriškos veiklos sutarties galiojimo laikotarpiu patiriamas sveikatos ir civilinės atsakomybės draudimo išlaidas; ^97e6eb5ec67335bcd5b08ae5
+
+
+8) kitas tarptautinėse savanoriškos veiklos programose nustatytas išlaidas; ^2b123ed61b3fecbcde2061ea
+
+
+9) kitas tiesiogiai su savanoriškos veiklos vykdymu susijusias ir su priimančiąja organizacija ir (ar) koordinuojančiąja organizacija suderintas išlaidas. ^c930662580053da91897227f
+
+
+2. Ilgalaikę savanorišką veiklą vykdančiam savanoriui gali būti kompensuojamos [[#^767cecaaeb53bf348dbd90f2|šio straipsnio 1 dalies]] 1, 2, 4–9 punktuose nurodytos išlaidos ir skiriami dienpinigiai, jeigu yra tenkinamos visos šioje dalyje išvardytos sąlygos: ^48170c3cbade5e13e08e7049
+
+
+1) savanoriui nėra kompensuojamos išlaidos pagal [[#^5d59d905a6e771fa7556d316|šio straipsnio 1 dalies 3 punktą]]; ^0858a55c1000ec58583ceec3
+
+
+2) veiklos organizatorius savanoriškos veiklos metu neaprūpina savanorių reikalingomis priemonėmis ir (ar) paslaugomis; ^c5ab7e0e1a9f6dd70780926b
+
+
+3) savanoriška veikla vykdoma nepertraukiamai ilgiau negu 4 darbo valandas per dieną. ^9e8fa9b2590e5e19fde6c52e
+
+
+3. Savanoriškos veiklos išlaidų kompensavimo sąlygas, dienpinigių dydžius ir dienpinigių skyrimo ir išlaidų kompensavimo tvarką nustato Vyriausybė. ^b63cf4b9a2181e749fa78503
+
+
+4. Savanoriui, vykdančiam savanorišką tarnybą, gali būti skirti dienpinigiai, jeigu atitinka [[#^48170c3cbade5e13e08e7049|šio straipsnio 2 dalyje]] nurodytas sąlygas, arba avansu apmokėtos su savanoriškos veiklos vykdymu susijusios [[#^767cecaaeb53bf348dbd90f2|šio straipsnio 1 dalies]] 1–5 punktuose nurodytos išlaidos, priklausančios nuo savanoriškos veiklos trukmės, kuri turi būti ne trumpesnė kaip 4 valandos per dieną. ^a9ff09555912b161db54cd0c
+
+
+5. Savanorišką tarnybą, finansuojamą valstybės ar savivaldybės biudžeto arba kitų valstybės ar savivaldybės fondų lėšomis, vykdantis savanoris, kuriam pagal [[#^a9ff09555912b161db54cd0c|šio straipsnio 4 dalies]] nuostatas buvo avansu apmokėtos su savanoriškos veiklos vykdymu susijusios išlaidos, tuo atveju, kai realių išlaidų nepatiriama ar jų patiriama iš dalies, privalo grąžinti nepanaudotas lėšas priimančiajai ar koordinuojančiajai organizacijai. ^6a44a655a07ae4b2dc3726b0
+
+
+6. Savanoriškos veiklos išlaidų, patiriamų vykdant savanorišką tarnybą, dydį, ir šių išlaidų apmokėjimo tvarką nustato savanoriškos tarnybos programą patvirtinęs tam tikros valdymo srities ministras. ^09189b24d197680bcea5b72e
+
+
+
+
+## IV SKYRIUS
 SAVANORIŠKOS VEIKLOS PRIPAŽINIMAS
 
 
 
-### 12 straipsnis. Savanoriškos veiklos pripažinimas
+### 14 straipsnis. Savanoriškos veiklos pripažinimas
 
 
-1. Dalyvavimas savanoriškoje veikloje, atsižvelgiant į jos tikslus ir pobūdį, gali būti pripažįstamas savanorio praktinio darbo ir (ar) mokymosi patirtimi. ^0d1cc3bdeab14d0a5f6f71f3
+1. Vyriausybės įgaliotos institucijos nustatyta tvarka savanorio dalyvavimas savanoriškoje veikloje pripažįstamas kaip jo praktinio, pagal veiklos pobūdį analogiško, darbo ir (ar) mokymosi patirtis. ^1ff1243ee782c3db0acbcd8a
 
 
-2. Atlikta savanoriška veikla gali būti įskaityta kaip socialinė veikla pagal bendrojo ugdymo planus. ^044a082d4d89dd532629e26f
-
-
-### PENKTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
-
-
-
-### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
-
-
-1. Šis įstatymas, išskyrus [[#^70bb3b4a656e165cfc2f4005|šio straipsnio 2 dalį]], įsigalioja 2011 m. rugpjūčio 1 d. ^4dfb531f92dd0d52be90e2d4
-
-
-2. Lietuvos Respublikos socialinės apsaugos ir darbo ministras iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^70bb3b4a656e165cfc2f4005
+2. Savanoriška veikla gali būti įskaityta kaip socialinė-pilietinė veikla, vykdyta pagal švietimo, mokslo ir sporto ministro tvirtinamus bendrojo ugdymo planus ^e8b31348d2cb312ef17a4d95
 
 
 
@@ -316,4 +438,23 @@ RESPUBLIKOS PREZIDENTĖ                                                      DAL
 
 
 
-_________________
+
+
+
+
+Lietuvos Respublikos
+savanoriškos veiklos įstatymo
+priedas
+
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+
+2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/801 dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų.
+____________________
+
+
+Pakeitimai:
+
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2301, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24168
+Lietuvos Respublikos savanoriškos veiklos įstatymo Nr. XI-1500 pakeitimo įstatymas

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.E2B2957B9182.md",
   "latest_revision": "1994-08-17",
-  "latest_sha256": "c728226cd47740b26decd7dcc490163b3a6a92ef0ab0d7212c8403c23a86e590",
+  "latest_sha256": "e743f6601f014261d8ede83405ec0874ccf59cdaa3f326a86586eebe76309997",
   "metadata_path": "latest/TAR.E2B2957B9182.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos sveikatos sistemos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

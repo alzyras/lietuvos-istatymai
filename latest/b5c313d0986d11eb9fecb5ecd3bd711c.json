@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/b5c313d0986d11eb9fecb5ecd3bd711c.md",
   "latest_revision": "2021-07-01",
-  "latest_sha256": "2113d4a3b7690d5f3ad02ede641728b499120f15e2a61ad0985734cb7e58957c",
+  "latest_sha256": "84afaa8f8e3f6a8aebaf30158619b1805b1facf353a2d8d1e649ec7acf7bdb8b",
   "metadata_path": "latest/b5c313d0986d11eb9fecb5ecd3bd711c.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos alternatyviųjų degalų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:59:37Z"
+  "updated_from_source_at": "2026-07-02T19:26:44Z"
 }

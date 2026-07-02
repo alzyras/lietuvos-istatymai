@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.B4FA4C56B8D5.md",
   "latest_revision": "2014-01-01",
-  "latest_sha256": "24f8e60b00d8a5791121b9dabfbc941dfaac336c379423fca464b5e31645407f",
+  "latest_sha256": "1ef6c6873d296849126fa9bb17cef35884870baf430e686b3c5a0d10aa96a565",
   "metadata_path": "latest/TAR.B4FA4C56B8D5.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos teisėkūros pagrindų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

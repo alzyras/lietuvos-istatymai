@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.F31E79DEC55D.md",
   "latest_revision": "1996-09-01",
-  "latest_sha256": "17dff251d8ebc1e3eca1beb4a53cdc706aeacb87ea110e7ea714d93825691268",
+  "latest_sha256": "7a8fbc1e60e49c94b3dfc6cd4b7ce39e77c00614548fbeda36009ff94dcaea4b",
   "metadata_path": "latest/TAR.F31E79DEC55D.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos statybos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:07Z"
 }

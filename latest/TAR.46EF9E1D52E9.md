@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1999-01-15"
 latest_path: "latest/TAR.46EF9E1D52E9.md"
-latest_sha256: "a78b2624f0d549a13f8afcd6ecc0b44d6631089cf13fe8acb0b49e825c096038"
+latest_sha256: "9196c959cd8ae75c68697ab73c85d708843677930b872c955d65141eac653a4d"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2026-06-01
+Suvestinė redakcija nuo 2026-06-01 iki 2026-06-30
 
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
 

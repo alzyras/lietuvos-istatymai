@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.642FCB884E2F.md",
   "latest_revision": "2010-07-01",
-  "latest_sha256": "4f0ae818f7e7e2b260267bf332d52fd49091365fac7a4a0e6022ed82b9d74074",
+  "latest_sha256": "65f7f4ca00939c445cd8866b4627e48df7935047392dd6730b4dd443bb3be5a0",
   "metadata_path": "latest/TAR.642FCB884E2F.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos fitosanitarijos įstatymo pakeitimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:31Z"
 }

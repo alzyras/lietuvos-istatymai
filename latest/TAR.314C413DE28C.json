@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.314C413DE28C.md",
   "latest_revision": "2011-08-01",
-  "latest_sha256": "a4d3914c67120ddea0ab37052f98fdaa10a5aadc8afc7d4a4084d93f70061c2c",
+  "latest_sha256": "c025b45c05440999b9fcb5516f22277b00fbb7aac7e18aab0634eae8e800cbb4",
   "metadata_path": "latest/TAR.314C413DE28C.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos savanoriškos veiklos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:28Z"
 }

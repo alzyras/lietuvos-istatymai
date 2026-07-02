@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2010-07-01"
 latest_path: "latest/TAR.642FCB884E2F.md"
-latest_sha256: "4f0ae818f7e7e2b260267bf332d52fd49091365fac7a4a0e6022ed82b9d74074"
+latest_sha256: "65f7f4ca00939c445cd8866b4627e48df7935047392dd6730b4dd443bb3be5a0"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos fitosanitarijos įstatymo pakeitimo įstatymas
@@ -392,7 +392,4 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki šio įstatymo
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
-
-
-_________________
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ

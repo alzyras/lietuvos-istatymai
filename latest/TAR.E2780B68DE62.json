@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.E2780B68DE62.md",
   "latest_revision": "1992-01-30",
-  "latest_sha256": "46eeb0d564c9070c186fcb12577a0836e4d0c41ff98f1b883900d611d644d046",
+  "latest_sha256": "53a2e89e67db328fae4a17167707d54eef233c8fe12bed4e87951d61f04c245c",
   "metadata_path": "latest/TAR.E2780B68DE62.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos aplinkos apsaugos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:59:27Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

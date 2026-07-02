@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.7E60B29052C0.md",
   "latest_revision": "2000-09-07",
-  "latest_sha256": "8f1f203739e2c9498c1ecf231dcd41a75fee36cbfbd7839f6366c4d97b2c49d4",
+  "latest_sha256": "3b0791040592be1a3834434eb2ea072c52c0f34caf2ac347f01b2b7767404e72",
   "metadata_path": "latest/TAR.7E60B29052C0.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:42Z"
 }

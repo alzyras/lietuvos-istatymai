@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/ecf91ec0a00811e58fd1fc0b9bba68a7.md",
   "latest_revision": "2017-01-01",
-  "latest_sha256": "711971dc5ff0637fc1bd3453ffbe10db382841b66b3c56e7053bb38a58973743",
+  "latest_sha256": "f74377c5e7c56648cdc584ad22629b8287c0723e78643213a8acb225546b121f",
   "metadata_path": "latest/ecf91ec0a00811e58fd1fc0b9bba68a7.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos civilinės būklės aktų registravimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:31Z"
 }

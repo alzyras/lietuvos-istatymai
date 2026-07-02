@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/2d8b78b0e79411e68503b67e3b82e8bd.md",
   "latest_revision": "2017-02-01",
-  "latest_sha256": "e3d976d78aa9360fc9d8ddfa457968f64286a9644ace629df0d4365dce518fe5",
+  "latest_sha256": "c5897ebf71f13855d9124e0747afcf3a9af5daf76c13f8dddd0a099b3bedabfa",
   "metadata_path": "latest/2d8b78b0e79411e68503b67e3b82e8bd.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:52Z"
 }

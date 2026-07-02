@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.779892D853B4.md",
   "latest_revision": "2003-07-01",
-  "latest_sha256": "9da352f98ac306c511c683d5be5bf7e4dc77f074c87d5ac1dfb1cbb4211a6f2e",
+  "latest_sha256": "dcfd0b224cc4dc411ad96f7406c4f35c57656722db00eca362183eade43b9b1a",
   "metadata_path": "latest/TAR.779892D853B4.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos finansų įstaigų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:34Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.D3ED3792F52B.md",
   "latest_revision": "1999-07-30",
-  "latest_sha256": "efc5eabce6514faa41e8e8b5e62d0c7236c631e68713c2ae387f3ace05ad6421",
+  "latest_sha256": "8f4c730a8d53231f561703a21156dd7e5ae0d7942e005098509c07a9cabe15a6",
   "metadata_path": "latest/TAR.D3ED3792F52B.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos valstybės tarnybos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:28Z"
 }

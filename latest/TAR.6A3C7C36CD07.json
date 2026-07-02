@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.6A3C7C36CD07.md",
   "latest_revision": "1999-12-30",
-  "latest_sha256": "9e0101c54faa6ddb310565d1aa3ae21c025062e820ce76e8fc97bc0b4991a5bc",
+  "latest_sha256": "6a17ae98ed0c54561b75404afa47866c4fc4cbaa4a5bb77a96712189f33daca0",
   "metadata_path": "latest/TAR.6A3C7C36CD07.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos fitosanitarijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-02T19:26:40Z"
 }

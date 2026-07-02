@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.44235B485568.md",
   "latest_revision": "2002-07-01",
-  "latest_sha256": "6a2a6379bf9c434fde7371bec4403c7ef55e7c0e54ecf1dca1dfa59ca3ba16ae",
+  "latest_sha256": "51d3ceb08b01ed4ba042be3d1f612f68898f5b29ad97de64b89638f6c90e0daa",
   "metadata_path": "latest/TAR.44235B485568.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos energetikos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

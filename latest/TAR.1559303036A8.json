@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.1559303036A8.md",
   "latest_revision": "1997-01-01",
-  "latest_sha256": "cf5a4472b165b715b477f9421a895399cb7f99f8f1833c3ed080006ad58b193c",
+  "latest_sha256": "303e56375ad4131e53f2e59ec6633797bdba55a530fb4563006ad0ca64895ac9",
   "metadata_path": "latest/TAR.1559303036A8.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:57Z"
 }

@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-01-01"
 latest_path: "latest/TAR.A7D82E8EDC6B.md"
-latest_sha256: "de819c28e9ad4d83b7c20e0469fa28a521067c4a4fb2ec02a62dc972d1fca524"
+latest_sha256: "39444bf65b2a152c60971f6a5abb5883cc70803234bbbf374958c23c07c971cc"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
@@ -146,8 +146,7 @@ Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
 24. Transporto priemonės tipas – kategorija, kuriai priskiriama transporto priemonė pagal jos ašių skaičių, matmenis, masę ar kitus techninius parametrus, pagal kuriuos įvertinama transporto priemonės keliams daroma žala. ^21522dd423a63d379a43094a
 
 
-25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme.“. ^c6abd2b4aaba4d41493c8874
-
+25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme. ^edc44cd50ec2d16c4efa5a09
 
 
 Straipsnio pakeitimai:
@@ -177,49 +176,49 @@ Nr. XV-373, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12028
 ### 6 straipsnis. Kelių rinkliava
 
 
-1. M2, M3, N1, N2, N3 motorinių transporto priemonių valdytojai moka kelių rinkliavą už naudojimąsi Vyriausybės ar jos įgaliotos institucijos nustatytais valstybinės reikšmės keliais. ^a94683d43578e1c16761c3e9
+1. M2, M3, N1, N2, N3 motorinių transporto priemonių valdytojai moka kelių rinkliavą už naudojimąsi Vyriausybės ar jos įgaliotos institucijos nustatytais valstybinės reikšmės keliais. ^31f04ecb96a6f710d176bff6
 
 
-2. Kelių rinkliavos mokėjimo, administravimo ir priežiūros tvarką nustato Vyriausybė. ^e8a0683199c6fc664bd63283
+2. Kelių rinkliavos mokėjimo, administravimo ir priežiūros tvarką nustato Vyriausybė. ^9be6e77ba53c9ed0918b15f6
 
 
-3. Kelių rinkliavos dydžių nustatymo metodiką tvirtina Vyriausybė. Nustatyti kelių rinkliavos dydžiai turi būti sudaryti iš infrastruktūros ir išorinių kaštų (išmetamo anglies dioksido (CO2) kiekio kaštų) įmokų, atsižvelgiant į infrastruktūros įmokos svertinį vidurkį, kuris siejamas su kelių infrastruktūros statybos, eksploatavimo, priežiūros ir plėtros kaštais (kaštai, į kuriuos atsižvelgiama, turi būti susiję su kelių tinklu arba tinklo dalimi, už kurį (kurią) renkamos infrastruktūros įmokos, taikomos transporto priemonėms, ir su transporto priemonėmis, kurioms tos įmokos taikomos). Vyriausybės įgaliota institucija arba įstaiga, vadovaudamasi Kelių rinkliavos dydžių nustatymo metodika, apskaičiuoja kelių rinkliavos dydžius ir juos patvirtina. Mokėtinas kelių rinkliavos dydis apskaičiuojamas pagal nustatytus kelių rinkliavos dydžius, atsižvelgiant į tam tikro tipo transporto priemone nuvažiuotą atstumą. Kai nustatomas kelių rinkliavos nesumokėjimo atvejis, taikoma bauda, kaip nustatyta Lietuvos Respublikos administracinių nusižengimų kodekse, ir 112 eurų kelių rinkliava už naudojimąsi Vyriausybės ar jos įgaliotos institucijos nustatytais valstybinės reikšmės keliais. ^56bca96ee98bf418fa26026f
+3. Kelių rinkliavos dydžių nustatymo metodiką tvirtina Vyriausybė. Nustatyti kelių rinkliavos dydžiai turi būti sudaryti iš infrastruktūros ir išorinių kaštų (išmetamo anglies dioksido (CO2) kiekio kaštų) įmokų, atsižvelgiant į infrastruktūros įmokos svertinį vidurkį, kuris siejamas su kelių infrastruktūros statybos, eksploatavimo, priežiūros ir plėtros kaštais (kaštai, į kuriuos atsižvelgiama, turi būti susiję su kelių tinklu arba tinklo dalimi, už kurį (kurią) renkamos infrastruktūros įmokos, taikomos transporto priemonėms, ir su transporto priemonėmis, kurioms tos įmokos taikomos). Vyriausybės įgaliota institucija arba įstaiga, vadovaudamasi Kelių rinkliavos dydžių nustatymo metodika, apskaičiuoja kelių rinkliavos dydžius ir juos patvirtina. Mokėtinas kelių rinkliavos dydis apskaičiuojamas pagal nustatytus kelių rinkliavos dydžius, atsižvelgiant į tam tikro tipo transporto priemone nuvažiuotą atstumą. Kai nustatomas kelių rinkliavos nesumokėjimo atvejis, taikoma bauda, kaip nustatyta Lietuvos Respublikos administracinių nusižengimų kodekse, ir 112 eurų kelių rinkliava už naudojimąsi Vyriausybės ar jos įgaliotos institucijos nustatytais valstybinės reikšmės keliais. ^07279fb2957760bd6cb362c7
 
 
-4. Kelių rinkliava už naudojimąsi keliais nemokama važiuojant: ^82ba78530913b9443d2e484c
+4. Kelių rinkliava už naudojimąsi keliais nemokama važiuojant: ^98b749440b1f77b661d0bfa2
 
 
-1) Lietuvos Respublikos vidaus reikalų ministerijos ir vidaus reikalų ministro valdymo srityje veikiančių įstaigų transporto priemonėmis ar jų junginiais; ^6129047b1de0f2bbb8b34439
+1) Lietuvos Respublikos vidaus reikalų ministerijos ir vidaus reikalų ministro valdymo srityje veikiančių įstaigų transporto priemonėmis ar jų junginiais; ^65b06d50a77107d26c38359e
 
 
-2) savivaldybių priešgaisrinės tarnybos transporto priemonėmis ar jų junginiais ir miškų urėdijos, kaip ji apibrėžiama Lietuvos Respublikos miškų įstatyme, priešgaisrinėmis transporto priemonėmis ar jų junginiais; ^f9670f6c82b8fe9f81cf9a2c
+2) savivaldybių priešgaisrinės tarnybos transporto priemonėmis ar jų junginiais ir miškų urėdijos, kaip ji apibrėžiama Lietuvos Respublikos miškų įstatyme, priešgaisrinėmis transporto priemonėmis ar jų junginiais; ^02df900fec71d382658c3833
 
 
-3) specialiai asmenims su negalia vežti ir (ar) vairuoti pritaikytomis transporto priemonėmis ar jų junginiais; ^1ebe1691fb921af436bb3db1
+3) specialiai asmenims su negalia vežti ir (ar) vairuoti pritaikytomis transporto priemonėmis ar jų junginiais; ^d9107736bc812aa8d09aec04
 
 
-4) sveikatos priežiūros įstaigų greitosios medicinos pagalbos ir reanimacijos automobiliais; ^adc71e314d72e6ef156d8b4f
+4) sveikatos priežiūros įstaigų greitosios medicinos pagalbos ir reanimacijos automobiliais; ^edda1f93bff4126fc636fa6b
 
 
-5) švietimo įstaigų ir (ar) savivaldybių institucijų kontroliuojamų įmonių specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais), taip pat užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais); ^d11bdb755df377173ca88364
+5) švietimo įstaigų ir (ar) savivaldybių institucijų kontroliuojamų įmonių specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais), taip pat užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis specialiai mokiniams (vaikams) vežti pritaikytomis transporto priemonėmis (mokykliniais autobusais); ^d834bb1a177535678664d6ff
 
 
-6) transporto priemonėmis ar jų junginiais, naudojamais valstybinės reikšmės keliams prižiūrėti; ^ec7242c433f2c1f5dee267aa
+6) transporto priemonėmis ar jų junginiais, naudojamais valstybinės reikšmės keliams prižiūrėti; ^de8a980a6c8e432ce66b1414
 
 
-7) užsienio šalyse įregistruotomis transporto priemonėmis ar jų junginiais, kai jomis (jais) vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių arba vežamos labdaros ir humanitarinės pagalbos siuntos; ^c59009177200fa0d369dba74
+7) užsienio šalyse įregistruotomis transporto priemonėmis ar jų junginiais, kai jomis (jais) vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių arba vežamos labdaros ir humanitarinės pagalbos siuntos; ^88049545f023c3444eb501e8
 
 
-8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis ar jų junginiais; ^65ec4515fdba6c899f50dab7
+8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis ar jų junginiais; ^2a21959b43554610c9d36e8d
 
 
-9) vietinio susisiekimo maršrutais važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais. ^b75b71bc776bfd74eac897d5
+9) vietinio susisiekimo maršrutais važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais. ^0c469a9a7ae9d2a2c089cff9
 
 
-5. Paskirtuoju kelių rinkliavos rinkėju, pagrindiniu kelių rinkliavos paslaugos teikėju Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje, taip pat už naujų Europos elektroninės kelių rinkliavos paslaugos teikėjų įregistravimą Lietuvos Respublikoje atsakingu subjektu Vyriausybės ar jos įgaliotos institucijos skiriamas juridinis asmuo, kuris patikėjimo teise valdo, naudoja valstybinės reikšmės kelius ir jais disponuoja. Paskirtasis kelių rinkliavos rinkėjas kas penkerius metus savo interneto svetainėje viešai skelbia Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje renkamos kelių rinkliavos suvestinę ataskaitą. ^f874568d7a8acb64c1e11a83
+5. Paskirtuoju kelių rinkliavos rinkėju, pagrindiniu kelių rinkliavos paslaugos teikėju Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje, taip pat už naujų Europos elektroninės kelių rinkliavos paslaugos teikėjų įregistravimą Lietuvos Respublikoje atsakingu subjektu Vyriausybės ar jos įgaliotos institucijos skiriamas juridinis asmuo, kuris patikėjimo teise valdo, naudoja valstybinės reikšmės kelius ir jais disponuoja. Paskirtasis kelių rinkliavos rinkėjas kas penkerius metus savo interneto svetainėje viešai skelbia Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje renkamos kelių rinkliavos suvestinę ataskaitą. ^1a2b72bc176b6ae15ec8f64f
 
 
-6. Elektroninė kelių rinkliava mokama Elektroninės kelių rinkliavos informacinėje sistemoje. Kelių rinkliavos lėšos yra paskirtojo kelių rinkliavos rinkėjo pajamos. Šios lėšos naudojamos Lietuvos Respublikos Valstybinio kelių fondo įstatyme nustatyta tvarka. ^25ce348151cc549889f0b371
+6. Elektroninė kelių rinkliava mokama Elektroninės kelių rinkliavos informacinėje sistemoje. Kelių rinkliavos lėšos yra paskirtojo kelių rinkliavos rinkėjo pajamos. Šios lėšos naudojamos Lietuvos Respublikos Valstybinio kelių fondo įstatyme nustatyta tvarka. ^23b72f2b565f3486fbd59162
 
 
 Straipsnio pakeitimai:
@@ -233,55 +232,55 @@ Nr. XV-663, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22535
 ### 61 straipsnis. Europos elektroninės kelių rinkliavos paslaugos teikėjams taikomi reikalavimai
 
 
-1. Lietuvos Respublikoje registruoti juridiniai asmenys, pateikę registracijos prašymą, Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruojami kaip Europos elektroninės kelių rinkliavos paslaugos teikėjai, jeigu jie atitinka šiuos reikalavimus: ^700cc894008cbd80421eb6e0
+1. Lietuvos Respublikoje registruoti juridiniai asmenys, pateikę registracijos prašymą, Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruojami kaip Europos elektroninės kelių rinkliavos paslaugos teikėjai, jeigu jie atitinka šiuos reikalavimus: ^f5ec24af21c70ff0ad94feee
 
 
-1) turi kokybės valdymo sistemos EN ISO 9001 „Kokybės vadybos sistemų sertifikavimas“ arba lygiavertį sertifikatą; ^c2acda00c78f1b2086ae11f4
+1) turi kokybės valdymo sistemos EN ISO 9001 „Kokybės vadybos sistemų sertifikavimas“ arba lygiavertį sertifikatą; ^c41ed18abb15dedb6f94c7de
 
 
-2) turi techninę įrangą Europos elektroninės kelių rinkliavos paslaugai teikti ir Europos Bendrijos deklaraciją ar sertifikatą, kuriuo patvirtinama, kad sąveikos sudedamosios dalys atitinka specifikacijas; ^2dec4417578a57359bf2dd98
+2) turi techninę įrangą Europos elektroninės kelių rinkliavos paslaugai teikti ir Europos Bendrijos deklaraciją ar sertifikatą, kuriuo patvirtinama, kad sąveikos sudedamosios dalys atitinka specifikacijas; ^bb5d29b251914cdee4dcbee2
 
 
-3) per pastaruosius 5 metus turi ne trumpesnę kaip 3 metų patirtį teikiant elektroninės rinkliavos paslaugas arba vykdant veiklą informacinių sistemų paslaugų, telekomunikacijų paslaugų, telematikos sistemų ir kitose susijusiose srityse; ^fed3f64283155b8f4f447b7b
+3) per pastaruosius 5 metus turi ne trumpesnę kaip 3 metų patirtį teikiant elektroninės rinkliavos paslaugas arba vykdant veiklą informacinių sistemų paslaugų, telekomunikacijų paslaugų, telematikos sistemų ir kitose susijusiose srityse; ^6e07c0d8c8550ab6cac7a668
 
 
-4) jiems nėra iškelta restruktūrizavimo ar bankroto byla, nėra inicijuotos ar pradėtos likvidavimo procedūros, jų turtas nėra valdomas teismo ar nemokumo administratoriaus, jų veikla nėra sustabdyta; ^d396ae9392095cd049706f31
+4) jiems nėra iškelta restruktūrizavimo ar bankroto byla, nėra inicijuotos ar pradėtos likvidavimo procedūros, jų turtas nėra valdomas teismo ar nemokumo administratoriaus, jų veikla nėra sustabdyta; ^f157fd580c83f4e6e94e523c
 
 
-5) atitinka finansinio pajėgumo kriterijus, nustatytus Vyriausybės ar jos įgaliotos įstaigos, institucijos ar organizacijos nustatyta tvarka; ^bb7258e3f38ed57a82c0e826
+5) atitinka finansinio pajėgumo kriterijus, nustatytus Vyriausybės ar jos įgaliotos įstaigos, institucijos ar organizacijos nustatyta tvarka; ^b32a916665a0747072368cf5
 
 
-6) yra įvykdę įsipareigojimus, susijusius su mokesčių ir socialinio draudimo įmokų mokėjimu; ^ee3f32cfc9feb7de63bcc3a4
+6) yra įvykdę įsipareigojimus, susijusius su mokesčių ir socialinio draudimo įmokų mokėjimu; ^389eb2f723e80c3e71e71810
 
 
-7) jų vidutinės metinės pajamos iš visų veiklų per pastaruosius 3 finansinius metus iki Europos elektroninės kelių rinkliavos paslaugos teikėjo registracijos prašymo pateikimo dienos yra ne mažesnės kaip 0,7 koeficiento nuo juridiniam asmeniui reikalingų investicijų Europos elektroninės kelių rinkliavos paslaugai teikti; ^a2795972309b5fa728c4fb9f
+7) jų vidutinės metinės pajamos iš visų veiklų per pastaruosius 3 finansinius metus iki Europos elektroninės kelių rinkliavos paslaugos teikėjo registracijos prašymo pateikimo dienos yra ne mažesnės kaip 0,7 koeficiento nuo juridiniam asmeniui reikalingų investicijų Europos elektroninės kelių rinkliavos paslaugai teikti; ^93766e4093bc2238b16b5993
 
 
-8) yra parengę visuotinį rizikos valdymo planą, kuris atitinka standartą ISO 31000:2018 „Rizikos valdymas“ arba lygiavertį standartą ir kuriame nurodomos rizikų, susijusių su elektroninių rinkliavų, taip pat Europos elektroninės kelių rinkliavos rinkimu, įvertinimo ir mažinimo priemonės; ^23b63c10e3078a25f4765b6e
+8) yra parengę visuotinį rizikos valdymo planą, kuris atitinka standartą ISO 31000:2018 „Rizikos valdymas“ arba lygiavertį standartą ir kuriame nurodomos rizikų, susijusių su elektroninių rinkliavų, taip pat Europos elektroninės kelių rinkliavos rinkimu, įvertinimo ir mažinimo priemonės; ^dd05d2087145de36d9c4cf22
 
 
-9) taiko informacijos (duomenų) saugumo valdymo politiką, užtikrindamas atitiktį 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentui (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajam duomenų apsaugos reglamentui); ^34c65b29a5cc185e911a8da4
+9) taiko informacijos (duomenų) saugumo valdymo politiką, užtikrindamas atitiktį 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentui (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajam duomenų apsaugos reglamentui); ^d67682f8a6554c9dc8915c9b
 
 
-10) turi informacijos saugumo valdymo sistemos sertifikatą pagal standarto ISO/IEC 27001 „Informacinės technologijos. Saugumo metodai. Informacijos saugumo valdymo sistemos. Reikalavimai“ arba lygiaverčio standarto reikalavimus; ^5c94ccc9d22c33adbfcf783c
+10) turi informacijos saugumo valdymo sistemos sertifikatą pagal standarto ISO/IEC 27001 „Informacinės technologijos. Saugumo metodai. Informacijos saugumo valdymo sistemos. Reikalavimai“ arba lygiaverčio standarto reikalavimus; ^d6d0c671f09e1b609365882e
 
 
-11) turi aplinkos apsaugos vadybos sistemos sertifikatą pagal standartą LST EN ISO 14001 „Aplinkos apsaugos vadybos sistemos. Reikalavimai ir naudojimo gairės“ arba pagal 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinančio Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB ar kitus lygiaverčius aplinkos apsaugos vadybos standartus; ^0c4e32c869675e068933ac11
+11) turi aplinkos apsaugos vadybos sistemos sertifikatą pagal standartą LST EN ISO 14001 „Aplinkos apsaugos vadybos sistemos. Reikalavimai ir naudojimo gairės“ arba pagal 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinančio Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB ar kitus lygiaverčius aplinkos apsaugos vadybos standartus; ^5a1e40601ea32a207850085f
 
 
-12) turi darbuotojų sveikatos ir saugos vadybos sertifikatą pagal standartą ISO 45001 „Darbuotojų sveikatos ir saugos vadybos sistemos. Reikalavimai ir taikymo nurodymai“ ar lygiaverčius standartus; ^af059a74c672481d57d5a23a
+12) turi darbuotojų sveikatos ir saugos vadybos sertifikatą pagal standartą ISO 45001 „Darbuotojų sveikatos ir saugos vadybos sistemos. Reikalavimai ir taikymo nurodymai“ ar lygiaverčius standartus; ^e4a5f4af440be45c76b324b2
 
 
-13) atitinka 2022 m. balandžio 8 d. Tarybos reglamento (ES) 2022/576, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 833/2014 dėl ribojamųjų priemonių atsižvelgiant į Rusijos veiksmus, kuriais destabilizuojama padėtis Ukrainoje, 5k straipsnyje nustatytus reikalavimus; ^574b2f73464841fa6c0f09f7
+13) atitinka 2022 m. balandžio 8 d. Tarybos reglamento (ES) 2022/576, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 833/2014 dėl ribojamųjų priemonių atsižvelgiant į Rusijos veiksmus, kuriais destabilizuojama padėtis Ukrainoje, 5k straipsnyje nustatytus reikalavimus; ^cfbb79184b3684548c51238f
 
 
-14) dėl juridinių asmenų ir asmenų, paskirtų vadovauti šiems juridiniams asmenims, per pastaruosius 5 metus nėra priimtas ir įsiteisėjęs teismo nuosprendis už dalyvavimą nusikalstamame susivienijime, jo organizavimą ar vadovavimą jam; kyšininkavimą, prekybą poveikiu, papirkimą; sukčiavimą, turto pasisavinimą, turto iššvaistymą, apgaulingą pareiškimą apie juridinio asmens veiklą, kredito, paskolos ar tikslinės paramos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar piktnaudžiavimą, kai šiomis nusikalstamomis veikomis kėsinamasi į Europos Sąjungos finansinius interesus, kaip apibrėžta Konvencijos dėl Europos Bendrijų finansinių interesų apsaugos, parengtos vadovaujantis Europos Sąjungos sutarties K.[[#3 straipsnis. Neteko galios nuo 2022-01-01.|3 straipsniu]], [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]]; nusikalstamą bankrotą; teroristinį ar su teroristine veikla susijusį nusikaltimą; nusikalstamu būdu gauto turto legalizavimą; prekybą žmonėmis, vaiko pirkimą arba pardavimą; ^ad023507c9718a9647369c1e
+14) dėl juridinių asmenų ir asmenų, paskirtų vadovauti šiems juridiniams asmenims, per pastaruosius 5 metus nėra priimtas ir įsiteisėjęs teismo nuosprendis už dalyvavimą nusikalstamame susivienijime, jo organizavimą ar vadovavimą jam; kyšininkavimą, prekybą poveikiu, papirkimą; sukčiavimą, turto pasisavinimą, turto iššvaistymą, apgaulingą pareiškimą apie juridinio asmens veiklą, kredito, paskolos ar tikslinės paramos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar piktnaudžiavimą, kai šiomis nusikalstamomis veikomis kėsinamasi į Europos Sąjungos finansinius interesus, kaip apibrėžta Konvencijos dėl Europos Bendrijų finansinių interesų apsaugos, parengtos vadovaujantis Europos Sąjungos sutarties K.[[#3 straipsnis. Neteko galios nuo 2022-01-01.|3 straipsniu]], [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]]; nusikalstamą bankrotą; teroristinį ar su teroristine veikla susijusį nusikaltimą; nusikalstamu būdu gauto turto legalizavimą; prekybą žmonėmis, vaiko pirkimą arba pardavimą; ^c8c7c25ce92ab90dfe0b3980
 
 
-15) yra nepriekaištingos reputacijos, vadovaujantis Lietuvos Respublikos juridinių asmenų nemokumo įstatymo 120 straipsnio nuostatomis; ^7262868145da1f181be812ec
+15) yra nepriekaištingos reputacijos, vadovaujantis Lietuvos Respublikos juridinių asmenų nemokumo įstatymo 120 straipsnio nuostatomis; ^4798afb9c8cec145f83d0629
 
 
-16) nėra padarę rimto profesinio pažeidimo, dėl kurio būtų abejojama juridinio asmens sąžiningumu: ^aa50db7da8a625d5f61a313f
+16) nėra padarę rimto profesinio pažeidimo, dėl kurio būtų abejojama juridinio asmens sąžiningumu: ^37c81da3e199db38b4bf1fd6
 
 
 a) nėra padarę finansinės atskaitomybės ir audito teisės aktų pažeidimo arba nuo tokio pažeidimo padarymo dienos praėjo daugiau kaip vieni metai;
@@ -293,64 +292,64 @@ b) atitinka minimalius patikimo mokesčių mokėtojo kriterijus, nustatytus Liet
 c) nėra padarę draudimo sudaryti draudžiamą susitarimą, įtvirtintą Lietuvos Respublikos konkurencijos įstatyme ar panašaus pobūdžio kitos valstybės teisės akte, pažeidimo arba nuo jo padarymo dienos praėjo daugiau kaip 3 metai;
 
 
-17) jie patys ir jų paslaugų subteikėjai ar partneriai nėra subjektai, dėl kurių įgyvendinamos tarptautinės sankcijos, atsižvelgiant į tai, kad Lietuvos Respublikos įstatymai numato tiesioginį draudimą sudaryti sandorius, kurių vykdymas prieštarauja Lietuvos Respublikoje įgyvendinamoms tarptautinėms sankcijoms. Juridiniai asmenys nėra registruoti, neturi filialo, sandorių, veiklos valstybėje, kuriai taikomos tarptautinės sankcijos, ar neplanuoja veiklos su valstybe, kuriai taikomos tarptautinės sankcijos, neturi santykių su jokiu fiziniu ar juridiniu asmeniu, registruotu, turinčiu nuolatinę buveinę ar filialą valstybėje, kuriai taikomos tarptautinės sankcijos. Juridiniai asmenys užtikrina, kad Europos elektroninės kelių rinkliavos paslaugai teikti naudojamos paslaugos arba prekės nėra ir nebus įsigyjamos iš teritorijų ir (ar) asmenų arba įmonių, kurioms taikomos tarptautinės sankcijos; ^5e74a6a4fd4eb984bb9ac959
+17) jie patys ir jų paslaugų subteikėjai ar partneriai nėra subjektai, dėl kurių įgyvendinamos tarptautinės sankcijos, atsižvelgiant į tai, kad Lietuvos Respublikos įstatymai numato tiesioginį draudimą sudaryti sandorius, kurių vykdymas prieštarauja Lietuvos Respublikoje įgyvendinamoms tarptautinėms sankcijoms. Juridiniai asmenys nėra registruoti, neturi filialo, sandorių, veiklos valstybėje, kuriai taikomos tarptautinės sankcijos, ar neplanuoja veiklos su valstybe, kuriai taikomos tarptautinės sankcijos, neturi santykių su jokiu fiziniu ar juridiniu asmeniu, registruotu, turinčiu nuolatinę buveinę ar filialą valstybėje, kuriai taikomos tarptautinės sankcijos. Juridiniai asmenys užtikrina, kad Europos elektroninės kelių rinkliavos paslaugai teikti naudojamos paslaugos arba prekės nėra ir nebus įsigyjamos iš teritorijų ir (ar) asmenų arba įmonių, kurioms taikomos tarptautinės sankcijos; ^c0749138380dcf2f0f81ac4b
 
 
-18) nedalyvauja Konkurencijos įstatymo [[#5 straipsnis. Neteko galios nuo 2026-01-01|5 straipsnyje]] nurodytuose draudžiamuose susitarimuose ir susitarimuose, pažeidžiančiuose šiame įstatyme nurodytus principus; ^91ec57a66d55581ec8a2f254
+18) nedalyvauja Konkurencijos įstatymo [[#5 straipsnis. Neteko galios nuo 2026-01-01|5 straipsnyje]] nurodytuose draudžiamuose susitarimuose ir susitarimuose, pažeidžiančiuose šiame įstatyme nurodytus principus; ^6fe13054fe208e99b8209df6
 
 
-19) teikdami paslaugas laikosi socialinės ir darbo teisės įsipareigojimų, nustatytų Europos Sąjungos teisėje, kolektyvinėje sutartyje ir Lietuvos Respublikos viešųjų pirkimų įstatymo 5 priede. ^3e8c0cf225cb8c72eaad4698
+19) teikdami paslaugas laikosi socialinės ir darbo teisės įsipareigojimų, nustatytų Europos Sąjungos teisėje, kolektyvinėje sutartyje ir Lietuvos Respublikos viešųjų pirkimų įstatymo 5 priede. ^382b2426f1df8dccedcbbda8
 
 
-2. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruoti Europos elektroninės kelių rinkliavos paslaugos teikėjai: ^beb12967466be1ef2eaed815
+2. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruoti Europos elektroninės kelių rinkliavos paslaugos teikėjai: ^3d757bbdbec6aa09adeee6a3
 
 
-1) per 36 mėnesius po jų įregistravimo dienos turi sudaryti Europos elektroninės kelių rinkliavos paslaugos teikimo sutartis, apimančias visas Europos elektroninės kelių rinkliavos paslaugos teritorijas, esančias bent keturių Europos Sąjungos valstybių narių teritorijose; šie Europos elektroninės kelių rinkliavos paslaugos teikėjai turi sudaryti Europos elektroninės kelių rinkliavos paslaugos teikimo sutartis, apimančias visas Europos elektroninės kelių rinkliavos paslaugos teritorijas tam tikroje Europos Sąjungos valstybėje narėje, per 24 mėnesius nuo pirmosios sutarties, apimančios vieną ar kelias Europos elektroninės kelių rinkliavos paslaugos teritorijas, sudarymo toje Europos Sąjungos valstybėje narėje dienos; ^00b6705ea42f01de18ad3e5d
+1) per 36 mėnesius po jų įregistravimo dienos turi sudaryti Europos elektroninės kelių rinkliavos paslaugos teikimo sutartis, apimančias visas Europos elektroninės kelių rinkliavos paslaugos teritorijas, esančias bent keturių Europos Sąjungos valstybių narių teritorijose; šie Europos elektroninės kelių rinkliavos paslaugos teikėjai turi sudaryti Europos elektroninės kelių rinkliavos paslaugos teikimo sutartis, apimančias visas Europos elektroninės kelių rinkliavos paslaugos teritorijas tam tikroje Europos Sąjungos valstybėje narėje, per 24 mėnesius nuo pirmosios sutarties, apimančios vieną ar kelias Europos elektroninės kelių rinkliavos paslaugos teritorijas, sudarymo toje Europos Sąjungos valstybėje narėje dienos; ^4283df9da73582e716d2590a
 
 
-2) turi visada išlaikyti visų Europos elektroninės kelių rinkliavos paslaugos teritorijų, kuriose veikia jų sudarytos Europos elektroninės kelių rinkliavos paslaugos teikimo sutartys, aprėptį. Jeigu Europos elektroninės kelių rinkliavos paslaugos teikėjas negali išlaikyti Europos elektroninės kelių rinkliavos paslaugos teritorijos aprėpties dėl nuo paskirtojo kelių rinkliavos rinkėjo veiksmų priklausančių priežasčių, jis turi nedelsdamas, bet ne vėliau kaip per 5 dienas nuo priežasčių išnykimo atkurti tam tikros Europos elektroninės kelių rinkliavos paslaugos teritorijos aprėptį; ^076ce251ece833573999aaab
+2) turi visada išlaikyti visų Europos elektroninės kelių rinkliavos paslaugos teritorijų, kuriose veikia jų sudarytos Europos elektroninės kelių rinkliavos paslaugos teikimo sutartys, aprėptį. Jeigu Europos elektroninės kelių rinkliavos paslaugos teikėjas negali išlaikyti Europos elektroninės kelių rinkliavos paslaugos teritorijos aprėpties dėl nuo paskirtojo kelių rinkliavos rinkėjo veiksmų priklausančių priežasčių, jis turi nedelsdamas, bet ne vėliau kaip per 5 dienas nuo priežasčių išnykimo atkurti tam tikros Europos elektroninės kelių rinkliavos paslaugos teritorijos aprėptį; ^46d7bee7e57e973923a6d628
 
 
-3) interneto svetainėje turi skelbti informaciją apie Europos elektroninės kelių rinkliavos paslaugos teritorijų aprėptį ir visus su tuo susijusius pakeitimus, taip pat per vieną mėnesį nuo Europos elektroninės kelių rinkliavos paslaugos teikėjo registracijos dienos turi paskelbti bet kokio jų paslaugų teikimo kitose papildomose Europos elektroninės kelių rinkliavos paslaugos teritorijose planus, taip pat kasmet skelbti atnaujintus planus; ^53d1cfa06dfb0c1c19be7016
+3) interneto svetainėje turi skelbti informaciją apie Europos elektroninės kelių rinkliavos paslaugos teritorijų aprėptį ir visus su tuo susijusius pakeitimus, taip pat per vieną mėnesį nuo Europos elektroninės kelių rinkliavos paslaugos teikėjo registracijos dienos turi paskelbti bet kokio jų paslaugų teikimo kitose papildomose Europos elektroninės kelių rinkliavos paslaugos teritorijose planus, taip pat kasmet skelbti atnaujintus planus; ^3d2625b1611af73ff9f7bfdc
 
 
-4) turi viešai skelbti Europos elektroninės kelių rinkliavos paslaugos gavėjų atžvilgiu taikomą sutarčių sudarymo politiką; ^551ecd68eca8b3f0ed0cb149
+4) turi viešai skelbti Europos elektroninės kelių rinkliavos paslaugos gavėjų atžvilgiu taikomą sutarčių sudarymo politiką; ^b2005a2003fbd5b8f498423a
 
 
-5) turi pateikti paskirtajam kelių rinkliavos rinkėjui informaciją, reikalingą šiam kelių rinkliavos rinkėjui siekiant apskaičiuoti ir taikyti kelių rinkliavą už Europos elektroninės kelių rinkliavos paslaugos gavėjų transporto priemones, ir pateikti visą informaciją, būtiną tam, kad paskirtasis kelių rinkliavos rinkėjas galėtų patikrinti, kaip Europos elektroninės kelių rinkliavos paslaugos teikėjai apskaičiuoja Europos elektroninės kelių rinkliavos paslaugos gavėjų transporto priemonėms taikomą kelių rinkliavą; ^350f23ef9293adb010f7322e
+5) turi pateikti paskirtajam kelių rinkliavos rinkėjui informaciją, reikalingą šiam kelių rinkliavos rinkėjui siekiant apskaičiuoti ir taikyti kelių rinkliavą už Europos elektroninės kelių rinkliavos paslaugos gavėjų transporto priemones, ir pateikti visą informaciją, būtiną tam, kad paskirtasis kelių rinkliavos rinkėjas galėtų patikrinti, kaip Europos elektroninės kelių rinkliavos paslaugos teikėjai apskaičiuoja Europos elektroninės kelių rinkliavos paslaugos gavėjų transporto priemonėms taikomą kelių rinkliavą; ^f2e023cbc421c900f92b82ef
 
 
-6) turi užtikrinti, kad Europos elektroninės kelių rinkliavos paslaugos teikėjo rizikos valdymo plano auditas būtų atliekamas ne rečiau kaip kas 2 metus. ^1e1607c5d749f945beb57892
+6) turi užtikrinti, kad Europos elektroninės kelių rinkliavos paslaugos teikėjo rizikos valdymo plano auditas būtų atliekamas ne rečiau kaip kas 2 metus. ^0419d0e6247628ea26419e63
 
 
-3. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruoti Europos elektroninės kelių rinkliavos paslaugos teikėjai, norintys teikti šią paslaugą Lietuvos Respublikos teritorijoje, turi suderinti elektronines sąsajas ir sąveikas susisiekimo ministro nustatyta tvarka ir sudaryti sutartį su paskirtuoju kelių rinkliavos rinkėju. ^dd0b460ee67ad538f21532c6
+3. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruoti Europos elektroninės kelių rinkliavos paslaugos teikėjai, norintys teikti šią paslaugą Lietuvos Respublikos teritorijoje, turi suderinti elektronines sąsajas ir sąveikas susisiekimo ministro nustatyta tvarka ir sudaryti sutartį su paskirtuoju kelių rinkliavos rinkėju. ^c3c3745e8987b62119c9cd00
 
 
-4. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruoti Europos elektroninės kelių rinkliavos paslaugos teikėjai ir Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje paslaugas teikiantys Europos elektroninės kelių rinkliavos paslaugos teikėjai turi teikti Europos elektroninės kelių rinkliavos paslaugas Europos elektroninės kelių rinkliavos paslaugos gavėjams naudojant transporto priemonėje montuojamą įrangą. ^d1935209e42948f33ff7a08c
+4. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruoti Europos elektroninės kelių rinkliavos paslaugos teikėjai ir Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje paslaugas teikiantys Europos elektroninės kelių rinkliavos paslaugos teikėjai turi teikti Europos elektroninės kelių rinkliavos paslaugas Europos elektroninės kelių rinkliavos paslaugos gavėjams naudojant transporto priemonėje montuojamą įrangą. ^c08145aec3022b327758b4ed
 
 
-5. Europos elektroninės kelių rinkliavos paslaugos teikėjai, teikiantys šią paslaugą Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje: ^758ddf303141e00fa51272a8
+5. Europos elektroninės kelių rinkliavos paslaugos teikėjai, teikiantys šią paslaugą Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje: ^c43821554286480f76cbf3e1
 
 
-1) turi tvarkyti pripažintos negaliojančia transporto priemonėje montuojamos įrangos, įtrauktos į jų Europos elektroninės kelių rinkliavos paslaugos teikimo sutartis su Europos elektroninės kelių rinkliavos paslaugos gavėjais, sąrašus; tokie sąrašai turi būti tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų; ^5fe30338715ef4993eba40a8
+1) turi tvarkyti pripažintos negaliojančia transporto priemonėje montuojamos įrangos, įtrauktos į jų Europos elektroninės kelių rinkliavos paslaugos teikimo sutartis su Europos elektroninės kelių rinkliavos paslaugos gavėjais, sąrašus; tokie sąrašai turi būti tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų; ^c1f4c31686d7649611e8d15d
 
 
-2) turi bendradarbiauti su paskirtuoju kelių rinkliavos rinkėju siekdami nustatyti įtariamus pažeidėjus. Jeigu įtariama, kad kelių rinkliava nėra sumokėta, paskirtasis kelių rinkliavos rinkėjas iš Europos elektroninės kelių rinkliavos paslaugos teikėjo gali gauti duomenis apie transporto priemonę, susijusią su šiuo įtariamu kelių rinkliavos nesumokėjimu, ir duomenis apie tos transporto priemonės savininką ar valdytoją, kuris yra šio Europos elektroninės kelių rinkliavos paslaugos teikėjo klientas. Šiuos duomenis Europos elektroninės kelių rinkliavos paslaugos teikėjas turi pateikti nedelsdamas, bet ne vėliau kaip per 2 darbo dienas. ^6a1b850c56b87a1deab4b76b
+2) turi bendradarbiauti su paskirtuoju kelių rinkliavos rinkėju siekdami nustatyti įtariamus pažeidėjus. Jeigu įtariama, kad kelių rinkliava nėra sumokėta, paskirtasis kelių rinkliavos rinkėjas iš Europos elektroninės kelių rinkliavos paslaugos teikėjo gali gauti duomenis apie transporto priemonę, susijusią su šiuo įtariamu kelių rinkliavos nesumokėjimu, ir duomenis apie tos transporto priemonės savininką ar valdytoją, kuris yra šio Europos elektroninės kelių rinkliavos paslaugos teikėjo klientas. Šiuos duomenis Europos elektroninės kelių rinkliavos paslaugos teikėjas turi pateikti nedelsdamas, bet ne vėliau kaip per 2 darbo dienas. ^caef17a1e6c65581a69d57dc
 
 
-6. Europos elektroninės kelių rinkliavos paslaugos teikėjas ne vėliau kaip per 2 darbo dienas nuo prašymo dėl informacijos pateikimo gavimo dienos turi pateikti už Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritoriją atsakingam paskirtajam kelių rinkliavos rinkėjui prašomą informaciją ir duomenis, susijusius su visomis Europos elektroninės kelių rinkliavos paslaugos teikėjo klientams nuosavybės teise priklausančiomis ar jų valdomomis transporto priemonėmis, tam tikru laikotarpiu vairuotomis Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje, už kurią yra atsakingas paskirtasis kelių rinkliavos rinkėjas, taip pat duomenis, susijusius su tų transporto priemonių savininkais ar valdytojais, su sąlyga, kad paskirtajam kelių rinkliavos rinkėjui reikia šių duomenų, kad įvykdytų savo pareigas Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos atžvilgiu. ^3d98ae8d1a02460ecfd17b72
+6. Europos elektroninės kelių rinkliavos paslaugos teikėjas ne vėliau kaip per 2 darbo dienas nuo prašymo dėl informacijos pateikimo gavimo dienos turi pateikti už Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritoriją atsakingam paskirtajam kelių rinkliavos rinkėjui prašomą informaciją ir duomenis, susijusius su visomis Europos elektroninės kelių rinkliavos paslaugos teikėjo klientams nuosavybės teise priklausančiomis ar jų valdomomis transporto priemonėmis, tam tikru laikotarpiu vairuotomis Lietuvos Respublikos Europos elektroninės kelių rinkliavos paslaugos teritorijoje, už kurią yra atsakingas paskirtasis kelių rinkliavos rinkėjas, taip pat duomenis, susijusius su tų transporto priemonių savininkais ar valdytojais, su sąlyga, kad paskirtajam kelių rinkliavos rinkėjui reikia šių duomenų, kad įvykdytų savo pareigas Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos atžvilgiu. ^1f375cf6cd395de527e767a6
 
 
-7. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruotų Europos elektroninės kelių rinkliavos paslaugos teikėjų atitikties šio straipsnio 1, 2, 4, 5 ir [[#^3d98ae8d1a02460ecfd17b72|6 dalyse]] nustatytiems reikalavimams vertinimas ir stebėsena vykdoma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^11361d590b2508a15fbec2dd
+7. Valstybinės reikšmės kelių eismo informacinėje sistemoje įregistruotų Europos elektroninės kelių rinkliavos paslaugos teikėjų atitikties šio straipsnio 1, 2, 4, 5 ir [[#^1f375cf6cd395de527e767a6|6 dalyse]] nustatytiems reikalavimams vertinimas ir stebėsena vykdoma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^a2b99e4fa66d68d2e343dd4e
 
 
-8. Europos elektroninės kelių rinkliavos paslaugos teikėjai išregistruojami iš Valstybinės reikšmės kelių eismo informacinės sistemos, kai tenkinama viena iš šių sąlygų: ^7d5c5479c9fd256f4998a023
+8. Europos elektroninės kelių rinkliavos paslaugos teikėjai išregistruojami iš Valstybinės reikšmės kelių eismo informacinės sistemos, kai tenkinama viena iš šių sąlygų: ^a746f271cf8c1b0bce783bf6
 
 
-1) yra gautas Europos elektroninės kelių rinkliavos paslaugos teikėjo prašymas; ^59686fa2e4fd2c131ab3c28a
+1) yra gautas Europos elektroninės kelių rinkliavos paslaugos teikėjo prašymas; ^ad6c4698a9a379da8875a8d1
 
 
-2) Europos elektroninės kelių rinkliavos paslaugos teikėjas nebeatitinka šio straipsnio 1, 2, 4, 5 ir [[#^3d98ae8d1a02460ecfd17b72|6 dalyse]] nustatytų registravimo ir veiklos vykdymo sąlygų ir nustatytos neatitikties nepašalina per 2 mėnesius nuo jo informavimo apie šią neatitiktį dienos. ^c5ba2299787b1af319e8d527
+2) Europos elektroninės kelių rinkliavos paslaugos teikėjas nebeatitinka šio straipsnio 1, 2, 4, 5 ir [[#^1f375cf6cd395de527e767a6|6 dalyse]] nustatytų registravimo ir veiklos vykdymo sąlygų ir nustatytos neatitikties nepašalina per 2 mėnesius nuo jo informavimo apie šią neatitiktį dienos. ^a19b540904ff0d97f16796ee
 
 
 Papildyta straipsniu:
@@ -379,22 +378,22 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 
 
 
-1. Neteko galios nuo 2025-02-01 ^3f73c0f119327222ca21e655
+1. Neteko galios nuo 2025-02-01 ^02328bbabc82a0a3c467d597
 Straipsnio dalies naikinimas:
 Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 
 
-2. Programai finansuoti gali būti naudojamos fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių perduodamos tikslinės lėšos. Fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinių lėšų perdavimo, administravimo, naudojimo ir priežiūros tvarką nustato Vyriausybė ar jos įgaliota institucija. ^c06925c1a050b13f63ad4e4d
+2. Programai finansuoti gali būti naudojamos fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių perduodamos tikslinės lėšos. Fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinių lėšų perdavimo, administravimo, naudojimo ir priežiūros tvarką nustato Vyriausybė ar jos įgaliota institucija. ^d75ae8b2fa8539c1704537ce
 
 
-3. Neteko galios nuo 2026-01-01 ^e11ffc12ccfe79c53a211bc8
+3. Neteko galios nuo 2026-01-01 ^d0ef671ae7a52de0c07168bf
 Straipsnio dalies naikinimas:
 Nr. XV-373, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12028
 
 
 
-4. Asmenys, kurie naudojasi valstybinės reikšmės keliuose šių kelių valdytojo teisėtu pagrindu valdomomis elektromobilių įkrovimo stotelėmis, už suteiktas elektromobilių įkrovimo paslaugas atsiskaito su valstybinės reikšmės kelių valdytoju. Elektromobilių įkrovimo paslaugos kainos dydžio apskaičiavimo metodiką nustato susisiekimo ministras. ^68b637e67259711acb36973e
+4. Asmenys, kurie naudojasi valstybinės reikšmės keliuose šių kelių valdytojo teisėtu pagrindu valdomomis elektromobilių įkrovimo stotelėmis, už suteiktas elektromobilių įkrovimo paslaugas atsiskaito su valstybinės reikšmės kelių valdytoju. Elektromobilių įkrovimo paslaugos kainos dydžio apskaičiavimo metodiką nustato susisiekimo ministras. ^2b2990d9b641b3306e08ee71
 Papildyta straipsnio dalimi:
 Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 
@@ -403,91 +402,91 @@ Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
 ### 9 straipsnis. Programos finansavimo lėšų naudojimas
 
 
-1. Programos finansavimo lėšos naudojamos užtikrinti, kad valstybinės reikšmės kelių tinklas veiktų, tai yra: ^e9679692320680cbea4a78f5
+1. Programos finansavimo lėšos naudojamos užtikrinti, kad valstybinės reikšmės kelių tinklas veiktų, tai yra: ^0b422c11418325f765103b70
 
 
-1) keliams tiesti, taisyti (remontuoti) ir prižiūrėti; ^5e09844e9ce212a403f926bf
+1) keliams tiesti, taisyti (remontuoti) ir prižiūrėti; ^694ce40a8fb2fbbb022330f2
 
 
-2) keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams ir buitiniams kelio statiniams, pralaidoms projektuoti, projektų ekspertizėms atlikti, kelių priežiūros ir tinklo plėtros programoms rengti, mokslo tiriamiesiems darbams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, vykdyti; ^952e6c0fc43606a4035b9017
+2) keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams ir buitiniams kelio statiniams, pralaidoms projektuoti, projektų ekspertizėms atlikti, kelių priežiūros ir tinklo plėtros programoms rengti, mokslo tiriamiesiems darbams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, vykdyti; ^ea8a2d810003c1158ca87473
 
 
-3) keliams, kelio statiniams ir jų užimamai žemei inventorizuoti; ^89a318ff9b912f5532c92d3e
+3) keliams, kelio statiniams ir jų užimamai žemei inventorizuoti; ^685f1260cca8512c86448049
 
 
-4) tiltams, viadukams, estakadoms, tuneliams, gamybiniams ir buitiniams kelio statiniams apskaityti, statyti, taisyti (remontuoti), inventorizuoti ir prižiūrėti; ^46efcf6d1df24580a178e5d0
+4) tiltams, viadukams, estakadoms, tuneliams, gamybiniams ir buitiniams kelio statiniams apskaityti, statyti, taisyti (remontuoti), inventorizuoti ir prižiūrėti; ^8110fa90c2f12d5962445ba3
 
 
-5) kelių tiesimo, taisymo (remonto) ir priežiūros darbų techninei kontrolei, kelių, tiltų, viadukų, estakadų ir tunelių specialiesiems tyrimams, laboratoriniams darbams, kelio statinių statybos techninei priežiūrai, saugos ir paskirties valstybinei priežiūrai atlikti; ^276a5dfa203bbf42653fb3c5
+5) kelių tiesimo, taisymo (remonto) ir priežiūros darbų techninei kontrolei, kelių, tiltų, viadukų, estakadų ir tunelių specialiesiems tyrimams, laboratoriniams darbams, kelio statinių statybos techninei priežiūrai, saugos ir paskirties valstybinei priežiūrai atlikti; ^fef4d119d3981a88b0246092
 
 
-6) kelio ruožų apšvietimo, eismo valdymo, reguliavimo priemonėms, kelių dangos šildymui įrengti; ^08b8ab47054e30316653e029
+6) kelio ruožų apšvietimo, eismo valdymo, reguliavimo priemonėms, kelių dangos šildymui įrengti; ^6f5358f5f05e188895cf2a03
 
 
-7) dviračių ir pėsčiųjų takams projektuoti, įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^d0f13092f04fc1269d24323e
+7) dviračių ir pėsčiųjų takams projektuoti, įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^fe99eeae75fe7bc1011dab0d
 
 
-8) poilsio aikštelėms, maršrutinio transporto sustojimo vietoms, paviljonams, pavėsinėms, tualetams ir kitiems prie kelio esantiems techniniams įrenginiams, oro sąlygų keliuose stebėjimo, transporto eismo apskaitos ir valdymo sistemoms ir kitiems kelio statiniams plėtoti; ^2b96fb871b3c6dce7054d459
+8) poilsio aikštelėms, maršrutinio transporto sustojimo vietoms, paviljonams, pavėsinėms, tualetams ir kitiems prie kelio esantiems techniniams įrenginiams, oro sąlygų keliuose stebėjimo, transporto eismo apskaitos ir valdymo sistemoms ir kitiems kelio statiniams plėtoti; ^8279894a2cbdba42688a711c
 
 
-9) kelių informacinėms sistemoms kurti; ^9592da270091cb32e2c7fed2
+9) kelių informacinėms sistemoms kurti; ^91b00b8bd63da8a087e07757
 
 
-10) žvyrkelių asfaltavimo programoms įgyvendinti; ^a2e5a7ed6195d71fd0491f7f
+10) žvyrkelių asfaltavimo programoms įgyvendinti; ^8c021c557adecbde063f915d
 
 
-11) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti; ^f4ee0b81fe5853953b638eb3
+11) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti; ^a4730035d8f9fde3bf0e6696
 
 
-12) Lietuvos Respublikos valstybės biudžeto lėšų, skirtų keliams tiesti, rekonstruoti, taisyti (remontuoti) ir saugaus eismo priemonėms įgyvendinti, daliai padengti vykdant Europos Sąjungos paramos lėšomis bendrai finansuojamus projektus; ^047ef79e8d04f83d45bf9ab7
+12) Lietuvos Respublikos valstybės biudžeto lėšų, skirtų keliams tiesti, rekonstruoti, taisyti (remontuoti) ir saugaus eismo priemonėms įgyvendinti, daliai padengti vykdant Europos Sąjungos paramos lėšomis bendrai finansuojamus projektus; ^163a5b85b1391dfec46b85c4
 
 
-13) Lietuvos Respublikos susisiekimo ministerijos įgaliotos viešosios įstaigos Transporto kompetencijų agentūros funkcijoms, nurodytoms Saugaus eismo automobilių keliais įstatymo 10 straipsnio 12 dalyje ir 11 straipsnio 1 dalyje, atlikti, valstybinės reikšmės kelių naudojimo priežiūrai vykdyti; ^0847742b2fe06f12914e0a77
+13) Lietuvos Respublikos susisiekimo ministerijos įgaliotos viešosios įstaigos Transporto kompetencijų agentūros funkcijoms, nurodytoms Saugaus eismo automobilių keliais įstatymo 10 straipsnio 12 dalyje ir 11 straipsnio 1 dalyje, atlikti, valstybinės reikšmės kelių naudojimo priežiūrai vykdyti; ^1c3d37cf0d9b4ea408ea0505
 
 
-14) tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius patirtoms išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas apmokėti, aplinkos apsaugos reikmėms ir apsaugos nuo triukšmo statiniams prie kelių statyti, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius; ^121bbaf038318bcaae54b489
+14) tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius patirtoms išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas apmokėti, aplinkos apsaugos reikmėms ir apsaugos nuo triukšmo statiniams prie kelių statyti, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius; ^b189d826829b905e3cae19d9
 
 
-15) bendradarbiavimui su užsienio valstybėmis kelių tinklo plėtros ir užtikrinimo, kad šis tinklas veiktų, klausimais finansuoti; ^d17274bc0461bf19d54428ea
+15) bendradarbiavimui su užsienio valstybėmis kelių tinklo plėtros ir užtikrinimo, kad šis tinklas veiktų, klausimais finansuoti; ^a942f15730e53053745997ec
 
 
-16) teisės aktams ir normatyviniams dokumentams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, rengti; ^3ee5f2b70b6dc147dc26a674
+16) teisės aktams ir normatyviniams dokumentams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, rengti; ^6298dc7de4cc503650a0a99b
 
 
-17) kelių transporto priemonių svėrimo įrangai įsigyti; ^abbaf38202bc28b0698ea2d9
+17) kelių transporto priemonių svėrimo įrangai įsigyti; ^7fbe0de877597c31d25798ae
 
 
-18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms ir akcinės bendrovės „Via Lietuva“ išlaidoms, patiriamoms vykdant įstatymais priskirtas valstybines funkcijas, apmokėti; ^614e667446f5ca6e135c0817
+18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms ir akcinės bendrovės „Via Lietuva“ išlaidoms, patiriamoms vykdant įstatymais priskirtas valstybines funkcijas, apmokėti; ^a35f67c6d448a118a73fa3b4
 
 
-19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir akcinės bendrovės „Via Lietuva“ paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti; ^4e4c5333705cce5743603344
+19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir akcinės bendrovės „Via Lietuva“ paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti; ^7581a64b09bf31023162c959
 
 
-20) Kelių muziejui ir kelių srities istorinėms vertybėms išlaikyti, įsigyti ir eksponuoti; ^34b179bfb9fd9791e8d1febb
+20) Kelių muziejui ir kelių srities istorinėms vertybėms išlaikyti, įsigyti ir eksponuoti; ^348ad3a65acf9652efa65b3b
 
 
-21) viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – CPVA) veiklai, susijusiai su Programos lėšų, skiriamų valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, priežiūra, užtikrinti; ^09943278ab9439f6b6bc05c3
+21) viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – CPVA) veiklai, susijusiai su Programos lėšų, skiriamų valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, priežiūra, užtikrinti; ^3035c18120272de3deb80320
 
 
-22) Lietuvos transporto saugos administracijos veiklai, apimančiai eismo dalyvių švietimą eismo saugumo srityje, administracinių nusižengimų teisenai užtikrinti, kelių naudotojo mokesčio (nuo 2027 metų – kelių rinkliavos) sumokėjimo kontrolei vykdyti, viešojo transporto informacijai apdoroti, viešojo transporto kelionių duomenų ir transporto įvykių informacinėms sistemoms palaikyti ir tobulinti; ^189f30255d768c0d1ec85e38
+22) Lietuvos transporto saugos administracijos veiklai, apimančiai eismo dalyvių švietimą eismo saugumo srityje, administracinių nusižengimų teisenai užtikrinti, kelių naudotojo mokesčio (nuo 2027 metų – kelių rinkliavos) sumokėjimo kontrolei vykdyti, viešojo transporto informacijai apdoroti, viešojo transporto kelionių duomenų ir transporto įvykių informacinėms sistemoms palaikyti ir tobulinti; ^8383d60faa39fd10980b191d
 
 
-23) Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos gaunamai informacijai apdoroti, organizacinėms ir eksploatacinėms išlaidoms padengti, saugaus eismo programoms ir jų priemonėms įgyvendinti; ^4ed94f26a463e1fa19d38500
+23) Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos gaunamai informacijai apdoroti, organizacinėms ir eksploatacinėms išlaidoms padengti, saugaus eismo programoms ir jų priemonėms įgyvendinti; ^6619b24a779608fb16737484
 
 
-24) Informatikos ir ryšių departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos informacijai apdoroti ir Administracinių nusižengimų registro informacinei sistemai palaikyti ir tobulinti; ^a8d1f8ce2acd4714f61758f8
+24) Informatikos ir ryšių departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos informacijai apdoroti ir Administracinių nusižengimų registro informacinei sistemai palaikyti ir tobulinti; ^3488a8e9c095f1325c9101a9
 
 
-25) akcinės bendrovės „Kelių priežiūra“ atliekamai valstybinės reikšmės kelių tinklo priežiūrai; ^5176fee0883a966cc8f23e25
+25) akcinės bendrovės „Kelių priežiūra“ atliekamai valstybinės reikšmės kelių tinklo priežiūrai; ^886cb2f2ef8392cee124dc57
 
 
-26) Eismo įvykių informacinės sistemos tvarkytojams ir šios sistemos duomenų tvarkytojams Eismo įvykių informacinės sistemos nuostatuose nustatytoms funkcijoms vykdyti; ^b3901b05a88d60fddd25f731
+26) Eismo įvykių informacinės sistemos tvarkytojams ir šios sistemos duomenų tvarkytojams Eismo įvykių informacinės sistemos nuostatuose nustatytoms funkcijoms vykdyti; ^ff83656cd3dbbde86e79c6aa
 
 
-27) institucijoms ir įstaigoms dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismo ir jų eismui skirtos infrastruktūros tyrimams atlikti ir šiems tyrimams viešinti; ^8cbec75f6c91076dc5919e38
+27) institucijoms ir įstaigoms dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismo ir jų eismui skirtos infrastruktūros tyrimams atlikti ir šiems tyrimams viešinti; ^4f254a2535cf36ab575ff2f8
 
 
-28) kitoms kelių srities reikmėms finansuoti. ^e2767045534a2f6cb33574e5
+28) kitoms kelių srities reikmėms finansuoti. ^2d49a24129c8953cf8f269a6
 
 
 Straipsnio dalies pakeitimai:
@@ -496,61 +495,61 @@ Nr. XV-737, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23028
 
 
 
-2. Programos finansavimo lėšos naudojamos savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomam vietinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra: ^e28734899f07a80dfb02e80f
+2. Programos finansavimo lėšos naudojamos savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomam vietinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra: ^55f6ceb56672f8843f625404
 
 
-1) keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^d93f4074182e17591f4018f2
+1) keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^41f7a4165fda22a60273db35
 
 
-2) kelių, kelio statinių ir jų užimamos žemės teisinei registracijai būtinoms procedūroms atlikti, daiktinėms teisėms į žemę, šių teisių suvaržymams, juridiniams faktams registruoti; ^40259ddea7c9c8bfd1515105
+2) kelių, kelio statinių ir jų užimamos žemės teisinei registracijai būtinoms procedūroms atlikti, daiktinėms teisėms į žemę, šių teisių suvaržymams, juridiniams faktams registruoti; ^f7baa5e20db912e061bbeb76
 
 
-3) tiltams, viadukams, estakadoms, tuneliams, pralaidoms projektuoti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^aacecfc0893c900476e609f0
+3) tiltams, viadukams, estakadoms, tuneliams, pralaidoms projektuoti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^17b7478cff0e9acaac99af1a
 
 
-4) apsaugos nuo triukšmo statiniams prie kelių statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^c7704e2d27e77bd3c9315eec
+4) apsaugos nuo triukšmo statiniams prie kelių statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^1776f5e6cd6cce42523377e2
 
 
-5) kelio juostoje esantiems paviršinio vandens nuleidimo įrenginiams ir lietaus kanalizacijai įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^576de7cd3e120b8f02b26db1
+5) kelio juostoje esantiems paviršinio vandens nuleidimo įrenginiams ir lietaus kanalizacijai įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^367f07de8f3bf4f1f12b5f38
 
 
-6) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti; ^6c8aed6c9703f01aeacecf85
+6) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti; ^e8404fb16fa7353523b3e025
 
 
-7) kelio juostoje esančioms automobilių stovėjimo aikštelėms, viešojo transporto stotelėms ir paviljonams įrengti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^ea8fae6fa71ed212bc808b93
+7) kelio juostoje esančioms automobilių stovėjimo aikštelėms, viešojo transporto stotelėms ir paviljonams įrengti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^eb8754147161369309634112
 
 
-8) institucijų ar įstaigų, atsakingų už vietinės reikšmės viešuosius kelius, paskoloms, naudojamoms vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), grąžinti ir palūkanoms mokėti; ^cf30d02fd3c1a2e5285cd635
+8) institucijų ar įstaigų, atsakingų už vietinės reikšmės viešuosius kelius, paskoloms, naudojamoms vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), grąžinti ir palūkanoms mokėti; ^61aaeeb0b718c920280586d8
 
 
-9) tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius patirtoms išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, naikinamus želdinius ir kitas naudmenas apmokėti, aplinkos apsaugos reikmėms, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius; ^f321816d9e1ab0ebac17a8d3
+9) tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius patirtoms išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, naikinamus želdinius ir kitas naudmenas apmokėti, aplinkos apsaugos reikmėms, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius; ^44cf791f8a62850c52eed6a9
 
 
-10) Programos finansavimo lėšų naudojimo pagal paskirtį kontrolei, darbų kokybės kontrolės priežiūrai vietinės reikšmės kelių objektuose; ^ca1cc5f817b6c6c5fc17b512
+10) Programos finansavimo lėšų naudojimo pagal paskirtį kontrolei, darbų kokybės kontrolės priežiūrai vietinės reikšmės kelių objektuose; ^8ddb31449e00f57096514e9e
 
 
-11) viešojo sektoriaus ir privačios partnerystės būdu įgyvendinamiems vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), paskoloms grąžinti ir palūkanoms mokėti, projektų išlaidoms finansuoti; ^c4e28874373bfe43ef4c5941
+11) viešojo sektoriaus ir privačios partnerystės būdu įgyvendinamiems vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), paskoloms grąžinti ir palūkanoms mokėti, projektų išlaidoms finansuoti; ^4de9eee4916013ae0e08dc18
 
 
-12) želdinių gyvenamųjų vietovių gatvių raudonosiose linijose įrengimui saugaus eismo tikslais ir priežiūrai finansuoti; ^8d48bbf980bd284d84d145df
+12) želdinių gyvenamųjų vietovių gatvių raudonosiose linijose įrengimui saugaus eismo tikslais ir priežiūrai finansuoti; ^ba02077ac01f01b544f25de7
 
 
-13) darnaus judumo priemonėms (esamiems šaligatviams, pėsčiųjų takams, pėsčiųjų viadukams ir tiltams, pėsčiųjų estakadoms, pėsčiųjų perėjoms (įskaitant požemines) pritaikyti specialiųjų poreikių turintiems žmonėms; viešojo transporto infrastruktūrai; viešojo transporto eismui organizuoti; dviračių statymo infrastruktūrai; transporto priemonių stovėjimo aikštelėms ir (ar) automobilių saugykloms kurortuose ir kurortinėse teritorijose įrengti; stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis; elektrinių transporto priemonių (išskyrus elektromobilius) viešosioms įkrovimo prieigoms; šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; pėsčiųjų, dviračių takų įrenginiams (tvorelėms ir pan.)) įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^89167ea1bddc87770366bdac
+13) darnaus judumo priemonėms (esamiems šaligatviams, pėsčiųjų takams, pėsčiųjų viadukams ir tiltams, pėsčiųjų estakadoms, pėsčiųjų perėjoms (įskaitant požemines) pritaikyti specialiųjų poreikių turintiems žmonėms; viešojo transporto infrastruktūrai; viešojo transporto eismui organizuoti; dviračių statymo infrastruktūrai; transporto priemonių stovėjimo aikštelėms ir (ar) automobilių saugykloms kurortuose ir kurortinėse teritorijose įrengti; stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis; elektrinių transporto priemonių (išskyrus elektromobilius) viešosioms įkrovimo prieigoms; šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; pėsčiųjų, dviračių takų įrenginiams (tvorelėms ir pan.)) įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^4350222917641ced6fd23867
 Straipsnio punkto pakeitimai:
 Nr. XIV-2227, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22372
 
 
 
-14) inžinerinėms saugaus eismo priemonėms (važiuojamajai kelio daliai siaurinti; įvažiavimų į teritorijas zonoms pertvarkyti; važiuojamajai kelio daliai iškreivinti; iškiliosioms greičio mažinimo priemonėms (greičio mažinimo kalneliams) įrengti; kelio įrenginiams (saugos salelėms, sankryžoms, pėsčiųjų perėjoms); greičio mažinimo priemonėms ties gyvenamosios teritorijos pradžia, siekiant sumažinti galimą per didelį transporto priemonių greitį ir parodyti, kad keičiasi važiavimo režimas (miesto vartai), įrengti; kelio ženklams įrengti; kelio dangai ženklinti; šviesoforams įrengti; tvoroms, kelio apsauginių atitvarų sistemoms, signaliniams stulpeliams įrengti; kelio veidrodžiams įrengti; elektroniniams įrenginiams (greičio kontrolės priemonėms, informacinėms momentinio važiavimo greičio švieslentėms, kintamosios informacijos ženklams (stendams)  įrengti ir prižiūrėti; apšvietimui keliuose) ir kitoms priemonėms įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^a648998a433846930266df33
+14) inžinerinėms saugaus eismo priemonėms (važiuojamajai kelio daliai siaurinti; įvažiavimų į teritorijas zonoms pertvarkyti; važiuojamajai kelio daliai iškreivinti; iškiliosioms greičio mažinimo priemonėms (greičio mažinimo kalneliams) įrengti; kelio įrenginiams (saugos salelėms, sankryžoms, pėsčiųjų perėjoms); greičio mažinimo priemonėms ties gyvenamosios teritorijos pradžia, siekiant sumažinti galimą per didelį transporto priemonių greitį ir parodyti, kad keičiasi važiavimo režimas (miesto vartai), įrengti; kelio ženklams įrengti; kelio dangai ženklinti; šviesoforams įrengti; tvoroms, kelio apsauginių atitvarų sistemoms, signaliniams stulpeliams įrengti; kelio veidrodžiams įrengti; elektroniniams įrenginiams (greičio kontrolės priemonėms, informacinėms momentinio važiavimo greičio švieslentėms, kintamosios informacijos ženklams (stendams)  įrengti ir prižiūrėti; apšvietimui keliuose) ir kitoms priemonėms įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; ^0cf644f89609b54a26845607
 
 
-15) įgyvendinant vietinės reikšmės kelių projektus būtiniems vietinės reikšmės ir valstybinės reikšmės kelių statinių sujungimo darbams, kuriuos vykdant nekeičiami valstybinės reikšmės kelio (statinio) elementų (sankryžų, nuovažų) geometriniai parametrai, finansuoti; ^88b265c03f8abd32ae3ec925
+15) įgyvendinant vietinės reikšmės kelių projektus būtiniems vietinės reikšmės ir valstybinės reikšmės kelių statinių sujungimo darbams, kuriuos vykdant nekeičiami valstybinės reikšmės kelio (statinio) elementų (sankryžų, nuovažų) geometriniai parametrai, finansuoti; ^1a6903b5de32bb4157abb833
 
 
-16) valstybinėje ir savivaldybių žemėje daugiabučių namų kiemų vidaus kelių (gatvių) ir daugiabučių namų gyventojų automobilių stovėjimo aikštelėms įrengti, rekonstruoti, taisyti (remontuoti)  ir prižiūrėti, neatsižvelgiant į tai, ar atlikta šių inžinerinių statinių teisinė registracija. ^0e1affaa54c4c1feca682f79
+16) valstybinėje ir savivaldybių žemėje daugiabučių namų kiemų vidaus kelių (gatvių) ir daugiabučių namų gyventojų automobilių stovėjimo aikštelėms įrengti, rekonstruoti, taisyti (remontuoti)  ir prižiūrėti, neatsižvelgiant į tai, ar atlikta šių inžinerinių statinių teisinė registracija. ^c8b96810e23adf13aab67a48
 
 
-3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė „Via Lietuva“. Programos finansavimo lėšų naudojimo [[#^e9679692320680cbea4a78f5|šio straipsnio 1 dalyje]] nurodytoms kelių reikmėms tinkamumą tikrina CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. ^bcf8021d9c2888ced498eb5e
+3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė „Via Lietuva“. Programos finansavimo lėšų naudojimo [[#^0b422c11418325f765103b70|šio straipsnio 1 dalyje]] nurodytoms kelių reikmėms tinkamumą tikrina CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. ^84287c05ed45f1ac77392930
 Straipsnio dalies pakeitimai:
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
@@ -558,7 +557,7 @@ Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 
 
-4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė „Via Lietuva“ ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir [[#^e28734899f07a80dfb02e80f|2 dalyse]] numatytų veiklų finansavimo už ne didesnę kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumą. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka. ^a807f98970235ccc38c82b83
+4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė „Via Lietuva“ ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir [[#^55f6ceb56672f8843f625404|2 dalyse]] numatytų veiklų finansavimo už ne didesnę kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumą. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka. ^a27ad22b62048a1d3739457f
 Straipsnio dalies pakeitimai:
 Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
@@ -566,22 +565,22 @@ Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 
 
-5. 3 metų Programos finansavimo lėšų naudojimo sąmatoje [[#^e9679692320680cbea4a78f5|šio straipsnio 1 dalyje]] nustatytoms veikloms numatoma: 2025 metais – 62 procentai, nuo 2026 metų – 52,7 procento Programos finansavimo lėšų. Nuo 2027 metų 5 procentai Programos finansavimo lėšų, skiriamų [[#^e9679692320680cbea4a78f5|šio straipsnio 1 dalyje]] numatytoms veikloms, Vyriausybės nustatyta tvarka paskirstomi atrinktiems valstybinės reikšmės rajoninių kelių, kuriuos savivaldybių institucijos sutinka perimti savivaldybių nuosavybėn su visais jiems priklausančiais statiniais, objektams finansuoti. ^585081e808b93e6b9cb32714
+5. 3 metų Programos finansavimo lėšų naudojimo sąmatoje [[#^0b422c11418325f765103b70|šio straipsnio 1 dalyje]] nustatytoms veikloms numatoma: 2025 metais – 62 procentai, nuo 2026 metų – 52,7 procento Programos finansavimo lėšų. Nuo 2027 metų 5 procentai Programos finansavimo lėšų, skiriamų [[#^0b422c11418325f765103b70|šio straipsnio 1 dalyje]] numatytoms veikloms, Vyriausybės nustatyta tvarka paskirstomi atrinktiems valstybinės reikšmės rajoninių kelių, kuriuos savivaldybių institucijos sutinka perimti savivaldybių nuosavybėn su visais jiems priklausančiais statiniais, objektams finansuoti. ^1e962400f4f83090081856fb
 Straipsnio dalies pakeitimai:
 Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 Nr. XV-636, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21470
 
 
 
-6. 3 metų Programos finansavimo lėšų naudojimo sąmatoje [[#^e28734899f07a80dfb02e80f|šio straipsnio 2 dalyje]] nustatytoms veikloms, taip pat skoloms (jeigu jų yra) sumokėti ir išlaidoms kompensuoti, kai deklaruojamos patirtos ir apmokėtos išlaidos už praėjusiais finansiniais metais atliktus darbus ir suteiktas paslaugas, kurių vertė neviršijo praėjusiais finansiniais metais planuotų asignavimų, numatoma: 2025 metais – 38 procentai, nuo 2026 metų – 47,3 procento Programos finansavimo lėšų, iš jų iki 9 procentų lėšų Vyriausybės nustatyta tvarka paskirstoma atrinktiems valstybei svarbiems vietinės reikšmės kelių objektams finansuoti, likusi lėšų dalis, ne mažiau kaip 91 procentas, akcinės bendrovės „Via Lietuva“ paskirstoma taip: ^c20bdd62046106a232599cd4
+6. 3 metų Programos finansavimo lėšų naudojimo sąmatoje [[#^55f6ceb56672f8843f625404|šio straipsnio 2 dalyje]] nustatytoms veikloms, taip pat skoloms (jeigu jų yra) sumokėti ir išlaidoms kompensuoti, kai deklaruojamos patirtos ir apmokėtos išlaidos už praėjusiais finansiniais metais atliktus darbus ir suteiktas paslaugas, kurių vertė neviršijo praėjusiais finansiniais metais planuotų asignavimų, numatoma: 2025 metais – 38 procentai, nuo 2026 metų – 47,3 procento Programos finansavimo lėšų, iš jų iki 9 procentų lėšų Vyriausybės nustatyta tvarka paskirstoma atrinktiems valstybei svarbiems vietinės reikšmės kelių objektams finansuoti, likusi lėšų dalis, ne mažiau kaip 91 procentas, akcinės bendrovės „Via Lietuva“ paskirstoma taip: ^989d5aa2b597e6f1b526d3bd
 Straipsnio dalies pakeitimai:
 Nr. XV-636, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21470
 
 
-1) vietinės reikšmės keliams Birštono, Druskininkų, Palangos miesto ir Neringos savivaldybėse – 2 procentai lėšų, iš jų 50 procentų lėšų šioms savivaldybėms paskirstoma po lygiai ir 50 procentų lėšų – pagal per paskutinius 12 mėnesių suteiktų nakvynių apgyvendinimo įstaigose skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.); lėšos paskirstomos toms savivaldybėms, kurių savivaldybių tarybos, vadovaudamosi Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymu, patvirtino savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus); ^cb2db5c4ba488bef7ab7efbf
+1) vietinės reikšmės keliams Birštono, Druskininkų, Palangos miesto ir Neringos savivaldybėse – 2 procentai lėšų, iš jų 50 procentų lėšų šioms savivaldybėms paskirstoma po lygiai ir 50 procentų lėšų – pagal per paskutinius 12 mėnesių suteiktų nakvynių apgyvendinimo įstaigose skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.); lėšos paskirstomos toms savivaldybėms, kurių savivaldybių tarybos, vadovaudamosi Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymu, patvirtino savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus); ^32fb40d35c6217e5de695397
 
 
-2) savivaldybių institucijų valdomiems vietinės reikšmės keliams – 98 procentai lėšų, iš jų miestų savivaldybių vietinės reikšmės keliams – 35 procentai lėšų, kitų savivaldybių vietinės reikšmės keliams – 65 procentai lėšų. Šios lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų lėšų ir pagal motorizuoto eismo kelių ilgį, nurodytą savivaldybių tarybų iki einamųjų biudžetinių metų sausio 1 d. patvirtintuose kelių sąrašuose, kuriuose taip pat nurodomas kelio numeris ir kelio pavadinimas, – 50 procentų lėšų. Nuo 2027 metų Programos finansavimo lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų lėšų ir pagal Nekilnojamojo turto registre iki einamųjų biudžetinių metų sausio 1 d. įregistruotų motorizuoto eismo kelių ilgį – 50 procentų lėšų. ^29d14466692675bf4b8063e5
+2) savivaldybių institucijų valdomiems vietinės reikšmės keliams – 98 procentai lėšų, iš jų miestų savivaldybių vietinės reikšmės keliams – 35 procentai lėšų, kitų savivaldybių vietinės reikšmės keliams – 65 procentai lėšų. Šios lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų lėšų ir pagal motorizuoto eismo kelių ilgį, nurodytą savivaldybių tarybų iki einamųjų biudžetinių metų sausio 1 d. patvirtintuose kelių sąrašuose, kuriuose taip pat nurodomas kelio numeris ir kelio pavadinimas, – 50 procentų lėšų. Nuo 2027 metų Programos finansavimo lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Valstybės duomenų agentūros duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų lėšų ir pagal Nekilnojamojo turto registre iki einamųjų biudžetinių metų sausio 1 d. įregistruotų motorizuoto eismo kelių ilgį – 50 procentų lėšų. ^68556bb33e40eec9d91d7400
 
 
 Straipsnio dalies pakeitimai:
@@ -589,45 +588,48 @@ Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 
 
-7. Ne mažiau kaip 50 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama vietinės reikšmės keliams tiesti, rekonstruoti ir taisyti (remontuoti); ne mažiau kaip 10 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama saugaus eismo priemonėms ir darnaus judumo priemonėms vietinės reikšmės keliuose finansuoti. ^29c206867177dd4adc099b32
+7. Ne mažiau kaip 50 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama vietinės reikšmės keliams tiesti, rekonstruoti ir taisyti (remontuoti); ne mažiau kaip 10 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama saugaus eismo priemonėms ir darnaus judumo priemonėms vietinės reikšmės keliuose finansuoti. ^837afab682be75847cff4c86
 Straipsnio dalies pakeitimai:
 Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 
 
-8. Savivaldybių institucijos Programos finansavimo lėšas paskirsto vadovaudamosi savivaldybių tarybų nustatyta tvarka, pagal kurią turi būti sudaromos viešai skelbiamos savivaldybės interneto svetainėje ir nuolat atnaujinamos vietinės reikšmės kelių objektų prioritetinės eilės. Vietinės reikšmės kelių objektų prioritetinės eilės sudaromos ne trumpesniam kaip trejų metų laikotarpiui. ^d273e054f801b74bbf1cf4f3
+8. Savivaldybių institucijos Programos finansavimo lėšas paskirsto vadovaudamosi savivaldybių tarybų nustatyta tvarka, pagal kurią turi būti sudaromos viešai skelbiamos savivaldybės interneto svetainėje ir nuolat atnaujinamos vietinės reikšmės kelių objektų prioritetinės eilės. Vietinės reikšmės kelių objektų prioritetinės eilės sudaromos ne trumpesniam kaip trejų metų laikotarpiui. ^7aec318f674c87e8c62cf30e
 
 
-9. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti: ^99c1b9fd43101ecaad948ad7
+9. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti: ^c4f379b072e055da075655bf
 
 
-1) neįgaliųjų ir jų nuosavybės ar kitokiu teisėtu pagrindu valdomų automobilių, kuriuos jie vairuoja arba kuriais jie važiuoja; ^49af84f19790af4599f16533
+1) neįgaliųjų ir jų nuosavybės ar kitokiu teisėtu pagrindu valdomų automobilių, kuriuos jie vairuoja arba kuriais jie važiuoja; ^928bfe6abb0c4407b6bf2b53
 
 
-2) tarnybos reikalais vykstančių greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės pareigūnų, Lietuvos kariuomenėje tarnaujančių karių, valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų ir šiame punkte nurodytų institucijų ir tarnybų transporto priemonių; ^44f124d285e3585a8503737d
+2) tarnybos reikalais vykstančių greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, Vadovybės apsaugos tarnybos, Viešojo saugumo tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės pareigūnų, Lietuvos kariuomenėje tarnaujančių karių, valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų ir šiame punkte nurodytų institucijų ir tarnybų transporto priemonių; ^7eb5d4519d6e7b1355e8c284
+Straipsnio punkto pakeitimai:
+Nr. XV-737, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23028
 
 
-3) Klaipėdos miesto savivaldybės tarnybinių transporto priemonių, valstybės tarnautojų ir darbuotojų, atliekančių tarnybines funkcijas ir dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; ^91bac8363f5df4f12a0d2be0
+
+3) Klaipėdos miesto savivaldybės tarnybinių transporto priemonių, valstybės tarnautojų ir darbuotojų, atliekančių tarnybines funkcijas ir dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; ^91f1750ee196ee56ffdf451a
 
 
-4) autobusų, skirtų keleiviams vežti reguliariaisiais reisais tolimojo ar vietinio susisiekimo maršrutais, dviračių, autocisternų, kuriomis vežami degalai į Kuršių neriją, ir transporto priemonių, kuriomis gabenamas biokuras į Kuršių neriją; ^cce35129e4cb0c68d189c02c
+4) autobusų, skirtų keleiviams vežti reguliariaisiais reisais tolimojo ar vietinio susisiekimo maršrutais, dviračių, autocisternų, kuriomis vežami degalai į Kuršių neriją, ir transporto priemonių, kuriomis gabenamas biokuras į Kuršių neriją; ^7b129749d6a45d588fa8335c
 Straipsnio punkto pakeitimai:
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
-Nr. XV-662, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22534
 Nr. XV-663, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22535
+Nr. XV-662, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22534
 
 
 
-5) juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, transporto priemonių ir darbuotojų; ^72d544e16b70704d05e3ac57
+5) juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę, transporto priemonių ir darbuotojų; ^8130f81af420c8f88cbe089e
 
 
-6) Klaipėdos miesto savivaldybės įmonių ir įstaigų transporto priemonių ir darbuotojų, dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; ^d9028a908e7a9f2ac92373bc
+6) Klaipėdos miesto savivaldybės įmonių ir įstaigų transporto priemonių ir darbuotojų, dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; ^87e6f18af4d8533e7cba4f6d
 
 
-7) Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusių asmenų ir jų transporto priemonių; ^648822082cd5c0011795d739
+7) Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusių asmenų ir jų transporto priemonių; ^61cf167de1ebbd48d1b91579
 
 
-8) darbo reikalais vykstančių miškų urėdijos, kuriai perduotas valdyti Kuršių nerijoje esantis valstybinės miško žemės sklypas, darbuotojų ir jos transporto priemonių. ^667bf4729dcec5d6b261a1bb
+8) darbo reikalais vykstančių miškų urėdijos, kuriai perduotas valdyti Kuršių nerijoje esantis valstybinės miško žemės sklypas, darbuotojų ir jos transporto priemonių. ^c7d59ff28d86d3b778abe8d4
 
 
 Straipsnio pakeitimai:
@@ -638,13 +640,13 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 ### 91 straipsnis. CPVA funkcijos
 
 
-CPVA, vykdydama Programos finansavimo lėšų naudojimo šio įstatymo [[#^e9679692320680cbea4a78f5|9 straipsnio 1 dalyje]] nurodytoms kelių reikmėms priežiūrą, atlieka šias funkcijas:
+CPVA, vykdydama Programos finansavimo lėšų naudojimo šio įstatymo [[#^0b422c11418325f765103b70|9 straipsnio 1 dalyje]] nurodytoms kelių reikmėms priežiūrą, atlieka šias funkcijas:
 
 
-1) tikrina ir tvirtina deklaruotų išlaidų tinkamumą finansuoti Programos finansavimo lėšomis; ^10e6ddf4a2b637393570acf1
+1) tikrina ir tvirtina deklaruotų išlaidų tinkamumą finansuoti Programos finansavimo lėšomis; ^2bffd9102df01b36ea2551e5
 
 
-2) atlieka patikrinimus, įskaitant patikrinimus vietoje, siekdama nustatyti, ar Programos finansavimo lėšos panaudotos tinkamai. ^b7a6083afd7ab7db2b7bfa8b
+2) atlieka patikrinimus, įskaitant patikrinimus vietoje, siekdama nustatyti, ar Programos finansavimo lėšos panaudotos tinkamai. ^61da98373ef9d71245e6213b
 
 
 Straipsnio pakeitimai:
@@ -655,10 +657,10 @@ Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
 ### 10 straipsnis. Programos finansavimo garantijos
 
 
-1. Programos finansavimo pajamos ir išlaidos, vadovaujantis Lietuvos Respublikos biudžeto sandaros įstatyme nustatytais programų finansavimo principais, planuojamos valstybės biudžete. ^e7af1c803ff94ee4cf199895
+1. Programos finansavimo pajamos ir išlaidos, vadovaujantis Lietuvos Respublikos biudžeto sandaros įstatyme nustatytais programų finansavimo principais, planuojamos valstybės biudžete. ^386514257398ddbb4456ada2
 
 
-2. Programos finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms, kurios nėra numatytos šio įstatymo [[#9 straipsnis. Programos finansavimo lėšų naudojimas|9 straipsnyje]], finansuoti. ^afa7b7975a5aede93160412a
+2. Programos finansavimo lėšos negali būti naudojamos kitoms valstybės reikmėms, kurios nėra numatytos šio įstatymo [[#9 straipsnis. Programos finansavimo lėšų naudojimas|9 straipsnyje]], finansuoti. ^e5adc373984c3fcf2a31b70e
 
 
 
@@ -828,7 +830,6 @@ Nr. XV-373, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12028
 
 
 
-
 Lietuvos Respublikos
 kelių priežiūros ir plėtros programos
 finansavimo įstatymo
@@ -838,13 +839,13 @@ finansavimo įstatymo
 
 
 
-1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1242. ^a47d7056ff4566138fd9fc12
+1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1242. ^38784d36854a41b4b55a6ded
 
 
-2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2022 m. vasario 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/362. ^6328d56bcea6dc3836ccff4b
+2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2022 m. vasario 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/362. ^0d647c566d6ec7dde835b43f
 
 
-3. 2019 m. kovo 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/520 dėl elektroninių kelių rinkliavos sistemų sąveikumo, kuria sudaromos palankesnės sąlygos tarpvalstybiniu lygmeniu keistis informacija apie kelių rinkliavų nesumokėjimo atvejus Sąjungoje. ^95531f3ddb5a1a2182b7f87f
+3. 2019 m. kovo 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/520 dėl elektroninių kelių rinkliavos sistemų sąveikumo, kuria sudaromos palankesnės sąlygos tarpvalstybiniu lygmeniu keistis informacija apie kelių rinkliavų nesumokėjimo atvejus Sąjungoje. ^6cf755dd322540220470ae49
 
 
 –––––––––––––––––––––––
@@ -966,7 +967,7 @@ KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 3 IR [[#5 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1292, 2011-03-22, Žin., 2011, Nr. 40-1916 (2011-04-05)
 KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 2, 3, 7, 9 IR [[#10 straipsnis. Programos finansavimo garantijos|10 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^6328d56bcea6dc3836ccff4b|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^0d647c566d6ec7dde835b43f|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d.
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -996,7 +997,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-898, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05729
 LIETUVOS RESPUBLIKOS KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO NR. VIII-2032 PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šis įstatymas, išskyrus [[#^95531f3ddb5a1a2182b7f87f|šio straipsnio 3 dalį]] ir šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo [[#4 straipsnis. Neteko galios nuo 2022-01-01.|4 straipsnį]], įsigalioja 2014 m. lapkričio 1 d.
+Šis įstatymas, išskyrus [[#^6cf755dd322540220470ae49|šio straipsnio 3 dalį]] ir šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo [[#4 straipsnis. Neteko galios nuo 2022-01-01.|4 straipsnį]], įsigalioja 2014 m. lapkričio 1 d.
 Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo [[#4 straipsnis. Neteko galios nuo 2022-01-01.|4 straipsnis]] įsigalioja 2015 m. sausio 1 d.
 
 

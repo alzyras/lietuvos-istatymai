@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.D4A66ACB9F97.md",
   "latest_revision": "1996-05-29",
-  "latest_sha256": "96e1bb502ef6aa5e5c2ddd4129e56e570c016c73bb8e2df619b5d99a963a946f",
+  "latest_sha256": "659caf78538c011d8c188ce9f1043afe59f1f123c69dfac9c9733acdc91c006f",
   "metadata_path": "latest/TAR.D4A66ACB9F97.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos gyventojų turto deklaravimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

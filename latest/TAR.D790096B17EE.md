@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1994-12-07"
 latest_path: "latest/TAR.D790096B17EE.md"
-latest_sha256: "9c53052727563efe62df491c4adb14be58363844e1b5a36aa9fccfe637eb74a8"
+latest_sha256: "0401974e3481b410429e29af97b3ae66a650c9e2fe2f9776e6949616d0484e38"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas
@@ -2762,17 +2762,23 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 
 
 
-### 49 straipsnis. Nutarimo apskundimas
+### 48 straipsnis. Nutarimo vykdymas
 
 
-1. Pardavėjas, paslaugų teikėjas, pareiškėjas, nesutinkantys su Valstybinės vartotojų teisių apsaugos tarnybos nutarimu, turi teisę per 30 kalendorinių dienų nuo nutarimo priėmimo dienos apskųsti jį teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. ^1656277ea2e8e24eac23aa00
+1. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas yra vykdomasis dokumentas. ^ec728df3e030a79055711e54
 
 
-2. Kreipimasis į teismą sustabdo Valstybinės vartotojų teisių apsaugos tarnybos nutarimo dėl baudos skyrimo vykdymą. ^3363790a8f8457a4a9731374
+2. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas dėl baudos skyrimo vykdomas Lietuvos Respublikos mokesčių administravimo įstatyme ir Civilinio proceso kodekse nustatyta tvarka. ^851df9f6f9e03fd3d363153e
 
 
-Įstatymas papildytas straipsniu:
-Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+3. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas įpareigoti pardavėją, paslaugų teikėją, pažeidusius vartotojų teises, nutraukti neteisėtus veiksmus priverstinai vykdomas Civilinio proceso kodekse nustatyta tvarka, jeigu nutarime nurodytas asmuo neįvykdo šio nutarimo savanoriškai per 14 kalendorinių dienų nuo nutarimo įteikimo jam dienos, išskyrus atvejus, kai nutarime nustatytas ilgesnis jo įvykdymo terminas. ^cc0fbbe6025ce5ac78bac4bf
+
+
+4. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas įpareigoti pardavėją, paslaugų teikėją, pažeidusius vartotojų teises, nutraukti neteisėtus veiksmus gali būti pateikiamas vykdyti antstoliui ne vėliau kaip per 180 kalendorinių dienų nuo nutarimo priėmimo arba, nutarimą apskundus teismui, nuo teismo sprendimo įsiteisėjimo dienos, jeigu nutarimas nebuvo panaikintas. ^d27b7a8a32dbefced34ea5d2
+
+
+Straipsnio pakeitimai:
+Nr. XV-921, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08255
 
 
 
@@ -2796,56 +2802,56 @@ REGLAMENTO (ES) 2017/2394 ĮGYVENDINIMAS
 ### 50 straipsnis. Bendroji ryšių palaikymo tarnyba ir kompetentingos institucijos
 
 
-1. Vyriausybė, įgyvendindama Reglamentą (ES) 2017/2394, paskiria bendrąją ryšių palaikymo tarnybą. ^35ef86a50e2e4a0f2d233721
+1. Vyriausybė, įgyvendindama Reglamentą (ES) 2017/2394, paskiria bendrąją ryšių palaikymo tarnybą. ^b46150ccd4221e29439c07ba
 
 
-2. Vyriausybė, įgyvendindama Reglamentą (ES) 2017/2394, paskiria kompetentingas institucijas, jeigu jos nėra nustatytos Lietuvos Respublikos įstatymuose, kuriais įgyvendinami Reglamento (ES) 2017/2394 priede nurodyti Europos Sąjungos teisės aktai. ^30817ab7655200b1536692b9
+2. Vyriausybė, įgyvendindama Reglamentą (ES) 2017/2394, paskiria kompetentingas institucijas, jeigu jos nėra nustatytos Lietuvos Respublikos įstatymuose, kuriais įgyvendinami Reglamento (ES) 2017/2394 priede nurodyti Europos Sąjungos teisės aktai. ^8575563e4677139467f7c51c
 
 
 
 ### 51 straipsnis. Kompetentingų institucijų minimalių įgaliojimų įgyvendinimo tvarka
 
 
-1. Šis straipsnis taikomas kompetentingoms institucijoms įgyvendinant Reglamento (ES) 2017/2394 [[#9 straipsnis. Vartotojų teisių apsaugos institucinė sistema|9 straipsnyje]] nustatytus įgaliojimus, jeigu kiti įstatymai nenustato kitaip. ^c2f164e13294c96b9ea32cf8
+1. Šis straipsnis taikomas kompetentingoms institucijoms įgyvendinant Reglamento (ES) 2017/2394 [[#9 straipsnis. Vartotojų teisių apsaugos institucinė sistema|9 straipsnyje]] nustatytus įgaliojimus, jeigu kiti įstatymai nenustato kitaip. ^6e94816d6f22445e1d8768ff
 
 
-2. Įgyvendindamos Reglamente (ES) 2017/2394 nustatytus įgaliojimus susipažinti su dokumentais, duomenimis ar informacija, susijusia su pažeidimais, kuriems taikomas Reglamentas (ES) 2017/2394, ir įgaliojimus gauti informaciją, duomenis ar dokumentus, įskaitant duomenis finansų ir duomenų judėjimui susekti, kompetentingos institucijos, siekdamos nustatyti, ar padarytas arba daromas pažeidimas, kuriam taikomas Reglamentas (ES) 2017/2394, privalo saugoti sužinotas komercines, profesines ir banko paslaptis ar joms prilygintą paslaptį sudarančią informaciją ir naudoti jas be savininko sutikimo gali tik tiems tikslams, dėl kurių jos buvo pateiktos. Asmenys, teikdami dokumentus, duomenis ar informaciją, turi kompetentingai institucijai pateikti prašymą dėl savo komercinių, profesinių ar banko paslapčių ar joms prilygintos paslaptį sudarančios informacijos apsaugos. Šiame prašyme turi būti aiškiai nurodyta, kokia informacija yra komercinė, profesinė ar banko paslaptis. ^5c9c5e081373d4722e8d8772
+2. Įgyvendindamos Reglamente (ES) 2017/2394 nustatytus įgaliojimus susipažinti su dokumentais, duomenimis ar informacija, susijusia su pažeidimais, kuriems taikomas Reglamentas (ES) 2017/2394, ir įgaliojimus gauti informaciją, duomenis ar dokumentus, įskaitant duomenis finansų ir duomenų judėjimui susekti, kompetentingos institucijos, siekdamos nustatyti, ar padarytas arba daromas pažeidimas, kuriam taikomas Reglamentas (ES) 2017/2394, privalo saugoti sužinotas komercines, profesines ir banko paslaptis ar joms prilygintą paslaptį sudarančią informaciją ir naudoti jas be savininko sutikimo gali tik tiems tikslams, dėl kurių jos buvo pateiktos. Asmenys, teikdami dokumentus, duomenis ar informaciją, turi kompetentingai institucijai pateikti prašymą dėl savo komercinių, profesinių ar banko paslapčių ar joms prilygintos paslaptį sudarančios informacijos apsaugos. Šiame prašyme turi būti aiškiai nurodyta, kokia informacija yra komercinė, profesinė ar banko paslaptis. ^1f3c1035f72c7edc0eebd9bc
 
 
-3. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus atlikti patikrinimus vietoje, taikomos Lietuvos Respublikos viešojo administravimo įstatymo ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl ūkio subjektų veiklos patikrinimų. Kompetentinga institucija, nagrinėdama pažeidimus, turi teisę be išankstinio įspėjimo įeiti į pardavėjo, paslaugų teikėjo naudojamas patalpas, teritoriją ar transporto priemones darbo laiku, o ne darbo laiku – gavusi pardavėjo, paslaugų teikėjo sutikimą arba teismo leidimą, ir paimti bet kokioje saugojimo laikmenoje laikomą informaciją, duomenis ar dokumentus, kurie turi įrodomąją reikšmę. Įeiti į fizinio asmens gyvenamąsias patalpas galima tik pateikus teismo nutartį dėl leidimo įeiti į fizinio asmens gyvenamąsias patalpas. ^0a5d6605a73293e8caa979e2
+3. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus atlikti patikrinimus vietoje, taikomos Lietuvos Respublikos viešojo administravimo įstatymo ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl ūkio subjektų veiklos patikrinimų. Kompetentinga institucija, nagrinėdama pažeidimus, turi teisę be išankstinio įspėjimo įeiti į pardavėjo, paslaugų teikėjo naudojamas patalpas, teritoriją ar transporto priemones darbo laiku, o ne darbo laiku – gavusi pardavėjo, paslaugų teikėjo sutikimą arba teismo leidimą, ir paimti bet kokioje saugojimo laikmenoje laikomą informaciją, duomenis ar dokumentus, kurie turi įrodomąją reikšmę. Įeiti į fizinio asmens gyvenamąsias patalpas galima tik pateikus teismo nutartį dėl leidimo įeiti į fizinio asmens gyvenamąsias patalpas. ^de72dbad0d459bf7f710f9af
 
 
-4. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus įsigyti prekių ar paslaugų kaip bandomųjų pirkinių, taikomos Viešojo administravimo įstatymo ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl kontrolinių pirkimų. ^64217f65882268203f341e41
+4. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus įsigyti prekių ar paslaugų kaip bandomųjų pirkinių, taikomos Viešojo administravimo įstatymo ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl kontrolinių pirkimų. ^c7b4ffd2f9087b3d7bee89d2
 
 
-5. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus patvirtinti laikinąsias priemones, mutatis mutandis taikomos šio įstatymo [[#441 straipsnis. Laikinosios priemonės|441 straipsnio]] nuostatos. ^e23cc593bf6184200c6e1e1a
+5. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus patvirtinti laikinąsias priemones, mutatis mutandis taikomos šio įstatymo [[#441 straipsnis. Laikinosios priemonės|441 straipsnio]] nuostatos. ^f0f27059a81259da704b34d8
 
 
-6. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas Reglamentas (ES) 2017/2394, kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo rašytinį įsipareigojimą nutraukti pažeidimą, ne vėliau kaip per 14 kalendorinių dienų nuo jo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti pardavėjo, paslaugų teikėjo įsipareigojimai nutraukti vartotojų teisių pažeidimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo nutraukti pažeidimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^ba94639a3a2c50930b7b720b
+6. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas Reglamentas (ES) 2017/2394, kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo rašytinį įsipareigojimą nutraukti pažeidimą, ne vėliau kaip per 14 kalendorinių dienų nuo jo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti pardavėjo, paslaugų teikėjo įsipareigojimai nutraukti vartotojų teisių pažeidimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo nutraukti pažeidimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^bc5a23232c7fe2b3e528f272
 
 
-7. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas Reglamentas (ES) 2017/2394, kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo pateiktą rašytinį įsipareigojimą užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, ne vėliau kaip per 14 kalendorinių dienų nuo įsipareigojimo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti įsipareigojimai užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^cdcd6348a7d967d7b40ed173
+7. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas Reglamentas (ES) 2017/2394, kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo pateiktą rašytinį įsipareigojimą užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, ne vėliau kaip per 14 kalendorinių dienų nuo įsipareigojimo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti įsipareigojimai užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^6b45138238b9c6609ab1237f
 
 
-8. Kompetentingos institucijos teikia vartotojams, patyrusiems žalą dėl galimų pažeidimų, kuriems taikomas Reglamentas (ES) 2017/2394, informaciją apie žalos atlyginimo tvarką. Šios informacijos teikimo būdą nustato pati kompetentinga institucija. ^8b30f71de0b73051035a9193
+8. Kompetentingos institucijos teikia vartotojams, patyrusiems žalą dėl galimų pažeidimų, kuriems taikomas Reglamentas (ES) 2017/2394, informaciją apie žalos atlyginimo tvarką. Šios informacijos teikimo būdą nustato pati kompetentinga institucija. ^2f3dba69c0a7c08669727bcc
 
 
-9. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus nutraukti ar uždrausti pažeidimus, kuriems taikomas šis reglamentas, taikomos šio įstatymo septintojo skirsnio nuostatos dėl vartotojų viešojo intereso gynimo. ^b3e096a08efa114e10dd8b9e
+9. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus nutraukti ar uždrausti pažeidimus, kuriems taikomas šis reglamentas, taikomos šio įstatymo septintojo skirsnio nuostatos dėl vartotojų viešojo intereso gynimo. ^d1e30f9951bd8bd668722664
 
 
-10. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus dėl prieigos prie elektroninių sąsajų apribojimo ar nutraukimo, turinio pašalinimo ir įspėjimo vartotojams pateikimo, mutatis mutandis taikomos šio įstatymo [[#491 straipsnis. Privalomi nurodymai interneto prieigos paslaugų teikėjams|491 straipsnio]] nuostatos. ^9eaacfde35d7391a152fc337
+10. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus dėl prieigos prie elektroninių sąsajų apribojimo ar nutraukimo, turinio pašalinimo ir įspėjimo vartotojams pateikimo, mutatis mutandis taikomos šio įstatymo [[#491 straipsnis. Privalomi nurodymai interneto prieigos paslaugų teikėjams|491 straipsnio]] nuostatos. ^4d8d9697c704ffb3867998a3
 
 
-11. Įgyvendindamos Reglamente (ES) 2017/2394 nustatytus įgaliojimus, kompetentingos institucijos dėl interneto domeno vardo panaikinimo ir (ar) leidimo jį įregistruoti kompetentingai institucijai kreipiasi į teismą. ^c6e3d3eaddfa51dbd1d2fb9b
+11. Įgyvendindamos Reglamente (ES) 2017/2394 nustatytus įgaliojimus, kompetentingos institucijos dėl interneto domeno vardo panaikinimo ir (ar) leidimo jį įregistruoti kompetentingai institucijai kreipiasi į teismą. ^e799140c056a6643ebdd4923
 
 
-12. Tirdamos pažeidimus, kuriems taikomas Reglamentas (ES) 2017/2394, kompetentingos institucijos viešajai tvarkai palaikyti ir galimoms prievartos priemonėms panaudoti gali pasitelkti policijos pareigūnus. ^94afff6da5d0ff5e29d0c716
+12. Tirdamos pažeidimus, kuriems taikomas Reglamentas (ES) 2017/2394, kompetentingos institucijos viešajai tvarkai palaikyti ir galimoms prievartos priemonėms panaudoti gali pasitelkti policijos pareigūnus. ^f58396d3595079f16f022477
 
 
-13. Kompetentingos institucijos gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su galimu pažeidimu, kuriam taikomas Reglamentas (ES) 2017/2394. ^86f0cd1ad03a80234d372de1
+13. Kompetentingos institucijos gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su galimu pažeidimu, kuriam taikomas Reglamentas (ES) 2017/2394. ^8640ea1a99e9198269a8c7e2
 
 
-14. Kompetentingos institucijos, įgyvendindamos Reglamentą (ES) 2017/2394, turi teisę savo interneto svetainėse skelbti informaciją apie taikytas poveikio priemones, įskaitant informaciją apie padaryto pažeidimo esmę ir jį padariusio asmens tapatybę (vardas, pavardė, juridinio asmens pavadinimas ir kodas), taip pat informaciją apie kitus kompetentingų institucijų priimtus sprendimus. Jeigu kompetentingos institucijos sprendimas taikyti poveikio priemonę apskundžiamas, apie tai paskelbiama kompetentingos institucijos interneto svetainėje, taip pat pateikiama informacija apie skundo išnagrinėjimo rezultatus. ^0d5b7dec14ebf978143dd719
+14. Kompetentingos institucijos, įgyvendindamos Reglamentą (ES) 2017/2394, turi teisę savo interneto svetainėse skelbti informaciją apie taikytas poveikio priemones, įskaitant informaciją apie padaryto pažeidimo esmę ir jį padariusio asmens tapatybę (vardas, pavardė, juridinio asmens pavadinimas ir kodas), taip pat informaciją apie kitus kompetentingų institucijų priimtus sprendimus. Jeigu kompetentingos institucijos sprendimas taikyti poveikio priemonę apskundžiamas, apie tai paskelbiama kompetentingos institucijos interneto svetainėje, taip pat pateikiama informacija apie skundo išnagrinėjimo rezultatus. ^9d2589cb52a7ab434e194d5c
 
 
 Papildyta skirsniu:
@@ -2872,65 +2878,65 @@ priedas
 
 
 
-1. Neteko galios nuo 2026-06-19 ^f57d271b7cabed810e1195cd
+1. Neteko galios nuo 2026-06-19 ^6b7e7d5e8adc661874e6c438
 Punkto naikinimas:
 Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
 
 
 
-2. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais. ^e053d98cbd29c66fc116df87
+2. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais. ^ac23c1d8489eadaf9b80c212
 
 
-3. Neteko galios nuo 2023-06-25. ^866644fba58ab2bf7da934e5
+3. Neteko galios nuo 2023-06-25. ^d1c418847e41d388b723d156
 Punkto pakeitimai:
 Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
 
 
 
-4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2673. ^08207907dd7bd0c068ca2fff
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2673. ^cab3e9b87e2818ec80357c90
 Punkto pakeitimai:
 Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
 
 
 
-5. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB. ^4f646dbe10f7c3786d92e008
+5. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB. ^420d2abcd08427caa344551a
 
 
-6. Neteko galios nuo 2026-03-31 ^2cc30304ff913901d5a66577
+6. Neteko galios nuo 2026-03-31 ^be9f3bae316696b65a156e4b
 Punkto naikinimas:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
 
 
-7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB. ^266b889657da7b9fec6347e1
+7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB. ^f3fe8eb82095691aa41ba1b8
 
 
-8. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su pakeitimais, padarytais 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/302. ^fc872c9389219116aa6bdfff
+8. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su pakeitimais, padarytais 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/302. ^5bd38194540232447d276d3d
 
 
-9. 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/302 dėl nepagrįsto geografinio blokavimo ir kitų formų diskriminavimo dėl klientų pilietybės, gyvenamosios vietos arba įsisteigimo vietos vidaus rinkoje problemos sprendimo, kuriuo iš dalies keičiami reglamentai (EB) Nr. 2006/2004 ir (ES) 2017/2394 ir Direktyva 2009/22/EB. ^6103e957b2d124f899e6d814
+9. 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/302 dėl nepagrįsto geografinio blokavimo ir kitų formų diskriminavimo dėl klientų pilietybės, gyvenamosios vietos arba įsisteigimo vietos vidaus rinkoje problemos sprendimo, kuriuo iš dalies keičiami reglamentai (EB) Nr. 2006/2004 ir (ES) 2017/2394 ir Direktyva 2009/22/EB. ^3a3f17ce0faf59700fac7bf6
 
 
-10. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų. ^e7dc5fa7cbd542a56072b6ac
+10. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų. ^934c8d3f64313052c2722f3e
 
 
-11. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB. ^9ec1c9b7168d892048497815
+11. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB. ^46a3eeca96845addd2b7a81d
 
 
-12. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 dėl atstovaujamųjų ieškinių siekiant apsaugoti vartotojų kolektyvinius interesus, kuria panaikinama Direktyva 2009/22/EB. ^41ea3663d7b0083e834dffe1
+12. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 dėl atstovaujamųjų ieškinių siekiant apsaugoti vartotojų kolektyvinius interesus, kuria panaikinama Direktyva 2009/22/EB. ^5a521cce7e61568da264d86d
 Papildyta punktu:
 Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
 
 
 
-13. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/988 dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1025/2012 bei Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB. ^2872091ce2fbe8d57e27f329
+13. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/988 dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1025/2012 bei Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB. ^e2a6249391ee5bcd8c1c9704
 Papildyta straipsnio dalimi:
 Nr. XIV-3113, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20361
 
 
 
-14. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1799 dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 bei direktyvos (ES) 2019/771 ir (ES) 2020/1828. ^04fe7f10aba51488522a16a5
+14. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1799 dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 bei direktyvos (ES) 2019/771 ir (ES) 2020/1828. ^16503681b7f07b761e86b06e
 Papildyta straipsnio dalimi:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -2953,7 +2959,7 @@ Nr. VIII-1946, 00.09.19, Žin., 2000, Nr.85-2581 (00.10.11)
 VARTOTOJŲ TEISIŲ GYNIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
 Vartotojų teisių gynimo įstatymo pakeitimo įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir [[#30 straipsnis. Vartotojų viešojo intereso gynimas|30 straipsnius]], įsigalioja nuo 2001 m. sausio 1 d.
-Iki 2004 m. sausio 1 d. vietoj Vartotojų teisių gynimo įstatymo [[#7 straipsnis. Vartotojų teisių apsaugos įgyvendinimas|7 straipsnio]] 4 ir [[#^2cc30304ff913901d5a66577|6 dalyse]] nurodyto 2 metų termino taikomas 6 mėnesių terminas.
+Iki 2004 m. sausio 1 d. vietoj Vartotojų teisių gynimo įstatymo [[#7 straipsnis. Vartotojų teisių apsaugos įgyvendinimas|7 straipsnio]] 4 ir [[#^be9f3bae316696b65a156e4b|6 dalyse]] nurodyto 2 metų termino taikomas 6 mėnesių terminas.
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2977,7 +2983,7 @@ Nr. X-1014, 2007-01-12, Žin., 2007, Nr. 12-488 (2007-01-30)
 VARTOTOJŲ TEISIŲ GYNIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
 Keistas įstatymo pavadinimas
-Šis įstatymas, išskyrus [[#^866644fba58ab2bf7da934e5|šio straipsnio 3 dalį]], įsigalioja 2007 m. kovo 1 d.
+Šis įstatymas, išskyrus [[#^d1c418847e41d388b723d156|šio straipsnio 3 dalį]], įsigalioja 2007 m. kovo 1 d.
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3000,7 +3006,7 @@ VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO [[#22 straipsnis. Vartojimo ginčus nagrin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1765, 2011-12-01, Žin., 2011, Nr. 153-7202 (2011-12-15)
 VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO 10, 19 IR [[#21 straipsnis. Vartotojo kreipimasis į pardavėją ar paslaugų teikėją|21 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^e053d98cbd29c66fc116df87|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^ac23c1d8489eadaf9b80c212|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d.
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3170,3 +3176,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 12, 22 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1, 2, [[#40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus|40 straipsnių]], aštuntojo skirsnio ir priedo pakeitimo įstatymas
+
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-921, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08255
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#48 straipsnis. Nutarimo vykdymas|48 straipsnio]] pakeitimo įstatymas

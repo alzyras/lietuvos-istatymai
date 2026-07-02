@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.026F44E06A27.md",
   "latest_revision": "1993-10-20",
-  "latest_sha256": "b64cdc97847a43ac58adb5f7c6ecbbc41dbbf503733bf11bbde63662007b001a",
+  "latest_sha256": "dad96f5e6524d98449b63921c62c270cda9a71f2f8c715759db1b98171c38f55",
   "metadata_path": "latest/TAR.026F44E06A27.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

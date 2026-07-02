@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/10fb2930715211e484b9c12b550436a3.md",
   "latest_revision": "2015-04-01",
-  "latest_sha256": "7d9f87eca43758113d03a54d4902da921211c7ff00b1202edc34fbf6ebe87b86",
+  "latest_sha256": "06e3c0a65a41f024866d0d9e3cadd858b3af892d6618e451f9e5a4c7bd310e93",
   "metadata_path": "latest/10fb2930715211e484b9c12b550436a3.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:07Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.94DB985EB965.md",
   "latest_revision": "1993-07-01",
-  "latest_sha256": "3cf3cd1399cc70184e29215e13b8186221abb47e5d36b18e0820cfc6b845c30b",
+  "latest_sha256": "d2bcc283f67c1fdf08f98857b581f878776aa5cd05ae2074d37d8f791aed3401",
   "metadata_path": "latest/TAR.94DB985EB965.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:34Z"
 }

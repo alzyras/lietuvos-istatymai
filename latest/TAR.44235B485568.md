@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2002-07-01"
 latest_path: "latest/TAR.44235B485568.md"
-latest_sha256: "6a2a6379bf9c434fde7371bec4403c7ef55e7c0e54ecf1dca1dfa59ca3ba16ae"
+latest_sha256: "51d3ceb08b01ed4ba042be3d1f612f68898f5b29ad97de64b89638f6c90e0daa"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos energetikos įstatymas
@@ -20,9 +20,14 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2026-01-01 iki 2026-05-31
+Suvestinė redakcija nuo 2027-01-01
 
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
+
+TAR pastaba. Kituose teisės aktuose vartojamą sąvoką „ekstremalioji energetikos padėtis“ atitinka sąvoka „ekstremalioji situacija energetikos sektoriuje“.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 8, 13 straipsnių ir penktojo skirsnio pakeitimo įstatymas
 
 Nauja įstatymo redakcija nuo 2012-01-01:
 Nr. XI-1888, 2011-12-22, Žin., 2011, Nr. 160-7576 (2011-12-28)
@@ -43,25 +48,25 @@ BENDROSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato bendruosius energetikos veiklos Lietuvos Respublikoje tikslus, taip pat energetikos sektoriaus valstybinio valdymo, reguliavimo, priežiūros ir kontrolės teisinius pagrindus, visuomeninių santykių vykdant energetikos veiklą bendruosius kriterijus, sąlygas ir reikalavimus, pagrindines valstybės energetikos politikos vystymosi kryptis. ^5b85bbb5f8f673534f0f33f5
+1. Šis įstatymas nustato bendruosius energetikos veiklos Lietuvos Respublikoje tikslus, taip pat energetikos sektoriaus valstybinio valdymo, reguliavimo, priežiūros ir kontrolės teisinius pagrindus, visuomeninių santykių vykdant energetikos veiklą bendruosius kriterijus, sąlygas ir reikalavimus, pagrindines valstybės energetikos politikos vystymosi kryptis. ^1afbc8af6757ab4d55f18e9c
 Straipsnio dalies pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2. Atskirų energetikos sektorių veiklos teisinius pagrindus ir visuomeninių santykių ypatumus nustato kiti įstatymai. Kitų įstatymų nuostatos, reglamentuojančios energetikos veiklą, galioja tiek, kiek neprieštarauja šiam įstatymui, išskyrus [[#^3959f00f7b44319a16bd818e|šio straipsnio 3 dalyje]] nurodytą išimtį. ^46f4c2f78e7c3759fe56d4c8
+2. Atskirų energetikos sektorių veiklos teisinius pagrindus ir visuomeninių santykių ypatumus nustato kiti įstatymai. Kitų įstatymų nuostatos, reglamentuojančios energetikos veiklą, galioja tiek, kiek neprieštarauja šiam įstatymui, išskyrus [[#^1e432d361bd969ebb1170f92|šio straipsnio 3 dalyje]] nurodytą išimtį. ^27e0881e41568f401fa38282
 
 
-21. Centralizuota energijos duomenų platforma – informacinių technologijų sistema, skirta energijos duomenims ir kitai su energetikos veikla susijusiai informacijai centralizuotai ir standartizuotai kaupti, saugoti ir jais keistis. ^31ceaa825b087dfab7f1d9c0
+21. Centralizuota energijos duomenų platforma – informacinių technologijų sistema, skirta energijos duomenims ir kitai su energetikos veikla susijusiai informacijai centralizuotai ir standartizuotai kaupti, saugoti ir jais keistis. ^937ee246b2cd34f8ea8a3562
 Papildyta straipsnio dalimi:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-3. Naujos branduolinės (atominės) elektrinės, nurodytos Branduolinės (atominės) elektrinės įstatyme, projektą ir su juo susijusius klausimus reglamentuoja Branduolinės (atominės) elektrinės įstatymas. Šio įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Branduolinės (atominės) elektrinės įstatymas. ^3959f00f7b44319a16bd818e
+3. Naujos branduolinės (atominės) elektrinės, nurodytos Branduolinės (atominės) elektrinės įstatyme, projektą ir su juo susijusius klausimus reglamentuoja Branduolinės (atominės) elektrinės įstatymas. Šio įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Branduolinės (atominės) elektrinės įstatymas. ^1e432d361bd969ebb1170f92
 
 
-4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. ^7ffcca6b28dc681472a53264
+4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. ^d0f5d949a316a5426a95c774
 
 
 Straipsnio pakeitimai:
@@ -72,56 +77,57 @@ Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Asmuo – valstybės narės pilietis ar kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, arba valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija arba jų padalinys. ^e5fbd38269f0a6f0cda3eb4a
+1. Asmuo – valstybės narės pilietis ar kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, arba valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija arba jų padalinys. ^f9066d143d0f12bc9f148be5
 
 
-11. Bandomoji energetikos inovacijų aplinka – visuma priemonių, kurios asmenims leidžia realioje aplinkoje laikinai diegti ir išbandyti naudą visuomenei teikiančias energetikos inovacijas, ribojant tokios asmenų veiklos mastą ir taikant kitas vartotojų ir visuomenės interesų apsaugos priemones. ^c29fe624b782a8a1ad8ab0d0
+11. Bandomoji energetikos inovacijų aplinka – visuma priemonių, kurios asmenims leidžia realioje aplinkoje laikinai diegti ir išbandyti naudą visuomenei teikiančias energetikos inovacijas, ribojant tokios asmenų veiklos mastą ir taikant kitas vartotojų ir visuomenės interesų apsaugos priemones. ^dc0c4ea22b2f942fab540fe0
 Papildyta straipsnio dalimi:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-2. Buitinis energijos vartotojas (toliau – buitinis vartotojas) – fizinis asmuo, perkantis energiją asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su ūkine komercine ar profesine veikla. ^e14c6c3dec1582b15e298952
+2. Buitinis energijos vartotojas (toliau – buitinis vartotojas) – fizinis asmuo, perkantis energiją asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su ūkine komercine ar profesine veikla. ^032723ffab031d63a90995ce
 
 
-3. Centralizuotas suskystintų naftos dujų tiekimas – energetikos įmonių, turinčių leidimus verstis mažmenine prekyba suskystintomis naftos dujomis, veikla, tiekiant suskystintas naftos dujas buitinių vartotojų reikmėms vamzdynais iš rezervuarų ar grupinių balionų įrenginių. ^73dfa112c4a2d319bceb1cdb
+3. Centralizuotas suskystintų naftos dujų tiekimas – energetikos įmonių, turinčių leidimus verstis mažmenine prekyba suskystintomis naftos dujomis, veikla, tiekiant suskystintas naftos dujas buitinių vartotojų reikmėms vamzdynais iš rezervuarų ar grupinių balionų įrenginių. ^d4f46d319cf1d92c76713c7e
 
 
-4. Neteko galios nuo 2025-07-01 ^d45eff4bf133811bcb1c2389
+4. Neteko galios nuo 2025-07-01 ^6c1a7789fcaeba512b729343
 Straipsnio dalies naikinimas:
 Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-5. Ekstremalioji energetikos padėtis – dėl ekstremaliojo įvykio energetikos sektoriuje susidariusi ekstremalioji situacija, kai yra sutrikęs normalus energijos išteklių ar energijos tiekimas energetikos įmonėms ir (ar) vartotojams ir šis tiekimas trukdomas tiek, kad energetikos įmonės šių sutrikimų nespėja laiku prognozuoti ir valdyti ūkinės veiklos metodais, ir Vyriausybė, jos įgaliota valstybės institucija ir (ar) savivaldybės institucijos pagal kompetenciją turi reguliuoti energijos išteklių ar energijos tiekimą energetikos įmonėms ir (ar) vartotojams. ^da8e399a5d0b0bcbf7ed2759
+5. Ekstremalioji situacija energetikos sektoriuje – dėl ekstremaliojo įvykio energetikos sektoriuje susidariusi ekstremalioji situacija, kai yra sutrikęs normalus energijos išteklių ar energijos tiekimas energetikos įmonėms ir (ar) vartotojams ir šis tiekimas trukdomas tiek, kad energetikos įmonės šių sutrikimų nespėja laiku prognozuoti ir valdyti ūkinės veiklos metodais, ir Vyriausybė, jos įgaliota valstybės institucija ir (ar) savivaldybės institucijos pagal kompetenciją turi reguliuoti energijos išteklių ar energijos tiekimą energetikos įmonėms ir (ar) vartotojams. ^edfee76a821510bbdcb60e0f
 Straipsnio dalies pakeitimai:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
 Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
 
 
 
-6. Energetika – valstybės ūkio šaka, apimanti energetikos veiklą. ^8105a5c34134d4da232b5ce6
+6. Energetika – valstybės ūkio šaka, apimanti energetikos veiklą. ^88107ed52e5b945d25c217ad
 
 
-61. Energetikos inovacijos – nauji ar iš esmės patobulinti produktai, technologijos, verslo sprendimai, paslaugos, tokių produktų ir paslaugų teikimo būdai, veiklos modeliai, kurie dėl naujų ar naujai pritaikytų technologijų arba dėl kitų priežasčių gali teigiamai veikti energetikos veiklą ir teikti naudą visuomenei. ^ccbdde703fb5bbb87accc112
+61. Energetikos inovacijos – nauji ar iš esmės patobulinti produktai, technologijos, verslo sprendimai, paslaugos, tokių produktų ir paslaugų teikimo būdai, veiklos modeliai, kurie dėl naujų ar naujai pritaikytų technologijų arba dėl kitų priežasčių gali teigiamai veikti energetikos veiklą ir teikti naudą visuomenei. ^2df340d82b036c6c572b10e1
 Papildyta straipsnio dalimi:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-62. Energetikos darbuotojas – energetikos įmonės vadovaujantis darbuotojas (energetikos įmonės vadovas ar jo įgaliotas asmuo, kurie tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, inžinerinių kategorijų darbuotojas, vadovaujantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantis) ir darbininkų kategorijų darbuotojas, tiesiogiai vykdantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbus. ^0818c30d91961e9c606715c0
+62. Energetikos darbuotojas – energetikos įmonės vadovaujantis darbuotojas (energetikos įmonės vadovas ar jo įgaliotas asmuo, kurie tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, inžinerinių kategorijų darbuotojas, vadovaujantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantis) ir darbininkų kategorijų darbuotojas, tiesiogiai vykdantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbus. ^7f5de2192ea63526108f48bb
 Papildyta straipsnio dalimi:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-63. Energetikos darbuotojo atestavimas – tikrinimas, ar energetikos darbuotojas pagal pageidaujamą arba sulygtą darbą atitinka jam nustatytus bendruosius (išsilavinimo ir darbo patirties) ir specialiuosius (energetikos įrenginių įrengimo, eksploatavimo, techninės saugos taisyklių ir kitų teisės aktų, reglamentuojančių energetikos veiklą, reikalavimus) kvalifikacinius reikalavimus, ir energetikos darbuotojo pažymėjimo išdavimas. ^0f79b4bfba6b2bf6fca6d503
+63. Energetikos darbuotojo atestavimas – tikrinimas, ar energetikos darbuotojas pagal pageidaujamą arba sulygtą darbą atitinka jam nustatytus bendruosius (išsilavinimo ir darbo patirties) ir specialiuosius (energetikos įrenginių įrengimo, eksploatavimo, techninės saugos taisyklių ir kitų teisės aktų, reglamentuojančių energetikos veiklą, reikalavimus) kvalifikacinius reikalavimus, ir energetikos darbuotojo pažymėjimo išdavimas. ^30e14f8f5cf1bce673bb40d4
 Papildyta straipsnio dalimi:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-64. Energetikos darbuotojų atestavimo įstaiga (toliau – atestavimo įstaiga) – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos reguliavimo tarybos leidimą, kuriuo suteikiama teisė verstis energetikos darbuotojų atestavimo veikla. ^6be1f5417556078445a9f663
+64. Energetikos darbuotojų atestavimo įstaiga (toliau – atestavimo įstaiga) – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos reguliavimo tarybos leidimą, kuriuo suteikiama teisė verstis energetikos darbuotojų atestavimo veikla. ^316318533751a982aba08c50
 Papildyta straipsnio dalimi:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 Straipsnio dalies pakeitimai:
@@ -129,41 +135,41 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-7. Energetikos įmonė – asmuo, kuris verčiasi energetikos veikla. ^b6c85f95e9fd03e646baafdc
+7. Energetikos įmonė – asmuo, kuris verčiasi energetikos veikla. ^77061e1fc52647526caec1c9
 
 
-8. Energetikos įrenginiai – techninės konstrukcijos, tarp jų mechanizmai, mašinos, aparatai, linijos, jų pagalbiniai įtaisai ir technologiniai priklausiniai, skirti energijos ištekliams ir (ar) energijai žvalgyti, išgauti, perdirbti, gaminti, laikyti, kaupti, transportuoti, perduoti ir (ar) skirstyti. ^9559a6243e9b00d8e149eba2
+8. Energetikos įrenginiai – techninės konstrukcijos, tarp jų mechanizmai, mašinos, aparatai, linijos, jų pagalbiniai įtaisai ir technologiniai priklausiniai, skirti energijos ištekliams ir (ar) energijai žvalgyti, išgauti, perdirbti, gaminti, laikyti, kaupti, transportuoti, perduoti ir (ar) skirstyti. ^15aeda8dbf7294540c53fab4
 Straipsnio dalies pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-9. Energetikos įrenginių eksploatavimas – energetikos įrenginių technologinis valdymas, techninė priežiūra, remontas, matavimai, bandymai, paleidimo ir derinimo darbai. ^79a21b2fe79d386e817368c2
+9. Energetikos įrenginių eksploatavimas – energetikos įrenginių technologinis valdymas, techninė priežiūra, remontas, matavimai, bandymai, paleidimo ir derinimo darbai. ^2bb80d39f678462cc8dbaea1
 
 
-91. Energetikos įrenginių įrengimas – naujų energetikos įrenginių montavimas (tiesimas), įskaitant esamų energetikos įrenginių rekonstravimą, išmontavimą. ^d3a5ffcce6872397eba94115
+91. Energetikos įrenginių įrengimas – naujų energetikos įrenginių montavimas (tiesimas), įskaitant esamų energetikos įrenginių rekonstravimą, išmontavimą. ^10d08095c46e8f852f976e8a
 Papildyta straipsnio dalimi:
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 
 
-10. Energetikos objektai – elektrinės ir katilinės; elektros tinklai ir jų technologiniai priklausiniai; energijos kaupimo įrenginiai; magistraliniai dujotiekiai, gamtinių dujų sistemos, gamtinių dujų saugyklos, suskystintų gamtinių dujų terminalai ir saugyklos; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įrenginiai, naftos ir naftos produktų terminalai ir saugyklos, suskystintų naftos dujų įrenginiai; šilumos perdavimo tinklai ir jų technologiniai priklausiniai. ^dba3bde66d06898e1555d0ac
+10. Energetikos objektai – elektrinės ir katilinės; elektros tinklai ir jų technologiniai priklausiniai; energijos kaupimo įrenginiai; magistraliniai dujotiekiai, gamtinių dujų sistemos, gamtinių dujų saugyklos, suskystintų gamtinių dujų terminalai ir saugyklos; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įrenginiai, naftos ir naftos produktų terminalai ir saugyklos, suskystintų naftos dujų įrenginiai; šilumos perdavimo tinklai ir jų technologiniai priklausiniai. ^29cea556f948da2f9b0fa741
 Straipsnio dalies pakeitimai:
 Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-11. Energetikos sektorius – energetikos sritis, apimanti vieną iš energijos rūšių ar energijos išteklių: elektros energiją, branduolinę energiją, šilumos energiją, vėsumos energiją, atsinaujinančių išteklių energiją ar gamtines dujas, kietąjį kurą, naftą, naftos produktus. ^7a6a9fabc984aa53f667b8d8
+11. Energetikos sektorius – energetikos sritis, apimanti vieną iš energijos rūšių ar energijos išteklių: elektros energiją, branduolinę energiją, šilumos energiją, vėsumos energiją, atsinaujinančių išteklių energiją ar gamtines dujas, kietąjį kurą, naftą, naftos produktus. ^e6acfacee129cc57038cb6cf
 
 
-12. Energetikos valstybinė kontrolė ir priežiūra – įgaliotų valstybės institucijų atliekama energetikos objektų techninės saugos, energetikos įrenginių įrengimo ir (ar) eksploatavimo, energijos išteklių ar energijos transportavimo, persiuntimo patikimumo ir (ar) efektyvumo kontrolė ir (ar) priežiūra. ^44d5f8e3f528c15695fdeecd
+12. Energetikos valstybinė kontrolė ir priežiūra – įgaliotų valstybės institucijų atliekama energetikos objektų techninės saugos, energetikos įrenginių įrengimo ir (ar) eksploatavimo, energijos išteklių ar energijos transportavimo, persiuntimo patikimumo ir (ar) efektyvumo kontrolė ir (ar) priežiūra. ^a7fdc0cfec8aa2522544d8d9
 Straipsnio dalies pakeitimai:
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 
 
-13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, elektros energijos paklausos telkimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą. ^ead9bf879ffb8d383b56e736
+13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, elektros energijos paklausos telkimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą. ^e1fda005bfd2d5737e27cb0b
 Straipsnio dalies pakeitimai:
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
@@ -173,62 +179,62 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-14. Energija – elektros energija, šilumos energija ir (ar) vėsumos energija. Energija yra laikoma preke. Šio įstatymo tikslais energijai priskiriamos gamtinės dujos ir centralizuotai tiekiamos suskystintos naftos dujos. ^d35f861abba35d4e1a55178a
+14. Energija – elektros energija, šilumos energija ir (ar) vėsumos energija. Energija yra laikoma preke. Šio įstatymo tikslais energijai priskiriamos gamtinės dujos ir centralizuotai tiekiamos suskystintos naftos dujos. ^5dee77cd6d084a169af09c36
 Straipsnio dalies pakeitimai:
 Nr. XIII-3016, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13233
 
 
 
-141. Energijos duomenys – informacija, apimanti einamuosius ir ankstesnius energijos suvartojimo, gamybos ir (ar) kitų energetikos veiklų kiekybinius duomenis, įskaitant duomenis, susijusius su energetikos veiklos administravimu. ^52e233eaeed06c54e6f865c9
+141. Energijos duomenys – informacija, apimanti einamuosius ir ankstesnius energijos suvartojimo, gamybos ir (ar) kitų energetikos veiklų kiekybinius duomenis, įskaitant duomenis, susijusius su energetikos veiklos administravimu. ^6dc97d607febe1ef3f04f860
 Papildyta straipsnio dalimi:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-15. Energijos ištekliai – gamtiniai ištekliai ir (ar) jų perdirbimo produktai, naudojami energijai gaminti ar transporto sektoriuje. ^c11ef813ca9abb9db5ab2878
+15. Energijos ištekliai – gamtiniai ištekliai ir (ar) jų perdirbimo produktai, naudojami energijai gaminti ar transporto sektoriuje. ^3394da7f7769220a2265c644
 
 
-151. Energijos nepriteklius – namų ūkio padėtis, kai stokojama galimybių pasinaudoti pagrindinėmis energetikos paslaugomis, kuriomis užtikrinamas įprastas patogumo, gyvenimo ir sveikatos lygis, įskaitant tinkamą šilumos, karšto vandens ir vėsumos tiekimą, apšvietimą ir buitiniams prietaisams būtiną elektros energiją, ir kai tokia padėtis susidaro dėl to, kad pastatas, kuriame yra namų ūkis, neatitinka nustatytų minimalių pastato statybos metų, energinio naudingumo, higienos reikalavimų ir (ar) namų ūkio pajamos neatitinka nustatytų namų ūkio pajamų reikalavimų. ^2ec9fe27b59f6daeb5eb6cd0
+151. Energijos nepriteklius – namų ūkio padėtis, kai stokojama galimybių pasinaudoti pagrindinėmis energetikos paslaugomis, kuriomis užtikrinamas įprastas patogumo, gyvenimo ir sveikatos lygis, įskaitant tinkamą šilumos, karšto vandens ir vėsumos tiekimą, apšvietimą ir buitiniams prietaisams būtiną elektros energiją, ir kai tokia padėtis susidaro dėl to, kad pastatas, kuriame yra namų ūkis, neatitinka nustatytų minimalių pastato statybos metų, energinio naudingumo, higienos reikalavimų ir (ar) namų ūkio pajamos neatitinka nustatytų namų ūkio pajamų reikalavimų. ^0d1cd822b2cf0049092a98d6
 Papildyta straipsnio dalimi:
 Nr. XV-238, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11006
 
 
 
-152. Energijos nepriteklių patiriantis asmuo – asmuo, kurio namų ūkyje susiduriama su energijos nepritekliumi. ^2edd5d6a9083969bcee4e4b7
+152. Energijos nepriteklių patiriantis asmuo – asmuo, kurio namų ūkyje susiduriama su energijos nepritekliumi. ^6eab8dc06afc4990d37c23ff
 Papildyta straipsnio dalimi:
 Nr. XV-238, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11006
 
 
 
-16. Energijos perdavimas – energijos persiuntimas perdavimo tinklais arba perdavimo sistemomis (magistraliniais dujotiekiais). ^f3ba864c1cff0cf4c88a690c
+16. Energijos perdavimas – energijos persiuntimas perdavimo tinklais arba perdavimo sistemomis (magistraliniais dujotiekiais). ^ff1e6d483d3eea020a194def
 
 
-17. Energijos skirstymas – energijos persiuntimas skirstomaisiais tinklais arba skirstymo sistemomis (skirstomaisiais dujotiekiais). ^a8d4c18d984d0d8c074c3a76
+17. Energijos skirstymas – energijos persiuntimas skirstomaisiais tinklais arba skirstymo sistemomis (skirstomaisiais dujotiekiais). ^f91f0dc1acb04a2173c7f5ce
 
 
-171. Energijos tiekėjas – asmuo, turintis teisę parduoti ir (ar) perparduoti energiją energijos vartotojams. ^a4a0735b7f594c2d901b052b
+171. Energijos tiekėjas – asmuo, turintis teisę parduoti ir (ar) perparduoti energiją energijos vartotojams. ^21b2811c6e99eb8c1bc49041
 Papildyta straipsnio dalimi:
 Nr. XV-238, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11006
 
 
 
-18. Energijos tiekimas – energijos pardavimas ir (ar) perpardavimas vartotojams. ^4a1c6e083eddca47b2ac0592
+18. Energijos tiekimas – energijos pardavimas ir (ar) perpardavimas vartotojams. ^4bd3fe07a60177d54dcfb88e
 
 
-19. Energijos tranzitas – energijos ir (ar) energijos išteklių persiuntimas, kai vienoje valstybėje esanti energija ar energijos ištekliai perduodami energijos ar energijos išteklių gavėjui, esančiam kitoje valstybėje, pasinaudojant tarpinės trečiosios šalies (ar trečiųjų šalių) perdavimo tinklais arba perdavimo sistemomis (magistraliniais dujotiekiais). ^5652db01985fa320ffb0855d
+19. Energijos tranzitas – energijos ir (ar) energijos išteklių persiuntimas, kai vienoje valstybėje esanti energija ar energijos ištekliai perduodami energijos ar energijos išteklių gavėjui, esančiam kitoje valstybėje, pasinaudojant tarpinės trečiosios šalies (ar trečiųjų šalių) perdavimo tinklais arba perdavimo sistemomis (magistraliniais dujotiekiais). ^1afbc75492670893c3d83277
 
 
-20. Energijos vartojimo auditas – procedūra, kurios metu nustatomos ir įvertinamos energijos išteklių ir (ar) energijos sąnaudos pastatuose, transporto priemonėse, įrenginiuose ir technologiniams procesams arba bendros energijos išteklių ir (ar) energijos sąnaudos, reikalingos teikiant viešąsias ar privačias paslaugas, parenkamos ir ekonomiškai pagrindžiamos energijos išteklių ir (ar) energijos taupymo priemonės, įvertinamas ekonomiškai efektyvaus atsinaujinančiųjų išteklių energijos naudojimo arba gamybos potencialas ir pateikiama ataskaita energijos vartojimo audito užsakovui. ^f52920531839019233482817
+20. Energijos vartojimo auditas – procedūra, kurios metu nustatomos ir įvertinamos energijos išteklių ir (ar) energijos sąnaudos pastatuose, transporto priemonėse, įrenginiuose ir technologiniams procesams arba bendros energijos išteklių ir (ar) energijos sąnaudos, reikalingos teikiant viešąsias ar privačias paslaugas, parenkamos ir ekonomiškai pagrindžiamos energijos išteklių ir (ar) energijos taupymo priemonės, įvertinamas ekonomiškai efektyvaus atsinaujinančiųjų išteklių energijos naudojimo arba gamybos potencialas ir pateikiama ataskaita energijos vartojimo audito užsakovui. ^81aef27a255eb8b74810ffa3
 Straipsnio dalies pakeitimai:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 Nr. XV-238, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11006
 
 
 
-21. Energijos vartotojas (toliau – vartotojas) – asmuo, kurio įrenginiai yra prijungti prie energetikos įmonių valdomų energetikos objektų ir kuris perka energiją vartojimo tikslams. ^3b6caa4a1058f429637da928
+21. Energijos vartotojas (toliau – vartotojas) – asmuo, kurio įrenginiai yra prijungti prie energetikos įmonių valdomų energetikos objektų ir kuris perka energiją vartojimo tikslams. ^2a5adb5fbc338ae7be3b7472
 
 
-22. Išmanioji energijos apskaitos sistema – energijos vartojimo ir gamybos matavimo priemonę ir duomenų perdavimo įrenginius apimanti elektroninė sistema, kurią naudojant gaunama daugiau informacijos nei naudojant įprastą energijos matavimo priemonę ir kuri informacijos, stebėjimo ir kontrolės tikslais perduoda ir gauna duomenis elektroniniu ryšiu. ^452c59933b7c248065d54572
+22. Išmanioji energijos apskaitos sistema – energijos vartojimo ir gamybos matavimo priemonę ir duomenų perdavimo įrenginius apimanti elektroninė sistema, kurią naudojant gaunama daugiau informacijos nei naudojant įprastą energijos matavimo priemonę ir kuri informacijos, stebėjimo ir kontrolės tikslais perduoda ir gauna duomenis elektroniniu ryšiu. ^3cc96d907fed2961a1e9e4d1
 Papildyta straipsnio dalimi:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Straipsnio dalies pakeitimai:
@@ -236,37 +242,37 @@ Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-23. Išmanusis energijos tinklas – energijos transportavimo, perdavimo ir (ar) skirstomasis tinklas, kuriame veikia abipusis skaitmeninis tiekėjo ir vartotojo ryšys ir yra įdiegtos išmaniosios energijos apskaitos, stebėjimo ir valdymo sistemos. ^301f671587efb4672077f9ff
+23. Išmanusis energijos tinklas – energijos transportavimo, perdavimo ir (ar) skirstomasis tinklas, kuriame veikia abipusis skaitmeninis tiekėjo ir vartotojo ryšys ir yra įdiegtos išmaniosios energijos apskaitos, stebėjimo ir valdymo sistemos. ^d18eb85d897ce15bde791456
 Papildyta straipsnio dalimi:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-24. Magistralinis dujotiekis – aukšto slėgio vamzdynas, su juo susiję įrenginiai, įskaitant dujų skirstymo stotis, dujoms iš verslovių, suskystintų gamtinių dujų sistemų perduoti į gamtinių dujų saugyklas, skirstomuosius dujotiekius arba į dujas naudojančius įrenginius, taip pat statiniai ir priemonės šiam vamzdynui veikti. ^ccb1d302bc4e38fdc49d84b3
+24. Magistralinis dujotiekis – aukšto slėgio vamzdynas, su juo susiję įrenginiai, įskaitant dujų skirstymo stotis, dujoms iš verslovių, suskystintų gamtinių dujų sistemų perduoti į gamtinių dujų saugyklas, skirstomuosius dujotiekius arba į dujas naudojančius įrenginius, taip pat statiniai ir priemonės šiam vamzdynui veikti. ^28681178cc8a5fc16f181234
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-25. Magistralinis naftotiekis (produktotiekis) – aukšto slėgio vamzdynas, su juo susiję statiniai ir įrenginiai naftai perduoti į naftos terminalus ir saugyklas arba į naftos perdirbimo įrenginius ir naftos produktams perduoti į naftos produktų terminalus ir saugyklas. ^eb83a8217ab700761cfb27b7
+25. Magistralinis naftotiekis (produktotiekis) – aukšto slėgio vamzdynas, su juo susiję statiniai ir įrenginiai naftai perduoti į naftos terminalus ir saugyklas arba į naftos perdirbimo įrenginius ir naftos produktams perduoti į naftos produktų terminalus ir saugyklas. ^ee4a314d2f795af1bc39b836
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-251. Privalomasis nurodymas – Valstybinės energetikos reguliavimo tarybos nustatyta tvarka parengtas Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojo įpareigojimas asmeniui per nustatytą terminą įgyvendinti energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų reikalavimus arba imtis priemonių, kad energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų pažeidimų arba žalos dėl jų būtų išvengta arba kad žala būtų sumažinta, arba likviduoti tų pažeidimų sukeltas pasekmes. ^c90414738b16982abcb96751
+251. Privalomasis nurodymas – Valstybinės energetikos reguliavimo tarybos nustatyta tvarka parengtas Valstybinės energetikos reguliavimo tarybos administracijos valstybės tarnautojo įpareigojimas asmeniui per nustatytą terminą įgyvendinti energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų reikalavimus arba imtis priemonių, kad energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų pažeidimų arba žalos dėl jų būtų išvengta arba kad žala būtų sumažinta, arba likviduoti tų pažeidimų sukeltas pasekmes. ^c4178baf1762b4db3418c057
 Papildyta straipsnio dalimi:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-26. Reguliuojamoji energetikos veikla (toliau – reguliuojamoji veikla) – energetikos veikla, kuriai reikalingi licencijos, leidimai, atestatai ir (ar) kuriai taikomos valstybės reguliuojamos kainos. ^8ff6b4718508e51b3bb510d1
+26. Reguliuojamoji energetikos veikla (toliau – reguliuojamoji veikla) – energetikos veikla, kuriai reikalingi licencijos, leidimai, atestatai ir (ar) kuriai taikomos valstybės reguliuojamos kainos. ^88d6932cddd078713236e488
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-27. Neteko galios nuo 2016-11-15. ^d60a1c3c10351cf65eb4b23a
+27. Neteko galios nuo 2016-11-15. ^bd4d195b30b790e8422ec7a3
 Straipsnio dalies pakeitimai:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 Straipsnio dalies numeracijos pakeitimas:
@@ -274,13 +280,13 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-28. Reguliavimo apskaitos sistema – reguliavimo veiklos tikslais naudojama energetikos įmonės veiklos apskaitos, apimančios apskaitos atskyrimą ir sąnaudų paskirstymą, sistema. ^e24c366c9265141c1a60a182
+28. Reguliavimo apskaitos sistema – reguliavimo veiklos tikslais naudojama energetikos įmonės veiklos apskaitos, apimančios apskaitos atskyrimą ir sąnaudų paskirstymą, sistema. ^4442c37bcaaa940a9c9c1a2e
 Papildyta straipsnio dalimi:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-29. Reguliavimo apskaitos sistemos patikra – energetikos įmonei auditoriaus, audito įmonės pagal Valstybinės energetikos reguliavimo tarybos tai energetikos įmonei motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada. ^537c7ed1e158f28922129127
+29. Reguliavimo apskaitos sistemos patikra – energetikos įmonei auditoriaus, audito įmonės pagal Valstybinės energetikos reguliavimo tarybos tai energetikos įmonei motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada. ^beb3667f3f6dc9503d97c653
 Papildyta straipsnio dalimi:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Straipsnio dalies pakeitimai:
@@ -290,7 +296,7 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-30. Reguliuojamosios veiklos ataskaitos – energetikos įmonių Valstybinei energetikos reguliavimo tarybai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir atskirų energetikos sektorių veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas. ^338125e79c4a48d0c4e209ad
+30. Reguliuojamosios veiklos ataskaitos – energetikos įmonių Valstybinei energetikos reguliavimo tarybai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir atskirų energetikos sektorių veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas. ^f63fd7db1f6e271a9211843f
 Papildyta straipsnio dalimi:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Straipsnio dalies pakeitimai:
@@ -299,7 +305,7 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-31. Reguliuojamosios veiklos ataskaitų patikra – energetikos įmonei auditoriaus, audito įmonės kasmet teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada. ^60b9f3456b263cf9107d3b8e
+31. Reguliuojamosios veiklos ataskaitų patikra – energetikos įmonei auditoriaus, audito įmonės kasmet teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada. ^75d4f35b6ab26786eda24277
 Papildyta straipsnio dalimi:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Straipsnio dalies pakeitimai:
@@ -308,21 +314,21 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-32. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos. ^2b0c8cb7a96a3c64e3a7b6ed
+32. Suskystintos naftos dujos – sočiųjų ir nesočiųjų angliavandenilių mišinys, išgautas perdirbant naftos produktus, kuris normaliomis sąlygomis yra dujinės būsenos. ^168102bdff541f1b66184a71
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-33. Techninė sauga – šio įstatymo ir kitų teisės aktų nustatytų priemonių ir reikalavimų, kuriais užtikrinamas energetikos objektų ir įrenginių patikimumas ir saugumas, visuma. ^ee1d81b541b347cd8bb57089
+33. Techninė sauga – šio įstatymo ir kitų teisės aktų nustatytų priemonių ir reikalavimų, kuriais užtikrinamas energetikos objektų ir įrenginių patikimumas ir saugumas, visuma. ^50d4c8d71ed132e9809034bc
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-34. Techninė užduotis – Valstybinės energetikos reguliavimo tarybos kasmet iki kovo 31 dienos tvirtinamas ar pratęsiamas galioti dokumentas, kuris yra rengiamas atskiriems energetikos sektoriams ir (ar) pagal atskiras reguliuojamąsias veiklas, o atliekant reguliavimo apskaitos sistemos patikrą šio įstatymo [[#^9def8550a98d79794f4b32f9|161 straipsnio 2 dalyje]] nustatytais atvejais Valstybinės energetikos reguliavimo tarybos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, tarptautiniai peržiūros užduočių, tarptautiniai susijusių paslaugų standartai ir susiję praktiniai nurodymai (toliau – profesiniai standartai) arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekama energetikos įmonių reguliuojamosios veiklos ataskaitų patikra ir (ar) reguliavimo apskaitos sistemos patikra, ir šių patikros paslaugų reikalavimai ir (ar) apimtis. ^69e8f862e0e6356c1d1419c1
+34. Techninė užduotis – Valstybinės energetikos reguliavimo tarybos kasmet iki kovo 31 dienos tvirtinamas ar pratęsiamas galioti dokumentas, kuris yra rengiamas atskiriems energetikos sektoriams ir (ar) pagal atskiras reguliuojamąsias veiklas, o atliekant reguliavimo apskaitos sistemos patikrą šio įstatymo [[#^259e55dbef481d4d6d4a3145|161 straipsnio 2 dalyje]] nustatytais atvejais Valstybinės energetikos reguliavimo tarybos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, tarptautiniai peržiūros užduočių, tarptautiniai susijusių paslaugų standartai ir susiję praktiniai nurodymai (toliau – profesiniai standartai) arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekama energetikos įmonių reguliuojamosios veiklos ataskaitų patikra ir (ar) reguliavimo apskaitos sistemos patikra, ir šių patikros paslaugų reikalavimai ir (ar) apimtis. ^a6eb42469632f94c92e4b544
 Papildyta straipsnio dalimi:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Straipsnio dalies pakeitimai:
@@ -331,42 +337,42 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-35. Tiekimo saugumas – energijos išteklių ir (ar) energijos tiekimo patikimumas ir techninis saugumas. ^cde1567dce5cedbafad5648c
+35. Tiekimo saugumas – energijos išteklių ir (ar) energijos tiekimo patikimumas ir techninis saugumas. ^3d3529ff9aea5e94b2c121ef
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-36. Trečioji šalis – valstybė, kuri nėra Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. ^35096c389bafdfe84fba7894
+36. Trečioji šalis – valstybė, kuri nėra Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. ^cdc842b0773c3f2c2ac738a8
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-37. Tretieji asmenys – energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka ir sąlygomis įgyja teisę naudotis energijos perdavimo ar skirstymo tinklais energijai persiųsti teisės aktų nustatyta tvarka. ^77d6770637a6e5e74e49637d
+37. Tretieji asmenys – energijos gamintojai, tiekėjai ir vartotojai, kurie šiame įstatyme nustatyta tvarka ir sąlygomis įgyja teisę naudotis energijos perdavimo ar skirstymo tinklais energijai persiųsti teisės aktų nustatyta tvarka. ^20ed079d321b7506533a14eb
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-38. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. ^3924025dbda72fcfc9acd8fa
+38. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. ^4e8bae763b556d70dc5619b7
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-39. Valstybinės svarbos energetikos objektai – 50 MW ir didesnės galios elektrinės ir katilinės; 110 kV ir aukštesnės įtampos elektros energijos perdavimo tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai; 25 000 000 kubinių metrų ir didesnės gamtinių dujų saugyklos; suskystintų gamtinių dujų importo terminalai ir saugyklos, kurių pakartotinio suskystintų gamtinių dujų dujinimo pajėgumas yra 0,5 mlrd. kubinių metrų per metus arba didesnis; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 kubinių metrų ir didesni naftos ir (ar) naftos produktų terminalai ir saugyklos; branduolinės energetikos objektai; energetikos objektai, kurių svarba valstybei pripažįstama Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^425842fef84d0e110392ebe7
+39. Valstybinės svarbos energetikos objektai – 50 MW ir didesnės galios elektrinės ir katilinės; 110 kV ir aukštesnės įtampos elektros energijos perdavimo tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai; 25 000 000 kubinių metrų ir didesnės gamtinių dujų saugyklos; suskystintų gamtinių dujų importo terminalai ir saugyklos, kurių pakartotinio suskystintų gamtinių dujų dujinimo pajėgumas yra 0,5 mlrd. kubinių metrų per metus arba didesnis; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įmonės, perdirbančios 50 000 tonų ir daugiau naftos per metus; 10 000 kubinių metrų ir didesni naftos ir (ar) naftos produktų terminalai ir saugyklos; branduolinės energetikos objektai; energetikos objektai, kurių svarba valstybei pripažįstama Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^5349a49f245dab531c4d670e
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-40. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės vystymosi kryptis ir energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra. ^acfcf5470eb9f2b49befe41d
+40. Valstybinės svarbos energetikos objekto plėtros projektas – objekto statybos tikslingumą techniniu, finansiniu ir ekonominiu aspektu pagrindžiantis dokumentas, parengiamas iki teritorijų planavimo dokumentų rengimo pradžios, siekiant įsitikinti, ar planuojamas objektas atitinka valstybės vystymosi kryptis ir energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius ir yra suderinamas su esama Lietuvos Respublikos energetikos sektoriaus infrastruktūra ir jos plėtra. ^a9db2e643f558bdcb24cdd92
 Papildyta straipsnio dalimi:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 Straipsnio dalies pakeitimai:
@@ -377,7 +383,7 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-41. Vardinė (nominali) šiluminė galia – gamintojo nustatyta didžiausia kurą deginančio įrenginio galia, kurią įrenginys gali pasiekti ir išlaikyti ilgalaikio nenutrūkstamo eksploatavimo metu. ^6585d38e1b688c9ba115ea54
+41. Vardinė (nominali) šiluminė galia – gamintojo nustatyta didžiausia kurą deginančio įrenginio galia, kurią įrenginys gali pasiekti ir išlaikyti ilgalaikio nenutrūkstamo eksploatavimo metu. ^2bd29a46e8a64906fdf02270
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
@@ -385,7 +391,7 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-42. Vartotojų energetikos įrenginiai (toliau – vartotojų energetikos įrenginiai) – elektros, šilumos, dujų, naftos produktų energetikos įrenginiai, skirti vartotojų poreikiams tenkinti. ^59db037024495a3a2f899548
+42. Vartotojų energetikos įrenginiai (toliau – vartotojų energetikos įrenginiai) – elektros, šilumos, dujų, naftos produktų energetikos įrenginiai, skirti vartotojų poreikiams tenkinti. ^f506016c664cef45063879c9
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
@@ -393,7 +399,7 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-43. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus ir apginti teisėtus visuomenės interesus. ^7302442abb614202b09b6880
+43. Viešuosius interesus atitinkančios paslaugos – įstatymų nustatytais atvejais Lietuvos Respublikos Vyriausybės įpareigojimu energetikos įmonių teikiamos paslaugos, kuriomis siekiama įgyvendinti valstybės energetikos, ūkio ir (ar) aplinkos apsaugos politikos strateginius tikslus ir apginti teisėtus visuomenės interesus. ^0be15b0f0855e61ce5041af2
 Straipsnio dalies pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 Straipsnio dalies numeracijos pakeitimas:
@@ -403,7 +409,7 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-44. Vietiniai energijos ištekliai – Lietuvos Respublikoje esantys energijos ištekliai, išskyrus atvežtinius arba iš jų pagamintus energijos išteklius. ^e064b196bf492b87985dd7f3
+44. Vietiniai energijos ištekliai – Lietuvos Respublikoje esantys energijos ištekliai, išskyrus atvežtinius arba iš jų pagamintus energijos išteklius. ^6f08f2a45598cf5ae9c9be4b
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
@@ -411,13 +417,13 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-441. Šiame įstatyme vartojama sąvoka „didmeninės rinkos dalyvis“ atitinka Reglamento (ES) Nr. 1227/2011 2 straipsnio 7 punkte apibrėžiamą sąvoką „rinkos dalyvis“. Sąvoka „profesionaliai sandorius organizuojantis ar vykdantis asmuo“ suprantama taip, kaip apibrėžiama Reglamento (ES) Nr. 1227/2011 [[#2 straipsnis. Pagrindinės šio įstatymo sąvokos|2 straipsnio]] 8a punkte. ^1b31a21fcc2ee46eaa567a2f
+441. Šiame įstatyme vartojama sąvoka „didmeninės rinkos dalyvis“ atitinka Reglamento (ES) Nr. 1227/2011 2 straipsnio 7 punkte apibrėžiamą sąvoką „rinkos dalyvis“. Sąvoka „profesionaliai sandorius organizuojantis ar vykdantis asmuo“ suprantama taip, kaip apibrėžiama Reglamento (ES) Nr. 1227/2011 [[#2 straipsnis. Pagrindinės šio įstatymo sąvokos|2 straipsnio]] 8a punkte. ^4be47c61a3e91d7ea138e192
 Papildyta straipsnio dalimi:
 Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme ir Europos Sąjungos reglamentuose, reglamentuojančiuose energetikos sektorių veiklą. ^4e5ada31b9ed293264c069ae
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme ir Europos Sąjungos reglamentuose, reglamentuojančiuose energetikos sektorių veiklą. ^6a01ee4d3dd3a3e67003e2e9
 Papildyta straipsnio dalimi:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 Straipsnio dalies pakeitimai:
@@ -440,202 +446,205 @@ ENERGETIKOS VEIKLOS VALDYMAS
 ### 3 straipsnis. Bendrieji energetikos veiklos tikslai
 
 
-1. Bendrieji energetikos veiklos tikslai yra: ^eb83dc464314c334cee56239
+1. Bendrieji energetikos veiklos tikslai yra: ^96c84d14b93e1928d2420364
 
 
-1) energijos tiekimo saugumas ir patikimumas; ^a1b9ec68b32a25addda71d00
+1) energijos tiekimo saugumas ir patikimumas; ^32da034d221b490204e6f69c
 
 
-2) energijos išteklių ir energijos prieinamumas ir pakankamumas; ^1626f8641cec61cc591749ae
+2) energijos išteklių ir energijos prieinamumas ir pakankamumas; ^7c5df26f90ed221937477a8c
 
 
-3) energijos išteklių ir energijos vartojimo efektyvumas; ^847084f7b9f4048b594323da
+3) energijos išteklių ir energijos vartojimo efektyvumas; ^59e39ac24b581a9685252b7e
 
 
-4) darni ir tvari energetikos sektoriaus plėtra, diegiant energetikos inovacijas, paremtas išmaniosiomis technologijomis, energetikos skaitmeninimu; ^fce252dee94ae18a06f12f25
+4) darni ir tvari energetikos sektoriaus plėtra, diegiant energetikos inovacijas, paremtas išmaniosiomis technologijomis, energetikos skaitmeninimu; ^0fa6666f8d7ca87faf0e5891
 Straipsnio punkto pakeitimai:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-5) neigiamo energetikos veiklos poveikio aplinkai mažinimas; ^21903dd3dce9e8ecd63d9011
+5) neigiamo energetikos veiklos poveikio aplinkai mažinimas; ^91386fa02be86aa819d6f461
 
 
-6) vartotojų teisių ir teisėtų interesų apsauga; ^51955b5b8c4a05ea5dab7818
+6) vartotojų teisių ir teisėtų interesų apsauga; ^398456906f0cf0f2a9538cf4
 
 
-7) sąlygų veiksmingai konkurencijai energetikos sektoriuje sukūrimas ir plėtojimas; ^a192244914d7cc06b24f926e
+7) sąlygų veiksmingai konkurencijai energetikos sektoriuje sukūrimas ir plėtojimas; ^2e861cbabcb930f8a06baf45
 
 
-8) vietinių ir atsinaujinančių energijos išteklių naudojimo plėtra. ^ef2b5bea111c2cba06fc9cf0
+8) vietinių ir atsinaujinančių energijos išteklių naudojimo plėtra. ^f167540b8f336d553094ce2b
 
 
-2. Atskirų energetikos sektorių veiklos teisinius pagrindus reglamentuojantys įstatymai nustato specialiuosius atskirų energetikos sektorių tikslus ir veiklos reguliavimo principus, atsižvelgiant į [[#^eb83dc464314c334cee56239|šio straipsnio 1 dalyje]] nurodytus bendruosius tikslus. ^0108c81bf3a4ec2f5d60becc
+2. Atskirų energetikos sektorių veiklos teisinius pagrindus reglamentuojantys įstatymai nustato specialiuosius atskirų energetikos sektorių tikslus ir veiklos reguliavimo principus, atsižvelgiant į [[#^96c84d14b93e1928d2420364|šio straipsnio 1 dalyje]] nurodytus bendruosius tikslus. ^27d8c58a0489b9dbe81d86ef
 
 
 
 ### 4 straipsnis. Energetikos politikos formavimas ir energetikos veiklos valdymas, reguliavimas, priežiūra ir kontrolė
 
 
-1. Energetikos politikos vystymosi kryptis nustato Lietuvos Respublikos Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. ^5562dcfb94d89e5e46e20173
+1. Energetikos politikos vystymosi kryptis nustato Lietuvos Respublikos Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. ^b724c0db0f93f004e6afb93b
 Straipsnio dalies pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2. Energetikos veiklos valdymą, reguliavimą, priežiūrą ir kontrolę Lietuvos Respublikoje pagal kompetenciją atlieka: ^e0b4408c54a0714f703aa5bc
+2. Energetikos veiklos valdymą, reguliavimą, priežiūrą ir kontrolę Lietuvos Respublikoje pagal kompetenciją atlieka: ^e93a418c0316174b82664150
 
 
-1) Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija; ^fb2fb736627872c6e3088290
+1) Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija; ^89693b4827f082b5f51cf2bd
 
 
-2) Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija); ^60edf91c524c64b153892bc2
+2) Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija); ^9e2e0bd72c5d99d3dc977e02
 
 
-3) Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija); ^fb31c7bd12b87ac0b554536f
+3) Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija); ^97ecb9dd21b00b6a1928d930
 
 
-4) Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija); ^1669924b705dae8547e1348b
+4) Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija); ^f2a5589a592cf05f3b6919b6
 
 
-5) Valstybinė energetikos reguliavimo taryba (toliau – Taryba); ^ec97fcb8bffa2a13350c07e2
+5) Valstybinė energetikos reguliavimo taryba (toliau – Taryba); ^acc57a2d6cf57b5cc5f30c8e
 Straipsnio punkto pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-6) netenka galios 2019-07-01; ^8bcf62e15d7bbfe7f9bd66f4
+6) netenka galios 2019-07-01; ^4c60871cae1d75486d768bc5
 Straipsnio punkto pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-7) Valstybinė atominės energetikos saugos inspekcija; ^7ff8a0ce260c80a59d6a1ce7
+7) Valstybinė atominės energetikos saugos inspekcija; ^5612cb729774917e849748de
 
 
-8) Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba); ^b66d1c80570f47ebbc505e53
+8) Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba); ^3507ce2899129d10af757bc2
 
 
-9) Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba); ^d6ff13aa5d86856faac91665
+9) Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba); ^245acc18797c6ebd860136a9
 
 
-10) savivaldybių institucijos. ^21efd030d643c6e3427c0a35
+10) savivaldybių institucijos. ^3aa015f017e063f018ea5ef1
 
 
-3. Priimdamos sprendimus, valstybės ir savivaldybių institucijos, atliekančios energetikos veiklos valdymo, reguliavimo, priežiūros ir kontrolės funkcijas, pagal kompetenciją: ^51b0c124b0ee89a589a0a91d
+3. Priimdamos sprendimus, valstybės ir savivaldybių institucijos, atliekančios energetikos veiklos valdymo, reguliavimo, priežiūros ir kontrolės funkcijas, pagal kompetenciją: ^8fde79564e3379ebf1db0fbd
 
 
-1) užtikrina optimalią valstybės energetikos sektoriaus struktūrą; ^7c07cf9bca342504891b0b3c
+1) užtikrina optimalią valstybės energetikos sektoriaus struktūrą; ^6b3793ee709200a853e0d7da
 
 
-2) sudaro teisines prielaidas efektyviai energetikos veiklai; ^a81343097a3ba525924020d2
+2) sudaro teisines prielaidas efektyviai energetikos veiklai; ^3fa4a8779574e0a0b1eb8468
 
 
-3) teikia energetikos įmonėms nurodymus užtikrinti energijos išteklių ir energijos tiekimo nenutrūkstamumą ir nustatytų kokybės reikalavimų laikymąsi; ^4c8577389b15fe120661c0c8
+3) teikia energetikos įmonėms nurodymus užtikrinti energijos išteklių ir energijos tiekimo nenutrūkstamumą ir nustatytų kokybės reikalavimų laikymąsi; ^496ad35907a007d51b1a625f
 
 
-4) nustato efektyvaus energijos ir energijos išteklių vartojimo reikalavimus; ^8f03b156175fc8d5c10a59e5
+4) nustato efektyvaus energijos ir energijos išteklių vartojimo reikalavimus; ^ad0f5559420665e75271a65d
 
 
-5) skatina vietinių ir atsinaujinančių išteklių energijos gamybą ir vartojimą; ^12a0139e76bac4fecb55e779
+5) skatina vietinių ir atsinaujinančių išteklių energijos gamybą ir vartojimą; ^66c7badeeab110419c64f020
 
 
-6) nustato energijos vartojimo efektyvumo reikalavimus; ^ad877d6eddc40cd3d491aea1
+6) nustato energijos vartojimo efektyvumo reikalavimus; ^f9a32ae7250fc8333d04d454
 
 
-7) užtikrina valstybės politikos vartotojų teisių apsaugos srityje įgyvendinimą energetikos sektoriuje; ^a34accea2b6bcdf0c9a8132e
+7) užtikrina valstybės politikos vartotojų teisių apsaugos srityje įgyvendinimą energetikos sektoriuje; ^b31573c48eb2dffb5413ac11
 
 
-8) užtikrina, kad jų priimami sprendimai nesukuria prielaidų nepagrįstai bloginti konkurencijos sąlygas energetikos sektoriuje; ^a619e724f9da1a4577605ed5
+8) užtikrina, kad jų priimami sprendimai nesukuria prielaidų nepagrįstai bloginti konkurencijos sąlygas energetikos sektoriuje; ^f834aaaa086ed3bb5f552c93
 
 
-9) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. ^9ff066747c1f396f59da9bcc
+9) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. ^b5175f7fbf697eaf793b1149
 
 
 
 ### 5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija
 
 
-1. Vyriausybė: ^21ebc162fa4af610b65a84bd
+1. Vyriausybė: ^d04aab09fad8bbef83110416
 
 
-1) Nacionaliniame pažangos plane nustato energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius; ^5dd50b7bd8eb00595d839579
+1) Nacionaliniame pažangos plane nustato energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius; ^f5808456884e7bb47f7c4a41
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2) tvirtina energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas; ^1575a2327000df2c2ff2a38c
+2) tvirtina energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas; ^8cb2107ebc303def77e52726
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-3) Neteko galios nuo 2023-01-01 ^fc8814c7756793e76b062bc8
+3) Neteko galios nuo 2023-01-01 ^a3eabb3fadce108117643167
 Straipsnio punkto naikinimas:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
 
 
 
-4) priima sprendimą dėl Lietuvos Respublikos valstybės sieną kertančių energetikos objektų statybos; ^4f6b5e5bcae49da56b37572f
+4) priima sprendimą dėl Lietuvos Respublikos valstybės sieną kertančių energetikos objektų statybos; ^25bd5c70453760856444957b
 
 
-5) tvirtina energetikos veiklos licencijavimo taisykles; ^1baec10fad8217a64ffb5da3
+5) tvirtina energetikos veiklos licencijavimo taisykles; ^0ac62e92f3ec3b8792e9592b
 
 
-6) nustato atsinaujinančių išteklių energijos gamybos ir vartojimo skatinimo tvarką ir sąlygas; ^18b55e6901ec4792bd4e88b1
+6) nustato atsinaujinančių išteklių energijos gamybos ir vartojimo skatinimo tvarką ir sąlygas; ^964e5242145ca0d1a9bfe2e6
 
 
-7) neteko galios nuo 2017-07-17. ^61895bf4788949763c901aff
+7) neteko galios nuo 2017-07-17. ^ef5b38eb105f6acf7c7bc199
 Straipsnio punkto pakeitimai:
 Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
 
 
-2. Vyriausybė ar jos įgaliota institucija: ^d50c4726ce14780b59a381ab
+2. Vyriausybė ar jos įgaliota institucija: ^b1afa389cb404d322bfcafaf
 
 
-1) bendradarbiauja su užsienio valstybių energetikos institucijomis, pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose; ^c362e4341bab387c7b99672f
+1) bendradarbiauja su užsienio valstybių energetikos institucijomis, pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose; ^b7288eae76de82a15f907ff3
 
 
-2) nustato vartotojų aprūpinimo energija ir (ar) energijos ištekliais paskelbus ekstremaliąją energetikos padėtį tvarką; ^b7c8ec6420660273569c0efc
+2) tvirtina vartotojų aprūpinimo energija ir (ar) energijos ištekliais paskelbus ekstremaliąją situaciją energetikos sektoriuje tvarkos aprašą; ^19de37ccc2010f49f1b2569e
+Straipsnio punkto pakeitimai:
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
 
 
-3) nustato energijos ir energijos išteklių tiekimo, importo ir eksporto tvarką; ^783954361021375b7fe6a98c
+
+3) nustato energijos ir energijos išteklių tiekimo, importo ir eksporto tvarką; ^4463c596b725451707d335b9
 
 
-4) nustato energetikos veiklos leidimų išdavimo tvarką, išskyrus atvejus, kai kiti atskirų energetikos sektorių veiklą reglamentuojantys įstatymai nustato kitaip; ^d063edeb18df6cdb73dc60c8
+4) nustato energetikos veiklos leidimų išdavimo tvarką, išskyrus atvejus, kai kiti atskirų energetikos sektorių veiklą reglamentuojantys įstatymai nustato kitaip; ^caa735889141f4a64e12a836
 Straipsnio punkto pakeitimai:
 Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
 
 
 
-5) nustato atskirų energetikos sektorių energijos apskaitos organizavimo, matavimo priemonių ir išmaniųjų energijos apskaitos sistemų įrengimo ir eksploatavimo tvarką; ^43c3e0f95c89b635276f95fb
+5) nustato atskirų energetikos sektorių energijos apskaitos organizavimo, matavimo priemonių ir išmaniųjų energijos apskaitos sistemų įrengimo ir eksploatavimo tvarką; ^fb948c50a87e140480eafd3c
 Straipsnio punkto pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-6) įstatymų nustatytais atvejais turi teisę įpareigoti energetikos įmonę teikti viešuosius interesus atitinkančias paslaugas; ^35c93270f76b5713b510f273
+6) įstatymų nustatytais atvejais turi teisę įpareigoti energetikos įmonę teikti viešuosius interesus atitinkančias paslaugas; ^30d93b8bf3fec9451ce24cdd
 
 
-7) nustato elektros energijos, kuri gaminama bendro elektros energijos ir šilumos gamybos ciklo elektrinėse, gamybos ir (ar) vartojimo skatinimo tvarką ir sąlygas; ^c5cbe324fddac9a4741d0f1d
+7) nustato elektros energijos, kuri gaminama bendro elektros energijos ir šilumos gamybos ciklo elektrinėse, gamybos ir (ar) vartojimo skatinimo tvarką ir sąlygas; ^7844cb1c1eebb56ac33d1021
 
 
-8) suderinusi su Tarnyba tvirtina su buitiniais vartotojais sudaromų energijos pirkimo–pardavimo sutarčių, energijos persiuntimo paslaugų sutarčių, naujų buitinių vartotojų įrenginių prijungimo sutarčių standartines sąlygas; ^84cfa6c41c542454f66051ba
+8) suderinusi su Tarnyba tvirtina su buitiniais vartotojais sudaromų energijos pirkimo–pardavimo sutarčių, energijos persiuntimo paslaugų sutarčių, naujų buitinių vartotojų įrenginių prijungimo sutarčių standartines sąlygas; ^8c5bb37e6162b1bf0b70154c
 
 
-9) nustato atitikties efektyvumo reikalavimams tikrinimo tvarką ir sąlygas; ^ac973f6b4074ac73baf07aa5
+9) nustato atitikties efektyvumo reikalavimams tikrinimo tvarką ir sąlygas; ^d22e2018648f31bb61636250
 
 
-10) nustato energijos išteklių ir energijos efektyvaus vartojimo stebėsenos tvarką; ^526c28415f150364445771c2
+10) nustato energijos išteklių ir energijos efektyvaus vartojimo stebėsenos tvarką; ^5741d7617c401a32c0ca8c43
 
 
-11) užtikrina energijos išteklių tiekimo saugumą užtikrinančių priemonių įgyvendinimą; ^343bce696e55a6b56111ad1a
+11) užtikrina energijos išteklių tiekimo saugumą užtikrinančių priemonių įgyvendinimą; ^3ec5e9229b36a08792e3ffb7
 
 
-12) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^701f72e5fab3b32eb8d3be28
+12) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^a60085918283bc3c090b51c4
 
 
 
@@ -645,74 +654,74 @@ Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 Energetikos ministerija:
 
 
-1) formuoja valstybės politiką energetikos sektoriuje ir organizuoja, koordinuoja, kontroliuoja jos įgyvendinimą; ^2a28a388ac6cf92533f6b541
+1) formuoja valstybės politiką energetikos sektoriuje ir organizuoja, koordinuoja, kontroliuoja jos įgyvendinimą; ^20427fd139932decd4e8e1aa
 
 
-2) pagal kompetenciją tvirtina teisės aktus, reglamentuojančius energijos tiekimo saugumo, energetikos objektų ir įrenginių, vartotojų energetikos įrenginių įrengimo, eksploatavimo, naudojimo, techninės saugos, efektyvaus naudojimo ir kitus techninius klausimus; ^8078a3eb374e29cc75fcd419
+2) pagal kompetenciją tvirtina teisės aktus, reglamentuojančius energijos tiekimo saugumo, energetikos objektų ir įrenginių, vartotojų energetikos įrenginių įrengimo, eksploatavimo, naudojimo, techninės saugos, efektyvaus naudojimo ir kitus techninius klausimus; ^c0d8d84a2a445075f3947bf4
 
 
-3) dalyvauja rengiant Nacionalinį pažangos planą dėl energetikos politikos strateginių tikslų ir (arba) pažangos uždavinių nustatymo; ^7521f2cf733eb1da5299a150
+3) dalyvauja rengiant Nacionalinį pažangos planą dėl energetikos politikos strateginių tikslų ir (arba) pažangos uždavinių nustatymo; ^ed0fd0c2f6bfa67a0468ca6f
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-4) rengia energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; ^5461e3009d44a64656644c44
+4) rengia energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; ^2dc9fcd39c236d3d83b7d021
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-5) tvirtina energijos ir energijos išteklių perdavimo, skirstymo, tiekimo ir vartojimo taisykles; ^57eff6724791a1a6b9b29b97
+5) tvirtina energijos ir energijos išteklių perdavimo, skirstymo, tiekimo ir vartojimo taisykles; ^d0937a3c92ae0ded41beaf3b
 
 
-6) nustato energijos išteklių atsargų sudarymo, tvarkymo, kaupimo ir naudojimo tvarką; ^8abdfa36fd77a35a6a4167a0
+6) nustato energijos išteklių atsargų sudarymo, tvarkymo, kaupimo ir naudojimo tvarką; ^f10eeeaa1f9d34dd0c2109f3
 
 
-7) tvirtina prekybos naftos produktais taisykles; ^2e71555293c6cfeaaffe14fe
+7) tvirtina prekybos naftos produktais taisykles; ^4f0718ca1957000c4668973c
 
 
-8) tvirtina leidimų verstis prekyba naftos produktais išdavimo taisykles; ^898a0c6dce4feca417526b13
+8) tvirtina leidimų verstis prekyba naftos produktais išdavimo taisykles; ^044e8f0306f11bcbc598f0e2
 
 
-9) nustato energijos ir energijos išteklių kokybės reikalavimus; ^bc4eedc2ec7ad7cb4abe770f
+9) nustato energijos ir energijos išteklių kokybės reikalavimus; ^229f3a38f99d9cb0f3376cf6
 
 
-10) kartu su Aplinkos ministerija ir Susisiekimo ministerija nustato Lietuvos Respublikoje naudojamo kuro ir degalų sudėties ir kokybės reikalavimus; ^d18e16733f3f984436228950
+10) kartu su Aplinkos ministerija ir Susisiekimo ministerija nustato Lietuvos Respublikoje naudojamo kuro ir degalų sudėties ir kokybės reikalavimus; ^e6be2d72e74e41a72504b617
 
 
-11) derina valstybinės svarbos energetikos objektų plėtros projektus; ^c101520a680bd0262a80a828
+11) derina valstybinės svarbos energetikos objektų plėtros projektus; ^177937ddc089f3d1de7b3a8b
 Straipsnio punkto pakeitimai:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 
 
-12) nustato tvarką, kurioje nustatytos vartotojų, gamintojų energetikos objektų (tinklų, įrenginių, sistemų) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, įrenginių, sistemų) techninės sąlygos; ^f14a3b074c32661815ca9b05
+12) nustato tvarką, kurioje nustatytos vartotojų, gamintojų energetikos objektų (tinklų, įrenginių, sistemų) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, įrenginių, sistemų) techninės sąlygos; ^028767c5322eb6121b3f1034
 Straipsnio punkto pakeitimai:
 Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
 
 
-13) nustato valstybinės svarbos energetikos objektų plėtros projektų rengimo ir derinimo tvarką; ^be96ef1a40b28e7b2d5c7773
+13) nustato valstybinės svarbos energetikos objektų plėtros projektų rengimo ir derinimo tvarką; ^2416ad0889c2b7ff91f23fb8
 Straipsnio punkto pakeitimai:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 
 
-14) Neteko galios nuo 2024-11-01 ^cd12f3d8a9d2327a0aeab68b
+14) Neteko galios nuo 2024-11-01 ^7a7407dad9f9334c50a32b32
 Straipsnio punkto naikinimas:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-15) nustato energetikos darbuotojų atestavimo tvarką; ^9935da10ee79174be8ae5d0a
+15) nustato energetikos darbuotojų atestavimo tvarką; ^cdac53ddbdf8ad9e9d3a1b60
 Straipsnio punkto pakeitimai:
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-16) Neteko galios nuo 2024-11-01 ^f1a9dcfb38afd4a96f8adc0a
+16) Neteko galios nuo 2024-11-01 ^5da3c82680af8284a57041f9
 Straipsnio punkto naikinimas:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 Straipsnio punkto pakeitimai:
@@ -720,31 +729,31 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 
 
-17) kartu su Lietuvos Respublikos ekonomikos ir inovacijų ministerija nustato šio įstatymo [[#27 straipsnis. Efektyvus energijos išteklių ir energijos vartojimas|27 straipsnyje]] nurodytų įrenginių efektyvumo reikalavimus ir efektyvumo kontrolės tvarką; ^df61479b8eb8ef5ab92c0672
+17) kartu su Lietuvos Respublikos ekonomikos ir inovacijų ministerija nustato šio įstatymo [[#27 straipsnis. Efektyvus energijos išteklių ir energijos vartojimas|27 straipsnyje]] nurodytų įrenginių efektyvumo reikalavimus ir efektyvumo kontrolės tvarką; ^c6e7db5d2df4cae057f928eb
 Straipsnio punkto pakeitimai:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
 
 
 
-18) nustato energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams audito atlikimo tvarką ir sąlygas, tvirtina šio audito metodikas, taip pat energijos vartojimo auditą atliekančių specialistų rengimo ir atestavimo taisykles; ^4f607191b3459e01b53e2521
+18) nustato energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams audito atlikimo tvarką ir sąlygas, tvirtina šio audito metodikas, taip pat energijos vartojimo auditą atliekančių specialistų rengimo ir atestavimo taisykles; ^ab082b934a2a324793e33a6d
 Straipsnio punkto pakeitimai:
 Nr. XIII-1449, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11761
 
 
 
-19) kartu su Susisiekimo ministerija nustato ir tvirtina energijos vartojimo audito transporto priemonėse metodiką; ^7763e53e2bfdbe6bfb09764c
+19) kartu su Susisiekimo ministerija nustato ir tvirtina energijos vartojimo audito transporto priemonėse metodiką; ^f85f8e0b9869577b5f22006b
 Straipsnio punkto pakeitimai:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 
 
-20) nustato susitarimų dėl energijos sutaupymo sudarymo tvarką ir sudaro su energetikos įmonėmis susitarimus; ^79dbfe5a0fd3194be1a99cd7
+20) nustato susitarimų dėl energijos sutaupymo sudarymo tvarką ir sudaro su energetikos įmonėmis susitarimus; ^30d565621d9110e70a5b1bcd
 Papildyta straipsnio punktu:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 
 
 
-21) Neteko galios nuo 2022-01-01 ^b4c6cef32df7c32fad16cbd7
+21) Neteko galios nuo 2022-01-01 ^4d0d99b6f7fa5318c9a45e65
 Straipsnio punkto naikinimas:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 Papildyta straipsnio punktu:
@@ -752,7 +761,7 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-22) nustato susitarimų dėl vartotojų švietimo ir konsultavimo sudarymo su energijos tiekėjais tvarką; ^840c65c7a46638b29cdf04b6
+22) nustato susitarimų dėl vartotojų švietimo ir konsultavimo sudarymo su energijos tiekėjais tvarką; ^e19881189351829432a154f0
 Papildyta straipsnio punktu:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 Straipsnio punkto numeracijos pakeitimas:
@@ -760,20 +769,20 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-23) organizuoja keitimąsi patirtimi efektyvaus energijos išteklių ir energijos vartojimo srityje tarp valstybės institucijų, įstaigų, įmonių, organizacijų nacionaliniu ir tarptautiniu lygiu; ^36b37dca63d6c5f41a7a9704
+23) organizuoja keitimąsi patirtimi efektyvaus energijos išteklių ir energijos vartojimo srityje tarp valstybės institucijų, įstaigų, įmonių, organizacijų nacionaliniu ir tarptautiniu lygiu; ^4f07240c4769f63ccb03c8b5
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-24) tvirtina leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisykles; ^68da9188cd61accc2e7fbd32
+24) tvirtina leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisykles; ^f46f4c173c7d9d644243757d
 Papildyta straipsnio punktu:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-25) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^4bfeaec7813a6bd46c5f97f9
+25) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^a5c0a223948a90849054a557
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2703, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26482
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
@@ -787,280 +796,289 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 Susisiekimo ministerija:
 
 
-1) rengia energijos išteklių ir energijos vartojimo efektyvumo didinimo transporto objektuose nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; ^e14a95d68699e976a4ae8933
+1) rengia energijos išteklių ir energijos vartojimo efektyvumo didinimo transporto objektuose nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; ^52b52a7bd2cd38cccaa6f7ca
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2) teikia rekomendacijas ir įgyvendina priemones, didinančias energijos išteklių ir energijos vartojimo efektyvumą transporto objektuose; ^1fe6b745c3e04d9f52a67d25
+2) teikia rekomendacijas ir įgyvendina priemones, didinančias energijos išteklių ir energijos vartojimo efektyvumą transporto objektuose; ^fca63a0ff280bd34327f0b56
 
 
-3) kartu su Energetikos ministerija vykdo informavimo ir švietimo veiklą, skatinančią transporto objektuose efektyviai naudoti energijos išteklius ir energiją; ^1088af9ee2aa1d5098e3db3b
+3) kartu su Energetikos ministerija vykdo informavimo ir švietimo veiklą, skatinančią transporto objektuose efektyviai naudoti energijos išteklius ir energiją; ^ec1d7c71820673f82e1b30b6
 
 
-4) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^01b6ed622279a09e7423666e
+4) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^26db9336b256a309d9733bae
 
 
 
 ### 8 straipsnis. Taryba
 
 
-1. Energetikos srityje veikiančių subjektų veiklą reguliuoja ir valstybinę energetikos priežiūrą bei kontrolę atlieka Taryba. Taryba yra Europos Sąjungos teisės aktuose, reglamentuojančiuose visuomeninius santykius energetikos sektoriuje, numatyta nacionalinė reguliavimo institucija, atliekanti energetikos objektų ir įrenginių valstybinę kontrolę visoje Lietuvos Respublikos teritorijoje, neatsižvelgiant į jų nuosavybės valdymo formą. ^c93e77889194602faf25bddc
+1. Energetikos srityje veikiančių subjektų veiklą reguliuoja ir valstybinę energetikos priežiūrą bei kontrolę atlieka Taryba. Taryba yra Europos Sąjungos teisės aktuose, reglamentuojančiuose visuomeninius santykius energetikos sektoriuje, numatyta nacionalinė reguliavimo institucija, atliekanti energetikos objektų ir įrenginių valstybinę kontrolę visoje Lietuvos Respublikos teritorijoje, neatsižvelgiant į jų nuosavybės valdymo formą. ^7165c18f9c29220d9560a07d
 
 
-2. Taryba yra biudžetinė įstaiga – valstybės institucija, atskaitinga Lietuvos Respublikos Seimui, turinti sąskaitą banke, antspaudą su Lietuvos valstybės herbu ir įstaigos pavadinimu. Tarybos, kaip biudžetinės įstaigos, savininko teises ir pareigas įgyvendina Vyriausybė. Taryba veikia nešališkai ir skaidriai, pagal įstatymus ir Tarybos patvirtintą darbo reglamentą. Tarybos vadovas yra Tarybos pirmininkas. Taryba gali būti reorganizuojama ar likviduojama priėmus atitinkamą įstatymą. ^6d964e9303cb2882900df69d
+2. Taryba yra biudžetinė įstaiga – valstybės institucija, atskaitinga Lietuvos Respublikos Seimui, turinti sąskaitą valstybės ižde, antspaudą su Lietuvos valstybės herbu ir įstaigos pavadinimu. Tarybos, kaip biudžetinės įstaigos, savininko teises ir pareigas įgyvendina Vyriausybė. Taryba veikia nešališkai ir skaidriai, pagal įstatymus ir Tarybos patvirtintą darbo reglamentą. Tarybos vadovas yra Tarybos pirmininkas. Taryba gali būti reorganizuojama ar likviduojama priėmus atitinkamą įstatymą. ^35dafd99c06235f3ecc917d8
+Straipsnio dalies pakeitimai:
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
 
 
-3. Tarybą sudaro penki nariai. Tarybos pirmininką ir keturis narius Respublikos Prezidento teikimu penkeriems metams skiria ir atleidžia Seimas. Tas pats asmuo Tarybos pirmininku ar nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Tarybos pirmininkas iš paskirtų Tarybos narių skiria du pirmininko pavaduotojus. Kai nėra Tarybos pirmininko, Tarybos pirmininko įsakymu jį pavaduoti skiriamas vienas iš Tarybos pirmininko pavaduotojų, o kai nėra Tarybos pirmininko ir Tarybos pirmininko pavaduotojų, jį pavaduoja vienas iš Tarybos narių pagal Tarybos pirmininko įsakymu nustatytą eiliškumą (toliau – Tarybos pirmininką pavaduojantis asmuo). Tarybos pirmininkas ir (ar) jos nariai, kurių kadencija pasibaigusi, jeigu jie sutinka, savo pareigas eina tol, kol bus paskirti nauji Tarybos pirmininkas ir (ar) jos nariai, bet ne ilgiau kaip vienus metus nuo kadencijos termino pabaigos. Tarybos pirmininkui ar jos nariui, nustojusiam eiti šias pareigas, išmokama dviejų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Išeitinė išmoka nemokama, jeigu Tarybos pirmininkas ar jos narys šias pareigas nustojo eiti [[#^a6607b245efaec21acbf08bb|šio straipsnio 7 dalies]] 2, 3, 4, 5, 6, 8 ir 9 punktuose nustatytais pagrindais. ^1d7172e44babe6fd56f98080
+
+3. Tarybą sudaro penki nariai. Tarybos pirmininką ir keturis narius Respublikos Prezidento teikimu penkeriems metams skiria ir atleidžia Seimas. Tas pats asmuo Tarybos pirmininku ar nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Tarybos pirmininkas iš paskirtų Tarybos narių skiria du pirmininko pavaduotojus. Kai nėra Tarybos pirmininko, Tarybos pirmininko įsakymu jį pavaduoti skiriamas vienas iš Tarybos pirmininko pavaduotojų, o kai nėra Tarybos pirmininko ir Tarybos pirmininko pavaduotojų, jį pavaduoja vienas iš Tarybos narių pagal Tarybos pirmininko įsakymu nustatytą eiliškumą (toliau – Tarybos pirmininką pavaduojantis asmuo). Tarybos pirmininkas ir (ar) jos nariai, kurių kadencija pasibaigusi, jeigu jie sutinka, savo pareigas eina tol, kol bus paskirti nauji Tarybos pirmininkas ir (ar) jos nariai, bet ne ilgiau kaip vienus metus nuo kadencijos termino pabaigos. Tarybos pirmininkui ar jos nariui, nustojusiam eiti šias pareigas, išmokama dviejų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Išeitinė išmoka nemokama, jeigu Tarybos pirmininkas ar jos narys šias pareigas nustojo eiti [[#^bd8ae0bf6b18173031058494|šio straipsnio 7 dalies]] 2, 3, 4, 5, 6, 8 ir 9 punktuose nustatytais pagrindais. ^ac95a2e7cec8069dcc732cd1
 
 
-4. Tarybos nariais gali būti tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį (ne žemesnį kaip magistro laipsnio ar jam prilygintą) išsilavinimą. Tarybos nariui neleidžiama verstis veikla, nesuderinama su valstybės tarnyba. Tarybos narys negali būti laikomas nepriekaištingos reputacijos, jeigu jis neatitinka Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams nustatytų nepriekaištingos reputacijos kriterijų. Tarybos pirmininku ar nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus iki paskyrimo į Tarybos pirmininko ar nario pareigas dienos ėjo pareigas įmonių, kurių veiklą reguliuoja Taryba, valdymo organuose. ^188d545d08a840fee4c74e7f
+4. Tarybos nariais gali būti tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį (ne žemesnį kaip magistro laipsnio ar jam prilygintą) išsilavinimą. Tarybos nariui neleidžiama verstis veikla, nesuderinama su valstybės tarnyba. Tarybos narys negali būti laikomas nepriekaištingos reputacijos, jeigu jis neatitinka Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams nustatytų nepriekaištingos reputacijos kriterijų. Tarybos pirmininku ar nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus iki paskyrimo į Tarybos pirmininko ar nario pareigas dienos ėjo pareigas įmonių, kurių veiklą reguliuoja Taryba, valdymo organuose. ^df3cfad7de867d59de5c06e2
 
 
-5. Tarybos pirmininkas ir nariai yra valstybės pareigūnai. Jų statuso ypatumus nustato šis įstatymas. Tarybos pirmininkui ir nariams Lietuvos Respublikos darbo kodeksas taikomas tiek, kiek jų statuso nereglamentuoja šis įstatymas. ^5e1fca55de24dc221d3165d9
+5. Tarybos pirmininkas ir nariai yra valstybės pareigūnai. Jų statuso ypatumus nustato šis įstatymas. Tarybos pirmininkui ir nariams Lietuvos Respublikos darbo kodeksas taikomas tiek, kiek jų statuso nereglamentuoja šis įstatymas. ^73a353baa8cfee13b30354f2
 
 
-6. Tarybos pirmininko darbo užmokestis yra lygus 5 (penkiems) šalies ūkio darbuotojų praėjusių kalendorinių metų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Tarybos pirmininko pavaduotojo darbo užmokestis yra lygus 95 procentams Tarybos pirmininko darbo užmokesčio dydžio. Tarybos narių darbo užmokestis yra lygus 90 procentų Tarybos pirmininko darbo užmokesčio dydžio. Jeigu nėra apskaičiuotas ir paskelbtas praėjusių kalendorinių metų šalies ūkio darbuotojų vidutinių mėnesinių bruto darbo užmokesčio vidurkis, Tarybos pirmininko atlyginimo dydis skaičiuojamas pagal užpraeitų kalendorinių metų duomenis tol, kol Lietuvos statistikos departamentas apskaičiuoja ir paskelbia praėjusių kalendorinių metų duomenis. ^73b4f197fcd3f6b9bdd04462
+6. Tarybos pirmininko darbo užmokestis yra lygus 5 (penkiems) šalies ūkio darbuotojų praėjusių kalendorinių metų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos apskaičiuoja ir skelbia Valstybės duomenų agentūra, vidurkio dydžiams. Tarybos pirmininko pavaduotojo darbo užmokestis yra lygus 95 procentams Tarybos pirmininko darbo užmokesčio dydžio. Tarybos narių darbo užmokestis yra lygus 90 procentų Tarybos pirmininko darbo užmokesčio dydžio. Jeigu nėra apskaičiuotas ir paskelbtas praėjusių kalendorinių metų šalies ūkio darbuotojų vidutinių mėnesinių bruto darbo užmokesčio vidurkis, Tarybos pirmininko atlyginimo dydis skaičiuojamas pagal užpraeitų kalendorinių metų duomenis tol, kol Valstybės duomenų agentūra apskaičiuoja ir paskelbia praėjusių kalendorinių metų duomenis. ^72df905aedcc9af51f2ad4bd
+Straipsnio dalies pakeitimai:
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
 
 
-7. Tarybos pirmininkas ir jos nariai atleidžiami iš pareigų tik: ^a6607b245efaec21acbf08bb
+
+7. Tarybos pirmininkas ir jos nariai atleidžiami iš pareigų tik: ^bd8ae0bf6b18173031058494
 
 
-1) pasibaigus kadencijai; ^259e7df83db897bb4cf90d08
+1) pasibaigus kadencijai; ^afa1f2a28867741279e17309
 
 
-2) savo noru; ^47b2dd9e96f553094af5835c
+2) savo noru; ^e72817747b1629cb8a82b6ee
 
 
-3) išrinkus arba paskyrus į kitas pareigas; ^c7d3faf432982e6b7e410a57
+3) išrinkus arba paskyrus į kitas pareigas; ^47466b1b12c6508c65ccf2a4
 
 
-4) įsiteisėjus apkaltinamajam teismo nuosprendžiui; ^44b445f351611db5c175a199
+4) įsiteisėjus apkaltinamajam teismo nuosprendžiui; ^2a2fd3d8935477a3f51c71b5
 
 
-5) paaiškėjus, kad šiurkščiai pažeidė savo pareigas. Pareigų pažeidimas laikomas šiurkščiu, jeigu jis atitinka Valstybės tarnybos įstatyme nustatytus šiurkštaus tarnybinio nusižengimo požymius; ^42cef23e86f7d888892ddecb
+5) paaiškėjus, kad šiurkščiai pažeidė savo pareigas. Pareigų pažeidimas laikomas šiurkščiu, jeigu jis atitinka Valstybės tarnybos įstatyme nustatytus šiurkštaus tarnybinio nusižengimo požymius; ^b0f02869c0717895059a4231
 
 
-6) pažeidus tarnybinę etiką; ^5fddfa2eb0517bddce28ff29
+6) pažeidus tarnybinę etiką; ^e13316466217d9d40df76f27
 
 
-7) dėl sveikatos būklės; ^6162d5fc183e8b047d639e1b
+7) dėl sveikatos būklės; ^e7ef55ef6292526037042701
 
 
-8) netekus Lietuvos Respublikos pilietybės; ^4e908d14307a21f1ad07ca84
+8) netekus Lietuvos Respublikos pilietybės; ^65944ac1c51449d8cc9d2d4a
 
 
-9) paaiškėjus aplinkybėms, dėl kurių asmuo negali būti laikomas nepriekaištingos reputacijos. ^28856008f5407b99ab1b83a4
+9) paaiškėjus aplinkybėms, dėl kurių asmuo negali būti laikomas nepriekaištingos reputacijos. ^f261fd319220fd709ed5cd48
 
 
-8. Tarybos narį atleisti iš pareigų prieš terminą Seimui siūlo Respublikos Prezidentas. Į atleistų prieš terminą Tarybos narių vietas Seimas Respublikos Prezidento teikimu penkeriems metams skiria kitus asmenis. ^d143237423c375f9851d4be0
+8. Tarybos narį atleisti iš pareigų prieš terminą Seimui siūlo Respublikos Prezidentas. Į atleistų prieš terminą Tarybos narių vietas Seimas Respublikos Prezidento teikimu penkeriems metams skiria kitus asmenis. ^5136a2b087909ac13de35b76
 
 
-9. Taryba, atlikdama savo funkcijas, yra nepriklausoma. Šiuo tikslu: ^b13d56c997915b8a0e75841c
+9. Taryba, atlikdama savo funkcijas, yra nepriklausoma. Šiuo tikslu: ^58e2a53b10a52a605d25d7ff
 
 
-1) Taryba yra teisiškai atskirta ir funkciniu aspektu nepriklausoma nuo bet kurio kito viešojo ar privataus asmens; ^57b9c5d584745f2e655bdfad
+1) Taryba yra teisiškai atskirta ir funkciniu aspektu nepriklausoma nuo bet kurio kito viešojo ar privataus asmens; ^0283abdcbc02897f5d504fc7
 
 
-2) Tarybos pirmininkas, jos nariai, Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, veikia nepriklausomai nuo visų rinkos interesų, atlikdami savo pareigas, nesiekia gauti jokių Vyriausybės arba bet kurio kito viešojo ar privataus asmens tiesioginių nurodymų ir jų nevykdo; šis reikalavimas neturi įtakos Seimo ir Vyriausybės nustatytos valstybės strategijos ir valstybės politikos įgyvendinimui, taip pat glaudžiam bendradarbiavimui su kitomis valstybės institucijomis; ^9f37357f609a59aa00be93cf
+2) Tarybos pirmininkas, jos nariai, Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, veikia nepriklausomai nuo visų rinkos interesų, atlikdami savo pareigas, nesiekia gauti jokių Vyriausybės arba bet kurio kito viešojo ar privataus asmens tiesioginių nurodymų ir jų nevykdo; šis reikalavimas neturi įtakos Seimo ir Vyriausybės nustatytos valstybės strategijos ir valstybės politikos įgyvendinimui, taip pat glaudžiam bendradarbiavimui su kitomis valstybės institucijomis; ^25f909e17c3a6509bf4a4a5b
 
 
-3) Taryba priima savarankiškus, nuo jokios valstybės ar savivaldybių institucijos, įmonės, įstaigos ar organizacijos nepriklausomus sprendimus, turi atskirus metinius biudžeto asignavimus, juos naudodama savarankiškai įgyvendina paskirtą biudžetą ir disponuoja savo pareigoms adekvačiais žmogiškaisiais ir finansiniais ištekliais. ^76dd26b7a7c0f6d28d6a28e9
+3) Taryba priima savarankiškus, nuo jokios valstybės ar savivaldybių institucijos, įmonės, įstaigos ar organizacijos nepriklausomus sprendimus, turi atskirus metinius biudžeto asignavimus, juos naudodama savarankiškai įgyvendina paskirtą biudžetą ir disponuoja savo pareigoms adekvačiais žmogiškaisiais ir finansiniais ištekliais. ^d9896df46998c4ee3213ba92
 
 
-10. Taryba atsako už savo nutarimų pagrįstumą ir teisėtumą. Tarybos nutarimai priimami vardiniu balsavimu. Tarybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip keturi Tarybos nariai, įskaitant jos pirmininką. Sprendimai priimami posėdyje dalyvaujančių Tarybos narių balsų dauguma. Balsams pasiskirsčius po lygiai, lemia Tarybos pirmininko balsas. ^86a9d3d289016ef016c77305
+10. Taryba atsako už savo nutarimų pagrįstumą ir teisėtumą. Tarybos nutarimai priimami vardiniu balsavimu. Tarybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip keturi Tarybos nariai, įskaitant jos pirmininką. Sprendimai priimami posėdyje dalyvaujančių Tarybos narių balsų dauguma. Balsams pasiskirsčius po lygiai, lemia Tarybos pirmininko balsas. ^66f2ffdae772e24ee73b8680
 
 
-101. Tarybos posėdžiai Tarybos nustatyta tvarka gali būti organizuojami nuotoliniu būdu, naudojantis saugia programine įranga. Tarybos posėdžio eigai fiksuoti daromas garso įrašas, kuris yra Tarybos posėdžio protokolo dalis. ^09781363f30d4e7982d7e1d0
+101. Tarybos posėdžiai Tarybos nustatyta tvarka gali būti organizuojami nuotoliniu būdu, naudojantis saugia programine įranga. Tarybos posėdžio eigai fiksuoti daromas garso įrašas, kuris yra Tarybos posėdžio protokolo dalis. ^cd0ca4d928e6d9922128495a
 Papildyta straipsnio dalimi:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-11. Taryba atlieka šias funkcijas: ^9beed3d9ebde0df8a0f2fa53
+11. Taryba atlieka šias funkcijas: ^880246b81ed3b24d9b0686dc
 
 
-1) tvirtina reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį; ^f0c3420be543dfdbc868d49c
+1) tvirtina reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį; ^7d237424c27ee3d0901ae4bb
 
 
-2) tvirtina valstybės reguliuojamų kainų nustatymo metodikas, nustato valstybės reguliuojamas kainas ir kainų viršutines ribas; ^6db583de485c34ebf506cefb
+2) tvirtina valstybės reguliuojamų kainų nustatymo metodikas, nustato valstybės reguliuojamas kainas ir kainų viršutines ribas; ^deb435a5731609f233357e87
 
 
-3) kontroliuoja, kaip taikomos valstybės reguliuojamos kainos ir tarifai; ^dfabded7bbe6d5fcd79f9c1a
+3) kontroliuoja, kaip taikomos valstybės reguliuojamos kainos ir tarifai; ^af248eb100b84f54f28f129a
 
 
-4) tvirtina energetikos objektų (tinklų, sistemų, įrenginių) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, sistemų, įrenginių) įkainius, jų nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, vadovaudamasi atskirų energetikos sektorių teisinius pagrindus reglamentuojančiuose įstatymuose nustatytais įkainių nustatymo bendraisiais kriterijais; ^a86a15d50e7b898e14a45062
+4) tvirtina energetikos objektų (tinklų, sistemų, įrenginių) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, sistemų, įrenginių) įkainius, jų nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, vadovaudamasi atskirų energetikos sektorių teisinius pagrindus reglamentuojančiuose įstatymuose nustatytais įkainių nustatymo bendraisiais kriterijais; ^b9d2f961b8dfe9de938ae64e
 
 
-5) vienašališkai nustato valstybės reguliuojamas kainas, jeigu energetikos įmonės nesilaiko šių kainų nustatymo reikalavimų; ^1ed17e1b643ae4ca3306c1a8
+5) vienašališkai nustato valstybės reguliuojamas kainas, jeigu energetikos įmonės nesilaiko šių kainų nustatymo reikalavimų; ^548687f3790b70bc0b280de2
 
 
-6) nustatydama valstybės reguliuojamas kainas, įvertina teikiamų paslaugų sąnaudas, atsižvelgdama į protingumo kriterijus atitinkančią investicijų grąžą; ^1efea0487e3b0f14cf2eefa9
+6) nustatydama valstybės reguliuojamas kainas, įvertina teikiamų paslaugų sąnaudas, atsižvelgdama į protingumo kriterijus atitinkančią investicijų grąžą; ^0dfaa26f047b48527fc6d7e9
 
 
-7) išduoda energetikos veiklos licencijas, jas keičia, sustabdo licencijų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų galiojimą, prižiūri ir kontroliuoja energetikos įmonių licencijuojamą veiklą; ^f9b250cf18d4c4e47a64ed31
+7) išduoda energetikos veiklos licencijas, jas keičia, sustabdo licencijų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų galiojimą, prižiūri ir kontroliuoja energetikos įmonių licencijuojamą veiklą; ^3d9e597f40ab1531d14a459c
 Straipsnio punkto pakeitimai:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-71) išduoda energetikos veiklos leidimus, juos keičia, sustabdo leidimų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, prižiūri ir kontroliuoja energetikos įmonių leidimais reguliuojamą veiklą; ^eecf3647b4e389f7ae34d08e
+71) išduoda energetikos veiklos leidimus, juos keičia, sustabdo leidimų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, prižiūri ir kontroliuoja energetikos įmonių leidimais reguliuojamą veiklą; ^b9b45fd485cab8986215a4ae
 Papildyta straipsnio punktu:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-8) nustato energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimus ir kontroliuoja, kaip jų laikomasi; ^b9d483164959bc3ae63dd718
+8) nustato energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimus ir kontroliuoja, kaip jų laikomasi; ^73fafb90f0e107d4adc43144
 
 
-9) nustato energetikos įmonių, kurios verčiasi veikla, kurios kainos yra valstybės reguliuojamos, šioje veikloje naudojamo ilgalaikio turto nusidėvėjimo (amortizacijos) normas; ^7caf33aa386bb8b72d20081e
+9) nustato energetikos įmonių, kurios verčiasi veikla, kurios kainos yra valstybės reguliuojamos, šioje veikloje naudojamo ilgalaikio turto nusidėvėjimo (amortizacijos) normas; ^e3f52f4590a9fb287e921f77
 
 
-10) teikia Vyriausybei, Energetikos ministerijai, savivaldybėms pasiūlymus dėl licencijuojamos energetikos įmonių veiklos; ^997ef83329ac2d5c6a35fdbe
+10) teikia Vyriausybei, Energetikos ministerijai, savivaldybėms pasiūlymus dėl licencijuojamos energetikos įmonių veiklos; ^80df0977b3711d2d494bb338
 
 
-11) įpareigoja energetikos įmones sudaryti sutartis dėl energijos perdavimo, skirstymo ar tiekimo, kai energetikos įmonės nepagrįstai atsisako suteikti paslaugas tretiesiems asmenims ar tiekti vartotojams energiją; ^2ce405f61dc44735461f4684
+11) įpareigoja energetikos įmones sudaryti sutartis dėl energijos perdavimo, skirstymo ar tiekimo, kai energetikos įmonės nepagrįstai atsisako suteikti paslaugas tretiesiems asmenims ar tiekti vartotojams energiją; ^e436bf9abe194596179776aa
 
 
-12) kontroliuoja, kad energetikos sektoriuose būtų užtikrintas energijos perdavimo ir skirstymo veiklos nepriklausomumas nuo energijos gamybos ir tiekimo veiklos interesų taip, kaip nustatyta atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose, ir išvengta kryžminio šių veiklų arba kitos su energetika susijusios ar nesusijusios veiklos subsidijavimo; ^14c0b595ff8609d1433cd384
+12) kontroliuoja, kad energetikos sektoriuose būtų užtikrintas energijos perdavimo ir skirstymo veiklos nepriklausomumas nuo energijos gamybos ir tiekimo veiklos interesų taip, kaip nustatyta atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose, ir išvengta kryžminio šių veiklų arba kitos su energetika susijusios ar nesusijusios veiklos subsidijavimo; ^15748649a289fa27918f9c41
 Straipsnio punkto pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-13) prižiūri rinkos atvėrimo ir konkurencijos didmeninėje ir mažmeninėje prekyboje mastą ir veiksmingumą (įskaitant elektros energijos ir (ar) dujų biržas), buitiniams vartotojams taikomas kainas (įskaitant išankstinio mokėjimo sistemas), tiekėją pakeitusių vartotojų procentinę dalį, nuo elektros energijos tinklų ir dujų sistemų atjungtų vartotojų procentinę dalį, įmokas už priežiūros paslaugas ir šių paslaugų teikimą, taip pat pagal kompetenciją konkurencijos iškraipymo ar apribojimo energetikos veikloje atvejus; ^d76f087403a33a50fc7e8bec
+13) prižiūri rinkos atvėrimo ir konkurencijos didmeninėje ir mažmeninėje prekyboje mastą ir veiksmingumą (įskaitant elektros energijos ir (ar) dujų biržas), buitiniams vartotojams taikomas kainas (įskaitant išankstinio mokėjimo sistemas), tiekėją pakeitusių vartotojų procentinę dalį, nuo elektros energijos tinklų ir dujų sistemų atjungtų vartotojų procentinę dalį, įmokas už priežiūros paslaugas ir šių paslaugų teikimą, taip pat pagal kompetenciją konkurencijos iškraipymo ar apribojimo energetikos veikloje atvejus; ^2ff734d3753ed1e4c7d6a411
 
 
-14) prižiūri, ar nepasitaiko konkurenciją ribojančios sutartinės praktikos, įskaitant išimtinių teisių sąlygas, kurias taikant vartotojams gali būti užkirstas kelias arba apribota galimybė vienu metu sudaryti sutartis su daugiau negu vienu tiekėju, ir apie tokią praktiką praneša Konkurencijos tarybai; ^7e2e95c42c496d02752e0f12
+14) prižiūri, ar nepasitaiko konkurenciją ribojančios sutartinės praktikos, įskaitant išimtinių teisių sąlygas, kurias taikant vartotojams gali būti užkirstas kelias arba apribota galimybė vienu metu sudaryti sutartis su daugiau negu vienu tiekėju, ir apie tokią praktiką praneša Konkurencijos tarybai; ^8cf666e916f5b63fb9920b02
 Straipsnio punkto pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-15) ne rečiau kaip kartą per 5 metus arba kitais įstatymuose nustatytais terminais skelbia rekomendacijas, susijusias su paslaugų energetikos sektoriuje kainų atitiktimi skaidrumo, nediskriminavimo ir kitiems teisės aktų nustatytiems reikalavimams, ir teikia jas Konkurencijos tarybai; ^d5f52ab83aa9ce98b3626106
+15) ne rečiau kaip kartą per 5 metus arba kitais įstatymuose nustatytais terminais skelbia rekomendacijas, susijusias su paslaugų energetikos sektoriuje kainų atitiktimi skaidrumo, nediskriminavimo ir kitiems teisės aktų nustatytiems reikalavimams, ir teikia jas Konkurencijos tarybai; ^7ba6ca05f6c25b59eccbb2c8
 Straipsnio punkto pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-16) teisės aktų nustatyta tvarka pagal kompetenciją turi teisę tikrinti energetikos įmonių valstybės institucijoms ir (ar) vartotojams teikiamą informaciją, vertinti jos patikimumą, nepažeisdama komercine (gamybine) ar profesine paslaptimi laikomos informacijos apsaugos reikalavimų; ^ffe0ff5c70a614e11c8aec31
+16) teisės aktų nustatyta tvarka pagal kompetenciją turi teisę tikrinti energetikos įmonių valstybės institucijoms ir (ar) vartotojams teikiamą informaciją, vertinti jos patikimumą, nepažeisdama komercine (gamybine) ar profesine paslaptimi laikomos informacijos apsaugos reikalavimų; ^6872a18c9c5d259491696cdc
 
 
-17) užtikrina kiekvienam vartotojui galimybę naudotis duomenimis apie jo suvartotą energiją, taip pat apibendrintų energijos vartojimo duomenų, nenurodant vartotojų asmens duomenų, teikimą nacionaliniu lygmeniu lengvai suprantama Tarybos nustatyta forma ir galimybę visiems vartotojams naudotis šiais apibendrintais duomenimis; ^017190858a17317f3c47c3f1
+17) užtikrina kiekvienam vartotojui galimybę naudotis duomenimis apie jo suvartotą energiją, taip pat apibendrintų energijos vartojimo duomenų, nenurodant vartotojų asmens duomenų, teikimą nacionaliniu lygmeniu lengvai suprantama Tarybos nustatyta forma ir galimybę visiems vartotojams naudotis šiais apibendrintais duomenimis; ^25277779d8cea94de34413fd
 
 
-18) atlieka rinkos tyrimus, kuriais siekiama užtikrinti veiksmingą konkurenciją energetikos sektoriuje ir didelę įtaką atitinkamoje rinkoje turintiems asmenims užkirsti kelią piktnaudžiauti šia įtaka; ^ab44b2718f56cf46a6edb408
+18) atlieka rinkos tyrimus, kuriais siekiama užtikrinti veiksmingą konkurenciją energetikos sektoriuje ir didelę įtaką atitinkamoje rinkoje turintiems asmenims užkirsti kelią piktnaudžiauti šia įtaka; ^2903fa3a40449ffaa8cb2a0a
 
 
-19) skiria šio įstatymo [[#36 straipsnis. Sankcijos ir jų taikymo tvarka|36 straipsnyje]] nustatytas sankcijas; ^bd87c579398b20819e8620b8
+19) skiria šio įstatymo [[#36 straipsnis. Sankcijos ir jų taikymo tvarka|36 straipsnyje]] nustatytas sankcijas; ^7d9a554cf5085690e9f21a1c
 
 
-20) tiria Reglamento (ES) Nr. 1227/2011 pažeidimus ir atlieka energetikos įmonių veiklos, didmeninės energijos rinkos dalyvių, profesionaliai sandorius organizuojančių ar vykdančių asmenų, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimus; ^0e42452c94ce5ee97f6355c2
+20) tiria Reglamento (ES) Nr. 1227/2011 pažeidimus ir atlieka energetikos įmonių veiklos, didmeninės energijos rinkos dalyvių, profesionaliai sandorius organizuojančių ar vykdančių asmenų, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimus; ^bc42d9f0c6a42fb429a30089
 Straipsnio punkto pakeitimai:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-21) išduoda energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatus, juos keičia, sustabdo atestatų galiojimą, panaikina galiojimo sustabdymą, panaikina atestatų galiojimą ir kontroliuoja energetikos įrenginių įrengimo ir eksploatavimo reguliuojamąją veiklą; ^3741948bae324ac5a9bcfe1b
+21) išduoda energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatus, juos keičia, sustabdo atestatų galiojimą, panaikina galiojimo sustabdymą, panaikina atestatų galiojimą ir kontroliuoja energetikos įrenginių įrengimo ir eksploatavimo reguliuojamąją veiklą; ^f989da5b2eb841905ddca3c3
 
 
-22) nustatyta tvarka kontroliuoja energetikos objektų, energetikos įrenginių techninę saugą, eksploatavimą, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumą ir vartojimo efektyvumą; ^4f8924a4888e49404e331962
+22) nustatyta tvarka kontroliuoja energetikos objektų, energetikos įrenginių techninę saugą, eksploatavimą, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumą ir vartojimo efektyvumą; ^6417a0192eab5b407ce388fc
 
 
-23) tiria energetikos objektų, įrenginių avarijas ir darbo sutrikimus, dalyvauja tiriant nelaimingus atsitikimus darbe ir buityje, susijusius su energijos vartojimu; ^b34e99b2c2bbbb3d86246c8d
+23) tiria energetikos objektų, įrenginių avarijas ir darbo sutrikimus, dalyvauja tiriant nelaimingus atsitikimus darbe ir buityje, susijusius su energijos vartojimu; ^5ba6cf6aca24d043b3231227
 
 
-24) Neteko galios nuo 2024-11-01 ^ce52828eef4ca88d91910bbd
+24) Neteko galios nuo 2024-11-01 ^55af0fa86a550f1486789b8a
 Straipsnio punkto naikinimas:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-25) organizuoja šio įstatymo [[#28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas|28 straipsnyje]] nurodytų energetikos darbuotojų atestavimą; ^7ec7f54f49b272df16f95607
+25) organizuoja šio įstatymo [[#28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas|28 straipsnyje]] nurodytų energetikos darbuotojų atestavimą; ^591aa36532099a7a22db749a
 
 
-26) kontroliuoja, kaip laikomasi nustatytų energijos ir energijos išteklių kokybės reikalavimų; ^930cf06b1942884383aad862
+26) kontroliuoja, kaip laikomasi nustatytų energijos ir energijos išteklių kokybės reikalavimų; ^fa1a055a2687fdcc6c4dfa09
 
 
-27) kontroliuoja energijos išteklių valstybės ir rezervines atsargas; ^1fc59a9e6517d581a37605ed
+27) kontroliuoja energijos išteklių valstybės ir rezervines atsargas; ^279dd0efa731edfb7e568e1f
 
 
-28) kontroliuoja teisės aktų nustatytas energijos išteklių ir energijos tiekimo ir vartojimo apribojimo ir sustabdymo priemones, kai šalyje skelbiama ekstremalioji energetikos padėtis; ^685d974bd8e15c04b67c206c
+28) kontroliuoja teisės aktų nustatytas energijos išteklių ir energijos tiekimo ir vartojimo apribojimo ir sustabdymo priemones, kai šalyje paskelbiama ekstremalioji situacija energetikos sektoriuje; ^0ae5471848d0057191b46d7b
+Straipsnio punkto pakeitimai:
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
 
 
-29) organizuoja atitikties šio įstatymo [[#^ba59fb58b1130d6c44e72675|27 straipsnio 6 dalyje]] nustatytiems efektyvumo reikalavimams patikrinimą; ^b776d1b0b9cef4512551fe67
+
+29) organizuoja atitikties šio įstatymo [[#^bed3d9ba8bcb4a79f78bc523|27 straipsnio 6 dalyje]] nustatytiems efektyvumo reikalavimams patikrinimą; ^b9deaec4e2017f8169a4317d
 
 
-30) nagrinėja administracinio nusižengimo bylas dėl Lietuvos Respublikos administracinių nusižengimų kodekse nurodytų administracinių nusižengimų; ^aa905a85577dfc8e1013997e
+30) nagrinėja administracinio nusižengimo bylas dėl Lietuvos Respublikos administracinių nusižengimų kodekse nurodytų administracinių nusižengimų; ^054281efe55f9651ae7a2b5b
 
 
-31) tvirtina technines užduotis; ^34e419c52633c20981cd7e35
+31) tvirtina technines užduotis; ^00f076cf9914c9b8a1535bdd
 
 
-32) nustato asmenų prašymų leisti veikti bandomojoje energetikos inovacijų aplinkoje pateikimo ir nagrinėjimo bei veiklos bandomojoje energetikos inovacijų aplinkoje vykdymo tvarką; ^a335c50797968853210519b7
+32) nustato asmenų prašymų leisti veikti bandomojoje energetikos inovacijų aplinkoje pateikimo ir nagrinėjimo bei veiklos bandomojoje energetikos inovacijų aplinkoje vykdymo tvarką; ^9c084e3c54243c5438d62800
 Papildyta straipsnio punktu:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-33) skatina energetikos inovacijas, savo leidžiamuose teisės aktuose nustatydama energetikos inovacijų kriterijus ir šioms inovacijoms plėtoti palankias taisykles, skatinimo mechanizmus energetikos įmonėms ir kitiems asmenims; ^c32c0c73132495b88069e714
+33) skatina energetikos inovacijas, savo leidžiamuose teisės aktuose nustatydama energetikos inovacijų kriterijus ir šioms inovacijoms plėtoti palankias taisykles, skatinimo mechanizmus energetikos įmonėms ir kitiems asmenims; ^9102c6a5cb5316005d2e9f63
 Papildyta straipsnio punktu:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-34) pagal kompetenciją užtikrina keitimosi duomenimis procesų derinimą su svarbiausiais rinkos procesais regioniniu lygmeniu, įskaitant Tarybos keitimąsi duomenimis šio įstatymo [[#26 straipsnis. Konsultacijos ir bendradarbiavimas|26 straipsnio]] tikslais ir tinklų (sistemos) operatorių, tinklų (sistemos) naudotojų ir rinkos dalyvių keitimąsi duomenimis vykdant teisės aktuose nustatytus reikalavimus; ^8b229817afb3a1731d3e5104
+34) pagal kompetenciją užtikrina keitimosi duomenimis procesų derinimą su svarbiausiais rinkos procesais regioniniu lygmeniu, įskaitant Tarybos keitimąsi duomenimis šio įstatymo [[#26 straipsnis. Konsultacijos ir bendradarbiavimas|26 straipsnio]] tikslais ir tinklų (sistemos) operatorių, tinklų (sistemos) naudotojų ir rinkos dalyvių keitimąsi duomenimis vykdant teisės aktuose nustatytus reikalavimus; ^1487a6fe0ac4a49072f2d51a
 Papildyta straipsnio punktu:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-35) pagal kompetenciją priima energetikos įmonėms privalomus vykdyti sprendimus; ^6c1fe1d7075f28078a30a105
+35) pagal kompetenciją priima energetikos įmonėms privalomus vykdyti sprendimus; ^15c2b06a30df1da347bcee22
 Papildyta straipsnio punktu:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-36) tvirtina centralizuotos energijos duomenų platformos valdytojo parengtą naudojimosi centralizuota energijos duomenų platforma tvarkos aprašą; ^a692cb3e630aa9390a4f5cea
+36) tvirtina centralizuotos energijos duomenų platformos valdytojo parengtą naudojimosi centralizuota energijos duomenų platforma tvarkos aprašą; ^eb78d8559bf2a88d26136a84
 Papildyta straipsnio punktu:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-37) vertina centralizuotos energijos duomenų platformos plėtros, priežiūros ir valdymo sąnaudų pagrįstumą nustatant valstybės reguliuojamas kainas; ^fac9b326195899490321a490
+37) vertina centralizuotos energijos duomenų platformos plėtros, priežiūros ir valdymo sąnaudų pagrįstumą nustatant valstybės reguliuojamas kainas; ^7defbc43b4d11cccb54ad0b1
 Papildyta straipsnio punktu:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-38) nustato energetikos valstybinės kontrolės ir vartotojų energetikos įrenginių kontrolės tvarką; ^b94f75d661b1fafb5ad97266
+38) nustato energetikos valstybinės kontrolės ir vartotojų energetikos įrenginių kontrolės tvarką; ^5ba8e16bf2f94aadae9a17ac
 Papildyta straipsnio punktu:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-39) tvirtina energetikos įrenginių avarijų ir sutrikimų tyrimo ir apskaitos nuostatus; ^14456b8c5b843bd1452d3018
+39) tvirtina energetikos įrenginių avarijų ir sutrikimų tyrimo ir apskaitos nuostatus; ^096ae2e4f8d8ea8e05455ff5
 Papildyta straipsnio punktu:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-40) nustato asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo tvarką ir sąlygas; ^e69329feba3625124ac58005
+40) nustato asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo tvarką ir sąlygas; ^7adcc03c5766e6154413ef09
 Papildyta straipsnio punktu:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-41) priima sprendimus dėl Tarybos pirmininko nusišalinimo; ^c43b065befbee072f82f8c4f
+41) priima sprendimus dėl Tarybos pirmininko nusišalinimo; ^22fb4b3e26b9950761d6488d
 Papildyta straipsnio punktu:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-42) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. ^ab562876086f7ca026840f04
+42) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. ^a3a7ce465be03602e8698e95
 Straipsnio punkto pakeitimai:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 Straipsnio punkto numeracijos pakeitimas:
@@ -1069,44 +1087,44 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-111. Taryba, vykdydama [[#^9beed3d9ebde0df8a0f2fa53|šio straipsnio 11 dalyje]], Elektros energetikos įstatymo [[#9 straipsnis. Neteko galios nuo 2019-07-01|9 straipsnio]] 3 ir [[#^188d545d08a840fee4c74e7f|4 dalyse]] ir Gamtinių dujų įstatymo [[#7 straipsnis. Susisiekimo ministerijos kompetencija|7 straipsnio]] 1 ir [[#^6d964e9303cb2882900df69d|2 dalyse]] įtvirtintas funkcijas ir pareigas, susijusias su jos sprendimais dėl gamtinių dujų ir elektros energijos infrastruktūros, įskaitant sprendimus dėl kainų ir tarifų, taiko energijos efektyvumo didinimo pirmumo principą. Be to, Taryba įvertina, ar reguliuojamojoje veikloje efektyviai patiriamos sąnaudos, taip pat atsižvelgia į sistemos efektyvumą tinkluose, tiekimo saugumą, rinkos integraciją, kartu užtikrindama Europos Sąjungos klimato srities tikslus ir tvarumą, kaip nustatyta 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/943 [[#18 straipsnis. Nekilnojamųjų daiktų suteikimas naudotis|18 straipsnyje]] ir 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamento (ES) 2024/1789 [[#17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis|17 straipsnyje]]. ^71d65a44d861251ebb294db1
+111. Taryba, vykdydama [[#^880246b81ed3b24d9b0686dc|šio straipsnio 11 dalyje]], Elektros energetikos įstatymo [[#9 straipsnis. Neteko galios nuo 2019-07-01|9 straipsnio]] 3 ir [[#^df3cfad7de867d59de5c06e2|4 dalyse]] ir Gamtinių dujų įstatymo [[#7 straipsnis. Susisiekimo ministerijos kompetencija|7 straipsnio]] 1 ir [[#^35dafd99c06235f3ecc917d8|2 dalyse]] įtvirtintas funkcijas ir pareigas, susijusias su jos sprendimais dėl gamtinių dujų ir elektros energijos infrastruktūros, įskaitant sprendimus dėl kainų ir tarifų, taiko energijos efektyvumo didinimo pirmumo principą. Be to, Taryba įvertina, ar reguliuojamojoje veikloje efektyviai patiriamos sąnaudos, taip pat atsižvelgia į sistemos efektyvumą tinkluose, tiekimo saugumą, rinkos integraciją, kartu užtikrindama Europos Sąjungos klimato srities tikslus ir tvarumą, kaip nustatyta 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/943 [[#18 straipsnis. Nekilnojamųjų daiktų suteikimas naudotis|18 straipsnyje]] ir 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamento (ES) 2024/1789 [[#17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis|17 straipsnyje]]. ^88e2cdb3c256d6bb6202c18c
 Papildyta straipsnio dalimi:
 Nr. XV-238, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11006
 
 
 
-12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų [[#^9beed3d9ebde0df8a0f2fa53|šio straipsnio 11 dalies]] 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę dalį [[#^eecf3647b4e389f7ae34d08e|šio straipsnio 11 dalies 71 punkte]] nustatytų Tarybos funkcijų, susijusių su energetikos veiklos leidimų keitimu, leidimų galiojimo sustabdymu ir galiojimo sustabdymo panaikinimu, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę visas arba dalį Tarybos funkcijų, nustatytų [[#^0e42452c94ce5ee97f6355c2|šio straipsnio 11 dalies 20 punkte]], susijusių su energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumo patikrinimais, 22 punkte, 23 punkte, išskyrus funkcijas, susijusias su energetikos objektų, įrenginių avarijų ir darbo sutrikimais, 24 punkte, pavesti vykdyti Tarybos administracijos valstybės tarnautojui. Taryba turi teisę panaikinti ar pakeisti Tarybos administracijos valstybės tarnautojo priimtus teisėtus sprendimus, susijusius su šioje dalyje nurodytų funkcijų, pavestų Tarybos administracijos valstybės tarnautojui, atlikimu. ^b02673450d5fec09706957a0
+12. Taryba turi teisę visas arba dalį savo funkcijų, nustatytų [[#^880246b81ed3b24d9b0686dc|šio straipsnio 11 dalies]] 21 ir 30 punktuose, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę dalį [[#^b9b45fd485cab8986215a4ae|šio straipsnio 11 dalies 71 punkte]] nustatytų Tarybos funkcijų, susijusių su energetikos veiklos leidimų keitimu, leidimų galiojimo sustabdymu ir galiojimo sustabdymo panaikinimu, pavesti vykdyti Tarybos pirmininkui arba Tarybos nariui. Taryba turi teisę visas arba dalį Tarybos funkcijų, nustatytų [[#^bc42d9f0c6a42fb429a30089|šio straipsnio 11 dalies 20 punkte]], susijusių su energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumo patikrinimais, 22 punkte, 23 punkte, išskyrus funkcijas, susijusias su energetikos objektų, įrenginių avarijų ir darbo sutrikimais, 24 punkte, pavesti vykdyti Tarybos administracijos valstybės tarnautojui. Taryba turi teisę panaikinti ar pakeisti Tarybos administracijos valstybės tarnautojo priimtus teisėtus sprendimus, susijusius su šioje dalyje nurodytų funkcijų, pavestų Tarybos administracijos valstybės tarnautojui, atlikimu. ^05287e05630717933a05d6fe
 Straipsnio dalies pakeitimai:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-13. Tarybos pirmininkas: ^71a45fe925f7f5e9911d3c3b
+13. Tarybos pirmininkas: ^2454defc90809b7d7e93ec74
 
 
-1) vadovauja Tarybos darbui; ^c448df786f1fb5a2fa235572
+1) vadovauja Tarybos darbui; ^8a8ae64b5782e00b1180838b
 
 
-2) atstovauja ir (arba) įgalioja Tarybos narius atstovauti Tarybai Lietuvos Respublikoje ir užsienyje; ^c10c667a9d06d325e081a7e3
+2) atstovauja ir (arba) įgalioja Tarybos narius atstovauti Tarybai Lietuvos Respublikoje ir užsienyje; ^29e153db0455143e2ebb172f
 
 
-3) tvirtina Tarybos pajamų ir išlaidų metines sąmatas; ^b9b3866baea8666f4a3e0fad
+3) tvirtina Tarybos pajamų ir išlaidų metines sąmatas; ^c8b1725fa872315db9bc12e7
 
 
-4) nustato Tarybos vidaus administravimo tvarką; ^61c94a3d4f4e98d4b8586062
+4) nustato Tarybos vidaus administravimo tvarką; ^42146cac3c618bdf8b86f892
 
 
-5) priima sprendimus dėl Tarybos nario nusišalinimo svarstant atitinkamus klausimus Tarybos posėdyje. ^703551bf96f8e1885d35101a
+5) priima sprendimus dėl Tarybos nario nusišalinimo svarstant atitinkamus klausimus Tarybos posėdyje. ^1c74d6fbf3c14ce15764f281
 
 
-14. Taryba, siekdama atlikti Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones patenkinti, patenkinti iš dalies arba atmesti. Prašymas išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pateikimo momento. Jeigu Taryba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones, ji turi teisę per 7 dienas nuo šios teismo nutarties priėmimo apskųsti ją Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl  teismo nutarties ne vėliau kaip per 7 dienas nuo Tarybos skundo priėmimo dienos. Tarybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo [[#36 straipsnis. Sankcijos ir jų taikymo tvarka|36 straipsnyje]] nustatytais atvejais Tarybai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos. ^fd9964f8b88a8c81209478ad
+14. Taryba, siekdama atlikti Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones patenkinti, patenkinti iš dalies arba atmesti. Prašymas išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones pateikimo momento. Jeigu Taryba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus ar taikyti laikinąsias apsaugos priemones, ji turi teisę per 7 dienas nuo šios teismo nutarties priėmimo apskųsti ją Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl  teismo nutarties ne vėliau kaip per 7 dienas nuo Tarybos skundo priėmimo dienos. Tarybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus ar taikyti laikinąsias apsaugos priemones išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo [[#36 straipsnis. Sankcijos ir jų taikymo tvarka|36 straipsnyje]] nustatytais atvejais Tarybai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos. ^2cc2b91bc326d5301fced640
 Straipsnio dalies pakeitimai:
 Nr. XIV-1587, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25148
 
 
 
-15. Tarybos strateginio veiklos plano projektas ir strateginis veiklos planas skelbiami viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami strateginio veiklos plano įgyvendinimo rezultatai, nurodomi veiksmai, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, pasiekti rezultatai, ir ją pateikia Respublikos Prezidentui, Seimui, Vyriausybei, o per šešis mėnesius šios ataskaitos dalis, skirtas gamtinių dujų ir elektros energetikos sektoriams, kaip nustatyta Gamtinių dujų įstatymo 7 straipsnio 2 dalies 5 punkte ir Direktyvos (ES) 2019/944 59 straipsnyje, – Europos Komisijai ir Europos Sąjungos Energetikos reguliavimo institucijų bendradarbiavimo agentūrai (ACER), veikiančiai pagal Reglamentą (ES) 2019/942, (toliau – Energetikos reguliavimo institucijų bendradarbiavimo agentūra). Veiklos ataskaitoje Taryba taip pat nurodo veiksmus, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, ir pasiektus rezultatus, atskiroje veiklos ataskaitos struktūrinėje dalyje nurodo pažangą, padarytą didinant energijos vartojimo efektyvumą, kiek tai susiję su elektros tinklų ir gamtinių dujų sistemų eksploatavimu, įvertina bendrą energijos vartojimo efektyvumą eksploatuojant elektros tinklus ir gamtinių dujų sistemas, nurodo perdavimo sistemos ir skirstomųjų tinklų operatorių įgyvendintas priemones ir, jeigu turi rekomendacijų, perdavimo sistemos ir skirstomųjų tinklų operatoriams pateikia energijos vartojimo efektyvumo didinimo rekomendacijas, įskaitant ekonomiškai efektyvias alternatyvas, kaip sumažinti maksimalias elektros tinklų ir gamtinių dujų sistemų apkrovas ir bendrą elektros energijos ir gamtinių dujų suvartojimą. Taryba ataskaitą paskelbia savo interneto svetainėje. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė. ^b8cc12a3989a84d1657db0dd
+15. Tarybos strateginio veiklos plano projektas ir strateginis veiklos planas skelbiami viešai teisės aktų nustatyta tvarka. Pasibaigus kalendoriniams metams, Taryba per keturis mėnesius parengia praėjusių metų veiklos ataskaitą, kurioje pateikiami strateginio veiklos plano įgyvendinimo rezultatai, nurodomi veiksmai, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, pasiekti rezultatai, ir ją pateikia Respublikos Prezidentui, Seimui, Vyriausybei, o per šešis mėnesius šios ataskaitos dalis, skirtas gamtinių dujų ir elektros energetikos sektoriams, kaip nustatyta Gamtinių dujų įstatymo 7 straipsnio 2 dalies 5 punkte ir Direktyvos (ES) 2019/944 59 straipsnyje, – Europos Komisijai ir Europos Sąjungos Energetikos reguliavimo institucijų bendradarbiavimo agentūrai (ACER), veikiančiai pagal Reglamentą (ES) 2019/942, (toliau – Energetikos reguliavimo institucijų bendradarbiavimo agentūra). Veiklos ataskaitoje Taryba taip pat nurodo veiksmus, kurių imtasi šiame įstatyme ir kituose įstatymuose Tarybai priskirtoms funkcijoms atlikti, ir pasiektus rezultatus, atskiroje veiklos ataskaitos struktūrinėje dalyje nurodo pažangą, padarytą didinant energijos vartojimo efektyvumą, kiek tai susiję su elektros tinklų ir gamtinių dujų sistemų eksploatavimu, įvertina bendrą energijos vartojimo efektyvumą eksploatuojant elektros tinklus ir gamtinių dujų sistemas, nurodo perdavimo sistemos ir skirstomųjų tinklų operatorių įgyvendintas priemones ir, jeigu turi rekomendacijų, perdavimo sistemos ir skirstomųjų tinklų operatoriams pateikia energijos vartojimo efektyvumo didinimo rekomendacijas, įskaitant ekonomiškai efektyvias alternatyvas, kaip sumažinti maksimalias elektros tinklų ir gamtinių dujų sistemų apkrovas ir bendrą elektros energijos ir gamtinių dujų suvartojimą. Taryba ataskaitą paskelbia savo interneto svetainėje. Tarybos finansinį ir veiklos auditą atlieka Lietuvos Respublikos valstybės kontrolė. ^44d7805d781a0044606466b0
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
@@ -1114,55 +1132,55 @@ Nr. XV-238, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11006
 
 
 
-16. Tarybos veiklą užtikrina Tarybos administracija. Tarybos administracijos struktūrą, administracijos padalinių nuostatus, pareigybių sąrašus ir pareigybių aprašymus tvirtina Tarybos pirmininkas. ^3ec1b05c50c309117911cc6d
+16. Tarybos veiklą užtikrina Tarybos administracija. Tarybos administracijos struktūrą, administracijos padalinių nuostatus, pareigybių sąrašus ir pareigybių aprašymus tvirtina Tarybos pirmininkas. ^be991a5a13e8111e04cb36dd
 
 
-17. Tarybos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų ir [[#^473fd51960b6971db879bf29|šio straipsnio 18 dalyje]] ir kituose įstatymuose numatytos Tarybos pajamos. Tarybos programos, įgyvendinamos siekiant šio įstatymo [[#3 straipsnis. Bendrieji energetikos veiklos tikslai|3 straipsnyje]] nustatytų tikslų ir vykdant energetikos sektoriaus reguliavimą ir valstybinę energetikos priežiūrą, finansuojamos iš Tarybos pajamų, gautų [[#^473fd51960b6971db879bf29|šio straipsnio 18 dalyje]] nustatyta tvarka. Kitoms įstatymų nustatytoms funkcijoms atlikti ar tais atvejais, kai [[#^473fd51960b6971db879bf29|šio straipsnio 18 dalyje]] nustatytų lėšų nepakanka energetikos sektoriaus reguliavimui ir valstybinei energetikos priežiūrai atlikti, Taryba gali būti finansuojama ir kitomis valstybės biudžeto lėšomis. ^bd5e8d82806e38c41027bcca
+17. Tarybos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų ir [[#^de99015adaa5dd261d5eb4e2|šio straipsnio 18 dalyje]] ir kituose įstatymuose numatytos Tarybos pajamos. Tarybos programos, įgyvendinamos siekiant šio įstatymo [[#3 straipsnis. Bendrieji energetikos veiklos tikslai|3 straipsnyje]] nustatytų tikslų ir vykdant energetikos sektoriaus reguliavimą ir valstybinę energetikos priežiūrą, finansuojamos iš Tarybos pajamų, gautų [[#^de99015adaa5dd261d5eb4e2|šio straipsnio 18 dalyje]] nustatyta tvarka. Kitoms įstatymų nustatytoms funkcijoms atlikti ar tais atvejais, kai [[#^de99015adaa5dd261d5eb4e2|šio straipsnio 18 dalyje]] nustatytų lėšų nepakanka energetikos sektoriaus reguliavimui ir valstybinei energetikos priežiūrai atlikti, Taryba gali būti finansuojama ir kitomis valstybės biudžeto lėšomis. ^09af0c01687e424b33031d94
 
 
-18. Tarybos pajamos ir jų naudojimo tvarka: ^473fd51960b6971db879bf29
+18. Tarybos pajamos ir jų naudojimo tvarka: ^de99015adaa5dd261d5eb4e2
 
 
-1) Tarybos kitų metų pajamos apskaičiuojamos pagal praėjusių metų atskirų energetikos sektorių energetikos įmonių veiklų, kurių kainos yra valstybės reguliuojamos, metines pajamas: 2,19 procento šilumos perdavimo veiklos pajamų, 0,59 procento elektros energijos perdavimo ir skirstymo pajamų bei Vyriausybės nutarimu patvirtintų Elektros energetikos įstatymo 74 straipsnio 2 dalies 2, 3 ir [[#^2b4feeabc8df54ca8d431979|4 punktuose]] nustatytas viešuosius interesus atitinkančias paslaugas teikiančių asmenų veiklų pajamų ir 1,37 procento gamtinių dujų skystinimo (pakartotinio dujinimo), perdavimo ir skirstymo veiklų pajamų; ^ef28966d5a59b9186ff65062
+1) Tarybos kitų metų pajamos apskaičiuojamos pagal praėjusių metų atskirų energetikos sektorių energetikos įmonių veiklų, kurių kainos yra valstybės reguliuojamos, metines pajamas: 2,19 procento šilumos perdavimo veiklos pajamų, 0,59 procento elektros energijos perdavimo ir skirstymo pajamų bei Vyriausybės nutarimu patvirtintų Elektros energetikos įstatymo 74 straipsnio 2 dalies 2, 3 ir [[#^8719514476b83e82741a7dcd|4 punktuose]] nustatytas viešuosius interesus atitinkančias paslaugas teikiančių asmenų veiklų pajamų ir 1,37 procento gamtinių dujų skystinimo (pakartotinio dujinimo), perdavimo ir skirstymo veiklų pajamų; ^76e382de5bb64fddcf80ed89
 Straipsnio punkto pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-2) [[#^ef28966d5a59b9186ff65062|šios dalies 1 punkte]] nustatyta tvarka apskaičiuotos Tarybos pajamos pripažįstamos energetikos įmonių pagrįstomis sąnaudomis nustatant [[#^ef28966d5a59b9186ff65062|šios dalies 1 punkte]] nurodytų veiklų kainas arba jų dalį; ^45f7110e077fc3e888b2def0
+2) [[#^76e382de5bb64fddcf80ed89|šios dalies 1 punkte]] nustatyta tvarka apskaičiuotos Tarybos pajamos pripažįstamos energetikos įmonių pagrįstomis sąnaudomis nustatant [[#^76e382de5bb64fddcf80ed89|šios dalies 1 punkte]] nurodytų veiklų kainas arba jų dalį; ^c3773a23f4fd61dee773595b
 
 
-3) energetikos įmonės, kurios verčiasi [[#^ef28966d5a59b9186ff65062|šios dalies 1 punkte]] nurodyta veikla, po ketvirtadalį [[#^ef28966d5a59b9186ff65062|šios dalies 1 punkte]] nustatyta tvarka apskaičiuotos sumos privalo pervesti į Tarybos sąskaitą kiekvieną kalendorinių metų ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio paskutinės dienos; ^e3c51f5fc50c281eae25c70b
+3) energetikos įmonės, kurios verčiasi [[#^76e382de5bb64fddcf80ed89|šios dalies 1 punkte]] nurodyta veikla, po ketvirtadalį [[#^76e382de5bb64fddcf80ed89|šios dalies 1 punkte]] nustatyta tvarka apskaičiuotos sumos privalo pervesti į Tarybos sąskaitą kiekvieną kalendorinių metų ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio paskutinės dienos; ^07631da0a395d07bfc59301f
 
 
-4) asmenims, laiku nesumokėjusiems šios dalies 1 ir [[#^f13687c1bf38594cb6ba6e33|6 punktuose]] nustatyta tvarka apskaičiuotos sumos (įmokos), skaičiuojami 0,05 procento dydžio delspinigiai už kiekvieną mokėjimo termino praleidimo dieną; delspinigiai nepripažįstami asmenų pagrįstomis sąnaudomis; delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą sumą (įmoką); ^2b4feeabc8df54ca8d431979
+4) asmenims, laiku nesumokėjusiems šios dalies 1 ir [[#^de56aa170d1f4128a526a91e|6 punktuose]] nustatyta tvarka apskaičiuotos sumos (įmokos), skaičiuojami 0,05 procento dydžio delspinigiai už kiekvieną mokėjimo termino praleidimo dieną; delspinigiai nepripažįstami asmenų pagrįstomis sąnaudomis; delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą sumą (įmoką); ^8719514476b83e82741a7dcd
 Straipsnio punkto pakeitimai:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-5) Tarybos pajamomis taip pat laikomos pajamos, gautos už suinteresuotų asmenų prašymu teikiamą energetikos įrenginių techninės būklės patikrinimo ir pažymų apie energetikos įrenginių techninę būklę išdavimo paslaugą; paslaugos kainas ir mokėjimo tvarką, atsižvelgdama į paslaugos teikimo sąnaudas, nustato Taryba; ^de830d020cb080bce5b75a52
+5) Tarybos pajamomis taip pat laikomos pajamos, gautos už suinteresuotų asmenų prašymu teikiamą energetikos įrenginių techninės būklės patikrinimo ir pažymų apie energetikos įrenginių techninę būklę išdavimo paslaugą; paslaugos kainas ir mokėjimo tvarką, atsižvelgdama į paslaugos teikimo sąnaudas, nustato Taryba; ^2a339a671d09e57e96a382ee
 
 
-6) pajamos, gautos už Tarybos atliekamus darbus ir teikiamas paslaugas, susijusias su energetikos įmonių, turinčių leidimą prekiauti naftos produktais ir (ar) leidimą prekiauti suskystintomis naftos dujomis, reguliuojamosios veiklos priežiūra. Įmokų už Tarybos atliekamus darbus ir teikiamas paslaugas, susijusias su energetikos įmonių, turinčių leidimą prekiauti naftos produktais ir (ar) leidimą prekiauti suskystintomis naftos dujomis, reguliuojamosios veiklos priežiūra, dydžius ir mokėjimo tvarką nustato Taryba, pagrįsdama Tarybos sąnaudomis; ^f13687c1bf38594cb6ba6e33
+6) pajamos, gautos už Tarybos atliekamus darbus ir teikiamas paslaugas, susijusias su energetikos įmonių, turinčių leidimą prekiauti naftos produktais ir (ar) leidimą prekiauti suskystintomis naftos dujomis, reguliuojamosios veiklos priežiūra. Įmokų už Tarybos atliekamus darbus ir teikiamas paslaugas, susijusias su energetikos įmonių, turinčių leidimą prekiauti naftos produktais ir (ar) leidimą prekiauti suskystintomis naftos dujomis, reguliuojamosios veiklos priežiūra, dydžius ir mokėjimo tvarką nustato Taryba, pagrįsdama Tarybos sąnaudomis; ^de56aa170d1f4128a526a91e
 Papildyta straipsnio punktu:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-7) Taryba pagal šią dalį gautas pajamas privalo įmokėti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka; ^734da44b4d5228cc0cdf52f5
+7) Taryba pagal šią dalį gautas pajamas privalo įmokėti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka; ^0a94ea47d94d8347c43f0f3f
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-8) Tarybos pajamos, gautos pagal šią dalį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Tarybos strateginiame veiklos plane numatytoms ir vykdomoms programoms finansuoti. ^84a95df15c9bcf51e7eade05
+8) Tarybos pajamos, gautos pagal šią dalį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Tarybos strateginiame veiklos plane numatytoms ir vykdomoms programoms finansuoti. ^6f99b503655a60ea9175ff69
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-19. Taryba, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, vadovaujasi Lietuvos Respublikos ir Europos Sąjungos teisės aktais, taip pat laikosi visų teisiškai privalomų Energetikos reguliavimo institucijų bendradarbiavimo agentūros ir Europos Komisijos sprendimų ir juos įgyvendina. Tarybos vykdomų konsultacijų ir nacionalinio bei tarptautinio bendradarbiavimo principus nustato šio įstatymo [[#26 straipsnis. Konsultacijos ir bendradarbiavimas|26 straipsnis]] ir atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nuostatos. ^edabb6d3c0fa8dec50354da0
+19. Taryba, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, vadovaujasi Lietuvos Respublikos ir Europos Sąjungos teisės aktais, taip pat laikosi visų teisiškai privalomų Energetikos reguliavimo institucijų bendradarbiavimo agentūros ir Europos Komisijos sprendimų ir juos įgyvendina. Tarybos vykdomų konsultacijų ir nacionalinio bei tarptautinio bendradarbiavimo principus nustato šio įstatymo [[#26 straipsnis. Konsultacijos ir bendradarbiavimas|26 straipsnis]] ir atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nuostatos. ^553a599dcfe60c84391e1f0b
 Straipsnio pakeitimai:
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 Straipsnio dalies pakeitimai:
@@ -1213,110 +1231,111 @@ Straipsnio dalies pakeitimai:
 Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
 
 
-1) pagal įstatymuose nustatytą kompetenciją organizuoja vartotojų aprūpinimą šilumos energija; ^db88fd287350b4acc6429a5b
+1) pagal įstatymuose nustatytą kompetenciją organizuoja vartotojų aprūpinimą šilumos energija; ^243c2b819047aea003f36521
 
 
-2) neteko galios 2019-07-02; ^c797a6320674c058861880e6
+2) neteko galios 2019-07-02; ^4f964cfc1ba605b9650a5d23
 Straipsnio punkto pakeitimai:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-3) Neteko galios nuo 2023-01-01 ^90540d8bd620f3e110aa4ec5
+3) Neteko galios nuo 2023-01-01 ^314574d994188a1a069d173f
 Straipsnio punkto naikinimas:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
 
 
 
-4) paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendina Vyriausybės ar jos įgaliotos institucijos patvirtintame vartotojų aprūpinimo energija ir (ar) energijos ištekliais tvarkos apraše nustatytas funkcijas ir atlieka kituose ekstremaliųjų situacijų valdymą reglamentuojančiuose teisės aktuose nustatytus veiksmus, užtikrina kitų Vyriausybės ar jos įgaliotos institucijos sprendimų įgyvendinimą; ^1c38dd891e5fc8a4f808d46a
+4) paskelbus valstybės lygio ekstremaliąją situaciją energetikos sektoriuje, įgyvendina Vyriausybės ar jos įgaliotos institucijos patvirtintame vartotojų aprūpinimo energija ir (ar) energijos ištekliais paskelbus ekstremaliąją situaciją energetikos sektoriuje tvarkos apraše nustatytas funkcijas ir atlieka kituose krizių ir ekstremaliųjų situacijų valdymą reglamentuojančiuose teisės aktuose nustatytus veiksmus, užtikrina kitų Vyriausybės ar jos įgaliotos institucijos sprendimų įgyvendinimą; ^83e94542128e842be1971efe
 Straipsnio punkto pakeitimai:
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
 
 
 
-5) dalyvauja atliekant taikomuosius mokslo tiriamuosius darbus, rengiant visuomenės informavimo ir švietimo priemones, skatinančias efektyviai vartoti energiją ir energijos išteklius; ^b6a72a56aace49db97444640
+5) dalyvauja atliekant taikomuosius mokslo tiriamuosius darbus, rengiant visuomenės informavimo ir švietimo priemones, skatinančias efektyviai vartoti energiją ir energijos išteklius; ^439928954c603b651e404f62
 
 
-6) pagal kompetenciją įgyvendina energijos efektyvumo didinimo priemones. ^eb65b7d1560d3ae22e6f7ff4
+6) pagal kompetenciją įgyvendina energijos efektyvumo didinimo priemones. ^e73c03cc4c753f4f001ce42c
 
 
 
 ### 131 straipsnis. Lietuvos energetikos agentūra
 
 
-1. Lietuvos energetikos agentūra yra viešoji įstaiga, kurios vienintelė savininkė yra valstybė. Lietuvos energetikos agentūra atlieka šias funkcijas: ^b1bd23e3323728158ed3677c
+1. Lietuvos energetikos agentūra yra viešoji įstaiga, kurios vienintelė savininkė yra valstybė. Lietuvos energetikos agentūra atlieka šias funkcijas: ^92f6523bd1cf22c01c4f4a95
 
 
-1) padeda Energetikos ministerijai koordinuoti energetikos politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų įgyvendinimą ir vykdo jų įgyvendinimo stebėseną; ^5a1b771e357fb77bad8e60bb
+1) padeda Energetikos ministerijai koordinuoti energetikos politikos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų įgyvendinimą ir vykdo jų įgyvendinimo stebėseną; ^a96de450b0050c0f1b455a14
 Straipsnio punkto pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka renka, kaupia ir sistemina energetikos sektoriaus duomenis, jų pagrindu rengia ir teikia Energetikos ministerijai energetikos sektoriaus analizę; ^01f01668e87cb7ce8c2daf9a
+2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka renka, kaupia ir sistemina energetikos sektoriaus duomenis, jų pagrindu rengia ir teikia Energetikos ministerijai energetikos sektoriaus analizę; ^a0d34fe0cc4f0fd2a455d3e1
 
 
-3) atlieka bendrovių, kuriose Energetikos ministerija įgyvendina valstybės, kaip juridinio asmens dalyvės, teises ir pareigas, ir kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, priklauso valstybei nuosavybės teise, ir jų dukterinių įmonių veiklos ir jos rezultatų analizę ir pagal kompetenciją teikia pasiūlymus Energetikos ministerijai; ^e465d44c1d6d2c6ba85bef7c
+3) atlieka bendrovių, kuriose Energetikos ministerija įgyvendina valstybės, kaip juridinio asmens dalyvės, teises ir pareigas, ir kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, priklauso valstybei nuosavybės teise, ir jų dukterinių įmonių veiklos ir jos rezultatų analizę ir pagal kompetenciją teikia pasiūlymus Energetikos ministerijai; ^8668c2954582697d7f97d31c
 
 
-4) pagal kompetenciją teikia Energetikos ministerijai pasiūlymus, susijusius su moksliniais tyrimais ir eksperimentine plėtra energetikos ir tvarios aplinkos sektoriuje; ^384783ecffa270cce3e80f05
+4) pagal kompetenciją teikia Energetikos ministerijai pasiūlymus, susijusius su moksliniais tyrimais ir eksperimentine plėtra energetikos ir tvarios aplinkos sektoriuje; ^f6c941ad222d0502fd9343f9
 
 
-5) organizuoja šio įstatymo [[#28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas|28 straipsnyje]] nurodytų energijos vartojimo auditą atliekančių specialistų atestavimą; ^a6efd244a381c68ed4c638b3
+5) organizuoja šio įstatymo [[#28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas|28 straipsnyje]] nurodytų energijos vartojimo auditą atliekančių specialistų atestavimą; ^904d9b60866bd88946929662
 
 
-6) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka vykdo atsinaujinančių išteklių energijos gamybos įrenginius projektuojančių ir (ar) montuojančių specialistų rengimo atestacijai proceso administravimą; ^ad9b88609aef60c0d8d0fbff
+6) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka vykdo atsinaujinančių išteklių energijos gamybos įrenginius projektuojančių ir (ar) montuojančių specialistų rengimo atestacijai proceso administravimą; ^c670fe10e9eeb9c5798116eb
 Straipsnio punkto pakeitimai:
 Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
 
 
 
-7) vykdo Energetikos ministerijos, energetikos įmonių ir energijos tiekėjų susitarimų dėl energijos sutaupymo, sudarytų Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo nustatyta tvarka, įgyvendinimo priežiūrą; ^423225e1475f479c0c063156
+7) vykdo Energetikos ministerijos, energetikos įmonių ir energijos tiekėjų susitarimų dėl energijos sutaupymo, sudarytų Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo nustatyta tvarka, įgyvendinimo priežiūrą; ^34bcfd6b185c19c5152d63e3
 
 
-8) teikia Energetikos ministerijai energijos vartojimo efektyvumo didinimo veiksmų plano projektą, vertina ir analizuoja valstybės institucijų, įstaigų ir energetikos įmonių pateiktus duomenis apie įdiegtų energijos vartojimo efektyvumą didinančių efektyvumo priemonių sutaupytą energiją, jų pagrindu rengia ataskaitas ir jas teikia Energetikos ministerijai; ^00c95d7ba1dea8e469382967
+8) teikia Energetikos ministerijai energijos vartojimo efektyvumo didinimo veiksmų plano projektą, vertina ir analizuoja valstybės institucijų, įstaigų ir energetikos įmonių pateiktus duomenis apie įdiegtų energijos vartojimo efektyvumą didinančių efektyvumo priemonių sutaupytą energiją, jų pagrindu rengia ataskaitas ir jas teikia Energetikos ministerijai; ^cfe69d9dd0dab71338a0337f
 
 
-9) vykdo efektyvaus energijos išteklių ir energijos vartojimo, atsinaujinančių išteklių energijos vartojimo skatinimo ir su tuo susijusius viešinimo darbus; ^efe4e5f2a17d607d5e146191
+9) vykdo efektyvaus energijos išteklių ir energijos vartojimo, atsinaujinančių išteklių energijos vartojimo skatinimo ir su tuo susijusius viešinimo darbus; ^0bad8e3adddf01bcd1e7c637
 
 
-10) rengia pažangos skatinant ir naudojant atsinaujinančius energijos išteklius ataskaitas ir jas teikia Energetikos ministerijai; ^8225ab295d10beee01c61bdb
+10) rengia pažangos skatinant ir naudojant atsinaujinančius energijos išteklius ataskaitas ir jas teikia Energetikos ministerijai; ^c2178bd677d05d7731d98612
 
 
-11) atlieka atsinaujinančių išteklių energijos panaudojimo transporto sektoriuje įgyvendinimo stebėseną; ^5b8047bbcdba19c028869c9a
+11) atlieka atsinaujinančių išteklių energijos panaudojimo transporto sektoriuje įgyvendinimo stebėseną; ^ab1652c01ce55552a9763b31
 
 
-12) neteko galios 2020-06-01; ^b2a59908fc2e0f3a7d62c5d8
+12) neteko galios 2020-06-01; ^29a75cf164d28570b545d12b
 Straipsnio punkto pakeitimai:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-13) kaupia ir tvarko naftos produktų ir naftos valstybės atsargas; ^a6e0a124846fe08e186630b4
+13) kaupia ir tvarko naftos produktų ir naftos valstybės atsargas; ^3c18c11fd0080982f35304b8
 
 
-14) Neteko galios nuo 2020-12-01 ^29b742720dfea42bb4c24b1d
+14) Neteko galios nuo 2020-12-01 ^05ef0e8e73285b4f9eaa820f
 Straipsnio punkto naikinimas:
 Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
 
 
 
-15) administruoja ir (ar) įgyvendina priemones, įskaitant finansinės paskatos priemones, kuriomis didinamas energijos vartojimo efektyvumas ir saugumas, vystoma atsinaujinančių energijos išteklių energetikos plėtra; ^470cab904a5a5937e7106566
+15) administruoja ir (ar) įgyvendina priemones, įskaitant finansinės paskatos priemones, kuriomis didinamas energijos vartojimo efektyvumas ir saugumas, vystoma atsinaujinančių energijos išteklių energetikos plėtra; ^d92986120ba7f50dbf609bb1
 Papildyta straipsnio punktu:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-16) atlieka kituose įstatymuose jai nustatytas funkcijas. ^733363351b6da8c7589e1692
+16) atlieka kituose įstatymuose jai nustatytas funkcijas. ^c18428459b23be5d5d53f3ff
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-2. Lietuvos energetikos agentūros veikla atliekant [[#^b1bd23e3323728158ed3677c|šio straipsnio 1 dalyje]] ir kituose įstatymuose jai nustatytas funkcijas finansuojama iš valstybės biudžeto asignavimų ir (ar) kitų lėšų. ^26e4bc9b5d8020ab43713a12
+2. Lietuvos energetikos agentūros veikla atliekant [[#^92f6523bd1cf22c01c4f4a95|šio straipsnio 1 dalyje]] ir kituose įstatymuose jai nustatytas funkcijas finansuojama iš valstybės biudžeto asignavimų ir (ar) kitų lėšų. ^9eed90c9874c44291b6fba1c
 
 
-3. Skiriant asmenį į Lietuvos energetikos agentūros vadovo ar jo pavaduotojo pareigas, mutatis mutandis taikomos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo [[#17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis|17 straipsnio]] nuostatos. ^cc053410bc8622de66bc2fa3
+3. Skiriant asmenį į Lietuvos energetikos agentūros vadovo ar jo pavaduotojo pareigas, mutatis mutandis taikomos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo [[#17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis|17 straipsnio]] nuostatos. ^fccb68107376899797ce5970
 
 
 Papildyta straipsniu:
@@ -1332,64 +1351,64 @@ ENERGETIKOS SEKTORIAUS PLĖTRA
 ### 14 straipsnis. Energetikos politikos formavimas ir įgyvendinimas
 
 
-1. Valstybės pažangos strategijoje nustatomos energetikos politikos vystymosi kryptys, Nacionaliniame pažangos plane nustatomi energetikos politikos strateginiai tikslai ir (arba) pažangos uždaviniai, o šiuos uždavinius įgyvendinančiose nacionalinėse plėtros programose – priemonės. ^463964ef7859f350eb8b2ad1
+1. Valstybės pažangos strategijoje nustatomos energetikos politikos vystymosi kryptys, Nacionaliniame pažangos plane nustatomi energetikos politikos strateginiai tikslai ir (arba) pažangos uždaviniai, o šiuos uždavinius įgyvendinančiose nacionalinėse plėtros programose – priemonės. ^4e63fdeb358abc74cdce2670
 
 
-2. Energetikos politikos nacionalinėse plėtros programose turi būti numatyta: ^e8a7ae7a95072635d3a757cc
+2. Energetikos politikos nacionalinėse plėtros programose turi būti numatyta: ^2fc980ae3d88c644ebfa171f
 
 
-1) valstybės energetinės nepriklausomybės ir energetikos saugumo priemonės; ^89a21605d6b48ee7c82c71c5
+1) valstybės energetinės nepriklausomybės ir energetikos saugumo priemonės; ^f38f53bb30477cafd1da254a
 
 
-2) energijos ar energijos išteklių poreikių, importo, eksporto prognozės; ^ba30d3af11851d01c0f1a194
+2) energijos ar energijos išteklių poreikių, importo, eksporto prognozės; ^71aef2e7692b5715319fc179
 
 
-3) energijos gamybos pajėgumų poreikis; ^8a75e5370ab63dcf7b0f2ffa
+3) energijos gamybos pajėgumų poreikis; ^cdfb629bc958165ebbe5d95e
 
 
-4) energetikos sektoriaus struktūros tobulinimo priemonės; ^358b1f551a2518006b24dd12
+4) energetikos sektoriaus struktūros tobulinimo priemonės; ^0911a501a62e6539cb6c0b9c
 
 
-5) energijos išteklių vartojimo struktūra ir jos prognozės; ^b9b1516d64886f9168e2884b
+5) energijos išteklių vartojimo struktūra ir jos prognozės; ^d1a39b15c1d325e9a99f5f01
 
 
-6) energetikos žalingo poveikio aplinkai mažinimo priemonės; ^0dc1ccc2f37a72f94372a644
+6) energetikos žalingo poveikio aplinkai mažinimo priemonės; ^1eb8349fdce8e45fa04b2ef1
 
 
-7) atsinaujinančių ir vietinių energijos išteklių vartojimo plėtra; ^ea2dffec125e5594fd191c98
+7) atsinaujinančių ir vietinių energijos išteklių vartojimo plėtra; ^38846a1ae9ce80574e66486b
 
 
-8) energijos vartojimo efektyvumo priemonės; ^208ba353c7e88f0f3f2d64e4
+8) energijos vartojimo efektyvumo priemonės; ^d426d865221fa09deec58b0d
 
 
-9) reikalingos investicijos į energetikos sektorių; ^33464115de4a6bbc5c4cfdc0
+9) reikalingos investicijos į energetikos sektorių; ^97a4b46144e2d363702fe26b
 
 
-10) energijos išteklių atsargų įvertinimas ir sudarymas; ^463770e1ede45c1e35103e21
+10) energijos išteklių atsargų įvertinimas ir sudarymas; ^b4e1cd63a4642694b773e8e0
 
 
-11) energijos rinkų plėtros priemonės; ^104db3dd1522d80dc1706207
+11) energijos rinkų plėtros priemonės; ^af7111996e5207e51fa96a76
 
 
-12) energetikos valdymo tobulinimo gairės; ^c7a9de193ef0f3f65b070e82
+12) energetikos valdymo tobulinimo gairės; ^b7dd91849f658bf2b2e36500
 
 
-13) energijos kainodaros tobulinimo gairės; ^f51ec5af80683a6e56188e8a
+13) energijos kainodaros tobulinimo gairės; ^bf8068de4803a351e6a6cc10
 
 
-14) energetikos infrastuktūros plėtros gairės ir priemonės; ^4b180173afa9d1940fa5d2ff
+14) energetikos infrastuktūros plėtros gairės ir priemonės; ^ccdc1301ff9ff3642fb7d464
 Papildyta straipsnio punktu:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-15) kiti su energetikos plėtra susiję klausimai. ^f384bad268244fbd9db3b518
+15) kiti su energetikos plėtra susiję klausimai. ^a1d49cc9d5b8afa9c7da1412
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-3. Energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, jų priemones ir jas įgyvendinančius projektus pagal kompetenciją įgyvendina valstybės ir savivaldybių institucijos, įstaigos, įmonės, organizacijos ir kiti energetikos politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose nurodyti asmenys. ^57f936c010382b511c093fd9
+3. Energetikos politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, jų priemones ir jas įgyvendinančius projektus pagal kompetenciją įgyvendina valstybės ir savivaldybių institucijos, įstaigos, įmonės, organizacijos ir kiti energetikos politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose nurodyti asmenys. ^2bf6806a2ab59c7819650c82
 
 
 Straipsnio pakeitimai:
@@ -1400,29 +1419,29 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 ### 15 straipsnis. Energetikos objektų, įrenginių statyba, plėtra ir rekonstrukcija
 
 
-1. Energetikos objektai statomi Lietuvos Respublikos statybos įstatymo, Lietuvos Respublikos teritorijų planavimo įstatymo, Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka. Valstybinės svarbos energetikos objektai plėtojami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Planuojami valstybinės svarbos energetikos objektai turi subalansuoti Lietuvos Respublikos energetikos sektoriaus plėtrą, iki teritorijų planavimo dokumentų rengimo pradžios parengiant šių objektų plėtros projektus. Vartotojų aprūpinimo energija ir energijos ištekliais bendrieji ar specialieji planai rengiami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Vartotojų energetikos įrenginiai įrengiami Energetikos ministerijos nustatyta tvarka. ^d99844dfa4137d51bcb4f7cb
+1. Energetikos objektai statomi Lietuvos Respublikos statybos įstatymo, Lietuvos Respublikos teritorijų planavimo įstatymo, Lietuvos Respublikos aplinkos apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka. Valstybinės svarbos energetikos objektai plėtojami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Planuojami valstybinės svarbos energetikos objektai turi subalansuoti Lietuvos Respublikos energetikos sektoriaus plėtrą, iki teritorijų planavimo dokumentų rengimo pradžios parengiant šių objektų plėtros projektus. Vartotojų aprūpinimo energija ir energijos ištekliais bendrieji ar specialieji planai rengiami atsižvelgiant į Nacionaliniame pažangos plane nustatytus energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius. Vartotojų energetikos įrenginiai įrengiami Energetikos ministerijos nustatyta tvarka. ^67b89ad544fe3b32306a417f
 Straipsnio dalies pakeitimai:
 Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2. Energetikos įmonės dalyvauja rengiant ir plėtojant subalansuoto, efektyvaus energijos tiekimo, skirstymo, perdavimo planus, taip pat planuoja valstybinės svarbos energetikos objektų plėtrą. Energetikos įmonės, perduodančios, skirstančios energiją, plėtoja energijos perdavimo, skirstymo įrenginius savo veiklos teritorijoje. ^a0f43fc000d157bcf30cc751
+2. Energetikos įmonės dalyvauja rengiant ir plėtojant subalansuoto, efektyvaus energijos tiekimo, skirstymo, perdavimo planus, taip pat planuoja valstybinės svarbos energetikos objektų plėtrą. Energetikos įmonės, perduodančios, skirstančios energiją, plėtoja energijos perdavimo, skirstymo įrenginius savo veiklos teritorijoje. ^9c3ce13b807d5512bbdda4cd
 
 
-3. Energetikos įmonės, kurios verčiasi veikla, kurios kainos yra reguliuojamos, numatomas investicijas turi derinti su Taryba. Jeigu šios energetikos įmonių investicijos nėra suderintos su Taryba, jos negali būti pripažintos pagrįstomis valstybės reguliuojamoms kainoms peržiūrėti. ^74dcda41ed45089809daf09d
+3. Energetikos įmonės, kurios verčiasi veikla, kurios kainos yra reguliuojamos, numatomas investicijas turi derinti su Taryba. Jeigu šios energetikos įmonių investicijos nėra suderintos su Taryba, jos negali būti pripažintos pagrįstomis valstybės reguliuojamoms kainoms peržiūrėti. ^efd578d1a14a6390e08fcf4a
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-4. Vartotojo, gamintojo ar kito asmens pageidaujami rekonstruoti ar perkelti energetikos įmonei priklausantys energetikos objektai, kliudantys statinių statybai ar dėl kitų priežasčių, yra rekonstruojami ar perkeliami vartotojo, gamintojo ar kito asmens ir energetikos įmonės susitarimu teisės aktų nustatyta tvarka ir sąlygomis. Vartotojas, gamintojas ar kitas asmuo, kurio prašymu energetikos objektas yra rekonstruojamas ar perkeliamas, apmoka energetikos objekto rekonstravimo ar perkėlimo išlaidas. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti numatytos specialiosios energetikos objektų rekonstravimo ar perkėlimo išlaidų apmokėjimo sąlygos. Perkeltų ar rekonstruotų energetikos objektų nuosavybė nekeičiama. ^4aa87fbc8d91787081ec46d0
+4. Vartotojo, gamintojo ar kito asmens pageidaujami rekonstruoti ar perkelti energetikos įmonei priklausantys energetikos objektai, kliudantys statinių statybai ar dėl kitų priežasčių, yra rekonstruojami ar perkeliami vartotojo, gamintojo ar kito asmens ir energetikos įmonės susitarimu teisės aktų nustatyta tvarka ir sąlygomis. Vartotojas, gamintojas ar kitas asmuo, kurio prašymu energetikos objektas yra rekonstruojamas ar perkeliamas, apmoka energetikos objekto rekonstravimo ar perkėlimo išlaidas. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti numatytos specialiosios energetikos objektų rekonstravimo ar perkėlimo išlaidų apmokėjimo sąlygos. Perkeltų ar rekonstruotų energetikos objektų nuosavybė nekeičiama. ^769443746b80c95137bdb03b
 Straipsnio dalies pakeitimai:
 Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
 
 
 
-5. Neteko galios nuo 2025-07-14 ^2f840bf85f3ae9afed898f9d
+5. Neteko galios nuo 2025-07-14 ^251b7f9fc3ca7c6d9ba31b18
 Straipsnio dalies naikinimas:
 Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
 Papildyta straipsnio dalimi:
@@ -1433,45 +1452,45 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 ### 16 straipsnis. Energetikos veikla
 
 
-1. Energetikos įmonės vykdo veiklą taip, kad užtikrintų saugią, efektyvią, aplinką tausojančią energijos gamybą, energijos tiekimą, perdavimą, skirstymą iki perdavimo ar skirstymo sistemos sujungimo su vartotojo sistema vietos, neviršydamos nustatytų valstybės reguliuojamų kainų. Energetikos įmonės, tiekiančios šilumą daugiabučiams namams, šilumą tiekia namams ir (ar) butams, jeigu vartotojai nepageidauja kitaip. ^3c92451afa1bde71048ec08c
+1. Energetikos įmonės vykdo veiklą taip, kad užtikrintų saugią, efektyvią, aplinką tausojančią energijos gamybą, energijos tiekimą, perdavimą, skirstymą iki perdavimo ar skirstymo sistemos sujungimo su vartotojo sistema vietos, neviršydamos nustatytų valstybės reguliuojamų kainų. Energetikos įmonės, tiekiančios šilumą daugiabučiams namams, šilumą tiekia namams ir (ar) butams, jeigu vartotojai nepageidauja kitaip. ^9d744c3c40435d74afa3e29a
 
 
-2. Energetikos įmonės perduoda, skirsto, tiekia energiją vartotojams pagal energijos perdavimo, skirstymo, tiekimo ir vartojimo taisykles. Energetikos įmonės teisės aktų nustatyta tvarka turi teisę sustabdyti vartotojų aprūpinimą energija tik įstatymų nustatytais atvejais. ^ee10202ba1aa6d6aebf0965f
+2. Energetikos įmonės perduoda, skirsto, tiekia energiją vartotojams pagal energijos perdavimo, skirstymo, tiekimo ir vartojimo taisykles. Energetikos įmonės teisės aktų nustatyta tvarka turi teisę sustabdyti vartotojų aprūpinimą energija tik įstatymų nustatytais atvejais. ^7a04c26f8b4c7735a33ce243
 
 
-3. Energetikos įmonės savo veiklos teritorijoje nustatyta tvarka prijungia energijos gamintojų, energijos kaupimo įrenginių savininkų, vartotojų atitinkamai energiją gaminančius, kaupiančius ir (ar) naudojančius įrenginius prie veikiančių energijos perdavimo ar skirstymo tinklų ar sistemų. Prijungimo išlaidas pagal nustatytus įkainius, Tarybos nustatyta tvarka įvertinus būtinas prijungimo sąnaudas, padengia gamintojai, energijos kaupimo įrenginių savininkai ir (ar) vartotojai, jeigu įstatymuose nenustatytas išlaidų paskirstymas tarp tinklų (sistemų) operatoriaus ir gamintojo, energijos kaupimo įrenginių savininko ar vartotojo. Prijungimo darbai atliekami pagal energetikos įmonės, energijos kaupimo įrenginių savininko ir energijos gamintojo ar vartotojo privalomai sudaromą įrenginių prijungimo paslaugos sutartį. ^4efaa1acd82043b4e1ee637a
+3. Energetikos įmonės savo veiklos teritorijoje nustatyta tvarka prijungia energijos gamintojų, energijos kaupimo įrenginių savininkų, vartotojų atitinkamai energiją gaminančius, kaupiančius ir (ar) naudojančius įrenginius prie veikiančių energijos perdavimo ar skirstymo tinklų ar sistemų. Prijungimo išlaidas pagal nustatytus įkainius, Tarybos nustatyta tvarka įvertinus būtinas prijungimo sąnaudas, padengia gamintojai, energijos kaupimo įrenginių savininkai ir (ar) vartotojai, jeigu įstatymuose nenustatytas išlaidų paskirstymas tarp tinklų (sistemų) operatoriaus ir gamintojo, energijos kaupimo įrenginių savininko ar vartotojo. Prijungimo darbai atliekami pagal energetikos įmonės, energijos kaupimo įrenginių savininko ir energijos gamintojo ar vartotojo privalomai sudaromą įrenginių prijungimo paslaugos sutartį. ^cb3bc63a479b1f5fdb108db7
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-4. Energetikos įmonės, nuosavybės teise ar kitais teisėtais pagrindais valdančios energijos perdavimo ar skirstymo tinklus ar sistemas, teisės aktų nustatyta tvarka privalo trečiajam asmeniui teikti energijos perdavimo ar skirstymo paslaugas objektyviomis, nediskriminuojančiomis sąlygomis, atsižvelgdamos į technines perdavimo ir skirstymo tinklų ir (ar) sistemų galimybes. ^5a30689f6a8b54fd773fcb1f
+4. Energetikos įmonės, nuosavybės teise ar kitais teisėtais pagrindais valdančios energijos perdavimo ar skirstymo tinklus ar sistemas, teisės aktų nustatyta tvarka privalo trečiajam asmeniui teikti energijos perdavimo ar skirstymo paslaugas objektyviomis, nediskriminuojančiomis sąlygomis, atsižvelgdamos į technines perdavimo ir skirstymo tinklų ir (ar) sistemų galimybes. ^9ae2922cb16bf99a9f79a73c
 
 
-5. Energetikos įmonės, nuosavybės teise ar kitais teisėtais pagrindais valdančios bendroje energetikos sistemoje veikiančius energetikos objektus, privalo bendradarbiauti ir dirbti bendru suderintu režimu ir vykdyti tinklų (sistemos) operatoriaus nurodymus. Operatorius paskiriamas išduodant licenciją teisės aktų nustatyta tvarka ir sąlygomis. ^3a079b083470bc47dbd43cba
+5. Energetikos įmonės, nuosavybės teise ar kitais teisėtais pagrindais valdančios bendroje energetikos sistemoje veikiančius energetikos objektus, privalo bendradarbiauti ir dirbti bendru suderintu režimu ir vykdyti tinklų (sistemos) operatoriaus nurodymus. Operatorius paskiriamas išduodant licenciją teisės aktų nustatyta tvarka ir sąlygomis. ^f81017c07d71aa471e3a46f1
 
 
-6. Energetikos įmonių tarpusavio santykiai, taip pat santykiai su energijos vartotojais grindžiami sutartimis. Energijos perdavimo ir skirstymo paslaugų sutartys, taip pat su buitiniais vartotojais sudaromos energijos pirkimo–pardavimo sutartys yra viešosios sutartys. Energijos perdavimo ir skirstymo, taip pat energijos tiekimo paslaugos buitiniams vartotojams teikiamos sudarius atitinkamą sutartį pagal Vyriausybės ar jos įgaliotos institucijos patvirtintas standartines sąlygas. Reikalavimai dėl atskirų rūšių energijos tiekimo sutarčių sudarymo nustatomi atskirų energetikos sektorių veiklos teisinius pagrindus reglamentuojančiuose įstatymuose. ^fceab507e2327cd349ffb7bd
+6. Energetikos įmonių tarpusavio santykiai, taip pat santykiai su energijos vartotojais grindžiami sutartimis. Energijos perdavimo ir skirstymo paslaugų sutartys, taip pat su buitiniais vartotojais sudaromos energijos pirkimo–pardavimo sutartys yra viešosios sutartys. Energijos perdavimo ir skirstymo, taip pat energijos tiekimo paslaugos buitiniams vartotojams teikiamos sudarius atitinkamą sutartį pagal Vyriausybės ar jos įgaliotos institucijos patvirtintas standartines sąlygas. Reikalavimai dėl atskirų rūšių energijos tiekimo sutarčių sudarymo nustatomi atskirų energetikos sektorių veiklos teisinius pagrindus reglamentuojančiuose įstatymuose. ^51287032bfd782675e90e156
 
 
-7. Energetikos įmonės, perduodančios ir (ar) skirstančios energiją, nustatyta tvarka turi teisę tikrinti, ar vartotojų energetikos įrenginiai atitinka nustatytus įrengimo, eksploatavimo, naudojimo ir techninės saugos reikalavimus. ^281a8bfa4c2ab6cd11c3e8d6
+7. Energetikos įmonės, perduodančios ir (ar) skirstančios energiją, nustatyta tvarka turi teisę tikrinti, ar vartotojų energetikos įrenginiai atitinka nustatytus įrengimo, eksploatavimo, naudojimo ir techninės saugos reikalavimus. ^71aaadf58af368f348efd39a
 
 
-8. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius būtų atliktas metinių finansinių ataskaitų auditas ir auditoriaus išvada kartu su finansinėmis ataskaitomis būtų pateikta Tarybai ir paskelbta šių įmonių interneto svetainėse arba Tarybos interneto svetainėje, jeigu energetikos įmonės neturi savo interneto svetainės. ^2276954d5541eddb1bb643c3
+8. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius būtų atliktas metinių finansinių ataskaitų auditas ir auditoriaus išvada kartu su finansinėmis ataskaitomis būtų pateikta Tarybai ir paskelbta šių įmonių interneto svetainėse arba Tarybos interneto svetainėje, jeigu energetikos įmonės neturi savo interneto svetainės. ^144fc54f149a2d2d7ea860ce
 Straipsnio dalies pakeitimai:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-9. Energetikos įmonės dalyvauja rengiant reguliuojamų kainų nustatymo metodikų, energetikos objektų (tinklų, įrenginių, sistemų) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, įrenginių, sistemų) tvarkos aprašo, kuriame nustatytos techninės sąlygos, įkainių nustatymo metodikos, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, energijos perdavimo, skirstymo, tiekimo taisyklių, kitų teisės aktų, reglamentuojančių energetikos įrenginių įrengimą, eksploatavimą, naudojimą, saugą ir kitus techninius klausimus, projektus. ^793d9925309a93e01abdd880
+9. Energetikos įmonės dalyvauja rengiant reguliuojamų kainų nustatymo metodikų, energetikos objektų (tinklų, įrenginių, sistemų) prijungimo prie veikiančių energetikos įmonių objektų (tinklų, įrenginių, sistemų) tvarkos aprašo, kuriame nustatytos techninės sąlygos, įkainių nustatymo metodikos, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, energijos perdavimo, skirstymo, tiekimo taisyklių, kitų teisės aktų, reglamentuojančių energetikos įrenginių įrengimą, eksploatavimą, naudojimą, saugą ir kitus techninius klausimus, projektus. ^555b390a83fbf878a1365368
 Straipsnio dalies pakeitimai:
 Nr. XIII-553, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12056
 
 
 
-10. Energetikos įmonės, kurios verčiasi veikla, kurios kainos yra valstybės reguliuojamos, šioje veikloje naudojamo ilgalaikio turto nusidėvėjimą (amortizaciją) skaičiuoja pagal Tarybos nustatytas normas. ^f97c689b46da4827d08af966
+10. Energetikos įmonės, kurios verčiasi veikla, kurios kainos yra valstybės reguliuojamos, šioje veikloje naudojamo ilgalaikio turto nusidėvėjimą (amortizaciją) skaičiuoja pagal Tarybos nustatytas normas. ^aa91797634819fdf6cb076f0
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
@@ -1480,28 +1499,28 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 ### 161 straipsnis. Reguliuojamosios veiklos ataskaitų ir reguliavimo apskaitos sistemos patikra
 
 
-1. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms Lietuvos Respublikos elektros energetikos įstatymo 67 straipsnio 1 dalies arba Lietuvos Respublikos gamtinių dujų įstatymo 9 straipsnio 7 dalies pagrindu nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, rengia reguliuojamosios veiklos ataskaitas ir užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 5 mėnesius pagal Tarybos patvirtintą ar pratęstą galioti techninę užduotį būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Tarybos patvirtintiems reguliavimo apskaitos sistemos reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Tarybai. Jeigu licenciją išdavė savivaldybės institucija, energetikos įmonė reguliuojamosios veiklos ataskaitas, reguliuojamosios veiklos ataskaitų patikros ataskaitą ir (ar) išvadą pateikia licenciją išdavusiai institucijai tokia pačia tvarka ir terminais, kaip ir teikdama Tarybai. ^278cc12351586c65c1d97d8f
+1. Energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms Lietuvos Respublikos elektros energetikos įstatymo 67 straipsnio 1 dalies arba Lietuvos Respublikos gamtinių dujų įstatymo 9 straipsnio 7 dalies pagrindu nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, rengia reguliuojamosios veiklos ataskaitas ir užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 5 mėnesius pagal Tarybos patvirtintą ar pratęstą galioti techninę užduotį būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Tarybos patvirtintiems reguliavimo apskaitos sistemos reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Tarybai. Jeigu licenciją išdavė savivaldybės institucija, energetikos įmonė reguliuojamosios veiklos ataskaitas, reguliuojamosios veiklos ataskaitų patikros ataskaitą ir (ar) išvadą pateikia licenciją išdavusiai institucijai tokia pačia tvarka ir terminais, kaip ir teikdama Tarybai. ^a86bdccab60bd866181b30df
 Straipsnio dalies pakeitimai:
 Nr. XV-513, 2025-11-13, paskelbta TAR 2025-11-28, i. k. 2025-20134
 
 
 
-2. Reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada, reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada, išskyrus konfidencialią informaciją, yra viešos ir skelbiamos energetikos įmonės interneto svetainėje arba Tarybos interneto svetainėje, jeigu energetikos įmonė neturi savo interneto svetainės. Informacija apie reguliuojamų veiklų sąnaudas negali būti pripažįstama konfidencialia. ^9def8550a98d79794f4b32f9
+2. Reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada, reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada, išskyrus konfidencialią informaciją, yra viešos ir skelbiamos energetikos įmonės interneto svetainėje arba Tarybos interneto svetainėje, jeigu energetikos įmonė neturi savo interneto svetainės. Informacija apie reguliuojamų veiklų sąnaudas negali būti pripažįstama konfidencialia. ^259e55dbef481d4d6d4a3145
 
 
-3. Jeigu Taryba turi informacijos ar Tarybai kyla pagrįstų įtarimų, kad energetikos įmonės tvarkoma reguliavimo apskaitos sistema neatitinka teisės aktuose įtvirtintų reikalavimų, ar paaiškėja aplinkybės dėl netinkamai vykdomos reguliuojamosios veiklos, Taryba motyvuotu sprendimu gali nustatyti reikalavimą bet kuriai energetikos įmonei, kurios teikiamų paslaugų kainos yra valstybės reguliuojamos ar kuriai yra nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, ne vėliau kaip per 12 mėnesių nuo Tarybos sprendimo priėmimo dienos pagal Tarybos patvirtintą techninę užduotį atlikti reguliavimo apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojantiems teisės aktų reikalavimams ir per 10 darbo dienų nuo reguliavimo apskaitos sistemos patikros atlikimo dienos pateikti reguliavimo apskaitos sistemos patikros ataskaitą ir (ar) išvadą Tarybai. ^548ee01109599160ff533485
+3. Jeigu Taryba turi informacijos ar Tarybai kyla pagrįstų įtarimų, kad energetikos įmonės tvarkoma reguliavimo apskaitos sistema neatitinka teisės aktuose įtvirtintų reikalavimų, ar paaiškėja aplinkybės dėl netinkamai vykdomos reguliuojamosios veiklos, Taryba motyvuotu sprendimu gali nustatyti reikalavimą bet kuriai energetikos įmonei, kurios teikiamų paslaugų kainos yra valstybės reguliuojamos ar kuriai yra nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, ne vėliau kaip per 12 mėnesių nuo Tarybos sprendimo priėmimo dienos pagal Tarybos patvirtintą techninę užduotį atlikti reguliavimo apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojantiems teisės aktų reikalavimams ir per 10 darbo dienų nuo reguliavimo apskaitos sistemos patikros atlikimo dienos pateikti reguliavimo apskaitos sistemos patikros ataskaitą ir (ar) išvadą Tarybai. ^796c51c4b39ae3696a7695ae
 
 
-4. Taryba, rengdama techninę užduotį, konsultuojasi su Lietuvos auditorių rūmais. ^7f24cff6886c676b4ed28188
+4. Taryba, rengdama techninę užduotį, konsultuojasi su Lietuvos auditorių rūmais. ^6a828fbae92a6b4e0acf85a7
 
 
-5. Reguliuojamosios veiklos ataskaitų patikrą ir reguliavimo apskaitos sistemos patikrą gali atlikti auditorius, audito įmonė, turintys teisę atlikti finansinių ataskaitų auditą Lietuvos Respublikos finansinių ataskaitų audito įstatymo nustatyta tvarka. ^f9603be818ecb90eefb56780
+5. Reguliuojamosios veiklos ataskaitų patikrą ir reguliavimo apskaitos sistemos patikrą gali atlikti auditorius, audito įmonė, turintys teisę atlikti finansinių ataskaitų auditą Lietuvos Respublikos finansinių ataskaitų audito įstatymo nustatyta tvarka. ^d8921cec938d343de76a11cd
 
 
-6. Jeigu Taryba turi informacijos ar Tarybai kyla pagrįstų įtarimų dėl netinkamai atliktos reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros, Vyriausybės įgaliota atlikti auditorių ir audito įmonių viešąją priežiūrą įstaiga pagal Finansinių ataskaitų audito įstatymą atlieka reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros kokybės tyrimą (toliau – reguliuojamosios veiklos patikros kokybės tyrimas) ir parengia reguliuojamosios veiklos patikros kokybės tyrimo ataskaitą. Jeigu reguliuojamosios veiklos patikros kokybės tyrimo ataskaitoje nurodyta, kad auditorius, audito įmonė, atlikdami atitinkamą patikrą, nesilaikė tokiai patikrai techninėje užduotyje nurodytų taikyti profesinių standartų arba nurodytų tarptautinių audito standartų, kaip tai yra nustatyta Finansinių ataskaitų audito įstatymo 521 straipsnio 3 dalyje, tos patikros sąnaudos negali būti pripažintos būtinosiomis nustatant valstybės reguliuojamas kainas ir Taryba turi teisę įpareigoti energetikos įmonę ne vėliau kaip per 6 mėnesius atlikti pakartotinę reguliuojamosios veiklos ataskaitų patikrą ir (ar) pakartotinę reguliavimo apskaitos sistemos patikrą šio įstatymo nustatyta tvarka. ^7598262e12c874b5c275df52
+6. Jeigu Taryba turi informacijos ar Tarybai kyla pagrįstų įtarimų dėl netinkamai atliktos reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros, Vyriausybės įgaliota atlikti auditorių ir audito įmonių viešąją priežiūrą įstaiga pagal Finansinių ataskaitų audito įstatymą atlieka reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros kokybės tyrimą (toliau – reguliuojamosios veiklos patikros kokybės tyrimas) ir parengia reguliuojamosios veiklos patikros kokybės tyrimo ataskaitą. Jeigu reguliuojamosios veiklos patikros kokybės tyrimo ataskaitoje nurodyta, kad auditorius, audito įmonė, atlikdami atitinkamą patikrą, nesilaikė tokiai patikrai techninėje užduotyje nurodytų taikyti profesinių standartų arba nurodytų tarptautinių audito standartų, kaip tai yra nustatyta Finansinių ataskaitų audito įstatymo 521 straipsnio 3 dalyje, tos patikros sąnaudos negali būti pripažintos būtinosiomis nustatant valstybės reguliuojamas kainas ir Taryba turi teisę įpareigoti energetikos įmonę ne vėliau kaip per 6 mėnesius atlikti pakartotinę reguliuojamosios veiklos ataskaitų patikrą ir (ar) pakartotinę reguliavimo apskaitos sistemos patikrą šio įstatymo nustatyta tvarka. ^6119cc2c5cb9bd04cfd79e0e
 
 
-7. Taryba šio įstatymo [[#8 straipsnis. Taryba|8 straipsnyje]] nustatytoms funkcijoms atlikti turi teisę gauti iš auditoriaus, audito įmonės, atlikusių reguliuojamosios veiklos ataskaitų patikrą ir (ar) reguliavimo apskaitos sistemos patikrą, paaiškinimus, susijusius su atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, paaiškinimus pagrindžiančius duomenis ir dokumentus. ^46f1307e2467f8619dc99634
+7. Taryba šio įstatymo [[#8 straipsnis. Taryba|8 straipsnyje]] nustatytoms funkcijoms atlikti turi teisę gauti iš auditoriaus, audito įmonės, atlikusių reguliuojamosios veiklos ataskaitų patikrą ir (ar) reguliavimo apskaitos sistemos patikrą, paaiškinimus, susijusius su atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, paaiškinimus pagrindžiančius duomenis ir dokumentus. ^f7982100900253610ab2c857
 
 
 Straipsnio pakeitimai:
@@ -1512,29 +1531,29 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 ### 17 straipsnis. Energetikos veiklos ypatumai, energijos ir energijos išteklių kokybė ir sudėtis
 
 
-1. Energetikos įmonių, vykdančių energijos perdavimo, skirstymo ar tiekimo veiklą, išskyrus nepriklausomo elektros energijos ar gamtinių dujų tiekimo veiklą, veiklos teritorija nurodoma energetikos įmonei išduotoje veiklos licencijoje. ^cf9bb57a3e77315cc5050522
+1. Energetikos įmonių, vykdančių energijos perdavimo, skirstymo ar tiekimo veiklą, išskyrus nepriklausomo elektros energijos ar gamtinių dujų tiekimo veiklą, veiklos teritorija nurodoma energetikos įmonei išduotoje veiklos licencijoje. ^aa57a8222f58f15c30c34c5f
 Straipsnio dalies pakeitimai:
 Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-2. Vartojama energija ir energijos ištekliai turi atitikti teisės aktų nustatytus energijos ir energijos išteklių kokybės ir sudėties reikalavimus. ^55472cab1ee1a075693e5a09
+2. Vartojama energija ir energijos ištekliai turi atitikti teisės aktų nustatytus energijos ir energijos išteklių kokybės ir sudėties reikalavimus. ^13b2bd846f53e6fed8be8b68
 
 
 
 ### 18 straipsnis. Nekilnojamųjų daiktų suteikimas naudotis
 
 
-1. Žemė energetikos objektams statyti išnuomojama ar kitaip suteikiama naudotis įstatymų nustatyta tvarka. Valstybei nuosavybės teise priklausanti žemė energijos gamybos, perdavimo ir skirstymo įrenginiams, skirtiems energetikos politikos strateginiams tikslams ir (arba) pažangos uždaviniams ir šiuos uždavinius įgyvendinančių nacionalinių plėtros programų priemonėms įgyvendinti ir energetikos sistemos plėtrai užtikrinti, statyti parduodama ar išnuomojama Vyriausybės nustatyta tvarka, laikantis įstatymų nustatytų žemės pardavimo ar nuomos aukciono būdu reikalavimų, o įstatymų nustatytais atvejais – be aukciono. ^f32c24a99aae2228059e4e27
+1. Žemė energetikos objektams statyti išnuomojama ar kitaip suteikiama naudotis įstatymų nustatyta tvarka. Valstybei nuosavybės teise priklausanti žemė energijos gamybos, perdavimo ir skirstymo įrenginiams, skirtiems energetikos politikos strateginiams tikslams ir (arba) pažangos uždaviniams ir šiuos uždavinius įgyvendinančių nacionalinių plėtros programų priemonėms įgyvendinti ir energetikos sistemos plėtrai užtikrinti, statyti parduodama ar išnuomojama Vyriausybės nustatyta tvarka, laikantis įstatymų nustatytų žemės pardavimo ar nuomos aukciono būdu reikalavimų, o įstatymų nustatytais atvejais – be aukciono. ^88000b2d3f9d86ddcb690957
 Straipsnio dalies pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2. Privati žemė energetikos objektams statyti gali būti naudojama energetikos įmonės ir žemės savininko susitarimu. Jeigu nesusitariama, privati žemė įstatymų nustatyta tvarka gali būti paimama visuomenės poreikiams arba įstatymu ar administraciniu aktu nustatomas servitutas. ^496237923af4e036854825ee
+2. Privati žemė energetikos objektams statyti gali būti naudojama energetikos įmonės ir žemės savininko susitarimu. Jeigu nesusitariama, privati žemė įstatymų nustatyta tvarka gali būti paimama visuomenės poreikiams arba įstatymu ar administraciniu aktu nustatomas servitutas. ^65e29c02b40d4bd3369a4237
 
 
-3. Energetikos objektų apsaugai ir eksploatavimui užtikrinti nustatomos apsaugos zonos. Energetikos objektų apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. Apsaugos zonoje esančių žemės ir kitų nekilnojamųjų daiktų servitutai nustatomi teisės aktų nustatyta tvarka ir sąlygomis. Apsaugos zonoje esančių nekilnojamųjų daiktų savininkai, patikėtiniai ir jų naudotojai turi leisti energetikos įmonėms patekti prie joms priklausančių ar jų eksploatuojamų energetikos objektų ir atlikti jų remonto, techninės priežiūros, eksploatavimo, rekonstravimo ar modernizavimo darbus. Nuostolius, atsiradusius dėl energetikos įmonių veiklos apsaugos zonose, atlygina energetikos įmonė, kuriai nuosavybės teise priklauso apsaugos zonos nekilnojamajame daikte esantis energetikos objektas. ^f64206c92526fdb251509e3e
+3. Energetikos objektų apsaugai ir eksploatavimui užtikrinti nustatomos apsaugos zonos. Energetikos objektų apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. Apsaugos zonoje esančių žemės ir kitų nekilnojamųjų daiktų servitutai nustatomi teisės aktų nustatyta tvarka ir sąlygomis. Apsaugos zonoje esančių nekilnojamųjų daiktų savininkai, patikėtiniai ir jų naudotojai turi leisti energetikos įmonėms patekti prie joms priklausančių ar jų eksploatuojamų energetikos objektų ir atlikti jų remonto, techninės priežiūros, eksploatavimo, rekonstravimo ar modernizavimo darbus. Nuostolius, atsiradusius dėl energetikos įmonių veiklos apsaugos zonose, atlygina energetikos įmonė, kuriai nuosavybės teise priklauso apsaugos zonos nekilnojamajame daikte esantis energetikos objektas. ^f5fe090cc513b0740e4eb499
 Straipsnio dalies pakeitimai:
 Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
 
@@ -1543,46 +1562,46 @@ Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
 ### 181 straipsnis. Veikla bandomojoje energetikos inovacijų aplinkoje
 
 
-1. Bandomoji energetikos inovacijų aplinka yra skirta energetikos inovacijų diegimui Lietuvos energetikos sektoriuje palengvinti. Asmenys Tarybos nustatyta tvarka laikinai turi teisę veikti bandomojoje energetikos inovacijų aplinkoje. ^5e8817f099fdaee4276a8e54
+1. Bandomoji energetikos inovacijų aplinka yra skirta energetikos inovacijų diegimui Lietuvos energetikos sektoriuje palengvinti. Asmenys Tarybos nustatyta tvarka laikinai turi teisę veikti bandomojoje energetikos inovacijų aplinkoje. ^9cebafa569b2577ce5ead137
 
 
-2. Taryba, atlikdama asmenų, veikiančių bandomojoje energetikos inovacijų aplinkoje, priežiūrą ir juos konsultuodama, siekia iš anksto įvertinti galimą energetikos inovacijų įtaką vartotojams ir energetikos sektoriui, nustatyti su energetikos inovacijų diegimu susijusius galimus energetikos veiklos reguliavimo trūkumus ir pagal savo kompetenciją tokius reguliavimo trūkumus ir galimą neigiamą energetikos inovacijų diegimo įtaką panaikina arba sumažina, jeigu energetikos inovacijų diegimas bandomojoje energetikos inovacijų aplinkoje pasiteisina. Taryba vertina, ar inovacijų diegimas bandomojoje energetikos inovacijų aplinkoje pasiteisina, vadovaudamasi Asmenų prašymų leisti veikti bandomojoje energetikos inovacijų aplinkoje pateikimo ir nagrinėjimo bei veiklos bandomojoje energetikos inovacijų aplinkoje vykdymo tvarkos aprašu. ^9528ad76c5178a7b39e69894
+2. Taryba, atlikdama asmenų, veikiančių bandomojoje energetikos inovacijų aplinkoje, priežiūrą ir juos konsultuodama, siekia iš anksto įvertinti galimą energetikos inovacijų įtaką vartotojams ir energetikos sektoriui, nustatyti su energetikos inovacijų diegimu susijusius galimus energetikos veiklos reguliavimo trūkumus ir pagal savo kompetenciją tokius reguliavimo trūkumus ir galimą neigiamą energetikos inovacijų diegimo įtaką panaikina arba sumažina, jeigu energetikos inovacijų diegimas bandomojoje energetikos inovacijų aplinkoje pasiteisina. Taryba vertina, ar inovacijų diegimas bandomojoje energetikos inovacijų aplinkoje pasiteisina, vadovaudamasi Asmenų prašymų leisti veikti bandomojoje energetikos inovacijų aplinkoje pateikimo ir nagrinėjimo bei veiklos bandomojoje energetikos inovacijų aplinkoje vykdymo tvarkos aprašu. ^2bc3627add1ba77ab6afcdb9
 
 
-3. Tarybos sprendimu teisę veikti bandomojoje energetikos inovacijų aplinkoje turi asmenys, kai jų siekiama bandyti energetikos inovacija atitinka šiuos kriterijus: ^cf7dc07f248fb0ebf95fb523
+3. Tarybos sprendimu teisę veikti bandomojoje energetikos inovacijų aplinkoje turi asmenys, kai jų siekiama bandyti energetikos inovacija atitinka šiuos kriterijus: ^19251f41ddf7ad987077d1a9
 
 
-1) energetikos inovacija, jeigu būtų įgyvendinta, leistų vartotojams ir (ar) energetikos įmonėms teikti naudingesnes ir (ar) patogesnes paslaugas; ^6f04f5184938fe1b49d67663
+1) energetikos inovacija, jeigu būtų įgyvendinta, leistų vartotojams ir (ar) energetikos įmonėms teikti naudingesnes ir (ar) patogesnes paslaugas; ^ad48a990513fc2fa952322f6
 
 
-2) energetikos inovacijos bandymas realioje aplinkoje objektyviai yra reikalingas ir gali prisidėti prie to, kad energetikos inovacija būtų įgyvendinta; ^28a5025843b5e5a3234000b4
+2) energetikos inovacijos bandymas realioje aplinkoje objektyviai yra reikalingas ir gali prisidėti prie to, kad energetikos inovacija būtų įgyvendinta; ^72362b400bcae44c4edba1d2
 
 
-3) energetikos inovacija turėtų pritaikymo ir diegimo galimybes Lietuvos Respublikoje; ^63bfa4a2282eb61f0284d268
+3) energetikos inovacija turėtų pritaikymo ir diegimo galimybes Lietuvos Respublikoje; ^3e1cfbc9419ae1a6b526d42c
 
 
-4) Tarybos nustatytus kitus kriterijus. ^7e1c03febba60d7d1ed7b016
+4) Tarybos nustatytus kitus kriterijus. ^69a31d2a97063f63ec41aee8
 
 
-4. Veiklos bandomojoje energetikos inovacijų aplinkoje metu asmeniui Taryba taiko šias priemones: ^a0d29853be7b56a8597ab4f1
+4. Veiklos bandomojoje energetikos inovacijų aplinkoje metu asmeniui Taryba taiko šias priemones: ^ab87b5c2329b9e7b340d3789
 
 
-1) aktyvaus asmenų konsultavimo. Taryba siekia bendradarbiauti su asmeniu, savo iniciatyva ar asmens prašymu teikia konsultacijas Tarybos kompetencijai priskirtais klausimais; ^77a4488b54667e9dc8be03f6
+1) aktyvaus asmenų konsultavimo. Taryba siekia bendradarbiauti su asmeniu, savo iniciatyva ar asmens prašymu teikia konsultacijas Tarybos kompetencijai priskirtais klausimais; ^d8e49337bec17cf3e330852c
 
 
-2) energetikos veiklą reglamentuojančiuose teisės aktuose nustatytų išimčių taikymo; ^7f8bd224de8507a31c61bd67
+2) energetikos veiklą reglamentuojančiuose teisės aktuose nustatytų išimčių taikymo; ^275ce36a4b2e8e423cf35321
 
 
-3) sankcijų ir papildomų priežiūros priemonių netaikymo. Taryba turi teisę asmeniui netaikyti teisės aktuose nustatytų sankcijų ir papildomų priežiūros priemonių dėl tų asmens veiksmų ir dėl tų veiksmų kilusių padarinių, kurie išimtinai susiję su to asmens veikla ir (ar) neveikimu bandomojoje energetikos inovacijų aplinkoje. Sankcijos taikomos tik tada, kai priežiūros tikslų negalima pasiekti kitu būdu; ^05412255826c4b2ffa1d10c0
+3) sankcijų ir papildomų priežiūros priemonių netaikymo. Taryba turi teisę asmeniui netaikyti teisės aktuose nustatytų sankcijų ir papildomų priežiūros priemonių dėl tų asmens veiksmų ir dėl tų veiksmų kilusių padarinių, kurie išimtinai susiję su to asmens veikla ir (ar) neveikimu bandomojoje energetikos inovacijų aplinkoje. Sankcijos taikomos tik tada, kai priežiūros tikslų negalima pasiekti kitu būdu; ^aee3138265bce509578e4665
 
 
-4) energetikos inovacijų skatinimo, taikant skatinimo mechanizmus asmenims, vykdantiems reguliuojamąją veiklą. ^9b35c413541a9ba2ea08e999
+4) energetikos inovacijų skatinimo, taikant skatinimo mechanizmus asmenims, vykdantiems reguliuojamąją veiklą. ^5bf183ea56ba565302de14ce
 
 
-5. Taryba ir kitos valstybės institucijos bendradarbiauja ir keičiasi informacija, kuri reikalinga Tarybai ir kitoms valstybės institucijoms konsultuojant bandomojoje energetikos inovacijų aplinkoje veikiančius asmenis ir vykdant kitas su jais susijusias teisės aktuose nustatytas funkcijas. ^0c4bfcea4f5cd6839d4bd03b
+5. Taryba ir kitos valstybės institucijos bendradarbiauja ir keičiasi informacija, kuri reikalinga Tarybai ir kitoms valstybės institucijoms konsultuojant bandomojoje energetikos inovacijų aplinkoje veikiančius asmenis ir vykdant kitas su jais susijusias teisės aktuose nustatytas funkcijas. ^7523e18434f4db7957d8a51d
 
 
-6. Asmenys, vadovaudamiesi energetikos veiklą reglamentuojančiuose teisės aktuose nustatytais reikalavimais, turi teisę pradėti veiklą, susijusią su energetikos inovacijų diegimu, arba jau vykdydami tokią veiklą pradėti diegti energetikos inovacijas, nesinaudodami bandomąja energetikos inovacijų aplinka. Tokiu atveju nėra taikomos [[#^a0d29853be7b56a8597ab4f1|šio straipsnio 4 dalyje]] numatytos priemonės. ^f45dd2dff35220641f6d5c3e
+6. Asmenys, vadovaudamiesi energetikos veiklą reglamentuojančiuose teisės aktuose nustatytais reikalavimais, turi teisę pradėti veiklą, susijusią su energetikos inovacijų diegimu, arba jau vykdydami tokią veiklą pradėti diegti energetikos inovacijas, nesinaudodami bandomąja energetikos inovacijų aplinka. Tokiu atveju nėra taikomos [[#^ab87b5c2329b9e7b340d3789|šio straipsnio 4 dalyje]] numatytos priemonės. ^65ea57a1afb66a70f96e97ba
 
 
 Papildyta straipsniu:
@@ -1598,23 +1617,23 @@ ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 ### 19 straipsnis. Energijos kainos
 
 
-1. Energetikos sektoriuje kainos yra sutartinės ir valstybės reguliuojamos. Kainos reguliuojamos tvirtinant paslaugų ar energijos kainas, nustatant jų viršutines ribas ar kainų reguliavimo tvarką. Valstybės reguliuojamų kainų reguliavimo principai nustatomi šiame įstatyme ir atskirus energetikos sektorius reglamentuojančiuose įstatymuose. ^e7ab878447811c80c103d2ef
+1. Energetikos sektoriuje kainos yra sutartinės ir valstybės reguliuojamos. Kainos reguliuojamos tvirtinant paslaugų ar energijos kainas, nustatant jų viršutines ribas ar kainų reguliavimo tvarką. Valstybės reguliuojamų kainų reguliavimo principai nustatomi šiame įstatyme ir atskirus energetikos sektorius reglamentuojančiuose įstatymuose. ^13a7813af756d32ba0b415b1
 
 
-2. Nustatant valstybės reguliuojamas kainas, turi būti numatytos būtinos energijos išteklių gavybos, energijos gamybos, pirkimo, perdavimo, skirstymo, tiekimo ir šio įstatymo [[#^473fd51960b6971db879bf29|8 straipsnio 18 dalyje]] numatytos išlaidos, įvertinta protingumo kriterijus atitinkanti investicijų grąža ir (ar) nuosavybės grąža, taip pat gali būti atsižvelgiama į energetikos sektoriaus plėtrą ir energijos efektyvumą, viešuosius interesus atitinkančių paslaugų teikimą. Energetikos įmonėms, diegiant energetikos inovacijas, su šia veikla susijusios išlaidos pripažįstamos pagrįstomis, vadovaujantis Tarybos nustatyta tvarka, atsižvelgiant į vartotojų interesus, kad inovacijomis būtų siekiama energetikos sektoriaus efektyvumo, lankstumo ir tvarumo. ^05cc8a7a6e34289003a5465a
+2. Nustatant valstybės reguliuojamas kainas, turi būti numatytos būtinos energijos išteklių gavybos, energijos gamybos, pirkimo, perdavimo, skirstymo, tiekimo ir šio įstatymo [[#^de99015adaa5dd261d5eb4e2|8 straipsnio 18 dalyje]] numatytos išlaidos, įvertinta protingumo kriterijus atitinkanti investicijų grąža ir (ar) nuosavybės grąža, taip pat gali būti atsižvelgiama į energetikos sektoriaus plėtrą ir energijos efektyvumą, viešuosius interesus atitinkančių paslaugų teikimą. Energetikos įmonėms, diegiant energetikos inovacijas, su šia veikla susijusios išlaidos pripažįstamos pagrįstomis, vadovaujantis Tarybos nustatyta tvarka, atsižvelgiant į vartotojų interesus, kad inovacijomis būtų siekiama energetikos sektoriaus efektyvumo, lankstumo ir tvarumo. ^3a207c8c4f9819f97c3f9e80
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-3. Valstybės reguliuojamos kainos turi būti skelbiamos viešai ne vėliau kaip prieš mėnesį iki jų taikymo pradžios ir taikomos nuo mėnesio pirmos dienos, išskyrus šio įstatymo [[#^9f166f4d646579e84b39cfc7|191 straipsnio 3 dalies 4 punkte]] ir kituose įstatymuose nurodytus atvejus. ^e2ed7a83da9ee61b7107cb5e
+3. Valstybės reguliuojamos kainos turi būti skelbiamos viešai ne vėliau kaip prieš mėnesį iki jų taikymo pradžios ir taikomos nuo mėnesio pirmos dienos, išskyrus šio įstatymo [[#^4f401782682ab085c3f90ff2|191 straipsnio 3 dalies 4 punkte]] ir kituose įstatymuose nurodytus atvejus. ^51a8cddd2a3c7c91198d5a52
 Straipsnio dalies pakeitimai:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-31. Energetikos įmonės prie su energetikos inovacijų plėtojimu susijusių išlaidų ne mažesne dalimi, negu skyrė Taryba [[#^05cc8a7a6e34289003a5465a|šio straipsnio 2 dalyje]] nustatyta tvarka, turi prisidėti ir iš nuosavų lėšų. ^335341337fd5831356c660dc
+31. Energetikos įmonės prie su energetikos inovacijų plėtojimu susijusių išlaidų ne mažesne dalimi, negu skyrė Taryba [[#^3a207c8c4f9819f97c3f9e80|šio straipsnio 2 dalyje]] nustatyta tvarka, turi prisidėti ir iš nuosavų lėšų. ^8e06aee56c7161778231c054
 Papildyta straipsnio dalimi:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
@@ -1628,25 +1647,25 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 ### 191 straipsnis. Centralizuotai tiekiamų suskystintų naftos dujų kainos
 
 
-1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos. ^27db0198ed5e6de56cb33236
+1. Centralizuotai tiekiamų suskystintų naftos dujų kainos yra valstybės reguliuojamos. ^4b34c86f4d67899dd8b5d4bb
 
 
-2. Centralizuotai tiekiamų suskystintų naftos dujų kainos grindžiamos energetikos įmonės būtinomis suskystintų naftos dujų pirkimo, laikymo, skirstymo, tiekimo, apskaitos priemonių įrengimo, priežiūros ir patikros bei apskaitos sąnaudomis, įvertinant protingumo kriterijus atitinkančią investicijų grąžą. Centralizuotai tiekiamų suskystintų naftos dujų kaina turi užtikrinti ilgalaikį tokiai veiklai skirtų suskystintų naftos dujų įrenginių eksploatavimą, atnaujinimą ir sudaryti vartotojams priimtinas sąlygas naudoti centralizuotai tiekiamas suskystintas naftos dujas. Nustatant centralizuotai tiekiamų suskystintų naftos dujų kainą, taip pat turi būti vertinamas šių dujų didmeninių ir mažmeninių kainų santykis. Kainos gali būti diferencijuojamos pagal atskiras vartotojų kategorijas, atsižvelgiant į suvartotą suskystintų naftos dujų kiekį. Diferencijuojant kainas, kryžminis subsidijavimas tarp vartotojų grupių yra draudžiamas. ^3b3d11e4a29d47ee3ef03f1c
+2. Centralizuotai tiekiamų suskystintų naftos dujų kainos grindžiamos energetikos įmonės būtinomis suskystintų naftos dujų pirkimo, laikymo, skirstymo, tiekimo, apskaitos priemonių įrengimo, priežiūros ir patikros bei apskaitos sąnaudomis, įvertinant protingumo kriterijus atitinkančią investicijų grąžą. Centralizuotai tiekiamų suskystintų naftos dujų kaina turi užtikrinti ilgalaikį tokiai veiklai skirtų suskystintų naftos dujų įrenginių eksploatavimą, atnaujinimą ir sudaryti vartotojams priimtinas sąlygas naudoti centralizuotai tiekiamas suskystintas naftos dujas. Nustatant centralizuotai tiekiamų suskystintų naftos dujų kainą, taip pat turi būti vertinamas šių dujų didmeninių ir mažmeninių kainų santykis. Kainos gali būti diferencijuojamos pagal atskiras vartotojų kategorijas, atsižvelgiant į suvartotą suskystintų naftos dujų kiekį. Diferencijuojant kainas, kryžminis subsidijavimas tarp vartotojų grupių yra draudžiamas. ^8f13b120d3441fd7c9109877
 
 
-3. Centralizuotai tiekiamų suskystintų naftos dujų kainos nustatymo tvarka: ^f6b2f1f414900edc6fcab688
+3. Centralizuotai tiekiamų suskystintų naftos dujų kainos nustatymo tvarka: ^a0d5268f200d34139feadafa
 
 
-1) energetikos įmonė, turinti leidimą verstis mažmenine prekyba suskystintomis naftos dujomis, vadovaudamasi Tarybos patvirtinta Centralizuotai tiekiamų suskystintų naftos dujų kainų nustatymo metodika, parengia ir teikia Tarybai centralizuotai tiekiamų suskystintų naftos dujų kainos projektą ir kainos pagrindimą. Centralizuotai tiekiamų suskystintų naftos dujų kainos projektas ir kainos pagrindimas Tarybai turi būti pateikti ne vėliau kaip likus 60 dienų iki kainos galiojimo pabaigos; ^af775f24ea32ac859a28a158
+1) energetikos įmonė, turinti leidimą verstis mažmenine prekyba suskystintomis naftos dujomis, vadovaudamasi Tarybos patvirtinta Centralizuotai tiekiamų suskystintų naftos dujų kainų nustatymo metodika, parengia ir teikia Tarybai centralizuotai tiekiamų suskystintų naftos dujų kainos projektą ir kainos pagrindimą. Centralizuotai tiekiamų suskystintų naftos dujų kainos projektas ir kainos pagrindimas Tarybai turi būti pateikti ne vėliau kaip likus 60 dienų iki kainos galiojimo pabaigos; ^6cb439885fce6d6ddccffbde
 
 
-2) Taryba per 30 kalendorinių dienų nuo prašymo įregistravimo Taryboje dienos patvirtina energetikos įmonės pateiktą centralizuotai tiekiamų suskystintų naftos dujų kainą. Taryba nepatvirtina kainos, jeigu vadovaudamasi Centralizuotai tiekiamų suskystintų naftos dujų kainų nustatymo metodika nustato pažeidimų kainos projekte ir kainos pagrindime. Energetikos įmonė privalo pašalinti Tarybos nustatytus pažeidimus per 5 darbo dienas. Jeigu energetikos įmonė nepašalina Tarybos nustatytų pažeidimų arba nustatytu laiku nepateikia Tarybai suskystintų naftos dujų kainos projekto ir kainos pagrindimo, Taryba vienašališkai nustato konkrečias kainas; ^e9b3405a1a022f236d854d5d
+2) Taryba per 30 kalendorinių dienų nuo prašymo įregistravimo Taryboje dienos patvirtina energetikos įmonės pateiktą centralizuotai tiekiamų suskystintų naftos dujų kainą. Taryba nepatvirtina kainos, jeigu vadovaudamasi Centralizuotai tiekiamų suskystintų naftos dujų kainų nustatymo metodika nustato pažeidimų kainos projekte ir kainos pagrindime. Energetikos įmonė privalo pašalinti Tarybos nustatytus pažeidimus per 5 darbo dienas. Jeigu energetikos įmonė nepašalina Tarybos nustatytų pažeidimų arba nustatytu laiku nepateikia Tarybai suskystintų naftos dujų kainos projekto ir kainos pagrindimo, Taryba vienašališkai nustato konkrečias kainas; ^24082d7996aaad3fe501322c
 
 
-3) Tarybos patvirtintos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja 12 mėnesių nuo jų taikymo pradžios. Energetikos įmonės patvirtintas kainas skelbia šio įstatymo [[#^e2ed7a83da9ee61b7107cb5e|19 straipsnio 3 dalyje]] nustatyta tvarka; ^4342dc1940beb501ed509563
+3) Tarybos patvirtintos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja 12 mėnesių nuo jų taikymo pradžios. Energetikos įmonės patvirtintas kainas skelbia šio įstatymo [[#^51a8cddd2a3c7c91198d5a52|19 straipsnio 3 dalyje]] nustatyta tvarka; ^b5c358f253efaa7d329630f2
 
 
-4) energetikos įmonė, atsižvelgdama į pokyčius suskystintų naftos dujų rinkoje, kai skirtumas tarp suskystintų naftos dujų įsigijimo kainos, įtrauktos į Tarybos patvirtintą centralizuotai tiekiamų suskystintų naftos dujų kainą, ir prognozuojamos einamųjų metų suskystintų naftos dujų įsigijimo kainos yra 20 procentų ar didesnis, Tarybos nustatyta tvarka teikia Tarybai pasiūlymą perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą kartu su centralizuotai tiekiamų suskystintų naftos dujų kainos projektu ir kainos pagrindimu. Taryba per 15 darbo dienų nuo pasiūlymo įregistravimo Taryboje dienos patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą. Jeigu energetikos įmonės pateiktame pasiūlyme perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą nustatomi trūkumai, šiems trūkumams pašalinti Taryba nustato 5 darbo dienų terminą. Energetikos įmonei per nustatytą terminą pašalinus nustatytus trūkumus, 15 darbo dienų terminas, per kurį Taryba patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą, skaičiuojamas nuo trūkumų pašalinimo dienos. Centralizuotai tiekiamų suskystintų naftos dujų kaina gali būti perskaičiuojama kartą per kalendorinių metų ketvirtį. Jeigu skirtumas tarp suskystintų naftos dujų įsigijimo kainos, įtrauktos į Tarybos patvirtintą centralizuotai tiekiamų suskystintų naftos dujų kainą, ir prognozuojamos einamųjų metų suskystintų naftos dujų įsigijimo kainos yra 20 procentų ar didesnis ir energetikos įmonė Tarybai nepateikia centralizuotai tiekiamų suskystintų naftos dujų kainos apskaičiavimo pasiūlymo arba šiame pasiūlyme nustatyti trūkumai, kurių energetikos įmonė per 5 darbo dienas nepašalina, Taryba ne vėliau kaip per 15 darbo dienų nuo Tarybos informacijos energetikos įmonėms dėl pasiūlymo perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą pateikimo raštu dienos vienašališkai perskaičiuoja ir patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą. Šiame punkte nustatyta tvarka Tarybos patvirtinta centralizuotai tiekiamų suskystintų naftos dujų kaina taikoma nuo kito mėnesio, einančio po to mėnesio, kurį buvo priimtas Tarybos sprendimas dėl centralizuotai tiekiamų suskystintų naftos dujų kainos patvirtinimo, pirmos dienos, jeigu Tarybos sprendime nenumatyta vėlesnė įsigaliojimo data. ^9f166f4d646579e84b39cfc7
+4) energetikos įmonė, atsižvelgdama į pokyčius suskystintų naftos dujų rinkoje, kai skirtumas tarp suskystintų naftos dujų įsigijimo kainos, įtrauktos į Tarybos patvirtintą centralizuotai tiekiamų suskystintų naftos dujų kainą, ir prognozuojamos einamųjų metų suskystintų naftos dujų įsigijimo kainos yra 20 procentų ar didesnis, Tarybos nustatyta tvarka teikia Tarybai pasiūlymą perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą kartu su centralizuotai tiekiamų suskystintų naftos dujų kainos projektu ir kainos pagrindimu. Taryba per 15 darbo dienų nuo pasiūlymo įregistravimo Taryboje dienos patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą. Jeigu energetikos įmonės pateiktame pasiūlyme perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą nustatomi trūkumai, šiems trūkumams pašalinti Taryba nustato 5 darbo dienų terminą. Energetikos įmonei per nustatytą terminą pašalinus nustatytus trūkumus, 15 darbo dienų terminas, per kurį Taryba patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą, skaičiuojamas nuo trūkumų pašalinimo dienos. Centralizuotai tiekiamų suskystintų naftos dujų kaina gali būti perskaičiuojama kartą per kalendorinių metų ketvirtį. Jeigu skirtumas tarp suskystintų naftos dujų įsigijimo kainos, įtrauktos į Tarybos patvirtintą centralizuotai tiekiamų suskystintų naftos dujų kainą, ir prognozuojamos einamųjų metų suskystintų naftos dujų įsigijimo kainos yra 20 procentų ar didesnis ir energetikos įmonė Tarybai nepateikia centralizuotai tiekiamų suskystintų naftos dujų kainos apskaičiavimo pasiūlymo arba šiame pasiūlyme nustatyti trūkumai, kurių energetikos įmonė per 5 darbo dienas nepašalina, Taryba ne vėliau kaip per 15 darbo dienų nuo Tarybos informacijos energetikos įmonėms dėl pasiūlymo perskaičiuoti centralizuotai tiekiamų suskystintų naftos dujų kainą pateikimo raštu dienos vienašališkai perskaičiuoja ir patvirtina centralizuotai tiekiamų suskystintų naftos dujų kainą. Šiame punkte nustatyta tvarka Tarybos patvirtinta centralizuotai tiekiamų suskystintų naftos dujų kaina taikoma nuo kito mėnesio, einančio po to mėnesio, kurį buvo priimtas Tarybos sprendimas dėl centralizuotai tiekiamų suskystintų naftos dujų kainos patvirtinimo, pirmos dienos, jeigu Tarybos sprendime nenumatyta vėlesnė įsigaliojimo data. ^4f401782682ab085c3f90ff2
 
 
 Straipsnio dalies pakeitimai:
@@ -1655,7 +1674,7 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-4. Neteko galios 2019-05-01. ^58aeb8973b9be850d4acf538
+4. Neteko galios 2019-05-01. ^877e08db57d7786791888098
 Straipsnio dalies pakeitimai:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
@@ -1669,16 +1688,16 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 ### 192 straipsnis. Energijos kainos dalies kompensavimas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams
 
 
-1. Kai Tarybos prognozuojami elektros energijos ir (ar) gamtinių dujų tarifai, palyginti su taikomais tarifais, didėja daugiau kaip 40 procentų, siekiant sumažinti energijos išlaidas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams, įvertinus valstybės finansines galimybes, iš valstybės biudžeto lėšų kompensuojama energijos kainos dalis, tokiam kompensavimui numatant lėšas atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme (toliau – dalinis kompensavimas). Šiame straipsnyje nustatytas dalinis kompensavimas skirtas visiems elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams ir negali būti didesnis kaip 60 procentų galutinės elektros energijos kainos ir (ar) 80 procentų galutinės gamtinių dujų kainos, taikomos elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams. ^1efaa9aef729ecd60e41ceaa
+1. Kai Tarybos prognozuojami elektros energijos ir (ar) gamtinių dujų tarifai, palyginti su taikomais tarifais, didėja daugiau kaip 40 procentų, siekiant sumažinti energijos išlaidas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams, įvertinus valstybės finansines galimybes, iš valstybės biudžeto lėšų kompensuojama energijos kainos dalis, tokiam kompensavimui numatant lėšas atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme (toliau – dalinis kompensavimas). Šiame straipsnyje nustatytas dalinis kompensavimas skirtas visiems elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams ir negali būti didesnis kaip 60 procentų galutinės elektros energijos kainos ir (ar) 80 procentų galutinės gamtinių dujų kainos, taikomos elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams. ^2da0596c4fdd88cb90f793e2
 Straipsnio dalies pakeitimai:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-2. [[#^1efaa9aef729ecd60e41ceaa|Šio straipsnio 1 dalyje]] nurodytą dalinį kompensavimą sudaro: ^255e0765efcb9e44fa3b3250
+2. [[#^2da0596c4fdd88cb90f793e2|Šio straipsnio 1 dalyje]] nurodytą dalinį kompensavimą sudaro: ^3627f0917c8391b977db2f80
 
 
-1) suvartotos elektros energijos kainos dalies kompensavimas: ^f641ce93ba5da6f0ce406580
+1) suvartotos elektros energijos kainos dalies kompensavimas: ^f7efd43f37387694eab48de1
 
 
 a) papildomos dedamosios prie elektros energijos persiuntimo paslaugos kainos kompensavimas;
@@ -1687,7 +1706,7 @@ a) papildomos dedamosios prie elektros energijos persiuntimo paslaugos kainos ko
 b) elektros energijos tiekimo kainos, susijusios su elektros energijos įsigijimo sąnaudomis, dalies kompensavimas;
 
 
-2) suvartotų gamtinių dujų dalies kainos kompensavimas: ^166d64299bf92fec85f0001b
+2) suvartotų gamtinių dujų dalies kainos kompensavimas: ^5904ebf6b08185655fcc3d63
 
 
 a) papildomos dedamosios prie gamtinių dujų skirstymo paslaugos kainos kompensavimas;
@@ -1696,61 +1715,61 @@ a) papildomos dedamosios prie gamtinių dujų skirstymo paslaugos kainos kompens
 b) gamtinių dujų tiekimo kainos, susijusios su gamtinių dujų įsigijimo sąnaudomis, dalies kompensavimas.
 
 
-3. Energetikos ministerijos prašymu, kuris Tarybai turi būti pateiktas ne vėliau kaip likus vienam mėnesiui iki ateinančio naujo kalendorinio pusmečio pradžios, Taryba Energetikos ministerijos nurodytu terminu apskaičiuoja ir pateikia informaciją Energetikos ministerijai ir Vyriausybei dėl galimų dalinio kompensavimo 1 kWh elektros energijos ir (ar) 1 m3 gamtinių dujų dydžių, įvertinusi valstybės biudžeto lėšų sumą, numatytą daliniam kompensavimui, ir prognozuojamą elektros energijos ir (ar) gamtinių dujų vartojimą. ^b81e6a0936433e80dbb7e118
+3. Energetikos ministerijos prašymu, kuris Tarybai turi būti pateiktas ne vėliau kaip likus vienam mėnesiui iki ateinančio naujo kalendorinio pusmečio pradžios, Taryba Energetikos ministerijos nurodytu terminu apskaičiuoja ir pateikia informaciją Energetikos ministerijai ir Vyriausybei dėl galimų dalinio kompensavimo 1 kWh elektros energijos ir (ar) 1 m3 gamtinių dujų dydžių, įvertinusi valstybės biudžeto lėšų sumą, numatytą daliniam kompensavimui, ir prognozuojamą elektros energijos ir (ar) gamtinių dujų vartojimą. ^690456cfb1269c30d0fc5b89
 
 
-4. Vyriausybė, atsižvelgusi į Tarybos pateiktą informaciją ir į atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme daliniam kompensavimui numatytą lėšų dydį, nustato minimalią 1 kWh elektros energijos kainos ribą, žemiau kurios dalinis kompensavimas netaikomas, dalinio kompensavimo 1 kWh elektros energijos ir (ar) 1 m3 gamtinių dujų dydžius elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams, konkretų dalinio kompensavimo taikymo laikotarpį, prasidedantį kalendorinio pusmečio pirmo mėnesio pirmą dieną ir ne ilgesnį kaip 6 kalendoriniai mėnesiai, ir tvirtina dalinio kompensavimo taikymo ir administravimo tvarkos aprašą (toliau – Tvarkos aprašas). Tvarkos apraše turi būti nustatyta: dalinio kompensavimo elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams taikymo, administravimo tvarka ir sąlygos, nepagrįstai taikyto ar išmokėto dalinio kompensavimo ar jo dalies išskaičiavimo (sugrąžinimo) tvarka. ^0b7754a7d1a64016eb085737
+4. Vyriausybė, atsižvelgusi į Tarybos pateiktą informaciją ir į atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme daliniam kompensavimui numatytą lėšų dydį, nustato minimalią 1 kWh elektros energijos kainos ribą, žemiau kurios dalinis kompensavimas netaikomas, dalinio kompensavimo 1 kWh elektros energijos ir (ar) 1 m3 gamtinių dujų dydžius elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams, konkretų dalinio kompensavimo taikymo laikotarpį, prasidedantį kalendorinio pusmečio pirmo mėnesio pirmą dieną ir ne ilgesnį kaip 6 kalendoriniai mėnesiai, ir tvirtina dalinio kompensavimo taikymo ir administravimo tvarkos aprašą (toliau – Tvarkos aprašas). Tvarkos apraše turi būti nustatyta: dalinio kompensavimo elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams taikymo, administravimo tvarka ir sąlygos, nepagrįstai taikyto ar išmokėto dalinio kompensavimo ar jo dalies išskaičiavimo (sugrąžinimo) tvarka. ^2f8a066d89d159ed29c0d8f3
 
 
-5. Dalinio kompensavimo apskaičiavimą, dalinio kompensavimo lėšų mokėjimą tiekėjams administruoja elektros energijos skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, ir gamtinių dujų skirstymo sistemos operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų (toliau kartu šiame straipsnyje – administratorius). Elektros energijos skirstomųjų tinklų operatoriai, aptarnaujantys ne daugiau kaip 100 000 vartotojų, ir (ar) gamtinių dujų skirstymo sistemos operatoriai, aptarnaujantys ne daugiau kaip 100 000 vartotojų, sudaro susitarimus su administratoriumi dėl informacijos mainų ir lėšų išmokėjimo ir teikia jam informaciją, reikalingą dalinio kompensavimo dydžiui apskaičiuoti ir lėšoms išmokėti. Taryba savo nustatyta tvarka įvertina administratoriaus patirtas pagrįstas sąnaudas, susijusias su šiame straipsnyje nurodyto dalinio kompensavimo apskaičiavimo ir dalinio kompensavimo lėšų mokėjimo tiekėjams administravimu, ir įtraukia jas į papildomą dedamąją prie elektros energijos persiuntimo paslaugos kainos ir papildomą dedamąją prie gamtinių dujų skirstymo paslaugos kainos. ^2c2ad4a6a195f1e70496197e
+5. Dalinio kompensavimo apskaičiavimą, dalinio kompensavimo lėšų mokėjimą tiekėjams administruoja elektros energijos skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, ir gamtinių dujų skirstymo sistemos operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų (toliau kartu šiame straipsnyje – administratorius). Elektros energijos skirstomųjų tinklų operatoriai, aptarnaujantys ne daugiau kaip 100 000 vartotojų, ir (ar) gamtinių dujų skirstymo sistemos operatoriai, aptarnaujantys ne daugiau kaip 100 000 vartotojų, sudaro susitarimus su administratoriumi dėl informacijos mainų ir lėšų išmokėjimo ir teikia jam informaciją, reikalingą dalinio kompensavimo dydžiui apskaičiuoti ir lėšoms išmokėti. Taryba savo nustatyta tvarka įvertina administratoriaus patirtas pagrįstas sąnaudas, susijusias su šiame straipsnyje nurodyto dalinio kompensavimo apskaičiavimo ir dalinio kompensavimo lėšų mokėjimo tiekėjams administravimu, ir įtraukia jas į papildomą dedamąją prie elektros energijos persiuntimo paslaugos kainos ir papildomą dedamąją prie gamtinių dujų skirstymo paslaugos kainos. ^744cf3a0efd07b2e6ca312fb
 
 
-6. Šiame straipsnyje nustatytas dalinis kompensavimas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams vykdomas per elektros energijos tiekėją ir (ar) gamtinių dujų tiekimo įmonę, garantinį elektros energijos tiekėją ir (ar) garantinį gamtinių dujų tiekimą vykdantį skirstymo sistemos operatorių (toliau šiame straipsnyje – tiekėjas), kurie dalinio kompensavimo taikymo laikotarpiu elektros energijos ir (ar) gamtinių dujų buitiniam vartotojui tiekia elektros energiją ir (ar) gamtines dujas. ^82b37e51f7e38e096e40559f
+6. Šiame straipsnyje nustatytas dalinis kompensavimas elektros energijos ir (ar) gamtinių dujų buitiniams vartotojams vykdomas per elektros energijos tiekėją ir (ar) gamtinių dujų tiekimo įmonę, garantinį elektros energijos tiekėją ir (ar) garantinį gamtinių dujų tiekimą vykdantį skirstymo sistemos operatorių (toliau šiame straipsnyje – tiekėjas), kurie dalinio kompensavimo taikymo laikotarpiu elektros energijos ir (ar) gamtinių dujų buitiniam vartotojui tiekia elektros energiją ir (ar) gamtines dujas. ^dec61276aba1da208623dd44
 
 
-7. Nepriklausomo elektros energijos tiekimo ar garantinio elektros energijos tiekimo atveju tiekėjų mokėjimo dokumentuose elektros energijos buitiniam vartotojui pateikiama informacija apie dalinį kompensavimą, o elektros energijos buitinis vartotojas su tiekėju atsiskaito sumokėdamas mokėjimo dokumente nurodytą elektros energijos mokėtiną sumą, sumažintą dalinio kompensavimo dydžiu. Gamtinių dujų buitiniams vartotojams ir elektros energijos buitiniams vartotojams, kuriems elektros energijos tiekimo kaina yra reguliuojama, tiekėjai nustato ir šio įstatymo nustatyta tvarka skelbia elektros energijos ir (ar) gamtinių dujų buitinių vartotojų mokėtiną kainą su daliniu kompensavimu ir informaciją apie kainą, kurią buitiniai vartotojai būtų mokėję, jeigu nebūtų pritaikytas dalinis kompensavimas, o mokėjimo dokumentuose tiekėjai gali pateikti tik galutinę mokėtiną sumą su daliniu kompensavimu. ^6f8ad38f711f43ecd05b5ad5
+7. Nepriklausomo elektros energijos tiekimo ar garantinio elektros energijos tiekimo atveju tiekėjų mokėjimo dokumentuose elektros energijos buitiniam vartotojui pateikiama informacija apie dalinį kompensavimą, o elektros energijos buitinis vartotojas su tiekėju atsiskaito sumokėdamas mokėjimo dokumente nurodytą elektros energijos mokėtiną sumą, sumažintą dalinio kompensavimo dydžiu. Gamtinių dujų buitiniams vartotojams ir elektros energijos buitiniams vartotojams, kuriems elektros energijos tiekimo kaina yra reguliuojama, tiekėjai nustato ir šio įstatymo nustatyta tvarka skelbia elektros energijos ir (ar) gamtinių dujų buitinių vartotojų mokėtiną kainą su daliniu kompensavimu ir informaciją apie kainą, kurią buitiniai vartotojai būtų mokėję, jeigu nebūtų pritaikytas dalinis kompensavimas, o mokėjimo dokumentuose tiekėjai gali pateikti tik galutinę mokėtiną sumą su daliniu kompensavimu. ^109ca3b3881977db8923814e
 
 
-8. Elektros energijos ir (ar) gamtinių dujų buitinių vartotojų daliniam kompensavimui skirtas lėšas tiekėjams Tvarkos apraše numatyta tvarka išmoka administratorius. ^26bc1f263d6d7869767bea83
+8. Elektros energijos ir (ar) gamtinių dujų buitinių vartotojų daliniam kompensavimui skirtas lėšas tiekėjams Tvarkos apraše numatyta tvarka išmoka administratorius. ^1ffbfa52530ed23b893e4775
 
 
-9. Šiame straipsnyje nurodytas dalinis kompensavimas elektros energijos ir (ar) gamtinių dujų buitiniam vartotojui neriboja elektros energijos ir (ar) gamtinių dujų buitinių vartotojų teisės į kitų įstatymų suteikiamas pinigines, socialines paramas, kompensacijas ar išmokas, jeigu jų mokėjimą reglamentuojantys įstatymai ir (ar) jų įgyvendinamieji teisės aktai nenustato kitaip. ^a65ae2b846a91dd77b1e9b4f
+9. Šiame straipsnyje nurodytas dalinis kompensavimas elektros energijos ir (ar) gamtinių dujų buitiniam vartotojui neriboja elektros energijos ir (ar) gamtinių dujų buitinių vartotojų teisės į kitų įstatymų suteikiamas pinigines, socialines paramas, kompensacijas ar išmokas, jeigu jų mokėjimą reglamentuojantys įstatymai ir (ar) jų įgyvendinamieji teisės aktai nenustato kitaip. ^88f631f6469e2ddf48e9599f
 
 
-10. Tiekėjams draudžiama atlikti tiekėjo ir elektros energijos buitinio vartotojo sudarytų sutarčių pakeitimus, elektros energijos buitiniams vartotojams siūlyti tiekimo planus ar elektros energijos buitiniams vartotojams siūlyti sudaryti naujas sutartis, kuriais būtų keičiama elektros energijos kaina, išskyrus atvejus, jeigu tai lėmė objektyviai pateisinamos priežastys, įskaitant pasikeitusias elektros energijos įsigijimo (pirkimo) kainas, pasikeitusias tiekėjo sąnaudas, pasikeitusias valstybės reguliuojamas kainas, kainos diferencijavimą dėl skirtingų elektros energijos buitinių vartotojų grupių (skirtingo vartojimo), taip siekiant padidinti tiekimo veiklos dedamąją ir (ar) tiekimo veiklos maržą bei sumažinti dalinio kompensavimo taikymo elektros energijos buitiniam vartotojui suteikiamą naudą. ^87848f0285eedd4d12a62879
+10. Tiekėjams draudžiama atlikti tiekėjo ir elektros energijos buitinio vartotojo sudarytų sutarčių pakeitimus, elektros energijos buitiniams vartotojams siūlyti tiekimo planus ar elektros energijos buitiniams vartotojams siūlyti sudaryti naujas sutartis, kuriais būtų keičiama elektros energijos kaina, išskyrus atvejus, jeigu tai lėmė objektyviai pateisinamos priežastys, įskaitant pasikeitusias elektros energijos įsigijimo (pirkimo) kainas, pasikeitusias tiekėjo sąnaudas, pasikeitusias valstybės reguliuojamas kainas, kainos diferencijavimą dėl skirtingų elektros energijos buitinių vartotojų grupių (skirtingo vartojimo), taip siekiant padidinti tiekimo veiklos dedamąją ir (ar) tiekimo veiklos maržą bei sumažinti dalinio kompensavimo taikymo elektros energijos buitiniam vartotojui suteikiamą naudą. ^41e7ea1eb6b3844bb94a3755
 
 
-11. Tiekėjai privalo tarpusavyje sąžiningai konkuruoti savo, kaip tiekėjo, siūloma elektros energijos tiekimo kaina ir ją formuodami nei tiesiogiai, nei netiesiogiai nesieti jos su daliniu kompensavimu ir (ar) elektros energijos buitinių vartotojų mokėtina elektros energijos kaina po pritaikyto dalinio kompensavimo. Tiekėjai bet kurioje viešojoje informacijoje ir (ar) rinkodaroje siūlydami elektros energiją elektros energijos buitiniams vartotojams kaip pagrindinę informaciją privalo nurodyti savo, kaip tiekėjo, siūlomą elektros energijos tiekimo kainą, papildomai nurodyti elektros energijos buitiniams vartotojams taikytiną dalinio kompensavimo dydį ir (ar) elektros energijos kainą po pritaikyto dalinio kompensavimo. ^db7802e58e899ad175f2e1fa
+11. Tiekėjai privalo tarpusavyje sąžiningai konkuruoti savo, kaip tiekėjo, siūloma elektros energijos tiekimo kaina ir ją formuodami nei tiesiogiai, nei netiesiogiai nesieti jos su daliniu kompensavimu ir (ar) elektros energijos buitinių vartotojų mokėtina elektros energijos kaina po pritaikyto dalinio kompensavimo. Tiekėjai bet kurioje viešojoje informacijoje ir (ar) rinkodaroje siūlydami elektros energiją elektros energijos buitiniams vartotojams kaip pagrindinę informaciją privalo nurodyti savo, kaip tiekėjo, siūlomą elektros energijos tiekimo kainą, papildomai nurodyti elektros energijos buitiniams vartotojams taikytiną dalinio kompensavimo dydį ir (ar) elektros energijos kainą po pritaikyto dalinio kompensavimo. ^2b878c3121478a7bbc39575e
 
 
-12. Taryba prižiūri, kaip tiekėjai laikosi šio straipsnio reikalavimų, ir prižiūri, kad tiekėjai nepiktnaudžiautų elektros energijos buitiniams vartotojams siūloma bei taikoma elektros energijos tiekimo kainodara. Tarybai šio straipsnio įgyvendinimo tikslais paprašius, Tarybos nustatyta tvarka tiekėjai turi pateikti informaciją ir pagrindimą dėl elektros energijos buitiniams vartotojams taikomos ar taikytos elektros energijos paslaugų kainodaros. Taryba turi teisę pasitelkti nepriklausomo audito paslaugas šiai tiekėjų pateiktai informacijai ir (ar) duomenims apie patirtas faktines elektros energijos įsigijimo sąnaudas ir su jomis susijusias sąnaudas dalinio kompensavimo taikymo laikotarpiu, įskaitant elektros biržos dalyvio įmoką, disbalanso elektros energijos rinkoje sąnaudas, su elektros energijos rinkos išvestinių finansinių priemonių naudojimu susijusias sąnaudas bei taikytus dalinio kompensavimo dydžius elektros energijos buitiniams vartotojams, patikrinti, siekdama įvertinti, ar dalinis kompensavimas buvo panaudotas [[#^f641ce93ba5da6f0ce406580|šio straipsnio 2 dalies 1 punkto]] b papunktyje numatytiems tikslams. ^12dc4c6b995bd33c713893fe
+12. Taryba prižiūri, kaip tiekėjai laikosi šio straipsnio reikalavimų, ir prižiūri, kad tiekėjai nepiktnaudžiautų elektros energijos buitiniams vartotojams siūloma bei taikoma elektros energijos tiekimo kainodara. Tarybai šio straipsnio įgyvendinimo tikslais paprašius, Tarybos nustatyta tvarka tiekėjai turi pateikti informaciją ir pagrindimą dėl elektros energijos buitiniams vartotojams taikomos ar taikytos elektros energijos paslaugų kainodaros. Taryba turi teisę pasitelkti nepriklausomo audito paslaugas šiai tiekėjų pateiktai informacijai ir (ar) duomenims apie patirtas faktines elektros energijos įsigijimo sąnaudas ir su jomis susijusias sąnaudas dalinio kompensavimo taikymo laikotarpiu, įskaitant elektros biržos dalyvio įmoką, disbalanso elektros energijos rinkoje sąnaudas, su elektros energijos rinkos išvestinių finansinių priemonių naudojimu susijusias sąnaudas bei taikytus dalinio kompensavimo dydžius elektros energijos buitiniams vartotojams, patikrinti, siekdama įvertinti, ar dalinis kompensavimas buvo panaudotas [[#^f7efd43f37387694eab48de1|šio straipsnio 2 dalies 1 punkto]] b papunktyje numatytiems tikslams. ^0ed49c322b776208cafef0b0
 
 
-13. Energetikos įmonėms už reguliuojamosios veiklos sąlygų, nurodytų šio straipsnio 7, 10, 11 ir [[#^12dc4c6b995bd33c713893fe|12 dalyse]], nesilaikymą taikomos šio įstatymo [[#^9bbf9f52f52bd2002548868d|36 straipsnio 1 dalies]] 1, 2 ar 3 punkte nustatytos sankcijos. ^b9ca5bfdcada8ec466d341ad
+13. Energetikos įmonėms už reguliuojamosios veiklos sąlygų, nurodytų šio straipsnio 7, 10, 11 ir [[#^0ed49c322b776208cafef0b0|12 dalyse]], nesilaikymą taikomos šio įstatymo [[#^8ee2daebd1ff607bb5b775ca|36 straipsnio 1 dalies]] 1, 2 ar 3 punkte nustatytos sankcijos. ^1e5a81d96fc5255eb0ced2a3
 
 
-14. Šio straipsnio nuostatos taip pat taikomos asmenims, turintiems teisę į elektros energijos buitiniams vartotojams nustatytas kainas ir tarifus, kaip tai nustatyta Elektros energetikos įstatyme, išskyrus Elektros energetikos įstatymo 69 straipsnio 12 dalyje nurodytus asmenis. ^d093dadd87bb98411376a739
+14. Šio straipsnio nuostatos taip pat taikomos asmenims, turintiems teisę į elektros energijos buitiniams vartotojams nustatytas kainas ir tarifus, kaip tai nustatyta Elektros energetikos įstatyme, išskyrus Elektros energetikos įstatymo 69 straipsnio 12 dalyje nurodytus asmenis. ^68805f9b8b48732523f6a218
 
 
-15. [[#^1efaa9aef729ecd60e41ceaa|Šio straipsnio 1 dalyje]] nurodytam dalinio kompensavimo dydžiui apskaičiuoti, kai elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį, arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, netaikomos [[#^b81e6a0936433e80dbb7e118|šio straipsnio 3 dalies]] nuostatos, taip pat [[#^0b7754a7d1a64016eb085737|šio straipsnio 4 dalyje]] įtvirtinta nuostata, numatanti, kad konkretus dalinio kompensavimo taikymo laikotarpis prasideda kalendorinio pusmečio pirmo mėnesio pirmą dieną. ^da37ccbd28aa2fe8faa285b5
+15. [[#^2da0596c4fdd88cb90f793e2|Šio straipsnio 1 dalyje]] nurodytam dalinio kompensavimo dydžiui apskaičiuoti, kai elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį, arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, netaikomos [[#^690456cfb1269c30d0fc5b89|šio straipsnio 3 dalies]] nuostatos, taip pat [[#^2f8a066d89d159ed29c0d8f3|šio straipsnio 4 dalyje]] įtvirtinta nuostata, numatanti, kad konkretus dalinio kompensavimo taikymo laikotarpis prasideda kalendorinio pusmečio pirmo mėnesio pirmą dieną. ^a4ad5028078ec204208c1d95
 Papildyta straipsnio dalimi:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-16. Jeigu nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį ir dėl to elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas, yra taikomas [[#^1efaa9aef729ecd60e41ceaa|šio straipsnio 1 dalies]] 3 sakinyje nustatyta tvarka apskaičiuotas dalinis kompensavimas, Taryba privalo pateikti rašytinį reikalavimą nepriklausomam elektros energijos tiekėjui per nurodytą terminą sumokėti apskaičiuotą elektros energijos buitiniams vartotojams dalinio kompensavimo sumą ir palūkanas į valstybės biudžetą. ^c3f287cfd772798d826529ff
+16. Jeigu nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį ir dėl to elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas, yra taikomas [[#^2da0596c4fdd88cb90f793e2|šio straipsnio 1 dalies]] 3 sakinyje nustatyta tvarka apskaičiuotas dalinis kompensavimas, Taryba privalo pateikti rašytinį reikalavimą nepriklausomam elektros energijos tiekėjui per nurodytą terminą sumokėti apskaičiuotą elektros energijos buitiniams vartotojams dalinio kompensavimo sumą ir palūkanas į valstybės biudžetą. ^da3b5afeb3300744e0bce9fc
 Papildyta straipsnio dalimi:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-17. [[#^c3f287cfd772798d826529ff|Šio straipsnio 16 dalyje]] nurodytame rašytiniame reikalavime į valstybės biudžetą mokėtina suma apskaičiuojama be visiems elektros energijos buitiniams vartotojams taikomo [[#^f641ce93ba5da6f0ce406580|šio straipsnio 2 dalies 1 punkte]] nurodyto dalinio kompensavimo. Palūkanos apskaičiuojamos pagal Lietuvos banko interneto svetainėje viešai skelbiamas Lietuvos pinigų finansų įstaigos euro zonos ne finansų bendrovių ir namų ūkių paskoloms eurais taikomas palūkanų normas. ^623d6f669481e2a2d597b675
+17. [[#^da3b5afeb3300744e0bce9fc|Šio straipsnio 16 dalyje]] nurodytame rašytiniame reikalavime į valstybės biudžetą mokėtina suma apskaičiuojama be visiems elektros energijos buitiniams vartotojams taikomo [[#^f7efd43f37387694eab48de1|šio straipsnio 2 dalies 1 punkte]] nurodyto dalinio kompensavimo. Palūkanos apskaičiuojamos pagal Lietuvos banko interneto svetainėje viešai skelbiamas Lietuvos pinigų finansų įstaigos euro zonos ne finansų bendrovių ir namų ūkių paskoloms eurais taikomas palūkanų normas. ^e6805f3a3fe4020bcf7cadba
 Papildyta straipsnio dalimi:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-18. Nepriklausomam elektros energijos tiekėjui nesumokėjus [[#^c3f287cfd772798d826529ff|šio straipsnio 16 dalyje]] nurodytame Tarybos rašytiniame reikalavime nurodytos sumos ir palūkanų per nurodytą terminą, Taryba kreipiasi į teismą Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka su reikalavimu priteisti į valstybės biudžetą apskaičiuotą elektros energijos buitiniams vartotojams dalinio kompensavimo sumą ir palūkanas. ^a36c199b7b98c9c626af1c8d
+18. Nepriklausomam elektros energijos tiekėjui nesumokėjus [[#^da3b5afeb3300744e0bce9fc|šio straipsnio 16 dalyje]] nurodytame Tarybos rašytiniame reikalavime nurodytos sumos ir palūkanų per nurodytą terminą, Taryba kreipiasi į teismą Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka su reikalavimu priteisti į valstybės biudžetą apskaičiuotą elektros energijos buitiniams vartotojams dalinio kompensavimo sumą ir palūkanas. ^0768864da04c8c3fb8b0f5f4
 Papildyta straipsnio dalimi:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
@@ -1764,10 +1783,10 @@ Nr. XIV-1094, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10292
 ### 193 straipsnis. Parama, skirta daliai energijos išlaidų sumažinti
 
 
-1. Dėl itin didelio elektros energijos ir (ar) gamtinių dujų kainų padidėjimo, galinčio padaryti neigiamą įtaką šalies ekonominiam stabilumui, elektros energijos vartotojams, išskyrus elektros energijos buitinius vartotojus, ir (ar) nebuitiniams gamtinių dujų vartotojams (toliau kartu šiame straipsnyje – nebuitiniai vartotojai), įvertinus valstybės finansines galimybes, iš valstybės biudžeto lėšų teikiama parama, skirta daliai nebuitinių vartotojų išlaidų už suvartotą elektros energiją ir (ar) suvartotas gamtines dujas sumažinti, tokiai paramai numatant lėšas atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme (toliau – parama). ^2a32a7f061457966dea7f10e
+1. Dėl itin didelio elektros energijos ir (ar) gamtinių dujų kainų padidėjimo, galinčio padaryti neigiamą įtaką šalies ekonominiam stabilumui, elektros energijos vartotojams, išskyrus elektros energijos buitinius vartotojus, ir (ar) nebuitiniams gamtinių dujų vartotojams (toliau kartu šiame straipsnyje – nebuitiniai vartotojai), įvertinus valstybės finansines galimybes, iš valstybės biudžeto lėšų teikiama parama, skirta daliai nebuitinių vartotojų išlaidų už suvartotą elektros energiją ir (ar) suvartotas gamtines dujas sumažinti, tokiai paramai numatant lėšas atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme (toliau – parama). ^f2defdc1d0f1c7eee227e290
 
 
-2. Vyriausybė ar jos įgaliota institucija nustato paramos nebuitiniams vartotojams skyrimo ir administravimo tvarką. ^80ee2de259ea180855dc1650
+2. Vyriausybė ar jos įgaliota institucija nustato paramos nebuitiniams vartotojams skyrimo ir administravimo tvarką. ^fb2432a33e3fe6704b5036cd
 
 
 Papildyta straipsniu:
@@ -1778,134 +1797,134 @@ Nr. XIV-1094, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10292
 ### 20 straipsnis. Energetikos veiklos licencijos, leidimai ir atestatai
 
 
-1. Licencijuojamos veiklos ir veiklos, kuriai reikalingi leidimai ar atestatai, licencijų ir leidimų ar atestatų išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą nustato šis įstatymas, kiti atskirus energetikos sektorius reglamentuojantys įstatymai ir (ar) jų įgyvendinamieji teisės aktai. ^276758f3f16be0ec7abcdcbe
+1. Licencijuojamos veiklos ir veiklos, kuriai reikalingi leidimai ar atestatai, licencijų ir leidimų ar atestatų išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą nustato šis įstatymas, kiti atskirus energetikos sektorius reglamentuojantys įstatymai ir (ar) jų įgyvendinamieji teisės aktai. ^6dd3955cda7ab1df782e4b16
 
 
-2. Asmenims, siekiantiems gauti šiame įstatyme ir (ar) kituose atskirus energetikos sektorius reglamentuojančiuose įstatymuose nustatytus licenciją, leidimą ar atestatą, gali būti taikomi teisinės formos ir (ar) kiti įsisteigimo laisvės ribojimo reikalavimai, jeigu tai yra pagrįsta svarbiais visuomenės interesais ir atitinka būtinumo ir proporcingumo principus. ^08db3432c55de455121b5ef2
+2. Asmenims, siekiantiems gauti šiame įstatyme ir (ar) kituose atskirus energetikos sektorius reglamentuojančiuose įstatymuose nustatytus licenciją, leidimą ar atestatą, gali būti taikomi teisinės formos ir (ar) kiti įsisteigimo laisvės ribojimo reikalavimai, jeigu tai yra pagrįsta svarbiais visuomenės interesais ir atitinka būtinumo ir proporcingumo principus. ^a86fa1f2144f8efffa4a8802
 
 
-3. Energetikos veikla be licencijos, leidimo ar atestato, jeigu jie yra nustatyti, draudžiama. Draudžiama vykdyti energetikos veiklą, kai licencijos, leidimo ar atestato galiojimas yra sustabdytas. ^31d2c700e625dd310a9558d8
+3. Energetikos veikla be licencijos, leidimo ar atestato, jeigu jie yra nustatyti, draudžiama. Draudžiama vykdyti energetikos veiklą, kai licencijos, leidimo ar atestato galiojimas yra sustabdytas. ^7878905a9663f8cf8cb86bac
 
 
 
 ### 21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
 
-1. Asmuo, siekiantis gauti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka pateikia licencijas, leidimus ar atestatus išduodančiai institucijai prašymą arba deklaraciją išduoti licenciją, leidimą ar atestatą ir teisės aktuose nurodytus dokumentus. Reikalavimai asmenims, siekiantiems gauti licenciją, leidimą ar atestatą, nustatomi šiame įstatyme ir (ar) atskirus energetikos sektorius reglamentuojančiuose įstatymuose. Licencija, leidimas ar atestatas asmeniui išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo išduoti licenciją, leidimą ar atestatą ir visų tinkamai įformintų dokumentų registravimo licencijas, leidimus ar atestatus išduodančioje institucijoje teisės aktų nustatyta tvarka dienos. Asmeniui, siekiančiam gauti energetikos veiklos leidimą, teisės aktų nustatyta tvarka pateikusiam deklaraciją, teisė verstis šia veikla suteikiama kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. ^81fca6ed0ec553c7cf0f0fa8
+1. Asmuo, siekiantis gauti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka pateikia licencijas, leidimus ar atestatus išduodančiai institucijai prašymą arba deklaraciją išduoti licenciją, leidimą ar atestatą ir teisės aktuose nurodytus dokumentus. Reikalavimai asmenims, siekiantiems gauti licenciją, leidimą ar atestatą, nustatomi šiame įstatyme ir (ar) atskirus energetikos sektorius reglamentuojančiuose įstatymuose. Licencija, leidimas ar atestatas asmeniui išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo išduoti licenciją, leidimą ar atestatą ir visų tinkamai įformintų dokumentų registravimo licencijas, leidimus ar atestatus išduodančioje institucijoje teisės aktų nustatyta tvarka dienos. Asmeniui, siekiančiam gauti energetikos veiklos leidimą, teisės aktų nustatyta tvarka pateikusiam deklaraciją, teisė verstis šia veikla suteikiama kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. ^eeb9b98c4dae7e45be86a4df
 
 
-2. Jeigu į tinkamai pateiktą prašymą išduoti licenciją, leidimą ar atestatą neatsakoma per [[#^81fca6ed0ec553c7cf0f0fa8|šio straipsnio 1 dalyje]] nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos, leidimo ar atestato išdavimo. ^b59dad04cbbfe7aac479e91e
+2. Jeigu į tinkamai pateiktą prašymą išduoti licenciją, leidimą ar atestatą neatsakoma per [[#^eeb9b98c4dae7e45be86a4df|šio straipsnio 1 dalyje]] nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos, leidimo ar atestato išdavimo. ^9953246975495a1a3739c2ff
 
 
-3. [[#^b59dad04cbbfe7aac479e91e|Šio straipsnio 2 dalyje]] nustatyta sąlyga netaikoma, kai vyksta teisminiai ginčai su trečiaisiais asmenimis dėl licencijuojamos veiklos sąlygų (teritorijos) arba kai yra kitų priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjui apie tai yra pranešta teisės aktų nustatyta tvarka. Šiuo atveju licencija, leidimas ar atestatas išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų pasibaigus atitinkamo teisminio ginčo nagrinėjimui ar nelikus kitų priežasčių, pateisinamų svarbiais visuomenės interesais, dėl kurių buvo atidėtas sprendimo dėl licencijos, leidimo ar atestato išdavimo priėmimas. ^9e1613eb040b9ed3a1c00b62
+3. [[#^9953246975495a1a3739c2ff|Šio straipsnio 2 dalyje]] nustatyta sąlyga netaikoma, kai vyksta teisminiai ginčai su trečiaisiais asmenimis dėl licencijuojamos veiklos sąlygų (teritorijos) arba kai yra kitų priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjui apie tai yra pranešta teisės aktų nustatyta tvarka. Šiuo atveju licencija, leidimas ar atestatas išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją, leidimą ar atestatą pareiškėjui pateikiamas ne vėliau kaip per 30 kalendorinių dienų pasibaigus atitinkamo teisminio ginčo nagrinėjimui ar nelikus kitų priežasčių, pateisinamų svarbiais visuomenės interesais, dėl kurių buvo atidėtas sprendimo dėl licencijos, leidimo ar atestato išdavimo priėmimas. ^0bf957cc0af9f88b5aefefbd
 
 
-4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą [[#^6091c4368de565d1f8925426|šio straipsnio 5 dalyje]] nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą [[#^5fb7594e1b704b9066fa512f|šio straipsnio 7 dalyje]] nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. [[#^3b971c443ec66159046872f6|Šio straipsnio 5 dalies 5 punkte]] nurodytu atveju, taip pat už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus [[#^6091c4368de565d1f8925426|šio straipsnio 5 dalies]] 6, 9 ar 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo pažeidimų nustatymo dienos, o už pažeidimus, nurodytus [[#^6091c4368de565d1f8925426|šio straipsnio 5 dalies]] 7 ir 11 punktuose, – ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo arba energetikos įmonės pranešimo apie įsiteisėjusios teismo nutarties iškelti bankroto bylą ar apie kreditorių susirinkimo nutarimo dėl bankroto procedūros atlikimo ne teismo tvarka gavimo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus [[#^5fb7594e1b704b9066fa512f|šio straipsnio 7 dalies]] 10, 11 ar 12 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas panaikinamas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimą, nurodytą [[#^465c977ad898684160e68f2f|šio straipsnio 7 dalies 13 punkte]], nepriklausomas elektros energijos tiekėjas įspėjamas apie galimą leidimo galiojimo panaikinimą [[#^465c977ad898684160e68f2f|šio straipsnio 7 dalies 13 punkte]] nustatytu pagrindu ir nustatomas ne ilgesnis kaip 3 mėnesių laikotarpis nuo įspėjimo gavimo dienos, per kurį turi būti pašalintas nurodytas reguliuojamosios veiklos pažeidimas. ^f44e6988a19703ebd980c0d9
+4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą [[#^cfc99be25d606f58f42dbc34|šio straipsnio 5 dalyje]] nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą [[#^44d5e647a67623465415bc8f|šio straipsnio 7 dalyje]] nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. [[#^7c5816dda46171252247e5c2|Šio straipsnio 5 dalies 5 punkte]] nurodytu atveju, taip pat už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus [[#^cfc99be25d606f58f42dbc34|šio straipsnio 5 dalies]] 6, 9 ar 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo pažeidimų nustatymo dienos, o už pažeidimus, nurodytus [[#^cfc99be25d606f58f42dbc34|šio straipsnio 5 dalies]] 7 ir 11 punktuose, – ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo arba energetikos įmonės pranešimo apie įsiteisėjusios teismo nutarties iškelti bankroto bylą ar apie kreditorių susirinkimo nutarimo dėl bankroto procedūros atlikimo ne teismo tvarka gavimo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus [[#^44d5e647a67623465415bc8f|šio straipsnio 7 dalies]] 10, 11 ar 12 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas panaikinamas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimą, nurodytą [[#^a70485f59bafed61ceb368fa|šio straipsnio 7 dalies 13 punkte]], nepriklausomas elektros energijos tiekėjas įspėjamas apie galimą leidimo galiojimo panaikinimą [[#^a70485f59bafed61ceb368fa|šio straipsnio 7 dalies 13 punkte]] nustatytu pagrindu ir nustatomas ne ilgesnis kaip 3 mėnesių laikotarpis nuo įspėjimo gavimo dienos, per kurį turi būti pašalintas nurodytas reguliuojamosios veiklos pažeidimas. ^948be23e113128349a240d55
 Straipsnio dalies pakeitimai:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-5. Licencijos, leidimo ar atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išduodančios institucijos sprendimu teisės aktų nustatyta tvarka sustabdomas, jeigu: ^6091c4368de565d1f8925426
+5. Licencijos, leidimo ar atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išduodančios institucijos sprendimu teisės aktų nustatyta tvarka sustabdomas, jeigu: ^cfc99be25d606f58f42dbc34
 
 
-1) išdavus licenciją, leidimą ar atestatą, paaiškėja, kad prašyme išduoti licenciją, leidimą ar atestatą arba deklaracijoje pateikti klaidingi duomenys, ir po įspėjimo per licencijas, leidimus ar atestatus išduodančios institucijos nustatytą laikotarpį energetikos įmonė nepateikė patikslintų duomenų; ^693276a73a32ba9ae274169e
+1) išdavus licenciją, leidimą ar atestatą, paaiškėja, kad prašyme išduoti licenciją, leidimą ar atestatą arba deklaracijoje pateikti klaidingi duomenys, ir po įspėjimo per licencijas, leidimus ar atestatus išduodančios institucijos nustatytą laikotarpį energetikos įmonė nepateikė patikslintų duomenų; ^aafda891e3785a01dff4e5a1
 
 
-2) energetikos įmonė per kalendorinius metus pažeidžia nustatytas reguliuojamosios veiklos sąlygas ir apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą energetikos įmonė buvo įspėta [[#^f44e6988a19703ebd980c0d9|šio straipsnio 4 dalyje]] nustatyta tvarka, bet per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų; ^98d4db46b31bbc8be812e5a4
+2) energetikos įmonė per kalendorinius metus pažeidžia nustatytas reguliuojamosios veiklos sąlygas ir apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą energetikos įmonė buvo įspėta [[#^948be23e113128349a240d55|šio straipsnio 4 dalyje]] nustatyta tvarka, bet per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų; ^42f23aa23b4f38cd81292151
 
 
-3) energetikos įmonės technologiniai, finansiniai ir (ar) vadybiniai pajėgumai neleidžia vykdyti reguliuojamosios veiklos, apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą ji buvo įspėta [[#^f44e6988a19703ebd980c0d9|šio straipsnio 4 dalyje]] nustatyta tvarka ir per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų. Energetikos įmonėms, vykdančioms veiklą atskiruose energetikos sektoriuose, keliamus technologinių, finansinių ir vadybinių pajėgumų reikalavimus nustato atitinkamus energetikos sektorius reglamentuojantys įstatymai; ^003d4fc364f6f82202479ba2
+3) energetikos įmonės technologiniai, finansiniai ir (ar) vadybiniai pajėgumai neleidžia vykdyti reguliuojamosios veiklos, apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą ji buvo įspėta [[#^948be23e113128349a240d55|šio straipsnio 4 dalyje]] nustatyta tvarka ir per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį nepašalino nurodytų pažeidimų. Energetikos įmonėms, vykdančioms veiklą atskiruose energetikos sektoriuose, keliamus technologinių, finansinių ir vadybinių pajėgumų reikalavimus nustato atitinkamus energetikos sektorius reglamentuojantys įstatymai; ^da50d889f54f56d66c80b5a4
 
 
-4) paaiškėja, kad fizinis asmuo, turintis leidimą, ar juridinio asmens, turinčio leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar nepanaikintą teistumą arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus buvo priimtas ir yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus; ^659769f3acb42e8159dd75c4
+4) paaiškėja, kad fizinis asmuo, turintis leidimą, ar juridinio asmens, turinčio leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar nepanaikintą teistumą arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus buvo priimtas ir yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus; ^38f1beb34e81646511a10b52
 
 
-5) energetikos įmonė pateikia prašymą sustabdyti licencijos, leidimo ar atestato galiojimą; ^3b971c443ec66159046872f6
+5) energetikos įmonė pateikia prašymą sustabdyti licencijos, leidimo ar atestato galiojimą; ^7c5816dda46171252247e5c2
 
 
-6) paaiškėja, kad asmens, turinčio leidimą verstis didmenine prekyba nefasuotais naftos produktais, mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui, ir (ar) įsipareigojimų muitinei suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; ^e5767f083a6dff7220c32fd8
+6) paaiškėja, kad asmens, turinčio leidimą verstis didmenine prekyba nefasuotais naftos produktais, mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų bendra suma valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui, ir (ar) įsipareigojimų muitinei suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; ^a68547a789cf356464c0fa7e
 
 
-7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės; ^ffe4057c89fd1b84be3cea29
+7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės; ^8a9e1f9cd8f8c29c830df16a
 
 
-8) paaiškėja, kad asmuo, kuris turi elektros įrenginių įrengimo atestatą ir (ar) gamtinių dujų įrenginių įrengimo atestatą, vykdo atestatuose nurodytą veiklą neturėdamas profesinės civilinės atsakomybės draudimo, kaip nustatyta šio įstatymo [[#221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas|221 straipsnyje]]; ^0de0d00ed3ae394485340d4d
+8) paaiškėja, kad asmuo, kuris turi elektros įrenginių įrengimo atestatą ir (ar) gamtinių dujų įrenginių įrengimo atestatą, vykdo atestatuose nurodytą veiklą neturėdamas profesinės civilinės atsakomybės draudimo, kaip nustatyta šio įstatymo [[#221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas|221 straipsnyje]]; ^448b1829b18ccbfedc8569cd
 
 
-9) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neturi šio įstatymo [[#24 straipsnis. Leidimai verstis prekyba nefasuotais naftos produktais|24 straipsnio]] 8 ar [[#^884404e7ef910aa1c431c562|9 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančių dokumentų; ^751bade5710297356479f8f1
+9) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neturi šio įstatymo [[#24 straipsnis. Leidimai verstis prekyba nefasuotais naftos produktais|24 straipsnio]] 8 ar [[#^237fc96c5eea3673f78363eb|9 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančių dokumentų; ^1fe76eddc7f779c0903e5852
 
 
-10) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje; ^07354e72c4d31b77c61255cc
+10) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje; ^3a023314b481e110dc46d0a8
 
 
-11) paaiškėja, kad asmuo, turintis licenciją vykdyti visuomeninio elektros energijos tiekimo veiklą, ar asmuo, turintis leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, šią veiklą vykdo pažeisdamas Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatyme nustatytus ribojimus elektros energijos patekimui į Lietuvos Respublikos elektros energijos rinką iš trečiųjų šalių, kuriose veikia nesaugios branduolinės elektrinės. ^7157a0eecf7a7532ab6dc4dc
+11) paaiškėja, kad asmuo, turintis licenciją vykdyti visuomeninio elektros energijos tiekimo veiklą, ar asmuo, turintis leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, šią veiklą vykdo pažeisdamas Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatyme nustatytus ribojimus elektros energijos patekimui į Lietuvos Respublikos elektros energijos rinką iš trečiųjų šalių, kuriose veikia nesaugios branduolinės elektrinės. ^ad3f22245adb4a8b88d61bc2
 
 
-6. Kai energetikos įmonė nustatyta tvarka pateikia dokumentus, įrodančius, kad pažeidimai pašalinti, licenciją, leidimą ar atestatą išduodančios institucijos sprendimu ne vėliau kaip per 10 kalendorinių dienų nuo šių dokumentų įregistravimo licencijas, leidimus ar atestatus išduodančioje institucijoje dienos licencijos, leidimo ar atestato galiojimo sustabdymas panaikinamas. ^0e35f04bc6d2777ef8287de2
+6. Kai energetikos įmonė nustatyta tvarka pateikia dokumentus, įrodančius, kad pažeidimai pašalinti, licenciją, leidimą ar atestatą išduodančios institucijos sprendimu ne vėliau kaip per 10 kalendorinių dienų nuo šių dokumentų įregistravimo licencijas, leidimus ar atestatus išduodančioje institucijoje dienos licencijos, leidimo ar atestato galiojimo sustabdymas panaikinamas. ^55def23b903f92f43ec9265f
 
 
-7. Licencijos, leidimo ir (ar) atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išduodančios institucijos sprendimu teisės aktų nustatyta tvarka panaikinamas, jeigu: ^5fb7594e1b704b9066fa512f
+7. Licencijos, leidimo ir (ar) atestato galiojimas, įvertinus šio ir kitų įstatymų nustatytus reikalavimus, taikomus licencijai, leidimui ar atestatui gauti, juos išduodančios institucijos sprendimu teisės aktų nustatyta tvarka panaikinamas, jeigu: ^44d5e647a67623465415bc8f
 
 
-1) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo jai išduotos licencijos, leidimo ar atestato galiojimo sustabdymo datos pažeidžia veiklos, kuriai išduota licencija, leidimas ar atestatas, sąlygas; ^bd608439427fb363c2c636e3
+1) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo jai išduotos licencijos, leidimo ar atestato galiojimo sustabdymo datos pažeidžia veiklos, kuriai išduota licencija, leidimas ar atestatas, sąlygas; ^db8eadc011773e1081210ab9
 
 
-2) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, nepašalino reguliuojamosios veiklos sąlygų pažeidimų per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį; ^b7e27506df0b72574ac5b5e7
+2) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, nepašalino reguliuojamosios veiklos sąlygų pažeidimų per licenciją, leidimą ar atestatą išduodančios institucijos nustatytą laikotarpį; ^727f3f4a489aa2bac5b216be
 
 
-3) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, vykdo licencijoje, leidime ar atestate nurodytą veiklą; ^069e5b4f4d85dbd535dd802d
+3) energetikos įmonė, kurios licencijos, leidimo ar atestato galiojimas sustabdytas, vykdo licencijoje, leidime ar atestate nurodytą veiklą; ^52bbca7a396dbf6b4c3d7730
 
 
-4) licenciją, leidimą ar atestatą turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus; ^c6bc71fadb57b629024fd5dc
+4) licenciją, leidimą ar atestatą turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus; ^35deda5b0a31acbc35d321d5
 
 
-5) energetikos įmonė daugiau kaip vienus metus arba ilgesnį (bet ne ilgesnį kaip treji metai) terminą, jeigu šis terminas yra nustatytas atskirus energetikos sektorius reglamentuojančiuose įstatymuose, nevykdo licencijoje, leidime ar atestate nurodytos veiklos; ^524a190cfd53a8746b5bb215
+5) energetikos įmonė daugiau kaip vienus metus arba ilgesnį (bet ne ilgesnį kaip treji metai) terminą, jeigu šis terminas yra nustatytas atskirus energetikos sektorius reglamentuojančiuose įstatymuose, nevykdo licencijoje, leidime ar atestate nurodytos veiklos; ^8cb84fb13b54dad007fcbe8d
 
 
-6) energetikos įmonė, turinti leidimą verstis mažmenine prekyba nefasuotais naftos produktais, nuosavybės teisę į degalinę perduoda kitiems asmenims arba pasibaigia sutartis, kurios pagrindu buvo naudojamasi degaline, arba nebevykdo veiklos šioje degalinėje; ^62ab1abc8ed46d6274e34c3b
+6) energetikos įmonė, turinti leidimą verstis mažmenine prekyba nefasuotais naftos produktais, nuosavybės teisę į degalinę perduoda kitiems asmenims arba pasibaigia sutartis, kurios pagrindu buvo naudojamasi degaline, arba nebevykdo veiklos šioje degalinėje; ^b3a81bb3d7e570e6b01219bc
 
 
-7) energetikos įmonė pateikė prašymą panaikinti licencijos, leidimo ar atestato galiojimą; ^a5465948a49b351980b55b39
+7) energetikos įmonė pateikė prašymą panaikinti licencijos, leidimo ar atestato galiojimą; ^39a41a76198b30615b688480
 
 
-8) fizinis asmuo, turėjęs licenciją, leidimą ar atestatą, miršta; ^4c4fedf89bec04bcf6ba2ad0
+8) fizinis asmuo, turėjęs licenciją, leidimą ar atestatą, miršta; ^edbe17830fefc42524dd66ca
 
 
-9) energetikos įmonė deklaracijoje pateikė klaidingus duomenis; ^f4bcf8a64ffea4cda77a2c1e
+9) energetikos įmonė deklaracijoje pateikė klaidingus duomenis; ^b12db5fe27faa702e6c9b288
 
 
-10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo [[#^e0b4408c54a0714f703aa5bc|4 straipsnio 2 dalyje]]; ^11c986114e1a97028b1d309a
+10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo [[#^e93a418c0316174b82664150|4 straipsnio 2 dalyje]]; ^0c9a3e678038ed08a68cf208
 
 
-11) įsiteisėja teismo nutartis energetikos įmonei – juridiniam asmeniui – iškelti bankroto bylą arba kreditorių susirinkimas priima nutarimą energetikos įmonei – juridiniam asmeniui – bankroto procedūras atlikti ne teismo tvarka; ^04cd9ff6c4cf2dfd248cc7a4
+11) įsiteisėja teismo nutartis energetikos įmonei – juridiniam asmeniui – iškelti bankroto bylą arba kreditorių susirinkimas priima nutarimą energetikos įmonei – juridiniam asmeniui – bankroto procedūras atlikti ne teismo tvarka; ^29e3b21e7a444f036df022a7
 Papildyta straipsnio punktu:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-12) įsiteisėja teismo nutartis fiziniam asmeniui, turėjusiam licenciją, leidimą ar atestatą, iškelti bankroto bylą, tačiau jis per 10 darbo dienų nuo teismo nutarties įsiteisėjimo dienos nepateikia Tarybai teismo leidimo vykdyti individualią veiklą arba įsiteisėja teismo nutartis, kuria patvirtinamas fizinio asmens mokumo atkūrimo planas, kuriame nenumatyta, kad fizinis asmuo vykdys individualią veiklą; ^349bd57d9e7d67a21e07ab10
+12) įsiteisėja teismo nutartis fiziniam asmeniui, turėjusiam licenciją, leidimą ar atestatą, iškelti bankroto bylą, tačiau jis per 10 darbo dienų nuo teismo nutarties įsiteisėjimo dienos nepateikia Tarybai teismo leidimo vykdyti individualią veiklą arba įsiteisėja teismo nutartis, kuria patvirtinamas fizinio asmens mokumo atkūrimo planas, kuriame nenumatyta, kad fizinis asmuo vykdys individualią veiklą; ^8b5ff0e6fc8947f5ccaf626e
 Papildyta straipsnio punktu:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-13) nepriklausomas elektros energijos tiekėjas neatitinka Elektros energetikos įstatymo 46 straipsnio 6 dalies 1 punkte nurodyto reikalavimo. ^465c977ad898684160e68f2f
+13) nepriklausomas elektros energijos tiekėjas neatitinka Elektros energetikos įstatymo 46 straipsnio 6 dalies 1 punkte nurodyto reikalavimo. ^a70485f59bafed61ceb368fa
 Papildyta straipsnio punktu:
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 
 
 
-8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išdavusios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo dienos. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti nustatyti atvejai, kai leidimai negali būti keičiami pasikeitus teritorijai, kurioje vykdoma reguliuojamoji veikla. ^421dc45861ae2eb4a561a78c
+8. Išduoti licencijos, leidimai ar atestatai gali būti keičiami juos išdavusios institucijos iniciatyva, kai pasikeičia įstatymų nustatyti reikalavimai, taikomi reguliuojamajai veiklai, arba asmens, turinčio licenciją, leidimą ar atestatą, iniciatyva, kai pasikeičia licencijoje, leidime ar atestate nurodyti asmens duomenys ar teritorija, kurioje vykdoma reguliuojamoji veikla. Pasikeitus licencijoje, leidime ar atestate nurodytiems asmens duomenims ar teritorijai, kurioje vykdoma reguliuojamoji veikla, toks asmuo privalo raštu pranešti licenciją, leidimą ar atestatą išdavusiai institucijai apie šiuos pasikeitimus ne vėliau kaip per 10 darbo dienų nuo pasikeitimų atsiradimo dienos. Asmeniui, siekiančiam pakeisti išduotą energetikos veiklos leidimą ir pateikusiam deklaraciją, laikoma, kad leidimas pakeistas ar patikslintas kitą dieną po deklaracijos pateikimo leidimus išduodančiai institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po deklaracijos pateikimo leidimus išduodančiai institucijai dienos. Atskirus energetikos sektorius reglamentuojančiuose įstatymuose gali būti nustatyti atvejai, kai leidimai negali būti keičiami pasikeitus teritorijai, kurioje vykdoma reguliuojamoji veikla. ^8475644221a27d6d7f32c486
 Straipsnio dalies pakeitimai:
 Nr. XIV-1003, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07253
 
 
 
-9. Už licencijos, leidimo ar atestato išdavimą ar jų pakeitimą mokama Vyriausybės nustatyto dydžio valstybės rinkliava. ^884404e7ef910aa1c431c562
+9. Už licencijos, leidimo ar atestato išdavimą ar jų pakeitimą mokama Vyriausybės nustatyto dydžio valstybės rinkliava. ^237fc96c5eea3673f78363eb
 
 
-10. Valstybinės priežiūros ir (ar) kontrolės institucijos įstatymų nustatyta tvarka pagal kompetenciją kontroliuoja licencijas, leidimus ar atestatus turinčių energetikos įmonių veiklą ir prižiūri, kaip jos laikosi reguliuojamosios veiklos sąlygų. Valstybinės priežiūros ir (ar) kontrolės institucijos privalo nedelsdamos raštu arba kitomis priemonėmis pateikti informaciją licenciją, leidimą ar atestatą išduodančiai institucijai apie nustatytus energetikos įmonių reguliuojamosios veiklos sąlygų pažeidimus. ^290935f13ecad60bb6346f2a
+10. Valstybinės priežiūros ir (ar) kontrolės institucijos įstatymų nustatyta tvarka pagal kompetenciją kontroliuoja licencijas, leidimus ar atestatus turinčių energetikos įmonių veiklą ir prižiūri, kaip jos laikosi reguliuojamosios veiklos sąlygų. Valstybinės priežiūros ir (ar) kontrolės institucijos privalo nedelsdamos raštu arba kitomis priemonėmis pateikti informaciją licenciją, leidimą ar atestatą išduodančiai institucijai apie nustatytus energetikos įmonių reguliuojamosios veiklos sąlygų pažeidimus. ^c59b2b6eb8c968ddb2f31880
 
 
 Straipsnio pakeitimai:
@@ -1916,86 +1935,92 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 ### 22 straipsnis. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai ir reikalavimai atestatų turėtojams
 
 
-1. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai yra šių rūšių: ^835a95c98997aa12c0e39614
+1. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai yra šių rūšių: ^c7ba3b303eac550c1e1005a6
 
 
-1) elektros įrenginių įrengimo; ^4c134527c369fa8648ab616c
+1) elektros įrenginių įrengimo; ^b966cb962ed101bc24f05dd5
 
 
-2) gamtinių dujų įrenginių įrengimo; ^07185a0cf2e63d9d06b380da
+2) gamtinių dujų įrenginių įrengimo; ^f788cf735d86eb150da41116
 
 
-3) elektros įrenginių eksploatavimo; ^0468c83d87af8839ca0b12ff
+3) elektros įrenginių eksploatavimo; ^c27c53fceaa966a5ebe081e9
 
 
-4) šilumos įrenginių ir turbinų eksploatavimo; ^c768296382666db109da7459
+4) šilumos įrenginių ir turbinų eksploatavimo; ^a00e74ec85a42e5e0d4a0220
 
 
-5) gamtinių dujų įrenginių eksploatavimo; ^b5d55d888345c95f8a38b125
+5) gamtinių dujų įrenginių eksploatavimo; ^1c0745a9df97f9f66244a2a2
 
 
-6) suskystintų naftos dujų įrenginių eksploatavimo; ^e1feac7e4636f54a36cc1638
+6) suskystintų naftos dujų įrenginių eksploatavimo; ^ed3993e77e021a228f2d3d0e
 
 
-7) naftos ir naftos produktų įrenginių eksploatavimo; ^1c9c095fdce2eead2f7c4b6c
+7) naftos ir naftos produktų įrenginių eksploatavimo; ^dbecf6cb34a79d0d48eeb6ef
 
 
-2. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti [[#^835a95c98997aa12c0e39614|šio straipsnio 1 dalyje]], išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Tarybos tvirtinamose asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo taisyklėse. ^954e61652e8b1df36b6567d4
+8) vandenilio įrenginių eksploatavimo. ^917134e144871ae5d22bff75
+Papildyta straipsnio punktu:
+Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
+
+
+
+2. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti [[#^c7ba3b303eac550c1e1005a6|šio straipsnio 1 dalyje]], išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Tarybos tvirtinamose asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo taisyklėse. ^56fc1835957604901fec38a0
 Straipsnio dalies pakeitimai:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-3. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti [[#^835a95c98997aa12c0e39614|šio straipsnio 1 dalyje]], išduodami asmenims, nurodytiems šio įstatymo [[#^e5fbd38269f0a6f0cda3eb4a|2 straipsnio 1 dalyje]], jeigu jie atitinka šiuos reikalavimus: ^b9defaa4274e8a3cbcd05158
+3. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti [[#^c7ba3b303eac550c1e1005a6|šio straipsnio 1 dalyje]], išduodami asmenims, nurodytiems šio įstatymo [[#^f9066d143d0f12bc9f148be5|2 straipsnio 1 dalyje]], jeigu jie atitinka šiuos reikalavimus: ^8c569c93f05bc6492ce8fba8
 
 
-1) turi technologinę įrangą, prietaisus ir kitas priemones, reikalingus veiksmams, kurių reikia energetikos įrenginiams įrengti ar eksploatuoti, atlikti; ^9540e9ab2c09cb79b091a55c
+1) turi technologinę įrangą, prietaisus ir kitas priemones, reikalingus veiksmams, kurių reikia energetikos įrenginiams įrengti ar eksploatuoti, atlikti; ^50df525b851b2a03e0a1fd80
 
 
-2) turi technologinius, techninius dokumentus, kuriuose nurodyti įrengiamų, eksploatuojamų energetikos įrenginių techniniai duomenys ir įrengimo ar eksploatavimo procedūros; ^0db7517390cf5eafb1c18db2
+2) turi technologinius, techninius dokumentus, kuriuose nurodyti įrengiamų, eksploatuojamų energetikos įrenginių techniniai duomenys ir įrengimo ar eksploatavimo procedūros; ^ab5d47bac1652bceec08ac72
 
 
-3) energetikos objektus, įrenginius įrengiantys ir eksploatuojantys inžinerinių ir darbininkų kategorijų energetikos darbuotojai, kurie įrengs ar eksploatuos energetikos įrenginius, ir energetikos įmonių vadovai arba jų įgalioti asmenys, kurie tiesiogiai vadovaus energetikos įrenginių įrengimo ar eksploatavimo darbams, turi šio įstatymo [[#28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas|28 straipsnyje]] ir kituose teisės aktuose, reglamentuojančiuose energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus, apibrėžtą kvalifikaciją ir yra atestuoti Energetikos ministerijos nustatyta tvarka; ^e962049659443f3fb8ae09ca
+3) energetikos objektus, įrenginius įrengiantys ir eksploatuojantys inžinerinių ir darbininkų kategorijų energetikos darbuotojai, kurie įrengs ar eksploatuos energetikos įrenginius, ir energetikos įmonių vadovai arba jų įgalioti asmenys, kurie tiesiogiai vadovaus energetikos įrenginių įrengimo ar eksploatavimo darbams, turi šio įstatymo [[#28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas|28 straipsnyje]] ir kituose teisės aktuose, reglamentuojančiuose energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus, apibrėžtą kvalifikaciją ir yra atestuoti Energetikos ministerijos nustatyta tvarka; ^1278911aa2cdda1c1ca0c827
 
 
-4) turi profesinės civilinės atsakomybės draudimą, kaip nustatyta šio įstatymo [[#221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas|221 straipsnyje]]. Šis reikalavimas taikomas tik asmenims, siekiantiems gauti [[#^835a95c98997aa12c0e39614|šio straipsnio 1 dalies]] 1 ir [[#^0db7517390cf5eafb1c18db2|2 punktuose]] nustatytus energetikos įrenginių įrengimo veiklos atestatus. ^d5991872cd1cafe6f61e37da
+4) turi profesinės civilinės atsakomybės draudimą, kaip nustatyta šio įstatymo [[#221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas|221 straipsnyje]]. Šis reikalavimas taikomas tik asmenims, siekiantiems gauti [[#^c7ba3b303eac550c1e1005a6|šio straipsnio 1 dalies]] 1 ir [[#^ab5d47bac1652bceec08ac72|2 punktuose]] nustatytus energetikos įrenginių įrengimo veiklos atestatus. ^119262be845c2694a31388bb
 
 
-4. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatą, nurodytą [[#^835a95c98997aa12c0e39614|šio straipsnio 1 dalyje]], turintis asmuo privalo laikytis šių sąlygų: ^77ef01a390f3b003ee06296c
+4. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatą, nurodytą [[#^c7ba3b303eac550c1e1005a6|šio straipsnio 1 dalyje]], turintis asmuo privalo laikytis šių sąlygų: ^c1b8b3fd90ad3da645ffcdc0
 
 
-1) teikdamas atestate nurodytas energetikos įrenginių įrengimo ir (ar) eksploatavimo paslaugas, laikytis teisės aktuose nustatytų reikalavimų; ^f9dedd62d419a10976f72e41
+1) teikdamas atestate nurodytas energetikos įrenginių įrengimo ir (ar) eksploatavimo paslaugas, laikytis teisės aktuose nustatytų reikalavimų; ^58990f351e7c4d517f10b981
 
 
-2) turėti profesinės civilinės atsakomybės draudimą, kaip nustatyta šio įstatymo [[#221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas|221 straipsnyje]]. Šis reikalavimas taikomas tik asmenims, turintiems [[#^835a95c98997aa12c0e39614|šio straipsnio 1 dalies]] 1 ir 2 punktuose nustatytus energetikos įrenginių įrengimo veiklos atestatus; ^9dc80d46e7de40588bb95366
-TAR pastaba. Asmuo, turintis iki įstatymo Nr. XIII-1455 įsigaliojimo (2019-01-01) išduotą atestatą, suteikiantį teisę eksploatuoti elektros ir (ar) gamtinių dujų įrenginius, turi teisę vykdyti ir tokių įrenginių įrengimo veiklą iki išduoto atitinkamų energetikos įrenginių eksploatavimo veiklos atestato galiojimo pabaigos, jeigu jis atitinka Lietuvos Respublikos energetikos įstatymo [[#^9dc80d46e7de40588bb95366|22 straipsnio 4 dalies 2 punkte]] nustatytą sąlygą,
+2) turėti profesinės civilinės atsakomybės draudimą, kaip nustatyta šio įstatymo [[#221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas|221 straipsnyje]]. Šis reikalavimas taikomas tik asmenims, turintiems [[#^c7ba3b303eac550c1e1005a6|šio straipsnio 1 dalies]] 1 ir 2 punktuose nustatytus energetikos įrenginių įrengimo veiklos atestatus; ^32bf5cc3f5d1d87a9e5be521
+TAR pastaba. Asmuo, turintis iki įstatymo Nr. XIII-1455 įsigaliojimo (2019-01-01) išduotą atestatą, suteikiantį teisę eksploatuoti elektros ir (ar) gamtinių dujų įrenginius, turi teisę vykdyti ir tokių įrenginių įrengimo veiklą iki išduoto atitinkamų energetikos įrenginių eksploatavimo veiklos atestato galiojimo pabaigos, jeigu jis atitinka Lietuvos Respublikos energetikos įstatymo [[#^32bf5cc3f5d1d87a9e5be521|22 straipsnio 4 dalies 2 punkte]] nustatytą sąlygą,
 
 
-3) neturi teisės įgalioti kitus asmenis verstis atestatuose nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį; ^d7e2becc4e5a77de4c7fb18b
+3) neturi teisės įgalioti kitus asmenis verstis atestatuose nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį; ^447350498453c2e4ede2e6c7
 
 
-4) teikti Tarybai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti; ^e9217faf76387d84a5b2f014
+4) teikti Tarybai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti; ^c1759b17967d8498df67fd6f
 Straipsnio punkto pakeitimai:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-5) užtikrinti, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų. ^92368e504bae142afcece0b5
+5) užtikrinti, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų. ^60d023bc0bd0f3dc711bdc02
 
 
-5. Elektros įrenginių įrengimo veiklos atestatą turintiems asmenims suteikiama teisė įrengti elektros įrenginius, pagal Lietuvos Respublikos elektros energetikos įstatymą laikomus kilnojamaisiais daiktais, išskyrus elektros įrenginius ypatinguosiuose statiniuose. ^c62f3e4dde149eda1365b1fb
+5. Elektros įrenginių įrengimo veiklos atestatą turintiems asmenims suteikiama teisė įrengti elektros įrenginius, pagal Lietuvos Respublikos elektros energetikos įstatymą laikomus kilnojamaisiais daiktais, išskyrus elektros įrenginius ypatinguosiuose statiniuose. ^9e271ce8974d308fcac3a9fe
 
 
-6. Gamtinių dujų įrenginių įrengimo veiklos atestatą turintiems asmenims suteikiama teisė įrengti gamtinių dujų įrenginius, pagal Lietuvos Respublikos gamtinių dujų įstatymą laikomus kilnojamaisiais daiktais, išskyrus gamtinių dujų įrenginius ypatinguosiuose statiniuose. ^d01e58017f9f5a26a612b6f8
+6. Gamtinių dujų įrenginių įrengimo veiklos atestatą turintiems asmenims suteikiama teisė įrengti gamtinių dujų įrenginius, pagal Lietuvos Respublikos gamtinių dujų įstatymą laikomus kilnojamaisiais daiktais, išskyrus gamtinių dujų įrenginius ypatinguosiuose statiniuose. ^27616fcdb04599dc8c7135f2
 
 
-7. [[#^835a95c98997aa12c0e39614|Šio straipsnio 1 dalyje]] nurodytus energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatus išduoda, juos keičia, sustabdo atestatų galiojimą, panaikina galiojimo sustabdymą, panaikina atestatų galiojimą ir energetikos įrenginių įrengimo ir eksploatavimo reguliuojamąją veiklą kontroliuoja Taryba. ^0bc45b6c6a0c60b6843f32a9
+7. [[#^c7ba3b303eac550c1e1005a6|Šio straipsnio 1 dalyje]] nurodytus energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatus išduoda, juos keičia, sustabdo atestatų galiojimą, panaikina galiojimo sustabdymą, panaikina atestatų galiojimą ir energetikos įrenginių įrengimo ir eksploatavimo reguliuojamąją veiklą kontroliuoja Taryba. ^d82edd21bb76a0e0a3c97d70
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-8. Reikalavimas dėl energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatų, nurodytų [[#^835a95c98997aa12c0e39614|šio straipsnio 1 dalyje]], netaikomas Lietuvos Respublikoje ar kitose valstybėse narėse, Šiaurės Atlanto sutarties organizacijos valstybėse narėse arba trečiosiose šalyse, pasirašiusiose Pasaulio prekybos organizacijos sutartį dėl viešųjų pirkimų ir kitus tarptautinius susitarimus, kurie privalomi šios organizacijos valstybėms narėms, (toliau – nustatytos valstybės) įsteigtiems juridiniams asmenims ar kitoms organizacijoms arba jų padaliniams, taip pat nustatytų valstybių piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, kai jie su elektros energijos perdavimo sistemos operatoriumi, gamtinių dujų perdavimo sistemos operatoriumi, suskystintų gamtinių dujų terminalo operatoriumi, naftos perdirbimo įrenginių ir magistralinių naftotiekių operatoriumi ir (ar) asmeniu, turinčiu leidimą naudoti jūrinės teritorijos dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, savo valdomuose energetikos objektuose ir (ar) energetikos įrenginiuose yra sudarę rašytinį susitarimą dėl energetikos įrenginių įrengimo ir (ar) eksploatavimo darbų atlikimo, kuriame energetikos įmonių sprendimu numatyti energetikos įrenginių įrengimo ir (ar) eksploatavimo kvalifikaciniai reikalavimai. Nustatytų valstybių juridiniai asmenys ar kitos organizacijos arba jų padaliniai, nustatytų valstybių piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, sudarę šioje dalyje nurodytą rašytinį susitarimą dėl energetikos įrenginių įrengimo ir (ar) eksploatavimo darbų atlikimo energetikos įmonėje, atsako už savo vykdomos veiklos saugumą, patikimumą ir atitiktį energetikos įrenginių įrengimą ir (ar) eksploatavimą reglamentuojančių teisės aktų reikalavimams. Su energetikos įmone sudarytas rašytinis susitarimas, suteikiantis teisę šioje energetikos įmonėje atlikti energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus, nepašalina ir nesumažina šį susitarimą sudariusio juridinio ir (ar) fizinio asmens atsakomybės energetikos įmonei ir tretiesiems asmenims. Fiziniai ir juridiniai asmenys, kurie atlieka energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus pagal rašytinį susitarimą su energetikos įmone, privalo laikytis atitinkamai (mutatis mutandis) taikomų šio straipsnio nuostatų arba turėti lygiavertį draudimo dokumentą, jeigu toks yra suteiktas kitoje valstybėje narėje pagal tos valstybės teisės aktus. ^49fb81284ad55d6a665c3bd1
+8. Reikalavimas dėl energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatų, nurodytų [[#^c7ba3b303eac550c1e1005a6|šio straipsnio 1 dalyje]], netaikomas Lietuvos Respublikoje ar kitose valstybėse narėse, Šiaurės Atlanto sutarties organizacijos valstybėse narėse arba trečiosiose šalyse, pasirašiusiose Pasaulio prekybos organizacijos sutartį dėl viešųjų pirkimų ir kitus tarptautinius susitarimus, kurie privalomi šios organizacijos valstybėms narėms, (toliau – nustatytos valstybės) įsteigtiems juridiniams asmenims ar kitoms organizacijoms arba jų padaliniams, taip pat nustatytų valstybių piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, kai jie su elektros energijos perdavimo sistemos operatoriumi, gamtinių dujų perdavimo sistemos operatoriumi, suskystintų gamtinių dujų terminalo operatoriumi, naftos perdirbimo įrenginių ir magistralinių naftotiekių operatoriumi ir (ar) asmeniu, turinčiu leidimą naudoti jūrinės teritorijos dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, savo valdomuose energetikos objektuose ir (ar) energetikos įrenginiuose yra sudarę rašytinį susitarimą dėl energetikos įrenginių įrengimo ir (ar) eksploatavimo darbų atlikimo, kuriame energetikos įmonių sprendimu numatyti energetikos įrenginių įrengimo ir (ar) eksploatavimo kvalifikaciniai reikalavimai. Nustatytų valstybių juridiniai asmenys ar kitos organizacijos arba jų padaliniai, nustatytų valstybių piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, sudarę šioje dalyje nurodytą rašytinį susitarimą dėl energetikos įrenginių įrengimo ir (ar) eksploatavimo darbų atlikimo energetikos įmonėje, atsako už savo vykdomos veiklos saugumą, patikimumą ir atitiktį energetikos įrenginių įrengimą ir (ar) eksploatavimą reglamentuojančių teisės aktų reikalavimams. Su energetikos įmone sudarytas rašytinis susitarimas, suteikiantis teisę šioje energetikos įmonėje atlikti energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus, nepašalina ir nesumažina šį susitarimą sudariusio juridinio ir (ar) fizinio asmens atsakomybės energetikos įmonei ir tretiesiems asmenims. Fiziniai ir juridiniai asmenys, kurie atlieka energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus pagal rašytinį susitarimą su energetikos įmone, privalo laikytis atitinkamai (mutatis mutandis) taikomų šio straipsnio nuostatų arba turėti lygiavertį draudimo dokumentą, jeigu toks yra suteiktas kitoje valstybėje narėje pagal tos valstybės teisės aktus. ^0fa7424fa92bb90351d13650
 Papildyta straipsnio dalimi:
 Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 
@@ -2009,25 +2034,25 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 ### 221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas
 
 
-1. Elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo privalo turėti profesinės civilinės atsakomybės draudimą, atitinkantį šiame straipsnyje nustatytas sąlygas. ^cf55193e5ae6893763eb018d
+1. Elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo privalo turėti profesinės civilinės atsakomybės draudimą, atitinkantį šiame straipsnyje nustatytas sąlygas. ^3dd632d4997734293efda89c
 
 
-2. Draudimo objektas yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens turtiniai interesai, susiję su pastarojo civiline atsakomybe, atsirandančia dėl tokio asmens veiksmais padarytos žalos užsakovui ir (ar) tretiesiems asmenims, vykdant elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklą. ^b0ade762ff52fddde3c62626
+2. Draudimo objektas yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens turtiniai interesai, susiję su pastarojo civiline atsakomybe, atsirandančia dėl tokio asmens veiksmais padarytos žalos užsakovui ir (ar) tretiesiems asmenims, vykdant elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklą. ^391d826fbc1528a9759dc9a2
 
 
-3. Draudžiamasis įvykis yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinės atsakomybės atsiradimas už elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmų (veikimo ar neveikimo), dėl kurių atsirado žala, atlikimą ir reikalavimo atlyginti žalą draudėjui arba draudikui už užsakovui ir (ar) trečiajam asmeniui padarytą žalą dėl šioje dalyje nurodytų draudėjo veiksmų pateikimas, jeigu yra visos šios sąlygos: ^f8323e5c421d5e0bfe6786a8
+3. Draudžiamasis įvykis yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinės atsakomybės atsiradimas už elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmų (veikimo ar neveikimo), dėl kurių atsirado žala, atlikimą ir reikalavimo atlyginti žalą draudėjui arba draudikui už užsakovui ir (ar) trečiajam asmeniui padarytą žalą dėl šioje dalyje nurodytų draudėjo veiksmų pateikimas, jeigu yra visos šios sąlygos: ^be946332b9df0421415814ed
 
 
-1) elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmai atliekami ir (ar) atlikti Lietuvos Respublikos teritorijoje draudimo sutarties galiojimo metu; ^b70a69ec84b7ec07d28bdf5e
+1) elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmai atliekami ir (ar) atlikti Lietuvos Respublikos teritorijoje draudimo sutarties galiojimo metu; ^65a3a3fccad3b7b5d89d0199
 
 
-2) reikalavimas pateiktas kaip rašytinė pretenzija arba ieškinys; ^0a53359378b2c6da04c7e0c0
+2) reikalavimas pateiktas kaip rašytinė pretenzija arba ieškinys; ^51498d998f94e70a3acc5b2f
 
 
-3) reikalavimas pareikštas dėl žalos, kuri atsirado draudimo sutarties galiojimo metu ir (ar) per draudimo sutarties šalių nustatytą terminą, ne trumpesnį negu 24 mėnesiai po draudimo sutarties galiojimo pabaigos; ^fb06a31c373e0d2edf3764a5
+3) reikalavimas pareikštas dėl žalos, kuri atsirado draudimo sutarties galiojimo metu ir (ar) per draudimo sutarties šalių nustatytą terminą, ne trumpesnį negu 24 mėnesiai po draudimo sutarties galiojimo pabaigos; ^64699124ed04e7dee18718c9
 
 
-4) reikalavimas pareikštas draudimo sutarties galiojimo metu ir (ar) per draudimo sutarties šalių nustatytą terminą, ne trumpesnį negu 24 mėnesiai po draudimo sutarties galiojimo pabaigos. ^125b1b2fe9bd3de2f8f53412
+4) reikalavimas pareikštas draudimo sutarties galiojimo metu ir (ar) per draudimo sutarties šalių nustatytą terminą, ne trumpesnį negu 24 mėnesiai po draudimo sutarties galiojimo pabaigos. ^93e59bf69a42f6fe728ed6e2
 
 
 Straipsnio dalies pakeitimai:
@@ -2035,40 +2060,40 @@ Nr. XIII-2018, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05353
 
 
 
-4. Draudimo sutartis sudaroma vieniems metams, jeigu likęs elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminas yra ilgesnis negu vieni metai. Jeigu likęs elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminas yra trumpesnis negu vieni metai, draudimo sutartis sudaroma likusiam elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminui. ^6938adcf00be9c142027ac8e
+4. Draudimo sutartis sudaroma vieniems metams, jeigu likęs elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminas yra ilgesnis negu vieni metai. Jeigu likęs elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminas yra trumpesnis negu vieni metai, draudimo sutartis sudaroma likusiam elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminui. ^28677751afa7b5f13f7e6ae6
 
 
-5. Suėjus draudimo sutarties terminui, draudimo sutartyje nustatytais atvejais draudimo sutarties terminas gali būti automatiškai pratęstas. Pratęsimas galimas ne ilgiau kaip vieniems metams arba iki elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo termino pabaigos, jeigu šis terminas yra trumpesnis negu vieni metai. ^56148a89a30ffb0d3716b285
+5. Suėjus draudimo sutarties terminui, draudimo sutartyje nustatytais atvejais draudimo sutarties terminas gali būti automatiškai pratęstas. Pratęsimas galimas ne ilgiau kaip vieniems metams arba iki elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo termino pabaigos, jeigu šis terminas yra trumpesnis negu vieni metai. ^63adc3b21de48b46ec933dfa
 
 
-6. [[#^56148a89a30ffb0d3716b285|Šio straipsnio 5 dalyje]] numatytu atveju automatinis draudimo sutarties pratęsimas įsigalioja, jeigu nė viena iš draudimo sutarties šalių raštu ne vėliau kaip prieš vieną mėnesį iki draudimo sutarties termino pabaigos, o kai sutarties terminas yra trumpesnis kaip 3 mėnesiai, – prieš kitą šalių susitarimu nustatytą protingą terminą nepareiškia nesutikimo pratęsti sutartį. ^02eb354567ec6265ee0981b2
+6. [[#^63adc3b21de48b46ec933dfa|Šio straipsnio 5 dalyje]] numatytu atveju automatinis draudimo sutarties pratęsimas įsigalioja, jeigu nė viena iš draudimo sutarties šalių raštu ne vėliau kaip prieš vieną mėnesį iki draudimo sutarties termino pabaigos, o kai sutarties terminas yra trumpesnis kaip 3 mėnesiai, – prieš kitą šalių susitarimu nustatytą protingą terminą nepareiškia nesutikimo pratęsti sutartį. ^01f316b41c26de0f9b424523
 
 
-7. Automatinių draudimo sutarties termino pratęsimų skaičius nėra ribojamas. Automatinio draudimo sutarties termino pratęsimo sąlygos privalo būti draudimo sutarties šalių individualiai aptartos sudarant draudimo sutartį. ^bee84d9e4b1878032411f27f
+7. Automatinių draudimo sutarties termino pratęsimų skaičius nėra ribojamas. Automatinio draudimo sutarties termino pratęsimo sąlygos privalo būti draudimo sutarties šalių individualiai aptartos sudarant draudimo sutartį. ^64480551d54aeaed0a623703
 
 
-8. Draudimo išmoką draudikas moka nukentėjusiam užsakovui ir (ar) trečiajam asmeniui, o kai elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo atlygino žalą, padarytą nukentėjusiam užsakovui ir (ar) trečiajam asmeniui, draudikas moka draudimo išmoką elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčiam asmeniui. ^6757653bb32301a37833f492
+8. Draudimo išmoką draudikas moka nukentėjusiam užsakovui ir (ar) trečiajam asmeniui, o kai elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo atlygino žalą, padarytą nukentėjusiam užsakovui ir (ar) trečiajam asmeniui, draudikas moka draudimo išmoką elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčiam asmeniui. ^bcfdabfe1106312af7fffbc0
 
 
-9. Nukentėjęs užsakovas ir (ar) trečiasis asmuo turi teisę tiesiogiai reikalauti, kad draudikas, apdraudęs atsakingo už žalą elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinę atsakomybę, išmokėtų draudimo išmoką. ^d71b19e6f3e645290cff7f72
+9. Nukentėjęs užsakovas ir (ar) trečiasis asmuo turi teisę tiesiogiai reikalauti, kad draudikas, apdraudęs atsakingo už žalą elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinę atsakomybę, išmokėtų draudimo išmoką. ^200c3d80b4dbc61decd28091
 
 
-10. Reikalavimą išmokėti draudimo išmoką teikiantis užsakovas ir (ar) trečiasis asmuo, ir (ar) elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo privalo pateikti draudikui visus turimus dokumentus ir informaciją apie draudžiamojo įvykio aplinkybes ir pasekmes, būtinus nustatant draudimo išmokos dydį. Draudiko reikalavimu šioje dalyje nurodyti asmenys taip pat privalo pateikti būtinus nustatant draudimo išmokos dydį dokumentus apie draudžiamojo įvykio aplinkybes ir pasekmes, kuriuos jis turi teisę gauti įstatymų ir kitų teisės aktų nustatyta tvarka. Draudimo sutartyje privalo būti nurodyta, kokie dokumentai yra pateiktini draudikui. ^39f0545c37227efcd4d16f0e
+10. Reikalavimą išmokėti draudimo išmoką teikiantis užsakovas ir (ar) trečiasis asmuo, ir (ar) elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo privalo pateikti draudikui visus turimus dokumentus ir informaciją apie draudžiamojo įvykio aplinkybes ir pasekmes, būtinus nustatant draudimo išmokos dydį. Draudiko reikalavimu šioje dalyje nurodyti asmenys taip pat privalo pateikti būtinus nustatant draudimo išmokos dydį dokumentus apie draudžiamojo įvykio aplinkybes ir pasekmes, kuriuos jis turi teisę gauti įstatymų ir kitų teisės aktų nustatyta tvarka. Draudimo sutartyje privalo būti nurodyta, kokie dokumentai yra pateiktini draudikui. ^7e49ccc9b77a1708c62b56ad
 
 
-11. Draudimo išmokos dydį nustato draudikas, atsižvelgdamas į padarytos žalos dydį. Žalos dydis nustatomas atsižvelgiant į Civilinio kodekso ir kitų teisės aktų nuostatas, įsiteisėjusį teismo sprendimą ar įsiteisėjusią teismo nutartį patvirtinti taikos sutartį civilinėje byloje pagal užsakovo ir (ar) trečiojo asmens ieškinį elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčiam asmeniui dėl žalos atlyginimo, užsakovo ir (ar) trečiojo asmens ar kitų įstaigų ir įmonių, pagal teisės aktus turinčių teisę nustatyti žalos dydį, išvadas. ^861aed02697b68bcec280782
+11. Draudimo išmokos dydį nustato draudikas, atsižvelgdamas į padarytos žalos dydį. Žalos dydis nustatomas atsižvelgiant į Civilinio kodekso ir kitų teisės aktų nuostatas, įsiteisėjusį teismo sprendimą ar įsiteisėjusią teismo nutartį patvirtinti taikos sutartį civilinėje byloje pagal užsakovo ir (ar) trečiojo asmens ieškinį elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčiam asmeniui dėl žalos atlyginimo, užsakovo ir (ar) trečiojo asmens ar kitų įstaigų ir įmonių, pagal teisės aktus turinčių teisę nustatyti žalos dydį, išvadas. ^e52fbb11258491845381d0f6
 
 
-12. Jeigu draudimo sutartis buvo nutraukta ar pasibaigė anksčiau, negu nurodyta draudimo liudijime (polise), elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo per 10 darbo dienų nuo draudimo sutarties nutraukimo ar pasibaigimo privalo sudaryti naują draudimo sutartį. Veiklos vykdymas be galiojančios draudimo sutarties, įskaitant šioje dalyje numatytą 10 darbo dienų laikotarpį naujai draudimo sutarčiai sudaryti, laikomas veiklos vykdymu neturint teisės verstis šia veikla. ^37b921d94732158619bd5893
+12. Jeigu draudimo sutartis buvo nutraukta ar pasibaigė anksčiau, negu nurodyta draudimo liudijime (polise), elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo per 10 darbo dienų nuo draudimo sutarties nutraukimo ar pasibaigimo privalo sudaryti naują draudimo sutartį. Veiklos vykdymas be galiojančios draudimo sutarties, įskaitant šioje dalyje numatytą 10 darbo dienų laikotarpį naujai draudimo sutarčiai sudaryti, laikomas veiklos vykdymu neturint teisės verstis šia veikla. ^41e5cdfdca45434ec6e9b8cc
 
 
-13. Draudimo suma nustatoma draudiko ir elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens susitarimu ir nurodoma draudimo liudijime (polise). Minimali draudimo suma negali būti mažesnė kaip dešimt tūkstančių eurų metams. ^2376b5a050f21d636f693d4a
+13. Draudimo suma nustatoma draudiko ir elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens susitarimu ir nurodoma draudimo liudijime (polise). Minimali draudimo suma negali būti mažesnė kaip dešimt tūkstančių eurų metams. ^79aa3246bb76bf1483e68baa
 
 
-14. Kai draudikas išmoka draudimo išmoką dėl nuostolių, lygių draudimo sumos daliai, draudiko prievolė lieka galioti iki draudimo sutarties termino pabaigos visai draudimo sumai, neatskaičiuojant iš jos sumokėtų draudimo išmokų, išskyrus atvejus, kai draudimo sutartyje nustatyta, kad draudiko prievolė lieka galioti tik likusiai draudimo sumos daliai. ^9efbdf4f031c0da738b90124
+14. Kai draudikas išmoka draudimo išmoką dėl nuostolių, lygių draudimo sumos daliai, draudiko prievolė lieka galioti iki draudimo sutarties termino pabaigos visai draudimo sumai, neatskaičiuojant iš jos sumokėtų draudimo išmokų, išskyrus atvejus, kai draudimo sutartyje nustatyta, kad draudiko prievolė lieka galioti tik likusiai draudimo sumos daliai. ^4d53d65dd7b20a9a848842f6
 
 
-15. Kitas, negu nurodytas šiame straipsnyje, draudimo sutarties sąlygas nustato Civilinis kodeksas, Lietuvos Respublikos draudimo įstatymas, draudiko ir elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens susitarimas. ^951cfbc3a3e1674bada3a974
+15. Kitas, negu nurodytas šiame straipsnyje, draudimo sutarties sąlygas nustato Civilinis kodeksas, Lietuvos Respublikos draudimo įstatymas, draudiko ir elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens susitarimas. ^9fdc69e8db7e242e76ec5fd7
 
 
 Papildyta straipsniu:
@@ -2079,112 +2104,112 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 ### 23 straipsnis. Leidimai verstis prekyba suskystintomis naftos dujomis
 
 
-1. Leidimai verstis prekyba suskystintomis naftos dujomis yra šių rūšių: ^be96a4efc7a93fc7062491b6
+1. Leidimai verstis prekyba suskystintomis naftos dujomis yra šių rūšių: ^0f4d869c85f879c3238d2998
 
 
-1) leidimas verstis didmenine prekyba suskystintomis naftos dujomis; ^aa9d0a9f8cd499a94ac7555d
+1) leidimas verstis didmenine prekyba suskystintomis naftos dujomis; ^3160cdbebe044ac07309c218
 
 
-2) leidimas verstis mažmenine prekyba suskystintomis naftos dujomis. ^e92ccbd8588fdda7573349d3
+2) leidimas verstis mažmenine prekyba suskystintomis naftos dujomis. ^144327f8c95a262ca230861d
 
 
-2. Leidimai verstis mažmenine prekyba suskystintomis naftos dujomis išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje. Leidimuose verstis mažmenine prekyba suskystintomis naftos dujomis nurodoma konkreti prekybos vieta (ar vietos). ^396dfd73b0c7e730371238a0
+2. Leidimai verstis mažmenine prekyba suskystintomis naftos dujomis išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje. Leidimuose verstis mažmenine prekyba suskystintomis naftos dujomis nurodoma konkreti prekybos vieta (ar vietos). ^77e90904bff9226f423891f0
 
 
-3. Leidimai verstis didmenine prekyba suskystintomis naftos dujomis išduodami šio įstatymo [[#^e5fbd38269f0a6f0cda3eb4a|2 straipsnio 1 dalyje]] nurodytiems asmenims. ^398b8c3f988a751710258629
+3. Leidimai verstis didmenine prekyba suskystintomis naftos dujomis išduodami šio įstatymo [[#^f9066d143d0f12bc9f148be5|2 straipsnio 1 dalyje]] nurodytiems asmenims. ^162424f13771ecd837fc8871
 
 
-4. Leidimuose verstis prekyba suskystintomis naftos dujomis įrašytų duomenų keitimo atvejai ir tvarka nustatomi Energetikos ministerijos patvirtintose Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse. ^18ff657c0a5f7cc3c6abea16
+4. Leidimuose verstis prekyba suskystintomis naftos dujomis įrašytų duomenų keitimo atvejai ir tvarka nustatomi Energetikos ministerijos patvirtintose Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse. ^8fa6f5a3ae7cb888c73f4080
 
 
-5. Leidimai verstis prekyba suskystintomis naftos dujomis išduodami šio straipsnio 2 ir [[#^398b8c3f988a751710258629|3 dalyse]] nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^9fc8973493f7f32fdd4df500
+5. Leidimai verstis prekyba suskystintomis naftos dujomis išduodami šio straipsnio 2 ir [[#^162424f13771ecd837fc8871|3 dalyse]] nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^35558e1814e6b5532c9230ef
 
 
-1) turi Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatytus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius įvykdyti šios veiklos sąlygas; ^743d5372ea6e3c4334243299
+1) turi Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatytus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius įvykdyti šios veiklos sąlygas; ^f9fb69ae2df35ecf36a97a28
 
 
-2) turi avarinę tarnybą arba sutartį su energetikos įmone, teisės aktų nustatyta tvarka turinčia teisę atlikti avarijų (sutrikimų) lokalizavimo ir likvidavimo darbus; ^2c89d819a901808047ca3618
+2) turi avarinę tarnybą arba sutartį su energetikos įmone, teisės aktų nustatyta tvarka turinčia teisę atlikti avarijų (sutrikimų) lokalizavimo ir likvidavimo darbus; ^c8e30071ea0638aa55f203ae
 
 
-3) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus. ^b7e0bd5df38643728a31ca47
+3) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus. ^e942cc512f929306011ae8f4
 Straipsnio punkto pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-6. Leidimą verstis prekyba suskystintomis naftos dujomis turinti energetikos įmonė privalo laikytis šių sąlygų: ^2f58e3b54a07038aee69e06c
+6. Leidimą verstis prekyba suskystintomis naftos dujomis turinti energetikos įmonė privalo laikytis šių sąlygų: ^2d09a098dc0a60071bde5c0a
 
 
-1) negali parduoti, laikyti arba vežti suskystintų naftos dujų, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais; ^13792ddaa53978bd6d5d2766
+1) negali parduoti, laikyti arba vežti suskystintų naftos dujų, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais; ^142514fcfdcee5eb7816cbab
 
 
-2) negali parduoti privalomųjų ir aplinkosauginių kokybės rodiklių neatitinkančių, taip pat be kokybę patvirtinančio dokumento suskystintų naftos dujų, skirtų realizuoti vidaus rinkoje; ^db5c57dd2bfc3c3e31de15db
+2) negali parduoti privalomųjų ir aplinkosauginių kokybės rodiklių neatitinkančių, taip pat be kokybę patvirtinančio dokumento suskystintų naftos dujų, skirtų realizuoti vidaus rinkoje; ^c51254a7b14bbe0fd61a7f78
 
 
-3) naudoti suskystintų naftos dujų prekybai balionus ir kitus slėginius įrenginius, atitinkančius teisės aktų nustatytus reikalavimus; ^4bf7edcf81d4dcdb77b446ec
+3) naudoti suskystintų naftos dujų prekybai balionus ir kitus slėginius įrenginius, atitinkančius teisės aktų nustatytus reikalavimus; ^e79212d486bc650a4c515266
 
 
-4) teikti Tarybai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti; ^28076b0103a13e5817f687ae
+4) teikti Tarybai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti; ^db8c010348626d97d670854d
 Straipsnio punkto pakeitimai:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-5) neturi teisės įgalioti kitas įmones verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą; ^886d6f8dc7f4e00a2ed641da
+5) neturi teisės įgalioti kitas įmones verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą; ^46fac99f50df10c4b3b61aed
 
 
-6) teikti avarijų (sutrikimų) lokalizavimo ir likvidavimo paslaugas vartotojams; ^2dd15edafac893078ede3fe2
+6) teikti avarijų (sutrikimų) lokalizavimo ir likvidavimo paslaugas vartotojams; ^61c738323b0afcf0b8cdca45
 
 
-7) nediskriminuoti vartotojų ar vartotojų grupių, teikti informaciją vartotojams ir juos konsultuoti teisės aktų nustatyta tvarka; ^be690c4a635273ece1e78ab7
+7) nediskriminuoti vartotojų ar vartotojų grupių, teikti informaciją vartotojams ir juos konsultuoti teisės aktų nustatyta tvarka; ^67dba472573216fcaa50ce88
 
 
-8) centralizuotai tiekti suskystintas naftos dujas kainomis, nustatytomis vadovaujantis šio įstatymo [[#^f6b2f1f414900edc6fcab688|191 straipsnio 3 dalimi]]; ^56940adbde047b3e5c54268c
+8) centralizuotai tiekti suskystintas naftos dujas kainomis, nustatytomis vadovaujantis šio įstatymo [[#^a0d5268f200d34139feadafa|191 straipsnio 3 dalimi]]; ^03abb241c9be54b6d4a8cb2d
 
 
-9) tvarkyti atskirą nuo kitų veiklos rūšių centralizuotai tiekiamų suskystintų naftos dujų tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas ir vadovaujantis šio įstatymo [[#161 straipsnis. Reguliuojamosios veiklos ataskaitų ir reguliavimo apskaitos sistemos patikra|161 straipsnio]] nuostatomis užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl šių ataskaitų atitikties Tarybos patvirtintiems reguliavimo apskaitos sistemos reikalavimams; ^89e679b94e65f1a4de59fdb2
+9) tvarkyti atskirą nuo kitų veiklos rūšių centralizuotai tiekiamų suskystintų naftos dujų tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas ir vadovaujantis šio įstatymo [[#161 straipsnis. Reguliuojamosios veiklos ataskaitų ir reguliavimo apskaitos sistemos patikra|161 straipsnio]] nuostatomis užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl šių ataskaitų atitikties Tarybos patvirtintiems reguliavimo apskaitos sistemos reikalavimams; ^1fabe66aa763141ecf743722
 Straipsnio punkto pakeitimai:
 Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-10) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų; ^b1d0ed08f2139f3cd93966c7
+10) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų; ^ffcd2fa5253f920986d79b69
 
 
-11) užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per keturis mėnesius būtų atliktas leidimą verstis prekyba suskystintomis naftos dujomis turinčios energetikos įmonės finansinių ataskaitų auditas ir jo išvados pateiktos Tarybai. ^44c6397b3448bf33be6fcc7d
+11) užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per keturis mėnesius būtų atliktas leidimą verstis prekyba suskystintomis naftos dujomis turinčios energetikos įmonės finansinių ataskaitų auditas ir jo išvados pateiktos Tarybai. ^b12c490e70ed60d08bebb4ce
 Papildyta straipsnio punktu:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-7. [[#^be96a4efc7a93fc7062491b6|Šio straipsnio 1 dalyje]] nurodytus leidimus verstis prekyba suskystintomis naftos dujomis išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. ^7f09696addd883f877a59e93
+7. [[#^0f4d869c85f879c3238d2998|Šio straipsnio 1 dalyje]] nurodytus leidimus verstis prekyba suskystintomis naftos dujomis išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. ^f6136a922cf92730f1c7e2e9
 Straipsnio dalies pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-8. Prekybos suskystintomis naftos dujomis tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatytos Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse. ^51e8f99d8e9b91d14db9fd76
+8. Prekybos suskystintomis naftos dujomis tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatytos Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse. ^4368b18ffe1b83edf2f9b4d1
 
 
-9. Asmenims, vykdantiems prekybos suskystintomis naftos dujomis veiklą, neturint leidimo verstis prekyba suskystintomis naftos dujomis, skiriama piniginė bauda iki 10 procentų prekybos suskystintomis naftos dujomis veiklą vykdančio ūkio subjekto pajamų, gautų praėjusiais finansiniais metais ar per trumpesnį laikotarpį, jei asmuo vykdo veiklą trumpiau negu vienerius metus. Sprendimą skirti baudą priima Taryba. ^d759da8f9a54ae3bf02adf0f
+9. Asmenims, vykdantiems prekybos suskystintomis naftos dujomis veiklą, neturint leidimo verstis prekyba suskystintomis naftos dujomis, skiriama piniginė bauda iki 10 procentų prekybos suskystintomis naftos dujomis veiklą vykdančio ūkio subjekto pajamų, gautų praėjusiais finansiniais metais ar per trumpesnį laikotarpį, jei asmuo vykdo veiklą trumpiau negu vienerius metus. Sprendimą skirti baudą priima Taryba. ^4aef0afdd52b152a7b0a1e3a
 Papildyta straipsnio dalimi:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-10. Ūkio subjektams, vykdantiems mažmeninę prekybą suskystintomis naftos dujomis, neprivaloma įsigyti leidimo, nurodyto [[#^e92ccbd8588fdda7573349d3|šio straipsnio 1 dalies 2 punkte]], kai jų vykdoma veikla atitinka visas šias sąlygas: ^4a80bdafe0cdeede6c0a0157
+10. Ūkio subjektams, vykdantiems mažmeninę prekybą suskystintomis naftos dujomis, neprivaloma įsigyti leidimo, nurodyto [[#^144327f8c95a262ca230861d|šio straipsnio 1 dalies 2 punkte]], kai jų vykdoma veikla atitinka visas šias sąlygas: ^32fac2f084942e405c323fe1
 
 
-1) ūkio subjektas, kuris neturi [[#^e92ccbd8588fdda7573349d3|šio straipsnio 1 dalies 2 punkte]] nurodyto leidimo, ir asmuo, kuris turi [[#^e92ccbd8588fdda7573349d3|šio straipsnio 1 dalies 2 punkte]] nurodytą leidimą, yra sudarę suskystintų naftos dujų pirkimo–pardavimo sutartį; ^6aaecbc5c675a7bf93c27cae
+1) ūkio subjektas, kuris neturi [[#^144327f8c95a262ca230861d|šio straipsnio 1 dalies 2 punkte]] nurodyto leidimo, ir asmuo, kuris turi [[#^144327f8c95a262ca230861d|šio straipsnio 1 dalies 2 punkte]] nurodytą leidimą, yra sudarę suskystintų naftos dujų pirkimo–pardavimo sutartį; ^07e22537350d7352f83e5934
 
 
-2) ūkio subjektas, kuris neturi [[#^e92ccbd8588fdda7573349d3|šio straipsnio 1 dalies 2 punkte]] nurodyto leidimo, ir ūkio subjektas (galutinis pirkėjas) yra sudarę suskystintų naftos dujų pirkimo–pardavimo sutartį; ^fe9a79da8c10069a37d0cea3
+2) ūkio subjektas, kuris neturi [[#^144327f8c95a262ca230861d|šio straipsnio 1 dalies 2 punkte]] nurodyto leidimo, ir ūkio subjektas (galutinis pirkėjas) yra sudarę suskystintų naftos dujų pirkimo–pardavimo sutartį; ^7a2a75a35cd56ffc17f0dad0
 
 
-3) ūkio subjektui (galutiniam pirkėjui) suskystintas naftos dujas fiziškai perduoda (patiekia) prekybos vietoje (degalinėje) asmuo, kuris turi [[#^e92ccbd8588fdda7573349d3|šio straipsnio 1 dalies 2 punkte]] nurodytą leidimą. ^f24eb991eae9e62b02fd54ac
+3) ūkio subjektui (galutiniam pirkėjui) suskystintas naftos dujas fiziškai perduoda (patiekia) prekybos vietoje (degalinėje) asmuo, kuris turi [[#^144327f8c95a262ca230861d|šio straipsnio 1 dalies 2 punkte]] nurodytą leidimą. ^c10a97bc94cc12af94827f98
 
 
 Papildyta straipsnio dalimi:
@@ -2192,7 +2217,7 @@ Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 
 
 
-11. Jeigu ūkio subjekto veikla, nurodyta [[#^4a80bdafe0cdeede6c0a0157|šio straipsnio 10 dalyje]], apima mokėjimo priemonių išleidimą (įskaitant riboto naudojimo mokėjimo priemones), tokiam ūkio subjektui taikomas Lietuvos Respublikos mokėjimų įstatymas, įskaitant šiame įstatyme nustatytas išimtis. ^aa5cd178e197686acab6e4c9
+11. Jeigu ūkio subjekto veikla, nurodyta [[#^32fac2f084942e405c323fe1|šio straipsnio 10 dalyje]], apima mokėjimo priemonių išleidimą (įskaitant riboto naudojimo mokėjimo priemones), tokiam ūkio subjektui taikomas Lietuvos Respublikos mokėjimų įstatymas, įskaitant šiame įstatyme nustatytas išimtis. ^365e068dd30c72db666d84bc
 Papildyta straipsnio dalimi:
 Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 
@@ -2206,135 +2231,135 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 ### 24 straipsnis. Leidimai verstis prekyba nefasuotais naftos produktais
 
 
-1. Leidimai verstis prekyba nefasuotais naftos produktais yra šių rūšių: ^56991efd1c3eb2c64abbdfd8
+1. Leidimai verstis prekyba nefasuotais naftos produktais yra šių rūšių: ^f24ba1455d327cfc60ac2703
 
 
-1) leidimas verstis didmenine prekyba nefasuotais naftos produktais; ^409d488270c621185e98fd90
+1) leidimas verstis didmenine prekyba nefasuotais naftos produktais; ^d0a62f63c9e1f3d1615681a5
 
 
-2) neteko galios 2019-07-02; ^1c784bdc75dacf25ed834d73
+2) neteko galios 2019-07-02; ^d1e2eec5fbbbbd42c450e110
 Straipsnio punkto pakeitimai:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-3) neteko galios 2019-07-02; ^67c0a620e4396200980ce7de
+3) neteko galios 2019-07-02; ^7ef108b9a957e9d7af266a53
 Straipsnio punkto pakeitimai:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-4) leidimas verstis mažmenine prekyba nefasuotais naftos produktais. ^23121207505674ce766ca526
+4) leidimas verstis mažmenine prekyba nefasuotais naftos produktais. ^6e8e3353aa95a72754ab3286
 
 
-2. Leidimas verstis mažmenine prekyba nefasuotais naftos produktais išduodamas fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje. Leidime verstis mažmenine prekyba nefasuotais naftos produktais nurodoma kiekviena prekybos vieta (degalinė), kurioje leidimą turintis asmuo vykdo atitinkamą veiklą. ^b6a5a9e1de4a8b398813ae1e
+2. Leidimas verstis mažmenine prekyba nefasuotais naftos produktais išduodamas fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje. Leidime verstis mažmenine prekyba nefasuotais naftos produktais nurodoma kiekviena prekybos vieta (degalinė), kurioje leidimą turintis asmuo vykdo atitinkamą veiklą. ^5f7897e79d3e823ad760ff32
 
 
-3. Leidimas verstis didmenine prekyba nefasuotais naftos produktais išduodamas šio įstatymo [[#^e5fbd38269f0a6f0cda3eb4a|2 straipsnio 1 dalyje]] nurodytiems asmenims, kurie atitinka [[#^cd8585f2c1989dc01d994aed|šio straipsnio 4 dalyje]] nustatytus reikalavimus ir pateikia [[#^492d8e818ae81206bb89a316|šio straipsnio 8 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančius dokumentus. ^9cb4c97d98f34c37ee96f7dc
+3. Leidimas verstis didmenine prekyba nefasuotais naftos produktais išduodamas šio įstatymo [[#^f9066d143d0f12bc9f148be5|2 straipsnio 1 dalyje]] nurodytiems asmenims, kurie atitinka [[#^61f5f2a190f5b2439bf1b9a0|šio straipsnio 4 dalyje]] nustatytus reikalavimus ir pateikia [[#^836cd729621be4f4e290b3f9|šio straipsnio 8 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančius dokumentus. ^49eea95ff16d297170f0b40d
 Straipsnio dalies pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-4. Leidimai verstis prekyba nefasuotais naftos produktais išduodami šio straipsnio 2 ir [[#^9cb4c97d98f34c37ee96f7dc|3 dalyse]] nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^cd8585f2c1989dc01d994aed
+4. Leidimai verstis prekyba nefasuotais naftos produktais išduodami šio straipsnio 2 ir [[#^49eea95ff16d297170f0b40d|3 dalyse]] nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^61f5f2a190f5b2439bf1b9a0
 
 
-1) turi Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatytus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius įvykdyti reguliuojamosios veiklos sąlygas; ^dd9cfc524e3c9abefabd8461
+1) turi Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatytus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius įvykdyti reguliuojamosios veiklos sąlygas; ^6b2b33e2baa1a082d1fdd1a2
 
 
-2) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus; ^49126c3dbac7a07795bb5777
+2) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus; ^54ed3f0762e49b0aa979ae30
 Straipsnio punkto pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-3) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; ^216bb666af0e33e6c53351ee
+3) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; ^53b2ac395b1c4c62d21d9898
 Papildyta straipsnio punktu:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-4) asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, atitinka minimalius patikimo mokesčių mokėtojo kriterijus, nustatytus Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje. ^4c8b04b4b123dde0ce7a8590
+4) asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, atitinka minimalius patikimo mokesčių mokėtojo kriterijus, nustatytus Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje. ^6c1379166fcc9b076c345221
 Papildyta straipsnio punktu:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-5. Leidimą verstis prekyba nefasuotais naftos produktais turinti energetikos įmonė privalo laikytis šių sąlygų: ^d68f3929993701e848e47063
+5. Leidimą verstis prekyba nefasuotais naftos produktais turinti energetikos įmonė privalo laikytis šių sąlygų: ^d19fa3c1b9c3c391b7b224df
 
 
-1) verstis prekyba leidime nurodytais nefasuotais naftos produktais, laikydamasi teisės aktuose nustatytų reikalavimų; ^9cd7aa05c5c37880adc227c8
+1) verstis prekyba leidime nurodytais nefasuotais naftos produktais, laikydamasi teisės aktuose nustatytų reikalavimų; ^227d71486f3def866dd70371
 
 
-2) teikti Tarybai informaciją, reikalingą įstatymuose ir kituose teisės aktuose nustatytoms pareigoms vykdyti; ^df64e466b647d2d4584223dd
+2) teikti Tarybai informaciją, reikalingą įstatymuose ir kituose teisės aktuose nustatytoms pareigoms vykdyti; ^66fc39848b2241f7af0b4515
 Straipsnio punkto pakeitimai:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 
 
 
-3) nustatyta tvarka kaupti naftos produktų valstybės atsargas, jeigu ši prievolė nustatyta įstatymuose; ^494180df650261a6c8597710
+3) nustatyta tvarka kaupti naftos produktų valstybės atsargas, jeigu ši prievolė nustatyta įstatymuose; ^d4dfd8491d0658736e0ee460
 
 
-4) neturi teisės įgalioti kitas įmones verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą; ^dc3a22a8c00a473306ed8843
+4) neturi teisės įgalioti kitas įmones verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą; ^a6b613be71b700e54a5d0483
 
 
-5) nediskriminuoti vartotojų ar vartotojų grupių, teikti informaciją vartotojams ir juos konsultuoti teisės aktų nustatyta tvarka; ^60079b30a7de0d1902fef143
+5) nediskriminuoti vartotojų ar vartotojų grupių, teikti informaciją vartotojams ir juos konsultuoti teisės aktų nustatyta tvarka; ^dce7a77995b3123c68196212
 
 
-6) negali parduoti, laikyti arba vežti nefasuotų naftos produktų, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais; ^c6ce58d8ffdf7b44808737fc
+6) negali parduoti, laikyti arba vežti nefasuotų naftos produktų, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais; ^661070e9c3aa5291294ddde0
 
 
-7) negali parduoti falsifikuotų, privalomųjų ir aplinkosauginių kokybės rodiklių neatitinkančių nefasuotų naftos produktų, skirtų realizuoti vidaus rinkoje, be kokybę patvirtinančio dokumento; ^8d2d9b01e677559ad61d93ef
+7) negali parduoti falsifikuotų, privalomųjų ir aplinkosauginių kokybės rodiklių neatitinkančių nefasuotų naftos produktų, skirtų realizuoti vidaus rinkoje, be kokybę patvirtinančio dokumento; ^18cae9fd75f07c6e5bebdee2
 
 
-8) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų; ^316b0250a813a6a4082904a1
+8) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų; ^9d42b657b21c46afa8925efc
 
 
-9) visą leidimo verstis didmenine prekyba nefasuotais naftos produktais galiojimo laiką turėti [[#^492d8e818ae81206bb89a316|šio straipsnio 8 dalyje]] arba [[#^0fa93102582244f9bcf5fd75|šio straipsnio 9 dalyje]] nustatytomis sąlygomis – [[#^0fa93102582244f9bcf5fd75|šio straipsnio 9 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančius dokumentus; ^f12c45b6bb7676e0c3729359
+9) visą leidimo verstis didmenine prekyba nefasuotais naftos produktais galiojimo laiką turėti [[#^836cd729621be4f4e290b3f9|šio straipsnio 8 dalyje]] arba [[#^89d1bc37982269f36b527aa8|šio straipsnio 9 dalyje]] nustatytomis sąlygomis – [[#^89d1bc37982269f36b527aa8|šio straipsnio 9 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančius dokumentus; ^e6374a23c40963af8ea04f8b
 Papildyta straipsnio punktu:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-10) nefasuotus naftos produktus Lietuvos Respublikoje didmeninėje prekyboje gali įsigyti tik iš asmenų, turinčių galiojantį leidimą verstis prekyba nefasuotais naftos produktais; ^e78094a256435edf410f2570
+10) nefasuotus naftos produktus Lietuvos Respublikoje didmeninėje prekyboje gali įsigyti tik iš asmenų, turinčių galiojantį leidimą verstis prekyba nefasuotais naftos produktais; ^dc234d80bb1911d46031ca02
 Papildyta straipsnio punktu:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-11) užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per keturis mėnesius būtų atliktas leidimą verstis prekyba nefasuotais naftos produktais turinčios energetikos įmonės finansinių ataskaitų auditas ir jo išvados pateiktos Tarybai. ^343714c3b0849103b542b67c
+11) užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per keturis mėnesius būtų atliktas leidimą verstis prekyba nefasuotais naftos produktais turinčios energetikos įmonės finansinių ataskaitų auditas ir jo išvados pateiktos Tarybai. ^043eff929edac5994f5eab89
 Papildyta straipsnio punktu:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-6. [[#^56991efd1c3eb2c64abbdfd8|Šio straipsnio 1 dalyje]] nurodytus leidimus verstis prekyba nefasuotais naftos produktais išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. ^fc06c095aec9d48e9b7789e2
+6. [[#^f24ba1455d327cfc60ac2703|Šio straipsnio 1 dalyje]] nurodytus leidimus verstis prekyba nefasuotais naftos produktais išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. ^c754eb680fcb5e989c1c32e4
 Straipsnio dalies pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-7. Prekybos nefasuotais naftos produktais tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatyti Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse. ^359f14387015b1aed2d83abd
+7. Prekybos nefasuotais naftos produktais tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatyti Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse. ^d139583558776981923302f5
 
 
-8. Asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, Valstybinei mokesčių inspekcijai pateikia Europos ekonominėje erdvėje veikiančios kredito įstaigos ar jos padalinio arba draudimo bendrovės išduotą vieno milijono eurų vertės galiojantį laidavimo draudimą, laidavimą arba garantijos dokumentą (toliau – prievolių įvykdymo užtikrinimo dokumentas), pagal kurį prievolių įvykdymo užtikrintojas įsipareigoja įvykdyti asmens, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, mokestines prievoles, jeigu asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, šių prievolių neįvykdys arba jas įvykdys netinkamai. Leidimą išduodanti institucija privalo įsitikinti, ar asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, įvykdė šioje dalyje įtvirtintą prievolę. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^492d8e818ae81206bb89a316
+8. Asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, Valstybinei mokesčių inspekcijai pateikia Europos ekonominėje erdvėje veikiančios kredito įstaigos ar jos padalinio arba draudimo bendrovės išduotą vieno milijono eurų vertės galiojantį laidavimo draudimą, laidavimą arba garantijos dokumentą (toliau – prievolių įvykdymo užtikrinimo dokumentas), pagal kurį prievolių įvykdymo užtikrintojas įsipareigoja įvykdyti asmens, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, mokestines prievoles, jeigu asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, šių prievolių neįvykdys arba jas įvykdys netinkamai. Leidimą išduodanti institucija privalo įsitikinti, ar asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, įvykdė šioje dalyje įtvirtintą prievolę. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^836cd729621be4f4e290b3f9
 Papildyta straipsnio dalimi:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-9. [[#^492d8e818ae81206bb89a316|Šio straipsnio 8 dalyje]] numatytos vertės laidavimo arba garantijos dydis sumažinamas iki 100 tūkstančių eurų sumos, jeigu to prašantis asmuo atitinka visas šias sąlygas: ^0fa93102582244f9bcf5fd75
+9. [[#^836cd729621be4f4e290b3f9|Šio straipsnio 8 dalyje]] numatytos vertės laidavimo arba garantijos dydis sumažinamas iki 100 tūkstančių eurų sumos, jeigu to prašantis asmuo atitinka visas šias sąlygas: ^89d1bc37982269f36b527aa8
 
 
-1) turi ne mažesnį kaip 250 tūkstančių eurų dydžio nuosavą kapitalą; ^39ebf9925fdf69ca5a1e1f5d
+1) turi ne mažesnį kaip 250 tūkstančių eurų dydžio nuosavą kapitalą; ^f7251b62d0481c85f820b213
 
 
-2) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui, ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 1 500 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; ^848b552716d4b17365061ffd
+2) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui, ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 1 500 eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; ^5463d3675ff74db29887ee83
 
 
-3) verčiasi didmenine prekyba nefasuotais naftos produktais ne trumpiau kaip vienus metus iki prašymo pateikimo dienos. ^4e84199703c9d4e36e3434d9
+3) verčiasi didmenine prekyba nefasuotais naftos produktais ne trumpiau kaip vienus metus iki prašymo pateikimo dienos. ^32f8475907c7640a6e359f8b
 
 
 Straipsnio dalies pakeitimai:
@@ -2342,37 +2367,37 @@ Nr. XIII-2202, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09725
 
 
 
-10. Naudos gavėju pagal šio straipsnio 8 ir [[#^0fa93102582244f9bcf5fd75|9 dalyse]] nustatytus prievolių įvykdymo užtikrinimo dokumentus privalo būti nurodoma Valstybinė mokesčių inspekcija. Prievolių įvykdymo užtikrinimo dokumente turi būti nurodyti Europos ekonominėje erdvėje veikiančios kredito įstaigos ar jos padalinio arba draudimo bendrovės, išdavusios prievolių įvykdymo užtikrinimo dokumentą, rekvizitai ir kontaktiniai duomenys. ^c6a53fafb1d287ed939e8837
+10. Naudos gavėju pagal šio straipsnio 8 ir [[#^89d1bc37982269f36b527aa8|9 dalyse]] nustatytus prievolių įvykdymo užtikrinimo dokumentus privalo būti nurodoma Valstybinė mokesčių inspekcija. Prievolių įvykdymo užtikrinimo dokumente turi būti nurodyti Europos ekonominėje erdvėje veikiančios kredito įstaigos ar jos padalinio arba draudimo bendrovės, išdavusios prievolių įvykdymo užtikrinimo dokumentą, rekvizitai ir kontaktiniai duomenys. ^3d83445184fe505959c456ef
 Papildyta straipsnio dalimi:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-11. Prievolių įvykdymo užtikrinimo sumos dydį nustato Valstybinė mokesčių inspekcija, atsižvelgdama į tai, ar ūkio subjektas atitinka [[#^0fa93102582244f9bcf5fd75|šio straipsnio 9 dalyje]] nustatytas sąlygas. Jeigu netenkinama bent viena iš [[#^0fa93102582244f9bcf5fd75|šio straipsnio 9 dalyje]] nustatytų sąlygų, taikoma [[#^492d8e818ae81206bb89a316|šio straipsnio 8 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimo suma. Prašymų nustatyti prievolių įvykdymo užtikrinimo sumos dydį pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^f3db4a94b559f5548338d4da
+11. Prievolių įvykdymo užtikrinimo sumos dydį nustato Valstybinė mokesčių inspekcija, atsižvelgdama į tai, ar ūkio subjektas atitinka [[#^89d1bc37982269f36b527aa8|šio straipsnio 9 dalyje]] nustatytas sąlygas. Jeigu netenkinama bent viena iš [[#^89d1bc37982269f36b527aa8|šio straipsnio 9 dalyje]] nustatytų sąlygų, taikoma [[#^836cd729621be4f4e290b3f9|šio straipsnio 8 dalyje]] nustatyto dydžio prievolių įvykdymo užtikrinimo suma. Prašymų nustatyti prievolių įvykdymo užtikrinimo sumos dydį pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^c7631db4467bbaa402b03813
 Papildyta straipsnio dalimi:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-12. Jeigu asmens, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, prievolių įvykdymo užtikrinimo suma tampa mažesnė, negu nustatyta Valstybinės mokesčių inspekcijos, asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, privalo nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo šioje dalyje numatytos aplinkybės atsiradimo, kreiptis į Europos ekonominėje erdvėje veikiančią kredito įstaigą, jos padalinį arba draudimo bendrovę dėl prievolių įvykdymo užtikrinimo sumos patikslinimo. Asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, ne vėliau kaip per 5 darbo dienas nuo kreipimosi į Europos ekonominėje erdvėje veikiančią kredito įstaigą, jos padalinį arba draudimo bendrovę dienos privalo pateikti Valstybinei mokesčių inspekcijai galiojantį prievolių įvykdymo užtikrinimo dokumentą, atitinkantį šiam asmeniui nustatytą prievolių įvykdymo užtikrinimo sumą. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^22d4547038d70d52f0bf4263
+12. Jeigu asmens, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, prievolių įvykdymo užtikrinimo suma tampa mažesnė, negu nustatyta Valstybinės mokesčių inspekcijos, asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, privalo nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo šioje dalyje numatytos aplinkybės atsiradimo, kreiptis į Europos ekonominėje erdvėje veikiančią kredito įstaigą, jos padalinį arba draudimo bendrovę dėl prievolių įvykdymo užtikrinimo sumos patikslinimo. Asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, ne vėliau kaip per 5 darbo dienas nuo kreipimosi į Europos ekonominėje erdvėje veikiančią kredito įstaigą, jos padalinį arba draudimo bendrovę dienos privalo pateikti Valstybinei mokesčių inspekcijai galiojantį prievolių įvykdymo užtikrinimo dokumentą, atitinkantį šiam asmeniui nustatytą prievolių įvykdymo užtikrinimo sumą. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^82de51247a560d3b9af0a431
 Papildyta straipsnio dalimi:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-13. Asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, privalo atnaujinti šio straipsnio 8 ar [[#^0fa93102582244f9bcf5fd75|9 dalyje]] nurodyto dydžio prievolių įvykdymo užtikrinimo dokumentą ir pateikti jį Valstybinei mokesčių inspekcijai ne vėliau kaip iki besibaigiančio prievolių įvykdymo užtikrinimo dokumento galiojimo termino pabaigos. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^879b93bc05975ae6a4543301
+13. Asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, privalo atnaujinti šio straipsnio 8 ar [[#^89d1bc37982269f36b527aa8|9 dalyje]] nurodyto dydžio prievolių įvykdymo užtikrinimo dokumentą ir pateikti jį Valstybinei mokesčių inspekcijai ne vėliau kaip iki besibaigiančio prievolių įvykdymo užtikrinimo dokumento galiojimo termino pabaigos. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^3a78c40c8633753cdc3e78c0
 Papildyta straipsnio dalimi:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-14. Asmenims, vykdantiems prekybos naftos produktais veiklą, neturint leidimo verstis prekyba nefasuotais naftos produktais, skiriama piniginė bauda iki 10 procentų prekybos nefasuotais naftos produktais veiklą vykdančio ūkio subjekto veiklos pajamų, gautų praėjusiais finansiniais metais ar per trumpesnį laikotarpį, jei asmuo vykdo veiklą trumpiau negu vienerius metus. Sprendimą skirti baudą priima Taryba. ^1f579f9a894b2dd4f342dbcc
+14. Asmenims, vykdantiems prekybos naftos produktais veiklą, neturint leidimo verstis prekyba nefasuotais naftos produktais, skiriama piniginė bauda iki 10 procentų prekybos nefasuotais naftos produktais veiklą vykdančio ūkio subjekto veiklos pajamų, gautų praėjusiais finansiniais metais ar per trumpesnį laikotarpį, jei asmuo vykdo veiklą trumpiau negu vienerius metus. Sprendimą skirti baudą priima Taryba. ^07671ba31370babc64ec5e76
 Papildyta straipsnio dalimi:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-15. Lietuvos energetikos agentūros veikla pagal Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymą nėra laikoma didmenine prekyba naftos produktais ir šiai veiklai neprivaloma įsigyti leidimo, nurodyto [[#^409d488270c621185e98fd90|šio straipsnio 1 dalies 1 punkte]]. ^146658542e5f22cdd44ca516
+15. Lietuvos energetikos agentūros veikla pagal Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymą nėra laikoma didmenine prekyba naftos produktais ir šiai veiklai neprivaloma įsigyti leidimo, nurodyto [[#^d0a62f63c9e1f3d1615681a5|šio straipsnio 1 dalies 1 punkte]]. ^7ee69dd81ddb8dc129e7e631
 Papildyta straipsnio dalimi:
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 Straipsnio dalies pakeitimai:
@@ -2380,16 +2405,16 @@ Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 
 
 
-16. Ūkio subjektams, vykdantiems mažmeninę prekybą nefasuotais naftos produktais, neprivaloma įsigyti leidimo, nurodyto [[#^23121207505674ce766ca526|šio straipsnio 1 dalies 4 punkte]], kai jų vykdoma veikla atitinka visas šias sąlygas: ^401196c195ff11a92affffc3
+16. Ūkio subjektams, vykdantiems mažmeninę prekybą nefasuotais naftos produktais, neprivaloma įsigyti leidimo, nurodyto [[#^6e8e3353aa95a72754ab3286|šio straipsnio 1 dalies 4 punkte]], kai jų vykdoma veikla atitinka visas šias sąlygas: ^e59181de919b712b8bea2b83
 
 
-1) ūkio subjektas, kuris neturi [[#^23121207505674ce766ca526|šio straipsnio 1 dalies 4 punkte]] nurodyto leidimo, ir asmuo, kuris turi [[#^23121207505674ce766ca526|šio straipsnio 1 dalies 4 punkte]] nurodytą leidimą, yra sudarę nefasuotų naftos produktų pirkimo–pardavimo sutartį; ^2af54fa59c0d7ccc1e99a87d
+1) ūkio subjektas, kuris neturi [[#^6e8e3353aa95a72754ab3286|šio straipsnio 1 dalies 4 punkte]] nurodyto leidimo, ir asmuo, kuris turi [[#^6e8e3353aa95a72754ab3286|šio straipsnio 1 dalies 4 punkte]] nurodytą leidimą, yra sudarę nefasuotų naftos produktų pirkimo–pardavimo sutartį; ^21eb076aed4dff0e8b48b3ee
 
 
-2) ūkio subjektas, kuris neturi [[#^23121207505674ce766ca526|šio straipsnio 1 dalies 4 punkte]] nurodyto leidimo, ir ūkio subjektas (galutinis pirkėjas) yra sudarę nefasuotų naftos produktų pirkimo–pardavimo sutartį; ^8a9924defb39f9799117ce3d
+2) ūkio subjektas, kuris neturi [[#^6e8e3353aa95a72754ab3286|šio straipsnio 1 dalies 4 punkte]] nurodyto leidimo, ir ūkio subjektas (galutinis pirkėjas) yra sudarę nefasuotų naftos produktų pirkimo–pardavimo sutartį; ^80c48fb5a132cbc2fd3887f3
 
 
-3) ūkio subjektui (galutiniam pirkėjui) nefasuotus naftos produktus fiziškai perduoda (patiekia) prekybos vietoje (degalinėje) asmuo, kuris turi [[#^23121207505674ce766ca526|šio straipsnio 1 dalies 4 punkte]] nurodytą leidimą. ^14830c32f4c05dd9832dd2fa
+3) ūkio subjektui (galutiniam pirkėjui) nefasuotus naftos produktus fiziškai perduoda (patiekia) prekybos vietoje (degalinėje) asmuo, kuris turi [[#^6e8e3353aa95a72754ab3286|šio straipsnio 1 dalies 4 punkte]] nurodytą leidimą. ^5d36fccc9fcf04db9fe6b4b1
 
 
 Papildyta straipsnio dalimi:
@@ -2397,7 +2422,7 @@ Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 
 
 
-17. Jeigu ūkio subjekto veikla, nurodyta [[#^401196c195ff11a92affffc3|šio straipsnio 16 dalyje]], apima mokėjimo priemonių išleidimą (įskaitant riboto naudojimo mokėjimo priemones), tokiam ūkio subjektui taikomas Mokėjimų įstatymas, įskaitant šiame įstatyme nustatytas išimtis. ^d59d04ae05d61f13e9de74e2
+17. Jeigu ūkio subjekto veikla, nurodyta [[#^e59181de919b712b8bea2b83|šio straipsnio 16 dalyje]], apima mokėjimo priemonių išleidimą (įskaitant riboto naudojimo mokėjimo priemones), tokiam ūkio subjektui taikomas Mokėjimų įstatymas, įskaitant šiame įstatyme nustatytas išimtis. ^ae74c4d9a2aab8df6d00ba61
 Papildyta straipsnio dalimi:
 Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 
@@ -2406,133 +2431,133 @@ Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 ### 241 straipsnis. Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimai, energetikos įmonių reguliuojamosios veiklos, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimai
 
 
-1. Taryba, vadovaudamasi šio įstatymo ir Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, prižiūrėdama, kaip asmenys laikosi Reglamente (ES) Nr. 1227/2011 nustatytų draudimų ir įpareigojimų, energetikos įmonės ir didmeninės energijos rinkos dalyviai vykdo veiklą, atlikdama Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, energetikos valstybinę kontrolę ir priežiūrą, atlieka energetikos įmonių veiklos, didmeninės energijos rinkos dalyvių, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimus. Atlikdama patikrinimus, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, Taryba turi teisę: ^c078730c3b18d7364dffea2d
+1. Taryba, vadovaudamasi šio įstatymo ir Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, prižiūrėdama, kaip asmenys laikosi Reglamente (ES) Nr. 1227/2011 nustatytų draudimų ir įpareigojimų, energetikos įmonės ir didmeninės energijos rinkos dalyviai vykdo veiklą, atlikdama Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, energetikos valstybinę kontrolę ir priežiūrą, atlieka energetikos įmonių veiklos, didmeninės energijos rinkos dalyvių, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimus. Atlikdama patikrinimus, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, Taryba turi teisę: ^9c7a971a4375bd5bda8936a1
 
 
-1) šio ir kitų įstatymų nustatyta tvarka neatlygintinai gauti visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis, dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus; ^9cd1642a0e4bd5214e51e4f2
+1) šio ir kitų įstatymų nustatyta tvarka neatlygintinai gauti visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis, dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus; ^3e7959fde4edd01143e6bdfe
 
 
-2) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tiriamu Reglamento (ES) Nr. 1227/2011 pažeidimu, tikrinamos energetikos įmonės veikla, energetikos objektu, energetikos įrenginiu ir (ar) vartotojų energetikos įrenginiu, reikalauti, kad jie atvyktų į Tarybos patalpas duoti paaiškinimų; ^2a73d8a153209945fb13a57b
+2) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tiriamu Reglamento (ES) Nr. 1227/2011 pažeidimu, tikrinamos energetikos įmonės veikla, energetikos objektu, energetikos įrenginiu ir (ar) vartotojų energetikos įrenginiu, reikalauti, kad jie atvyktų į Tarybos patalpas duoti paaiškinimų; ^2b5ebe7571626a3ec8d3a38d
 
 
-3) gauti patikrinimui atlikti būtiną informaciją ir dokumentus, jų kopijas apie asmenų turtą ir pajamas, ūkines, finansines ir kitas operacijas iš valstybės ir savivaldybės institucijų, taip pat iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansų įstaigų, auditorių, kitų juridinių ir fizinių asmenų, nepaisant to, ar informacija laikoma konfidencialia ar nelaikoma, gauti informaciją iš valstybės ar kitų juridinių asmenų valdomų ar tvarkomų registrų ar duomenų bazių; ^5f6674ad18bbc8609fd99e52
+3) gauti patikrinimui atlikti būtiną informaciją ir dokumentus, jų kopijas apie asmenų turtą ir pajamas, ūkines, finansines ir kitas operacijas iš valstybės ir savivaldybės institucijų, taip pat iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansų įstaigų, auditorių, kitų juridinių ir fizinių asmenų, nepaisant to, ar informacija laikoma konfidencialia ar nelaikoma, gauti informaciją iš valstybės ar kitų juridinių asmenų valdomų ar tvarkomų registrų ar duomenų bazių; ^2fef2b15f6c48b028501eac9
 
 
-4) pagal patikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas; ^5d97b8ec2c0321854d92207c
+4) pagal patikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas; ^1df8c998d7b72309fa6086aa
 
 
-5) patikrinimui atlikti pasitelkti specialistų ir ekspertų; ^3cedf28953a3da4ed52ce2a9
+5) patikrinimui atlikti pasitelkti specialistų ir ekspertų; ^fa4d53ecdc95d327588483a8
 
 
-6) sudaryti sutartis su audito įmonėmis, kitais juridiniais ar fiziniais asmenimis, kurių paslaugomis Taryba naudosis atlikdama patikrinimą; ^d6862af6606136916c44eef2
+6) sudaryti sutartis su audito įmonėmis, kitais juridiniais ar fiziniais asmenimis, kurių paslaugomis Taryba naudosis atlikdama patikrinimą; ^c32bfa2a3f6e934580283e21
 
 
-7) atlikdama patikrinimą, naudoti visą Tarybos turimą informaciją, įskaitant ir informaciją, gautą kitų patikrinimų metu; ^9255cc50f9f7e92f41b6adfb
+7) atlikdama patikrinimą, naudoti visą Tarybos turimą informaciją, įskaitant ir informaciją, gautą kitų patikrinimų metu; ^9d1343a0fa7d085832800a10
 
 
-8) naudotis kitomis  Reglamento (ES) Nr. 1227/2011, įstatymų suteiktomis teisėmis. ^9186ad11c29b705c46ae5579
+8) naudotis kitomis  Reglamento (ES) Nr. 1227/2011, įstatymų suteiktomis teisėmis. ^e934f75ebc01e5335c2db077
 
 
-2. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, užtikrindami jiems pavestų uždavinių ir funkcijų vykdymą atliekant patikrinimus, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, turi šias teises, kurias įgyvendina Tarybos vardu: ^dda30f931c0bda1e39cfe7fc
+2. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, užtikrindami jiems pavestų uždavinių ir funkcijų vykdymą atliekant patikrinimus, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, turi šias teises, kurias įgyvendina Tarybos vardu: ^1cc766efbcdb24312b92f36c
 
 
-1) patekti į tikrinamų asmenų, energetikos įmonių, asmenų, dėl kurių atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas ar dėl kurių energetikos objektų ir (ar) įrenginių ar vartotojų energetikos įrenginių atliekamas patikrinimas, ir kitų asmenų naudojamas patalpas, gyvenamąsias patalpas ar teritoriją ir atlikti patikrinimo veiksmus. Juridinių asmenų naudojamose patalpose ar teritorijoje patikrinimo veiksmai atliekami dalyvaujant juridinio asmens atstovui, patalpų ar teritorijos savininkui ar jo įgaliotam atstovui juridinių asmenų darbo metu, o ne darbo laiku – jeigu yra pagrįstų įtarimų, kad pažeidžiami teisės aktai, į fizinių asmenų gyvenamąsias patalpas ar teritoriją Tarybos įgalioti Tarybos administracijos valstybės tarnautojai gali patekti tik gavę gyventojo rašytinį sutikimą arba pateikę teismo išduotą leidimą. Gyventojams, ne vėliau kaip prieš 3 darbo dienas turi būti raštu pranešta apie numatytą patikrinimo datą ir laiką; ^9e93775f70c6fc50b55573cd
+1) patekti į tikrinamų asmenų, energetikos įmonių, asmenų, dėl kurių atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas ar dėl kurių energetikos objektų ir (ar) įrenginių ar vartotojų energetikos įrenginių atliekamas patikrinimas, ir kitų asmenų naudojamas patalpas, gyvenamąsias patalpas ar teritoriją ir atlikti patikrinimo veiksmus. Juridinių asmenų naudojamose patalpose ar teritorijoje patikrinimo veiksmai atliekami dalyvaujant juridinio asmens atstovui, patalpų ar teritorijos savininkui ar jo įgaliotam atstovui juridinių asmenų darbo metu, o ne darbo laiku – jeigu yra pagrįstų įtarimų, kad pažeidžiami teisės aktai, į fizinių asmenų gyvenamąsias patalpas ar teritoriją Tarybos įgalioti Tarybos administracijos valstybės tarnautojai gali patekti tik gavę gyventojo rašytinį sutikimą arba pateikę teismo išduotą leidimą. Gyventojams, ne vėliau kaip prieš 3 darbo dienas turi būti raštu pranešta apie numatytą patikrinimo datą ir laiką; ^0338d7f6f82e3d5ea831b624
 
 
-2) gerbdami asmens privataus gyvenimo neliečiamumą ir teisę į asmens duomenų apsaugą, faktinių aplinkybių užfiksavimo tikslu fotografuoti, daryti garso ir (ar) vaizdo įrašus. Fotografijų, garso ir (ar) vaizdo įrašų darymo ir naudojimo bei gautų asmens duomenų tvarkymo reikalavimus nustato Taryba; ^887a3d455ac9fa5af5b0c6bf
+2) gerbdami asmens privataus gyvenimo neliečiamumą ir teisę į asmens duomenų apsaugą, faktinių aplinkybių užfiksavimo tikslu fotografuoti, daryti garso ir (ar) vaizdo įrašus. Fotografijų, garso ir (ar) vaizdo įrašų darymo ir naudojimo bei gautų asmens duomenų tvarkymo reikalavimus nustato Taryba; ^e303d1e7b8d7698ae8948f12
 
 
-3) patikrinimo metu naudoti technines priemones; ^a51b34b48a523f1586e9192e
+3) patikrinimo metu naudoti technines priemones; ^e3024f1c62021b9f1a76b80f
 
 
-4) pasitelkti [[#^c078730c3b18d7364dffea2d|šio straipsnio 1 dalies]] 5 ir [[#^2e6670273330941b5a982bbf|6 punktuose]] nurodytus asmenis patikrinimo veiksmams atlikti; ^fc5fca3a87ed0fb195de3f2a
+4) pasitelkti [[#^9c7a971a4375bd5bda8936a1|šio straipsnio 1 dalies]] 5 ir [[#^7c0c0e392fe03edab01b88d7|6 punktuose]] nurodytus asmenis patikrinimo veiksmams atlikti; ^5b45819e374b9f0ff8208e14
 
 
-5) tikrinti asmenų tapatybę patvirtinančius dokumentus; ^844de1bbb0d96668f426404a
+5) tikrinti asmenų tapatybę patvirtinančius dokumentus; ^80b6b0d5b16776ae556390b4
 
 
-6) savo funkcijoms atlikti teisės aktų nustatyta tvarka pasitelkti teisėsaugos institucijas; ^2e6670273330941b5a982bbf
+6) savo funkcijoms atlikti teisės aktų nustatyta tvarka pasitelkti teisėsaugos institucijas; ^7c0c0e392fe03edab01b88d7
 
 
-7) atlikdami Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, energetikos įmonių reguliuojamosios veiklos, energetikos objektų, įrenginių ir vartotojų energetikos įrenginių patikrinimus, gali duoti privalomuosius nurodymus; ^b9239583a61bf13a7bf0bf59
+7) atlikdami Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, energetikos įmonių reguliuojamosios veiklos, energetikos objektų, įrenginių ir vartotojų energetikos įrenginių patikrinimus, gali duoti privalomuosius nurodymus; ^4a297772ca2eb576a2f584eb
 
 
-8) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tiriamu Reglamento (ES) Nr. 1227/2011 pažeidimu, iš asmenų, susijusių su tikrinamos energetikos įmonės veikla, iš asmenų, dėl kurių energetikos objektų ir (ar) įrenginių atliekamas patikrinimas, iš vartotojų, dėl kurių poreikiams tenkinti skirtų energetikos įrenginių atliekamas patikrinimas, reikalauti, kad jie atvyktų duoti paaiškinimų į tyrimą atliekančio Tarybos administracijos valstybės tarnautojo tarnybines patalpas; ^3fed15e0b0676dd75754f1e0
+8) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tiriamu Reglamento (ES) Nr. 1227/2011 pažeidimu, iš asmenų, susijusių su tikrinamos energetikos įmonės veikla, iš asmenų, dėl kurių energetikos objektų ir (ar) įrenginių atliekamas patikrinimas, iš vartotojų, dėl kurių poreikiams tenkinti skirtų energetikos įrenginių atliekamas patikrinimas, reikalauti, kad jie atvyktų duoti paaiškinimų į tyrimą atliekančio Tarybos administracijos valstybės tarnautojo tarnybines patalpas; ^98d87e84b4d00bb1b5616e33
 
 
-9) laikinai, iki Tarybos atliekamo tyrimo ir (ar) patikrinimo pabaigos, paimti dokumentus ir (ar) daiktus, kurie būtini ar turi įrodomosios reikšmės tiriant pažeidimą, ir pateikti asmeniui, susijusiam su tiriamu Reglamento (ES) Nr. 1227/2011 pažeidimu, asmeniui, susijusiam su tikrinamos energetikos įmonės veikla, asmeniui, dėl kurio energetikos objekto ir (ar) įrenginio atliekamas patikrinimas, vartotojui, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, motyvuotą sprendimą dėl dokumentų ir (arba) daiktų poėmio bei paimtų dokumentų ir (arba) daiktų apyrašą; ^c0fccadae5139e2d0b8e2ef7
+9) laikinai, iki Tarybos atliekamo tyrimo ir (ar) patikrinimo pabaigos, paimti dokumentus ir (ar) daiktus, kurie būtini ar turi įrodomosios reikšmės tiriant pažeidimą, ir pateikti asmeniui, susijusiam su tiriamu Reglamento (ES) Nr. 1227/2011 pažeidimu, asmeniui, susijusiam su tikrinamos energetikos įmonės veikla, asmeniui, dėl kurio energetikos objekto ir (ar) įrenginio atliekamas patikrinimas, vartotojui, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, motyvuotą sprendimą dėl dokumentų ir (arba) daiktų poėmio bei paimtų dokumentų ir (arba) daiktų apyrašą; ^346ccc19ebfe8c466afab21b
 
 
-10) paimti energijos išteklių pavyzdžius ir atlikti jų laboratorinius tyrimus; ^9d8050aab7564ce769ecd95b
+10) paimti energijos išteklių pavyzdžius ir atlikti jų laboratorinius tyrimus; ^585670d0990df31ec40766b9
 
 
-11) kitas šio ir kitų įstatymų nustatytas teises. ^83ea04ce9d889bb9919aedcf
+11) kitas šio ir kitų įstatymų nustatytas teises. ^f107992491e7e993ab8af2f9
 
 
-3. Taryba prašymą dėl [[#^9e93775f70c6fc50b55573cd|šio straipsnio 2 dalies 1 punkte]] nurodyto teismo leidimo patekti į tikrintinas fizinio asmens gyvenamąsias patalpas ar teritoriją (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) teikia pirmosios instancijos administraciniam teismui. Šiame prašyme turi būti nurodytas tikrintinų gyvenamųjų patalpų ar teritorijos (tarp jų ir nuomojamos ar naudojamos kitais pagrindais) savininko ir (ar) naudotojo vardas, pavardė, teritorijos, statinio ir (ar) patalpų adresas, įtariamų pažeidimų pobūdis ir numatomi atlikti veiksmai. Prašymą išnagrinėja pirmosios instancijos administracinis teismas ir priima motyvuotą nutartį prašymą patenkinti, patenkinti iš dalies arba atmesti. Prašymas dėl teismo leidimo įeiti į tikrintinas fizinių asmenų gyvenamąsias patalpas ar teritoriją (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Taryba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą arba patenkinti prašymą iš dalies, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo ją apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti Tarybos atskirąjį skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas nuo atskirojo skundo priėmimo. ^bc870db92f5a5153ea54061d
+3. Taryba prašymą dėl [[#^0338d7f6f82e3d5ea831b624|šio straipsnio 2 dalies 1 punkte]] nurodyto teismo leidimo patekti į tikrintinas fizinio asmens gyvenamąsias patalpas ar teritoriją (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) teikia pirmosios instancijos administraciniam teismui. Šiame prašyme turi būti nurodytas tikrintinų gyvenamųjų patalpų ar teritorijos (tarp jų ir nuomojamos ar naudojamos kitais pagrindais) savininko ir (ar) naudotojo vardas, pavardė, teritorijos, statinio ir (ar) patalpų adresas, įtariamų pažeidimų pobūdis ir numatomi atlikti veiksmai. Prašymą išnagrinėja pirmosios instancijos administracinis teismas ir priima motyvuotą nutartį prašymą patenkinti, patenkinti iš dalies arba atmesti. Prašymas dėl teismo leidimo įeiti į tikrintinas fizinių asmenų gyvenamąsias patalpas ar teritoriją (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Taryba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą arba patenkinti prašymą iš dalies, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo ją apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti Tarybos atskirąjį skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas nuo atskirojo skundo priėmimo. ^688750f873b29f571d9a1d81
 
 
-4. Asmenys, nurodyti [[#^c078730c3b18d7364dffea2d|šio straipsnio 1 dalies]] 5 ir 6 punktuose, turi teises, nustatytas [[#^c078730c3b18d7364dffea2d|šio straipsnio 1 dalies]] 1 ir 7 punktuose, 2 dalies 1 punkte. ^8d1c3f88a975182e3e1d2603
+4. Asmenys, nurodyti [[#^9c7a971a4375bd5bda8936a1|šio straipsnio 1 dalies]] 5 ir 6 punktuose, turi teises, nustatytas [[#^9c7a971a4375bd5bda8936a1|šio straipsnio 1 dalies]] 1 ir 7 punktuose, 2 dalies 1 punkte. ^397611ab31829d1a3951486a
 
 
-5. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, prieš atlikdami šiame straipsnyje nurodytus veiksmus, turi pateikti Tarybos išduotą dokumentą, patvirtinantį jų įgaliojimus, patikrinimo tikslus ir terminus. ^7f48ff04be3dbc96a35dbeaa
+5. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, prieš atlikdami šiame straipsnyje nurodytus veiksmus, turi pateikti Tarybos išduotą dokumentą, patvirtinantį jų įgaliojimus, patikrinimo tikslus ir terminus. ^47b78e051fea31a01baa1c9a
 
 
-6. Asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, privalo: ^0ba2b2da8041ae7162573e39
+6. Asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, privalo: ^f979115a8761bb779b2be1b1
 
 
-1) dalyvauti pats ar paskirti įgaliotus atsakingus asmenis, kurie dalyvautų atliekant patikrinimą ir bendradarbiautų su Taryba; ^63ae0c63dd431bb7df0c0bbf
+1) dalyvauti pats ar paskirti įgaliotus atsakingus asmenis, kurie dalyvautų atliekant patikrinimą ir bendradarbiautų su Taryba; ^61038106707f898f39756212
 
 
-2) pateikti Tarybai visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis ir dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus; ^924ecf1ee2309fc43daf7f2b
+2) pateikti Tarybai visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis ir dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus; ^4620c7f92e7ed1aa8c7de0f0
 
 
-3) teikti žodinius ir rašytinius paaiškinimus, Tarybai pareikalavus, paaiškinimus duoti Tarybos patalpose; ^389113c06657ee4a4959afe6
+3) teikti žodinius ir rašytinius paaiškinimus, Tarybai pareikalavus, paaiškinimus duoti Tarybos patalpose; ^ec4959cc6dcec55c5ed47af7
 
 
-4) sudaryti reikiamas sąlygas patikrinimui atlikti, kai patikrinimas atliekamas tikrinamos energetikos įmonės, asmens, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas ar dėl kurio energetikos objekto bei energetikos įrenginio atliekamas patikrinimas, ir vartotojo, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, patalpose ar teritorijoje; ^88d53e70e6a0559a32fd6b1f
+4) sudaryti reikiamas sąlygas patikrinimui atlikti, kai patikrinimas atliekamas tikrinamos energetikos įmonės, asmens, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas ar dėl kurio energetikos objekto bei energetikos įrenginio atliekamas patikrinimas, ir vartotojo, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, patalpose ar teritorijoje; ^4cb7e4cb440cbba7dfe54d5e
 
 
-5) vykdyti kitus Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų teisėtus reikalavimus. ^43438137831e1962c7b023f2
+5) vykdyti kitus Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų teisėtus reikalavimus. ^c80a5707c7b01a08823108a3
 
 
-7. Asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, turi teisę: ^d3af566da15250124977ef87
+7. Asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, turi teisę: ^12388e3423c66f22a79596ee
 
 
-1) informuoti Tarybą apie galimai neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų veiksmus; ^081d0cf48bf60ad8b8089ee0
+1) informuoti Tarybą apie galimai neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų veiksmus; ^fd2fc5f30a56c649c48cf800
 
 
-2) apskųsti galimai neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų veiksmus ir privalomuosius nurodymus ir patikrinimui pasitelktų asmenų veiksmus; ^7d3b37f9086d09aa5858af20
+2) apskųsti galimai neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų veiksmus ir privalomuosius nurodymus ir patikrinimui pasitelktų asmenų veiksmus; ^5b27c02d1a4350490c42d606
 
 
-3) raštu ir (ar) žodžiu teikti pastabas ir paaiškinimus dėl patikrinimo akte ir jo prieduose nurodytos informacijos; ^50b0462bb86e0a7c31b22408
+3) raštu ir (ar) žodžiu teikti pastabas ir paaiškinimus dėl patikrinimo akte ir jo prieduose nurodytos informacijos; ^fe9a24991a1282d48e4b4661
 
 
-4) dalyvauti Tarybos posėdyje svarstant patikrinimo aktą; ^61949af3d33094004ab46f41
+4) dalyvauti Tarybos posėdyje svarstant patikrinimo aktą; ^01460f06dfd8e94e5a8c1740
 
 
-5) pateikti pastabas ir pasiūlymus dėl Tarybos administracijos valstybės tarnautojo surašyto patikrinimo akto ar duoto privalomojo nurodymo, jeigu atliekamas energetikos įmonių reguliuojamosios veiklos patikrinimas, Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, energetikos objekto, energetikos įrenginio ir (ar) vartotojo energetikos įrenginio patikrinimas. ^646c4cbc124ea38d4c1feec7
+5) pateikti pastabas ir pasiūlymus dėl Tarybos administracijos valstybės tarnautojo surašyto patikrinimo akto ar duoto privalomojo nurodymo, jeigu atliekamas energetikos įmonių reguliuojamosios veiklos patikrinimas, Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, energetikos objekto, energetikos įrenginio ir (ar) vartotojo energetikos įrenginio patikrinimas. ^3b2819cfcd4c8446965568e8
 
 
-8. Kiti juridiniai asmenys patikrinimų, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, metu turi teises ir pareigas, nustatytas [[#^0ba2b2da8041ae7162573e39|šio straipsnio 6 dalies]] 2–5 punktuose ir [[#^d3af566da15250124977ef87|7 dalies]] 1 ir 2 punktuose. ^6f6d7ef03093807e84582c3e
+8. Kiti juridiniai asmenys patikrinimų, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, metu turi teises ir pareigas, nustatytas [[#^f979115a8761bb779b2be1b1|šio straipsnio 6 dalies]] 2–5 punktuose ir [[#^12388e3423c66f22a79596ee|7 dalies]] 1 ir 2 punktuose. ^7f9b173be7311fc715149531
 
 
-9. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus, privalomuosius nurodymus ir pan.). Jų formas tvirtina ir pildymo tvarką nustato Taryba. ^7aa52348c89e94c938e18b8a
+9. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus, privalomuosius nurodymus ir pan.). Jų formas tvirtina ir pildymo tvarką nustato Taryba. ^724d7c363d030f289b0f4c1c
 
 
-10. Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų reikalavimai, duoti atliekant šiame straipsnyje nurodytus veiksmus, yra privalomi juridiniams ir fiziniams asmenims, kurie privalo tinkamai bendradarbiauti su Taryba, jos įgaliotais Tarybos administracijos valstybės tarnautojais ir [[#^c078730c3b18d7364dffea2d|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodytais asmenimis. Už reikalavimų nevykdymą, netinkamą bendradarbiavimą ar trukdymą atlikti patikrinimo, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimą, veiksmus taikomos šio ir kitų įstatymų nustatytos sankcijos. ^906e7d308ea808a23988036d
+10. Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų reikalavimai, duoti atliekant šiame straipsnyje nurodytus veiksmus, yra privalomi juridiniams ir fiziniams asmenims, kurie privalo tinkamai bendradarbiauti su Taryba, jos įgaliotais Tarybos administracijos valstybės tarnautojais ir [[#^9c7a971a4375bd5bda8936a1|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodytais asmenimis. Už reikalavimų nevykdymą, netinkamą bendradarbiavimą ar trukdymą atlikti patikrinimo, įskaitant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimą, veiksmus taikomos šio ir kitų įstatymų nustatytos sankcijos. ^9d3adcd230c60ab97d44be75
 
 
-11. Asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, ir kiti juridiniai bei fiziniai asmenys Tarybai, jos įgaliotiems Tarybos administracijos valstybės tarnautojams ir [[#^c078730c3b18d7364dffea2d|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodytiems asmenims privalo pateikti reikalaujamą informaciją net ir tuo atveju, jeigu tokia informacija sudaro asmens, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinamos energetikos įmonės, asmens, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojo, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, komercinę paslaptį, arba informacija yra konfidenciali dėl kitų priežasčių. Taryba, jos įgalioti Tarybos administracijos valstybės tarnautojai ir [[#^c078730c3b18d7364dffea2d|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti patikrinimo metu gautos konfidencialios ir (ar) komercinę paslaptį sudarančios informacijos apsaugą. ^2a37467ee74d228933c143f1
+11. Asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinama energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, ir kiti juridiniai bei fiziniai asmenys Tarybai, jos įgaliotiems Tarybos administracijos valstybės tarnautojams ir [[#^9c7a971a4375bd5bda8936a1|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodytiems asmenims privalo pateikti reikalaujamą informaciją net ir tuo atveju, jeigu tokia informacija sudaro asmens, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, tikrinamos energetikos įmonės, asmens, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojo, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, komercinę paslaptį, arba informacija yra konfidenciali dėl kitų priežasčių. Taryba, jos įgalioti Tarybos administracijos valstybės tarnautojai ir [[#^9c7a971a4375bd5bda8936a1|šio straipsnio 1 dalies]] 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti patikrinimo metu gautos konfidencialios ir (ar) komercinę paslaptį sudarančios informacijos apsaugą. ^e42a7548c82eca2a6f1a669e
 
 
-12. [[#^7d3b37f9086d09aa5858af20|Šio straipsnio 7 dalies 2 punkte]] nurodytą skundą tikrinamas asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, turi teisę paduoti pirmosios instancijos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip. ^2ccc25201af0621786d37ba3
+12. [[#^5b27c02d1a4350490c42d606|Šio straipsnio 7 dalies 2 punkte]] nurodytą skundą tikrinamas asmuo, dėl kurio veikos atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, energetikos įmonė, asmuo, dėl kurio energetikos objekto, energetikos įrenginio atliekamas patikrinimas, ir vartotojas, dėl kurio poreikiams tenkinti skirto energetikos įrenginio atliekamas patikrinimas, turi teisę paduoti pirmosios instancijos administraciniam teismui teisės aktų nustatyta tvarka. Skundo padavimas Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip. ^d9116135fcddb5ab0bb21321
 
 
-13. Už [[#^c078730c3b18d7364dffea2d|šio straipsnio 1 dalies]] 3, 4 ir 5 punktuose nurodytas paslaugas, jeigu jos pagal galiojančius teisės aktus yra teikiamos atlygintinai, Taryba atsiskaito teisės aktų nustatyta tvarka. ^72fd1c80f9ac9376adf9fb02
+13. Už [[#^9c7a971a4375bd5bda8936a1|šio straipsnio 1 dalies]] 3, 4 ir 5 punktuose nurodytas paslaugas, jeigu jos pagal galiojančius teisės aktus yra teikiamos atlygintinai, Taryba atsiskaito teisės aktų nustatyta tvarka. ^6e5b143312b8cddad025730e
 
 
-14. Lietuvos bankas, komerciniai bankai ar kitos kredito bei finansų įstaigos [[#^5f6674ad18bbc8609fd99e52|šio straipsnio 1 dalies 3 punkte]] nurodytą informaciją Tarybai teikia teisės aktų nustatyta tvarka. ^94d0ee10ba6fe4d6b7a69f00
+14. Lietuvos bankas, komerciniai bankai ar kitos kredito bei finansų įstaigos [[#^2fef2b15f6c48b028501eac9|šio straipsnio 1 dalies 3 punkte]] nurodytą informaciją Tarybai teikia teisės aktų nustatyta tvarka. ^10ce02927821341c6dbb94ea
 
 
 Straipsnio pakeitimai:
@@ -2545,52 +2570,52 @@ Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 ### 242 straipsnis. Privalomieji nurodymai
 
 
-1. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, atlikdami Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, nustatę energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų reikalavimų nesilaikymo ar netinkamo vykdymo faktą, Tarybos nustatyta tvarka turi teisę asmeniui duoti privalomąjį nurodymą. ^f72f75fcf215640818330eae
+1. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, atlikdami Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus, nustatę energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų reikalavimų nesilaikymo ar netinkamo vykdymo faktą, Tarybos nustatyta tvarka turi teisę asmeniui duoti privalomąjį nurodymą. ^c8fd3c43aed09a2a95275180
 Straipsnio dalies pakeitimai:
 Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-2. Privalomasis nurodymas gali būti duodamas šiais atvejais: ^486a01049ce27e0ec2ad4dcf
+2. Privalomasis nurodymas gali būti duodamas šiais atvejais: ^76448693bd93c3758adf0d00
 
 
-1) kai dėl energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų nesilaikymo kyla reali grėsmė, kad bus padarytas tiesioginis neigiamas poveikis žmonių sveikatai ar gyvybei, turtui, aplinkai ar kitoms teisės aktais saugomoms vertybėms, duodamas privalomasis nurodymas sustabdyti energetikos veiklą, energetikos objekto, energetikos įrenginio ar vartotojo energetikos įrenginio ar jo dalies eksploatavimą. Šiuo atveju privalomajame nurodyme turi būti nustatytos sąlygos ar priemonės, kurias įgyvendinus galima atnaujinti sustabdytą energetikos veiklą, energetikos objekto, energetikos įrenginio ar vartotojo energetikos įrenginio ar jo dalies eksploatavimą; ^3f17700fd09667f1f4261579
+1) kai dėl energetikos veiklą, energetikos objektų, energetikos įrenginių ar vartotojų energetikos įrenginių eksploatavimą reglamentuojančių teisės aktų nesilaikymo kyla reali grėsmė, kad bus padarytas tiesioginis neigiamas poveikis žmonių sveikatai ar gyvybei, turtui, aplinkai ar kitoms teisės aktais saugomoms vertybėms, duodamas privalomasis nurodymas sustabdyti energetikos veiklą, energetikos objekto, energetikos įrenginio ar vartotojo energetikos įrenginio ar jo dalies eksploatavimą. Šiuo atveju privalomajame nurodyme turi būti nustatytos sąlygos ar priemonės, kurias įgyvendinus galima atnaujinti sustabdytą energetikos veiklą, energetikos objekto, energetikos įrenginio ar vartotojo energetikos įrenginio ar jo dalies eksploatavimą; ^bff424332a675b0cb8ad50ae
 
 
-2) kai Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, atlikdami jiems pavestas funkcijas, nustato teisės aktų nuostatų pažeidimus, kurie nepatenka į [[#^3f17700fd09667f1f4261579|šio straipsnio 2 dalies 1 punktu]] reguliuojamą sritį, duodamas privalomasis nurodymas pašalinti teisės aktų pažeidimus; ^bb40b6d99832a5a60cdfd7cd
+2) kai Tarybos įgalioti Tarybos administracijos valstybės tarnautojai, atlikdami jiems pavestas funkcijas, nustato teisės aktų nuostatų pažeidimus, kurie nepatenka į [[#^bff424332a675b0cb8ad50ae|šio straipsnio 2 dalies 1 punktu]] reguliuojamą sritį, duodamas privalomasis nurodymas pašalinti teisės aktų pažeidimus; ^c7b0302a1715a2ae38471a25
 
 
-3) kai atliekant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus nustatoma, kad asmuo, dėl kurio toks tyrimas atliekamas, atliko veiksmus, kurie prieštarauja Reglamentui (ES) Nr. 1227/2011 ar deleguotiesiems aktams, priimtiems remiantis Reglamentu (ES) Nr. 1227/2011 suteiktais įgaliojimais, arba Reglamento (ES) Nr. 1227/2011 pagrindu priimtiems įgyvendinimo aktams, duodamas privalomasis nurodymas nutraukti tokius veiksmus. ^61c1a8cc5d32aa26c8379238
+3) kai atliekant Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimus nustatoma, kad asmuo, dėl kurio toks tyrimas atliekamas, atliko veiksmus, kurie prieštarauja Reglamentui (ES) Nr. 1227/2011 ar deleguotiesiems aktams, priimtiems remiantis Reglamentu (ES) Nr. 1227/2011 suteiktais įgaliojimais, arba Reglamento (ES) Nr. 1227/2011 pagrindu priimtiems įgyvendinimo aktams, duodamas privalomasis nurodymas nutraukti tokius veiksmus. ^6b119925128ab9d269c79dad
 Papildyta straipsnio punktu:
 Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-3. Taryba nustato privalomojo nurodymo formą, privalomojo nurodymo vykdymo tvarką, privalomojo nurodymo įvykdymo terminą ir kitas su privalomuoju nurodymu susijusias sąlygas. ^c95a7faaacb67d1c6c63a6ef
+3. Taryba nustato privalomojo nurodymo formą, privalomojo nurodymo vykdymo tvarką, privalomojo nurodymo įvykdymo terminą ir kitas su privalomuoju nurodymu susijusias sąlygas. ^5ce78643cafc59ec123f964a
 
 
-4. Jeigu privalomasis nurodymas neįvykdomas per privalomojo nurodymo įvykdymo terminą, Taryba asmeniui skiria šio įstatymo [[#^6505099469ae98f70ce9fae9|36 straipsnio 3 dalyje]] nurodytą sankciją, išskyrus atvejus, kai byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo nagrinėjama teisme. Tokiais atvejais už privalomojo nurodymo neįvykdymą asmuo traukiamas atsakomybėn įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo įvykdymo termino nepratęsimo. ^498380bf55c9844c44c4c0b5
+4. Jeigu privalomasis nurodymas neįvykdomas per privalomojo nurodymo įvykdymo terminą, Taryba asmeniui skiria šio įstatymo [[#^9fb262440e2151d4320410d9|36 straipsnio 3 dalyje]] nurodytą sankciją, išskyrus atvejus, kai byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo nagrinėjama teisme. Tokiais atvejais už privalomojo nurodymo neįvykdymą asmuo traukiamas atsakomybėn įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo įvykdymo termino nepratęsimo. ^3ea120be0ea8f27385637ca7
 
 
-5. Privalomąjį nurodymą gali apskųsti asmuo, kuriam duotas privalomasis nurodymas, per vieną mėnesį nuo privalomojo nurodymo įteikimo dienos pateikdamas skundą Tarybai arba Regionų administraciniam teismui. ^0984bf75ffe1b35c590a3c85
+5. Privalomąjį nurodymą gali apskųsti asmuo, kuriam duotas privalomasis nurodymas, per vieną mėnesį nuo privalomojo nurodymo įteikimo dienos pateikdamas skundą Tarybai arba Regionų administraciniam teismui. ^45bf4f4be00017963cdac330
 
 
-6. Taryba, laikydamasi Viešojo administravimo įstatyme nustatytų terminų, savo nustatyta tvarka išnagrinėjusi asmens skundą dėl privalomojo nurodymo, priima vieną iš šių sprendimų: ^bc89fcbda07eea30a4f789f7
+6. Taryba, laikydamasi Viešojo administravimo įstatyme nustatytų terminų, savo nustatyta tvarka išnagrinėjusi asmens skundą dėl privalomojo nurodymo, priima vieną iš šių sprendimų: ^e5568f8312e5ed4bf1243ef4
 
 
-1) privalomąjį nurodymą palieka nepakeistą; ^76c440fbaf568fa567348095
+1) privalomąjį nurodymą palieka nepakeistą; ^b5bf291de79118e244dcd650
 
 
-2) privalomąjį nurodymą pakeičia iš dalies – sumažina jame nustatytus reikalavimus arba Tarybos nustatyta tvarka nustato kitus jo įvykdymo terminus; ^c92213af5e6b3428c8675ff4
+2) privalomąjį nurodymą pakeičia iš dalies – sumažina jame nustatytus reikalavimus arba Tarybos nustatyta tvarka nustato kitus jo įvykdymo terminus; ^ea93469a789ebee447321841
 
 
-3) privalomąjį nurodymą panaikina ir paveda jį davusiam Tarybos įgaliotam Tarybos administracijos valstybės tarnautojui duoti naują privalomąjį nurodymą; ^d8fdc933a8684367c78be197
+3) privalomąjį nurodymą panaikina ir paveda jį davusiam Tarybos įgaliotam Tarybos administracijos valstybės tarnautojui duoti naują privalomąjį nurodymą; ^9a768251b79e7ec2f7acf6ac
 
 
-4) privalomąjį nurodymą panaikina. ^92358ee2ac1586d1a1994abd
+4) privalomąjį nurodymą panaikina. ^cae9665d9f14c6078ec3195d
 
 
-7. Jeigu asmenys nesutinka su [[#^bc89fcbda07eea30a4f789f7|šio straipsnio 6 dalyje]] nurodytu Tarybos sprendimu arba Taryba neišnagrinėja skundo per Viešojo administravimo įstatyme nustatytą terminą, asmenys turi teisę paduoti skundą Regionų administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Skundo padavimas Tarybai ar Regionų administraciniam teismui privalomojo nurodymo vykdymo nesustabdo, jeigu atitinkamai Taryba arba Regionų administracinis teismas nenusprendžia kitaip. ^9c4cb002735a2a6132ee1d3b
+7. Jeigu asmenys nesutinka su [[#^e5568f8312e5ed4bf1243ef4|šio straipsnio 6 dalyje]] nurodytu Tarybos sprendimu arba Taryba neišnagrinėja skundo per Viešojo administravimo įstatyme nustatytą terminą, asmenys turi teisę paduoti skundą Regionų administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Skundo padavimas Tarybai ar Regionų administraciniam teismui privalomojo nurodymo vykdymo nesustabdo, jeigu atitinkamai Taryba arba Regionų administracinis teismas nenusprendžia kitaip. ^78db8a2f9bfacba4c6188138
 
 
 Papildyta straipsniu:
@@ -2601,22 +2626,22 @@ Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 ### 25 straipsnis. Informacijos teikimas
 
 
-1. Valstybės ir savivaldybių institucijos ir įstaigos joms pavestoms funkcijoms atlikti turi teisę iš energetikos įmonių gauti reikiamą informaciją. Energetikos įmonės Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikia informaciją valstybės, savivaldybių institucijoms, įstaigoms ir (ar) kitiems asmenims, kuriems teisės aktų nustatyta tvarka yra suteikiama teisė gauti tokią informaciją. ^bf58188bd2fa4c5297fcdcfb
+1. Valstybės ir savivaldybių institucijos ir įstaigos joms pavestoms funkcijoms atlikti turi teisę iš energetikos įmonių gauti reikiamą informaciją. Energetikos įmonės Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikia informaciją valstybės, savivaldybių institucijoms, įstaigoms ir (ar) kitiems asmenims, kuriems teisės aktų nustatyta tvarka yra suteikiama teisė gauti tokią informaciją. ^0cfc1c8d47681505ba32b332
 
 
-2. Vyriausybė, Energetikos ministerija ar kita įgaliota institucija įstatymų ir kitų teisės aktų nustatyta tvarka pagal kompetenciją teikia informaciją Europos Komisijai, kitoms valstybėms ir tarptautinėms organizacijoms. ^c465153f9b80fcb214352326
+2. Vyriausybė, Energetikos ministerija ar kita įgaliota institucija įstatymų ir kitų teisės aktų nustatyta tvarka pagal kompetenciją teikia informaciją Europos Komisijai, kitoms valstybėms ir tarptautinėms organizacijoms. ^c1c01a705758222a1ee0ec6c
 
 
-3. Apie valstybinės svarbos energetikos objektų statybos ir eksploatavimo pradžią šiuos objektus nuosavybės teise ar kitais teisiniais pagrindais valdančios energetikos įmonės privalo pranešti Energetikos ministerijai. ^76996e214bcc2e20d4bc54d0
+3. Apie valstybinės svarbos energetikos objektų statybos ir eksploatavimo pradžią šiuos objektus nuosavybės teise ar kitais teisiniais pagrindais valdančios energetikos įmonės privalo pranešti Energetikos ministerijai. ^c52ad7bc4d5368d1fc927523
 
 
-4. Energetikos įmonės savo veiklos teritorijoje Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka energijos vartotojams ir savivaldybių institucijoms teikia informaciją apie efektyvų energijos išteklių ir energijos vartojimą, saugų ir efektyvų energetikos objektų ir įrenginių naudojimą, statomus, rekonstruojamus energetikos objektus ir įrenginius, valstybės reguliuojamas energijos kainas ir energijos vartotojams teikiamas paslaugas. ^6f1f3c871c7084ce576ad422
+4. Energetikos įmonės savo veiklos teritorijoje Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka energijos vartotojams ir savivaldybių institucijoms teikia informaciją apie efektyvų energijos išteklių ir energijos vartojimą, saugų ir efektyvų energetikos objektų ir įrenginių naudojimą, statomus, rekonstruojamus energetikos objektus ir įrenginius, valstybės reguliuojamas energijos kainas ir energijos vartotojams teikiamas paslaugas. ^ed69de463a03fb160e8a167c
 
 
-5. Energetikos įmonių informacija apie sąnaudas, susijusias su teisės aktų nustatyta tvarka licencijuojama veikla arba su veikla, kuriai taikomos valstybės reguliuojamos kainos, yra vieša. Energetikos įmonės, kurios vykdo licencijuojamą veiklą arba kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, viešai skelbia įmonių valdymo organų nariams nustatytą darbo užmokestį ir kitas su valdymo organų narių funkcijomis susijusias išmokas. ^de95263075c2062e4bdfbfbb
+5. Energetikos įmonių informacija apie sąnaudas, susijusias su teisės aktų nustatyta tvarka licencijuojama veikla arba su veikla, kuriai taikomos valstybės reguliuojamos kainos, yra vieša. Energetikos įmonės, kurios vykdo licencijuojamą veiklą arba kurių teikiamų paslaugų kainos yra valstybės reguliuojamos, viešai skelbia įmonių valdymo organų nariams nustatytą darbo užmokestį ir kitas su valdymo organų narių funkcijomis susijusias išmokas. ^6adf534bd1e10c3b91cde274
 
 
-6. Fiziniai ir (ar) juridiniai asmenys Tarybos prašymu teikia jai informaciją apie energetikos įmonėms suteiktų paslaugų teikimo ar parduotų prekių tiekimo sąnaudas, pajamas, sutartinius įsipareigojimus ir kainodaras, kurie turi įtakos valstybės reguliuojamoms kainoms, kai energetikos įmonės, kurių veiklai yra taikomos valstybės reguliuojamos kainos, su fiziniais ir (ar) juridiniais asmenimis sudaro paslaugų teikimo ar prekių pirkimo sandorius, informaciją apie asmenų gautas pajamas, kuri būtina Tarybos taikomos sankcijos dydžiui apskaičiuoti, taip pat informaciją, reikalingą stebėsenai pagal Reglamento (ES) Nr. 1227/2011 nuostatas vykdyti, bei kitą Tarybai teisės aktuose pavestoms funkcijoms atlikti reikalingą informaciją. Taryba, naudodamasi teise gauti iš fizinių ir (ar) juridinių asmenų informaciją, privalo užtikrinti gautos informacijos ar duomenų konfidencialumą, jeigu juos pateikęs asmuo to prašo, tačiau ši pareiga neapriboja galimybės Tarybai skelbti ar kitaip naudoti apibendrintą ar nuasmenintą informaciją ar duomenis, kai iš pateikiamos informacijos ar duomenų negalima nustatyti konkrečių asmenų. ^3b83ad3bd9961f2a36aa7054
+6. Fiziniai ir (ar) juridiniai asmenys Tarybos prašymu teikia jai informaciją apie energetikos įmonėms suteiktų paslaugų teikimo ar parduotų prekių tiekimo sąnaudas, pajamas, sutartinius įsipareigojimus ir kainodaras, kurie turi įtakos valstybės reguliuojamoms kainoms, kai energetikos įmonės, kurių veiklai yra taikomos valstybės reguliuojamos kainos, su fiziniais ir (ar) juridiniais asmenimis sudaro paslaugų teikimo ar prekių pirkimo sandorius, informaciją apie asmenų gautas pajamas, kuri būtina Tarybos taikomos sankcijos dydžiui apskaičiuoti, taip pat informaciją, reikalingą stebėsenai pagal Reglamento (ES) Nr. 1227/2011 nuostatas vykdyti, bei kitą Tarybai teisės aktuose pavestoms funkcijoms atlikti reikalingą informaciją. Taryba, naudodamasi teise gauti iš fizinių ir (ar) juridinių asmenų informaciją, privalo užtikrinti gautos informacijos ar duomenų konfidencialumą, jeigu juos pateikęs asmuo to prašo, tačiau ši pareiga neapriboja galimybės Tarybai skelbti ar kitaip naudoti apibendrintą ar nuasmenintą informaciją ar duomenis, kai iš pateikiamos informacijos ar duomenų negalima nustatyti konkrečių asmenų. ^0da94f5e67a1f89e4a0ff128
 Papildyta straipsnio dalimi:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Straipsnio dalies pakeitimai:
@@ -2628,41 +2653,41 @@ Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 ### 26 straipsnis. Konsultacijos ir bendradarbiavimas
 
 
-1. Taryba, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, konsultuojasi ir glaudžiai bendradarbiauja su Energetikos ministerija, Konkurencijos taryba, kitomis valstybės ir (ar) savivaldybių institucijomis, įmonėmis, įstaigomis ir organizacijomis. Taryba, rengdama informaciją buitinių vartotojų teisių klausimais, bendradarbiauja su Tarnyba. ^6aa19757b8b9b9359e57430b
+1. Taryba, atlikdama jai pavestas energetikos veiklos reguliavimo, priežiūros ir kontrolės funkcijas, konsultuojasi ir glaudžiai bendradarbiauja su Energetikos ministerija, Konkurencijos taryba, kitomis valstybės ir (ar) savivaldybių institucijomis, įmonėmis, įstaigomis ir organizacijomis. Taryba, rengdama informaciją buitinių vartotojų teisių klausimais, bendradarbiauja su Tarnyba. ^757eeb53d310c5d64c9f917a
 
 
-2. Taryba glaudžiai bendradarbiauja su Europos Komisija, Energetikos reguliavimo institucijų bendradarbiavimo agentūra, įskaitant dalyvavimą jos Reguliuotojų valdybos darbe pagal Reglamento (ES) 2019/942 [[#21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas|21 straipsnį]] ir bendradarbiavimą įgyvendinant Reglamento (ES) Nr. 1227/2011 nuostatas, ir turi teisę sudaryti bendradarbiavimo susitarimą su Energetikos reguliavimo institucijų bendradarbiavimo agentūra. Taryba taip pat bendradarbiauja su kitų valstybių narių reguliavimo institucijomis ir Europos Komisija, įskaitant bendradarbiavimą įgyvendinant Reglamento (ES) Nr. 1227/2011 nuostatas, ir turi teisę tuo tikslu sudaryti bendradarbiavimo susitarimus. ^ff339768f84935db99edecc0
+2. Taryba glaudžiai bendradarbiauja su Europos Komisija, Energetikos reguliavimo institucijų bendradarbiavimo agentūra, įskaitant dalyvavimą jos Reguliuotojų valdybos darbe pagal Reglamento (ES) 2019/942 [[#21 straipsnis. Energetikos veiklos licencijų, leidimų ir atestatų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas|21 straipsnį]] ir bendradarbiavimą įgyvendinant Reglamento (ES) Nr. 1227/2011 nuostatas, ir turi teisę sudaryti bendradarbiavimo susitarimą su Energetikos reguliavimo institucijų bendradarbiavimo agentūra. Taryba taip pat bendradarbiauja su kitų valstybių narių reguliavimo institucijomis ir Europos Komisija, įskaitant bendradarbiavimą įgyvendinant Reglamento (ES) Nr. 1227/2011 nuostatas, ir turi teisę tuo tikslu sudaryti bendradarbiavimo susitarimus. ^c176d1593fcf942463b8f160
 Straipsnio dalies pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-3. Taryba, veikdama pagal šiame įstatyme ir kituose teisės aktuose jai suteiktus įgaliojimus, viena ar kartu su kompetentingomis Lietuvos Respublikos, kitų valstybių narių ar Europos Sąjungos institucijomis, įstaigomis ir organizacijomis siekia šių bendrųjų tikslų: ^f08391899e60253b0285d457
+3. Taryba, veikdama pagal šiame įstatyme ir kituose teisės aktuose jai suteiktus įgaliojimus, viena ar kartu su kompetentingomis Lietuvos Respublikos, kitų valstybių narių ar Europos Sąjungos institucijomis, įstaigomis ir organizacijomis siekia šių bendrųjų tikslų: ^a14a3ba4ffc828b6855e3502
 
 
-1) skatinti konkurencingos, saugios ir aplinką tausojančios lanksčios elektros energijos ir gamtinių dujų vidaus rinkos kūrimą Europos Sąjungoje, veiksmingą rinkos atvėrimą visiems Europos Sąjungos vartotojams ir tiekėjams, taip pat užtikrinti tinkamas veiksmingo ir patikimo elektros energijos tinklų veikimo sąlygas, atsižvelgiant į ilgalaikius tikslus; ^c72a3f9c4aa939f7875c2052
+1) skatinti konkurencingos, saugios ir aplinką tausojančios lanksčios elektros energijos ir gamtinių dujų vidaus rinkos kūrimą Europos Sąjungoje, veiksmingą rinkos atvėrimą visiems Europos Sąjungos vartotojams ir tiekėjams, taip pat užtikrinti tinkamas veiksmingo ir patikimo elektros energijos tinklų veikimo sąlygas, atsižvelgiant į ilgalaikius tikslus; ^1b9243534eb39c6b624770da
 
 
-2) plėtoti konkurencingas ir tinkamai veikiančias regionines tarpvalstybines elektros energijos ir gamtinių dujų rinkas Europos Sąjungoje; ^ebe04ca1fd0d60dd9480eb03
+2) plėtoti konkurencingas ir tinkamai veikiančias regionines tarpvalstybines elektros energijos ir gamtinių dujų rinkas Europos Sąjungoje; ^57884ccd8b83ea4ac5914ea3
 
 
-3) panaikinti prekybos elektros energija ir gamtinėmis dujomis tarp valstybių narių apribojimus, įskaitant reikiamų tarpvalstybinių elektros energijos ir dujų perdavimo pajėgumų plėtros apribojimus, kad būtų patenkinta paklausa ir didinama nacionalinių rinkų integracija, kuri gali sudaryti palankesnes sąlygas elektros energijos ir gamtinių dujų perdavimui Europos Sąjungoje; ^8682731cb8901dc9edda437c
+3) panaikinti prekybos elektros energija ir gamtinėmis dujomis tarp valstybių narių apribojimus, įskaitant reikiamų tarpvalstybinių elektros energijos ir dujų perdavimo pajėgumų plėtros apribojimus, kad būtų patenkinta paklausa ir didinama nacionalinių rinkų integracija, kuri gali sudaryti palankesnes sąlygas elektros energijos ir gamtinių dujų perdavimui Europos Sąjungoje; ^f8fb657a07fb14ffd4b753eb
 
 
-4) kuo rentabiliau plėtoti saugius, patikimus ir efektyvius tinklus (sistemą), kurie būtų naudojami nediskriminuojančiais pagrindais ir orientuojantis į vartotojus, ir skatinti tinklų (sistemos) tinkamumą ir bendruosius energetikos politikos tikslus atitinkantį energijos vartojimo efektyvumą, taip pat atsinaujinančių išteklių energijos gamybos ir paskirstytos gamybos integravimą dideliu ir mažu mastu tiek perdavimo, tiek skirstymo tinkluose ar sistemose bei sudaryti palankesnes sąlygas šiems tinklams (sistemoms), susijusiems (susijusioms) su kitais dujų ar šilumos perdavimo tinklais (sistema), eksploatuoti; ^3f30a60720d5737c98d31653
+4) kuo rentabiliau plėtoti saugius, patikimus ir efektyvius tinklus (sistemą), kurie būtų naudojami nediskriminuojančiais pagrindais ir orientuojantis į vartotojus, ir skatinti tinklų (sistemos) tinkamumą ir bendruosius energetikos politikos tikslus atitinkantį energijos vartojimo efektyvumą, taip pat atsinaujinančių išteklių energijos gamybos ir paskirstytos gamybos integravimą dideliu ir mažu mastu tiek perdavimo, tiek skirstymo tinkluose ar sistemose bei sudaryti palankesnes sąlygas šiems tinklams (sistemoms), susijusiems (susijusioms) su kitais dujų ar šilumos perdavimo tinklais (sistema), eksploatuoti; ^e33981051fdfc47b0e27e0c1
 
 
-5) sudaryti palankesnes sąlygas naujų gamybos pajėgumų ir kitų energetikos įrenginių prieigai prie tinklų (sistemų), pirmiausia pašalinant kliūtis, trukdančias naujų rinkos dalyvių prieigą ir atsinaujinančių išteklių energijos gamybą; ^ce34b278fe5bd8c7eeb96e5e
+5) sudaryti palankesnes sąlygas naujų gamybos pajėgumų ir kitų energetikos įrenginių prieigai prie tinklų (sistemų), pirmiausia pašalinant kliūtis, trukdančias naujų rinkos dalyvių prieigą ir atsinaujinančių išteklių energijos gamybą; ^bb50d3c41fa2b1e36dce268d
 
 
-6) siekiant didinti sistemos, ypač energijos vartojimo, efektyvumą ir skatinti rinkos integraciją, užtikrinti, kad tinklų (sistemos) operatoriams ir tinklų (sistemos) naudotojams būtų suteiktos tinkamos paskatos trumpuoju ir ilgalaikiu laikotarpiais; ^e2bace735f2484697392ed9b
+6) siekiant didinti sistemos, ypač energijos vartojimo, efektyvumą ir skatinti rinkos integraciją, užtikrinti, kad tinklų (sistemos) operatoriams ir tinklų (sistemos) naudotojams būtų suteiktos tinkamos paskatos trumpuoju ir ilgalaikiu laikotarpiais; ^d8c8fe13910455707ff0c5c7
 
 
-7) užtikrinti, kad veiksmingai veikiant nacionalinėms rinkoms vartotojai gautų naudos, skatinti veiksmingą konkurenciją ir bendradarbiaujant su kitomis vartotojų apsaugą užtikrinančiomis institucijomis padėti užtikrinti vartotojų apsaugą; ^8ec0427bcdab0091315c80cd
+7) užtikrinti, kad veiksmingai veikiant nacionalinėms rinkoms vartotojai gautų naudos, skatinti veiksmingą konkurenciją ir bendradarbiaujant su kitomis vartotojų apsaugą užtikrinančiomis institucijomis padėti užtikrinti vartotojų apsaugą; ^bf97ed357fdde12e359f17e6
 
 
-8) padėti siekti aukštų visuotinių ir viešųjų energijos ir energijos išteklių tiekimo paslaugų standartų, prisidėti prie socialiai pažeidžiamų vartotojų apsaugos ir padėti suderinti keitimosi būtinais duomenimis procedūras vartotojams keičiant tiekėjus. ^55859d2c503e04ce66555a41
+8) padėti siekti aukštų visuotinių ir viešųjų energijos ir energijos išteklių tiekimo paslaugų standartų, prisidėti prie socialiai pažeidžiamų vartotojų apsaugos ir padėti suderinti keitimosi būtinais duomenimis procedūras vartotojams keičiant tiekėjus. ^e6353128ac0b29d74c8d0c69
 
 
 Straipsnio dalies pakeitimai:
@@ -2670,19 +2695,19 @@ Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-4. Taryba turi teisę kreiptis į Energetikos reguliavimo institucijų bendradarbiavimo agentūrą su prašymu pateikti nuomonę, ar Tarybos priimti sprendimai atitinka Europos Sąjungos teisės aktų reikalavimus ir (ar) Europos Komisijos patvirtintas gaires. ^338d268d34f941692dedde83
+4. Taryba turi teisę kreiptis į Energetikos reguliavimo institucijų bendradarbiavimo agentūrą su prašymu pateikti nuomonę, ar Tarybos priimti sprendimai atitinka Europos Sąjungos teisės aktų reikalavimus ir (ar) Europos Komisijos patvirtintas gaires. ^532b1a17168de02e8a08cdc5
 Straipsnio dalies pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-5. Taryba turi teisę pranešti Europos Komisijai apie kitos valstybės narės reguliavimo institucijos priimtą sprendimą, reikšmingą tarpvalstybiniams elektros energijos mainams, kuris Tarybos vertinimu neatitinka Reglamente (ES) 2019/943 ar Direktyvoje (ES) 2019/944 nurodytų gairių. Toks pranešimas turi būti pateiktas Europos Komisijai per du mėnesius nuo atitinkamo reguliavimo institucijos sprendimo priėmimo. ^3dca10733d1da5d60c018661
+5. Taryba turi teisę pranešti Europos Komisijai apie kitos valstybės narės reguliavimo institucijos priimtą sprendimą, reikšmingą tarpvalstybiniams elektros energijos mainams, kuris Tarybos vertinimu neatitinka Reglamente (ES) 2019/943 ar Direktyvoje (ES) 2019/944 nurodytų gairių. Toks pranešimas turi būti pateiktas Europos Komisijai per du mėnesius nuo atitinkamo reguliavimo institucijos sprendimo priėmimo. ^8b18d6808485873a34b088fa
 Straipsnio dalies pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-6. Jeigu Europos Komisija Direktyvos (ES) 2019/944 63 straipsnyje nustatyta tvarka ir sąlygomis nurodo panaikinti Tarybos priimtą sprendimą, Taryba ne vėliau kaip per du mėnesius privalo panaikinti arba pakeisti atitinkamą sprendimą, atsižvelgdama į Europos Sąjungos teisės aktų reikalavimus, ir apie tai informuoti Europos Komisiją. ^003b7970ea0c8beebd79199c
+6. Jeigu Europos Komisija Direktyvos (ES) 2019/944 63 straipsnyje nustatyta tvarka ir sąlygomis nurodo panaikinti Tarybos priimtą sprendimą, Taryba ne vėliau kaip per du mėnesius privalo panaikinti arba pakeisti atitinkamą sprendimą, atsižvelgdama į Europos Sąjungos teisės aktų reikalavimus, ir apie tai informuoti Europos Komisiją. ^220a8f4de4b8434c91ee5a36
 Straipsnio pakeitimai:
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 Straipsnio dalies pakeitimai:
@@ -2698,19 +2723,19 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 ### 261 straipsnis. Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų vykdymas
 
 
-1. Energetikos reguliavimo institucijų bendradarbiavimo agentūros pagal Reglamentą (ES) Nr. 1227/2011 pateikiami prašymai dėl leidimo atlikti patikrinimą vietoje teikiami pirmosios instancijos administraciniam teismui. ^42648a5eb9261b851b367815
+1. Energetikos reguliavimo institucijų bendradarbiavimo agentūros pagal Reglamentą (ES) Nr. 1227/2011 pateikiami prašymai dėl leidimo atlikti patikrinimą vietoje teikiami pirmosios instancijos administraciniam teismui. ^a95d6fed204be535c995a00c
 
 
-2. Energetikos reguliavimo institucijų bendradarbiavimo agentūros priimti sprendimai dėl periodinių baudų, nustatytų pagal Reglamento (ES) Nr. 1227/2011 13g straipsnį, Lietuvos Respublikoje laikomi vykdytinais dokumentais, kurių vykdymas užtikrinamas pagal Lietuvos Respublikos administracinių bylų teisenos įstatymą ar Civilinio proceso kodeksą, atsižvelgiant į sprendimo pobūdį. ^cc5a5aa9ceb6dd7a79f8b341
+2. Energetikos reguliavimo institucijų bendradarbiavimo agentūros priimti sprendimai dėl periodinių baudų, nustatytų pagal Reglamento (ES) Nr. 1227/2011 13g straipsnį, Lietuvos Respublikoje laikomi vykdytinais dokumentais, kurių vykdymas užtikrinamas pagal Lietuvos Respublikos administracinių bylų teisenos įstatymą ar Civilinio proceso kodeksą, atsižvelgiant į sprendimo pobūdį. ^220dc6b6f05990b58737d3aa
 
 
-3. Taryba yra atsakinga už Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų autentiškumo patikrinimą. ^222c99bf4d0d1ff3f647b4ee
+3. Taryba yra atsakinga už Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų autentiškumo patikrinimą. ^e7998e9a4466304e5cf21c80
 
 
-4. Taryba, atlikusi Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų autentiškumo patikrinimą, perduoda juos vykdyti pagal Administracinių bylų teisenos įstatymą arba Civilinio proceso kodeksą, atsižvelgdama į taikytino vykdymo proceso pobūdį. ^5a18dfbb868faa80fc1249c5
+4. Taryba, atlikusi Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų autentiškumo patikrinimą, perduoda juos vykdyti pagal Administracinių bylų teisenos įstatymą arba Civilinio proceso kodeksą, atsižvelgdama į taikytino vykdymo proceso pobūdį. ^2a233a97d3f2296292451e6d
 
 
-5. Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų vykdymą sustabdyti gali tik Europos Sąjungos Teisingumo Teismas. Lietuvos Respublikos teismai turi jurisdikciją nagrinėti skundus dėl Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų vykdymo tvarkos ar procedūrinių pažeidimų. ^52ee69ed33902445940b4e56
+5. Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų vykdymą sustabdyti gali tik Europos Sąjungos Teisingumo Teismas. Lietuvos Respublikos teismai turi jurisdikciją nagrinėti skundus dėl Energetikos reguliavimo institucijų bendradarbiavimo agentūros sprendimų vykdymo tvarkos ar procedūrinių pažeidimų. ^5ca8efd588b764b15821c209
 
 
 Papildyta straipsniu:
@@ -2721,34 +2746,34 @@ Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 ### 27 straipsnis. Efektyvus energijos išteklių ir energijos vartojimas
 
 
-1. Efektyvaus energijos ir energijos išteklių vartojimo priemonės suplanuojamos Vyriausybės tvirtinamose energijos vartojimo efektyvumo didinimo ir kitose nacionalinėse plėtros programose. ^f2eb43588203e75496e0c71c
+1. Efektyvaus energijos ir energijos išteklių vartojimo priemonės suplanuojamos Vyriausybės tvirtinamose energijos vartojimo efektyvumo didinimo ir kitose nacionalinėse plėtros programose. ^69b40642abe8ef886554e1c8
 Straipsnio dalies pakeitimai:
 Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-2. Importuojami, gaminami ir parduodami buitiniai prietaisai, kurie naudoja elektros ir kitų rūšių energiją, privalo turėti energijos vartojimo efektyvumo ženklinimo etiketes. ^9aac81f07395c06535f39129
+2. Importuojami, gaminami ir parduodami buitiniai prietaisai, kurie naudoja elektros ir kitų rūšių energiją, privalo turėti energijos vartojimo efektyvumo ženklinimo etiketes. ^377d4901286adc49008a406b
 
 
-3. Importuojami, gaminami ir parduodami su energijos vartojimu susiję gaminiai, kuriuos naudojant daroma didelė tiesioginė ar netiesioginė įtaka energijos ir (ar) kitų išteklių suvartojimui, privalo turėti energijos vartojimo efektyvumo ženklinimo etiketę ir vardinių parametrų lentelę. ^b0365c56e7c16dbdb71c2af6
+3. Importuojami, gaminami ir parduodami su energijos vartojimu susiję gaminiai, kuriuos naudojant daroma didelė tiesioginė ar netiesioginė įtaka energijos ir (ar) kitų išteklių suvartojimui, privalo turėti energijos vartojimo efektyvumo ženklinimo etiketę ir vardinių parametrų lentelę. ^1d7afd3cc27365efaa1cf526
 
 
-4. Įmonės, eksploatuojančios katilus ir kitus energijos išteklius vartojančius įrenginius, kurių vardinė (nominali) šiluminė galia didesnė kaip 0,4 MW, nustatyta tvarka tikrina šių įrenginių energijos išteklių vartojimo efektyvumą. ^2b47962aa3da5f998e58f9b1
+4. Įmonės, eksploatuojančios katilus ir kitus energijos išteklius vartojančius įrenginius, kurių vardinė (nominali) šiluminė galia didesnė kaip 0,4 MW, nustatyta tvarka tikrina šių įrenginių energijos išteklių vartojimo efektyvumą. ^668fd755d0faf91b5b0929a4
 
 
-5. Neteko galios 2013 m. liepos 9 d. ^252c36638a37294bd4184429
+5. Neteko galios 2013 m. liepos 9 d. ^a8d0d7f244de2ae473cf56e1
 
 
-6. Pastatuose atitiktis nustatytiems energijos vartojimo efektyvumo reikalavimams tikrinama: ^ba59fb58b1130d6c44e72675
+6. Pastatuose atitiktis nustatytiems energijos vartojimo efektyvumo reikalavimams tikrinama: ^bed3d9ba8bcb4a79f78bc523
 
 
-1) pastatuose įrengtų šildymo sistemų ir kombinuotųjų šildymo ir vėdinimo sistemų, kurių vardinė atiduodamoji galia didesnė kaip 70 kW, – kartą per penkerius metus; ^c75109634963597cbf6a1e25
+1) pastatuose įrengtų šildymo sistemų ir kombinuotųjų šildymo ir vėdinimo sistemų, kurių vardinė atiduodamoji galia didesnė kaip 70 kW, – kartą per penkerius metus; ^ef64e9bd23b2950a986385a0
 
 
-2) pastatuose įrengtų dujomis kūrenamų katilų – ne rečiau kaip kartą per ketverius metus; ^b494ab8451838141e1eb60be
+2) pastatuose įrengtų dujomis kūrenamų katilų – ne rečiau kaip kartą per ketverius metus; ^c231017fa1e1533bea353b9d
 
 
-3) pastatuose įrengtų oro kondicionavimo sistemų ir kombinuotųjų oro kondicionavimo ir vėdinimo sistemų, kurių vardinė atiduodamoji galia didesnė kaip 70 kW, – kartą per trejus metus. ^22c98953fbe6048817b60f7c
+3) pastatuose įrengtų oro kondicionavimo sistemų ir kombinuotųjų oro kondicionavimo ir vėdinimo sistemų, kurių vardinė atiduodamoji galia didesnė kaip 70 kW, – kartą per trejus metus. ^0601a60c15250d8b2a532dac
 
 
 Straipsnio dalies pakeitimai:
@@ -2756,13 +2781,13 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-7. [[#^ba59fb58b1130d6c44e72675|Šio straipsnio 6 dalies]] 1 ir 2 punktuose nustatytų tikrinimų metu vertinamas šilumos generatoriaus naudingumo koeficientas ir dydis, palyginti su pastato šildymo poreikiais. Šilumos generatoriaus dydžio atitikties pastato šildymo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje šildymo sistemoje arba kombinuotojoje šildymo ir vėdinimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato šildymo poreikiai. ^466494a33dae61a32b6d4bb0
+7. [[#^bed3d9ba8bcb4a79f78bc523|Šio straipsnio 6 dalies]] 1 ir 2 punktuose nustatytų tikrinimų metu vertinamas šilumos generatoriaus naudingumo koeficientas ir dydis, palyginti su pastato šildymo poreikiais. Šilumos generatoriaus dydžio atitikties pastato šildymo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje šildymo sistemoje arba kombinuotojoje šildymo ir vėdinimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato šildymo poreikiai. ^f8397fb5d8d8f214c18e74f5
 Straipsnio dalies pakeitimai:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-8. [[#^22c98953fbe6048817b60f7c|Šio straipsnio 6 dalies 3 punkte]] nustatytų tikrinimų metu vertinamas oro kondicionavimo sistemos naudingumo koeficientas ir dydis, palyginti su pastato vėsinimo poreikiais. Oro kondicionavimo sistemos dydžio atitikties pastato vėsinimo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje oro kondicionavimo sistemoje arba kombinuotojoje oro kondicionavimo ir vėdinimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato vėsinimo poreikiai. ^1dc61c5c7fe56c15ae241996
+8. [[#^0601a60c15250d8b2a532dac|Šio straipsnio 6 dalies 3 punkte]] nustatytų tikrinimų metu vertinamas oro kondicionavimo sistemos naudingumo koeficientas ir dydis, palyginti su pastato vėsinimo poreikiais. Oro kondicionavimo sistemos dydžio atitikties pastato vėsinimo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje oro kondicionavimo sistemoje arba kombinuotojoje oro kondicionavimo ir vėdinimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato vėsinimo poreikiai. ^6301b02e20de49c6cdf258eb
 Straipsnio dalies pakeitimai:
 Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
@@ -2771,34 +2796,34 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 ### 28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas
 
 
-1. Energetikos darbuotojai ir energijos vartojimo auditą atliekantys specialistai turi būti reikiamos kvalifikacijos, tinkamai pasirengę atlikti jiems pavestas užduotis, atestuoti šio įstatymo nustatyta tvarka ir turintys tai patvirtinantį galiojantį dokumentą. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo tvarką nustato energetikos ministras, vadovaudamasis šiame straipsnyje nustatytais darbuotojų bendraisiais kvalifikaciniais (išsilavinimo ir darbo patirties) reikalavimais. ^6bbc0ba95f313059a4784480
+1. Energetikos darbuotojai ir energijos vartojimo auditą atliekantys specialistai turi būti reikiamos kvalifikacijos, tinkamai pasirengę atlikti jiems pavestas užduotis, atestuoti šio įstatymo nustatyta tvarka ir turintys tai patvirtinantį galiojantį dokumentą. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo tvarką nustato energetikos ministras, vadovaudamasis šiame straipsnyje nustatytais darbuotojų bendraisiais kvalifikaciniais (išsilavinimo ir darbo patirties) reikalavimais. ^09d6cfccc4fa5f6a09c81110
 
 
-2. Energijos vartojimo auditą atliekantys specialistai privalo turėti inžinerijos mokslų studijų krypčių grupės aukštąjį universitetinį arba jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų praktinio darbo patirtį energijos vartojimo efektyvumo srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, technologinių procesų vyksmą, reikalavimus. Specialiuosius kvalifikacinius reikalavimus, taikomus energijos vartojimo auditą atliekantiems specialistams, nustato energetikos ministras. ^e0fad8205b950878750fc032
+2. Energijos vartojimo auditą atliekantys specialistai privalo turėti inžinerijos mokslų studijų krypčių grupės aukštąjį universitetinį arba jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų praktinio darbo patirtį energijos vartojimo efektyvumo srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, technologinių procesų vyksmą, reikalavimus. Specialiuosius kvalifikacinius reikalavimus, taikomus energijos vartojimo auditą atliekantiems specialistams, nustato energetikos ministras. ^4adf72542db030ad30f26a16
 
 
-3. Inžinerinių kategorijų darbuotojai, vadovaujantys energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, išskyrus Lietuvos Respublikos branduolinės energijos įstatymo nustatytą išsilavinimo reikalavimą, turėti minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus. ^68674f54a2628af58ece31d0
+3. Inžinerinių kategorijų darbuotojai, vadovaujantys energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, išskyrus Lietuvos Respublikos branduolinės energijos įstatymo nustatytą išsilavinimo reikalavimą, turėti minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus. ^4c56cc88e811099b033878e1
 
 
-4. Valstybinės svarbos energetikos objektus eksploatuojančių energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos objektų, įrenginių eksploatavimo veiklai, privalo turėti inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį universitetinį ar jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų darbo patirtį energetikos veiklos srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus. ^f8a847f1f8afbebf02c726f0
+4. Valstybinės svarbos energetikos objektus eksploatuojančių energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos objektų, įrenginių eksploatavimo veiklai, privalo turėti inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį universitetinį ar jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų darbo patirtį energetikos veiklos srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus. ^b0816e95b967dc17056462ae
 
 
-5. Energetikos įmonių, kurios neeksploatuoja valstybinės svarbos energetikos objektų, vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo veiklai, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus. ^24d2b34be2fe133b5b639aa9
+5. Energetikos įmonių, kurios neeksploatuoja valstybinės svarbos energetikos objektų, vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo veiklai, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimą, eksploatavimą, techninę saugą ir kitą energetikos veiklą, reikalavimus. ^047001ab8fea2192891ca13f
 
 
-6. Specialiuosius kvalifikacinius reikalavimus, taikomus energetikos darbuotojams, nustato Taryba. Šiame straipsnyje nustatytuose bendruosiuose kvalifikaciniuose reikalavimuose, taikomuose inžinerinių kategorijų darbuotojų, energetikos įmonių, kurios įrengia ir (ar) eksploatuoja energetikos objektus ir (ar) įrenginius, vadovams ar jų įgaliotiems asmenims, Taryba Bendroje energetikos darbuotojų atestavimo schemoje nurodo, kurios konkrečios aukštojo mokslo studijų krypties išsilavinimą turi turėti šie asmenys. ^b9af79a33428a48592e92c67
+6. Specialiuosius kvalifikacinius reikalavimus, taikomus energetikos darbuotojams, nustato Taryba. Šiame straipsnyje nustatytuose bendruosiuose kvalifikaciniuose reikalavimuose, taikomuose inžinerinių kategorijų darbuotojų, energetikos įmonių, kurios įrengia ir (ar) eksploatuoja energetikos objektus ir (ar) įrenginius, vadovams ar jų įgaliotiems asmenims, Taryba Bendroje energetikos darbuotojų atestavimo schemoje nurodo, kurios konkrečios aukštojo mokslo studijų krypties išsilavinimą turi turėti šie asmenys. ^7a9e67343d69941b89d6894f
 
 
-7. Taryba nustatyta tvarka derina energetikos darbuotojų mokymosi programas, į kurias turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai. ^c8d117a2da066c2352830341
+7. Taryba nustatyta tvarka derina energetikos darbuotojų mokymosi programas, į kurias turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai. ^8885684efad77c87a381edeb
 
 
-8. Energetikos inžinerinių kategorijų darbuotojai, vadovaujantys energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys, kurie neturi [[#^68674f54a2628af58ece31d0|šio straipsnio 3 dalyje]] nurodyto išsilavinimo, tačiau iki 2018 m. gruodžio 31 d. buvo atestuoti [[#^68674f54a2628af58ece31d0|šio straipsnio 3 dalyje]] nurodytiems darbams ir (ar) funkcijoms atlikti, gali būti periodiškai atestuojami atestavimo įstaigoje netaikant [[#^68674f54a2628af58ece31d0|šio straipsnio 3 dalyje]] nustatyto reikalavimo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą. ^79443491fab853ac2a88d6a5
+8. Energetikos inžinerinių kategorijų darbuotojai, vadovaujantys energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys, kurie neturi [[#^4c56cc88e811099b033878e1|šio straipsnio 3 dalyje]] nurodyto išsilavinimo, tačiau iki 2018 m. gruodžio 31 d. buvo atestuoti [[#^4c56cc88e811099b033878e1|šio straipsnio 3 dalyje]] nurodytiems darbams ir (ar) funkcijoms atlikti, gali būti periodiškai atestuojami atestavimo įstaigoje netaikant [[#^4c56cc88e811099b033878e1|šio straipsnio 3 dalyje]] nustatyto reikalavimo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą. ^063eafe03b308a210b7f9c42
 Papildyta straipsnio dalimi:
 Nr. XIV-2401, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25633
 
 
 
-9. Šiame straipsnyje nustatyti energetikos darbuotojų kvalifikacijos ir atestavimo reikalavimai netaikomi nustatytose valstybėse įsteigtų juridinių asmenų ar kitų organizacijų arba jų padalinių darbininkų kategorijų energetikos darbuotojams, taip pat nustatytų valstybių piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis ir kurie atlieka darbininkų kategorijų energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus šio įstatymo [[#^49fb81284ad55d6a665c3bd1|22 straipsnio 8 dalyje]] nurodyto rašytinio susitarimo pagrindu. Tokiu atveju šie energetikos darbuotojai ir nustatytų valstybių piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turi atitikti šiame rašytiniame susitarime numatytus kvalifikacijos reikalavimus. Šioje dalyje nurodyti nustatytų valstybių juridiniai asmenys ar kitos organizacijos arba jų padaliniai atsako už savo pasitelktų darbuotojų atliekamų darbų ir veiklos saugumą, patikimumą ir atitiktį teisiniam reguliavimui. Šio įstatymo [[#^49fb81284ad55d6a665c3bd1|22 straipsnio 8 dalyje]] nurodytas rašytinis susitarimas, sudarytas su energetikos įmone ir suteikiantis teisę šioje energetikos įmonėje atlikti darbininkų kategorijų energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus, nepašalina ir nesumažina šiuos darbuotojus pasamdžiusio juridinio asmens ir (ar) energetikos darbuotojo atsakomybės energetikos įmonei ir tretiesiems asmenims. ^66b14b22017b197fff18e782
+9. Šiame straipsnyje nustatyti energetikos darbuotojų kvalifikacijos ir atestavimo reikalavimai netaikomi nustatytose valstybėse įsteigtų juridinių asmenų ar kitų organizacijų arba jų padalinių darbininkų kategorijų energetikos darbuotojams, taip pat nustatytų valstybių piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis ir kurie atlieka darbininkų kategorijų energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus šio įstatymo [[#^0fa7424fa92bb90351d13650|22 straipsnio 8 dalyje]] nurodyto rašytinio susitarimo pagrindu. Tokiu atveju šie energetikos darbuotojai ir nustatytų valstybių piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turi atitikti šiame rašytiniame susitarime numatytus kvalifikacijos reikalavimus. Šioje dalyje nurodyti nustatytų valstybių juridiniai asmenys ar kitos organizacijos arba jų padaliniai atsako už savo pasitelktų darbuotojų atliekamų darbų ir veiklos saugumą, patikimumą ir atitiktį teisiniam reguliavimui. Šio įstatymo [[#^0fa7424fa92bb90351d13650|22 straipsnio 8 dalyje]] nurodytas rašytinis susitarimas, sudarytas su energetikos įmone ir suteikiantis teisę šioje energetikos įmonėje atlikti darbininkų kategorijų energetikos įrenginių įrengimo ir (ar) eksploatavimo darbus, nepašalina ir nesumažina šiuos darbuotojus pasamdžiusio juridinio asmens ir (ar) energetikos darbuotojo atsakomybės energetikos įmonei ir tretiesiems asmenims. ^7fd31c061e5b539fa1940578
 Papildyta straipsnio dalimi:
 Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 
@@ -2813,34 +2838,34 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 ### 281 straipsnis. Energetikos darbuotojų atestavimo bendrieji principai ir Tarybos pagrindinės funkcijos energetikos darbuotojų atestavimo srityje
 
 
-1. Energetikos įmonės vadovas ar jo įgaliotas asmuo, kuris tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, inžinerinių kategorijų darbuotojas, vadovaujantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantis, turi būti atestuojami atestavimo įstaigoje ne rečiau kaip kartą per penkerius metus. ^8119f623a12894f5fc489215
+1. Energetikos įmonės vadovas ar jo įgaliotas asmuo, kuris tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, inžinerinių kategorijų darbuotojas, vadovaujantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantis, turi būti atestuojami atestavimo įstaigoje ne rečiau kaip kartą per penkerius metus. ^90393f57627f3381662be25f
 
 
-2. Energetikos įmonės darbininkų kategorijų darbuotojas, vykdantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbus, turi būti atestuojamas energetikos įmonės vadovo sudarytoje energetikos darbuotojų atestavimo komisijoje (toliau – Atestavimo komisija) arba atestuojamas atestavimo įstaigoje ne rečiau kaip kartą per trejus metus. ^1b3da5717041872b0d4c8e7e
+2. Energetikos įmonės darbininkų kategorijų darbuotojas, vykdantis energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbus, turi būti atestuojamas energetikos įmonės vadovo sudarytoje energetikos darbuotojų atestavimo komisijoje (toliau – Atestavimo komisija) arba atestuojamas atestavimo įstaigoje ne rečiau kaip kartą per trejus metus. ^b2a06e348d5cff75195ab54e
 
 
-3. Atestavimo įstaigos energetikos darbuotojų atestavimą atlieka vadovaudamosi Energetikos darbuotojų atestavimo tvarkos aprašu ir Bendra energetikos darbuotojų atestavimo schema, naudodamosi Tarybos sukurta energetikos darbuotojų atestavimo informacine sistema, sudariusios sutartis su Taryba dėl energetikos darbuotojų atestavimo informacinės sistemos naudojimo. ^35ffc70b0f7c0b9d81d54b69
+3. Atestavimo įstaigos energetikos darbuotojų atestavimą atlieka vadovaudamosi Energetikos darbuotojų atestavimo tvarkos aprašu ir Bendra energetikos darbuotojų atestavimo schema, naudodamosi Tarybos sukurta energetikos darbuotojų atestavimo informacine sistema, sudariusios sutartis su Taryba dėl energetikos darbuotojų atestavimo informacinės sistemos naudojimo. ^a563b0191535e1b82fd13f61
 
 
-4. Atestavimo įstaigai atlikus energetikos darbuotojo atestavimą, išduotas energetikos darbuotojo pažymėjimas suteikia teisę vykdyti pažymėjime nurodytas veiklas ir darbus visoje šalyje, nepaisant to, kokioje įmonėje dirba energetikos darbuotojas. Energetikos įmonės vadovo sudarytai Atestavimo komisijai atlikus darbininkų kategorijų darbuotojo atestavimą, išduotas energetikos darbuotojo pažymėjimas suteikia teisę vykdyti pažymėjime nurodytas veiklas ir darbus pagal darbo sutartį su šį pažymėjimą išdavusia energetikos įmone. ^8e0b8b8c7fbfa169ae945c69
+4. Atestavimo įstaigai atlikus energetikos darbuotojo atestavimą, išduotas energetikos darbuotojo pažymėjimas suteikia teisę vykdyti pažymėjime nurodytas veiklas ir darbus visoje šalyje, nepaisant to, kokioje įmonėje dirba energetikos darbuotojas. Energetikos įmonės vadovo sudarytai Atestavimo komisijai atlikus darbininkų kategorijų darbuotojo atestavimą, išduotas energetikos darbuotojo pažymėjimas suteikia teisę vykdyti pažymėjime nurodytas veiklas ir darbus pagal darbo sutartį su šį pažymėjimą išdavusia energetikos įmone. ^b7b6070dc954490880981a33
 
 
-5. Atestavimo komisiją sudaro ne mažiau kaip 3 asmenys, iš kurių ne mažiau kaip 2 yra šios energetikos įmonės darbuotojai. Darbininkų kategorijų darbuotojų atestavimo Atestavimo komisijoje tvarką ir pažymėjimo formą nustato energetikos įmonės vadovas. Į Atestavimo komisijos sudėtį turi būti įtraukti atitinkamos energetikos sektoriaus veiklos srities įmonių vadovai ar jų įgalioti asmenys, vadovaujantys energetikos objektų ir įrenginių įrengimo ir (ar) eksploatavimo veiklai, ir energetikos įmonių inžinerinės kategorijos energetikos darbuotojai, vadovaujantys objektų ir energetikos įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys. Į Atestavimo komisijos sudėtį gali būti įtrauktas darbuotojų saugos ir sveikatos specialistas. Atestavimo komisijos nariai, išskyrus darbuotojų saugos ir sveikatos specialistą, privalo būti atestuoti ir turėti galiojančius atestavimo įstaigos išduotus energetikos darbuotojo pažymėjimus. ^fc59829eacfe4cab873f1044
+5. Atestavimo komisiją sudaro ne mažiau kaip 3 asmenys, iš kurių ne mažiau kaip 2 yra šios energetikos įmonės darbuotojai. Darbininkų kategorijų darbuotojų atestavimo Atestavimo komisijoje tvarką ir pažymėjimo formą nustato energetikos įmonės vadovas. Į Atestavimo komisijos sudėtį turi būti įtraukti atitinkamos energetikos sektoriaus veiklos srities įmonių vadovai ar jų įgalioti asmenys, vadovaujantys energetikos objektų ir įrenginių įrengimo ir (ar) eksploatavimo veiklai, ir energetikos įmonių inžinerinės kategorijos energetikos darbuotojai, vadovaujantys objektų ir energetikos įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys. Į Atestavimo komisijos sudėtį gali būti įtrauktas darbuotojų saugos ir sveikatos specialistas. Atestavimo komisijos nariai, išskyrus darbuotojų saugos ir sveikatos specialistą, privalo būti atestuoti ir turėti galiojančius atestavimo įstaigos išduotus energetikos darbuotojo pažymėjimus. ^a5fa9030a5728e5bd720e7c9
 
 
-6. Tarybos pagrindinės funkcijos energetikos darbuotojų atestavimo srityje: ^689ff987ed57c7eb22b011d1
+6. Tarybos pagrindinės funkcijos energetikos darbuotojų atestavimo srityje: ^dd5cb5628bed1158a48b56c6
 
 
-1) tvirtina Atestavimo įstaigų kompetencijos vertinimo taisykles, kuriose nustatomi atestavimo įstaigoms privalomi finansiniai, technologiniai ir vadybiniai pajėgumai, leidžiantys vykdyti energetikos darbuotojų atestavimą; ^e4729fb3cd935596b149d1b2
+1) tvirtina Atestavimo įstaigų kompetencijos vertinimo taisykles, kuriose nustatomi atestavimo įstaigoms privalomi finansiniai, technologiniai ir vadybiniai pajėgumai, leidžiantys vykdyti energetikos darbuotojų atestavimą; ^c9707f78d1785bad5a271fad
 
 
-2) tvirtina Bendrą energetikos darbuotojų atestavimo schemą, kurioje nustatomi energetikos darbuotojų bendrieji ir specialieji kvalifikaciniai reikalavimai, šių darbuotojų kvalifikacijos tobulinimo reikalavimai kiekvienai energetikos darbuotojų kategorijai, atestavimo procedūros ir energetikos darbuotojams suteikiamos teisės. Bendra atestavimo energetikos darbuotojų schema ne rečiau kaip kartą per penkerius metus arba prireikus peržiūrima ir, esant poreikiui, tikslinama; ^94019629cad4e7eaf10e80d8
+2) tvirtina Bendrą energetikos darbuotojų atestavimo schemą, kurioje nustatomi energetikos darbuotojų bendrieji ir specialieji kvalifikaciniai reikalavimai, šių darbuotojų kvalifikacijos tobulinimo reikalavimai kiekvienai energetikos darbuotojų kategorijai, atestavimo procedūros ir energetikos darbuotojams suteikiamos teisės. Bendra atestavimo energetikos darbuotojų schema ne rečiau kaip kartą per penkerius metus arba prireikus peržiūrima ir, esant poreikiui, tikslinama; ^2eecbaa367f0549c59578eaa
 
 
-3) valdo energetikos darbuotojų atestavimo informacinę sistemą, atestavimo informacinėje sistemoje skelbia duomenis apie atestavimo įstaigų atestuotus energetikos darbuotojus (išduoto energetikos darbuotojo pažymėjimo unikalų numerį; energetikos darbuotojo vardą, pavardę; energetikos sektorių; veiklos sritį; energetikos darbuotojo kategoriją; suteikiamas teises; pažymėjimo išdavimo datą; pažymėjimo galiojimo datą; pažymėjimo galiojimo sustabdymo datą; pažymėjimo galiojimo panaikinimo datą); ^a712bb53164beafa4548ba5d
+3) valdo energetikos darbuotojų atestavimo informacinę sistemą, atestavimo informacinėje sistemoje skelbia duomenis apie atestavimo įstaigų atestuotus energetikos darbuotojus (išduoto energetikos darbuotojo pažymėjimo unikalų numerį; energetikos darbuotojo vardą, pavardę; energetikos sektorių; veiklos sritį; energetikos darbuotojo kategoriją; suteikiamas teises; pažymėjimo išdavimo datą; pažymėjimo galiojimo datą; pažymėjimo galiojimo sustabdymo datą; pažymėjimo galiojimo panaikinimo datą); ^ae04efb611726ba8aef6e685
 
 
-4) tvirtina standartines sutarčių dėl naudojimosi energetikos darbuotojų atestavimo informacine sistema sąlygas ir sudaro sutartis su atestavimo įstaigomis dėl naudojimosi energetikos darbuotojų atestavimo informacine sistema. ^c20e92fc9054a58bf2f94a73
+4) tvirtina standartines sutarčių dėl naudojimosi energetikos darbuotojų atestavimo informacine sistema sąlygas ir sudaro sutartis su atestavimo įstaigomis dėl naudojimosi energetikos darbuotojų atestavimo informacine sistema. ^351226e0f82664495d318784
 
 
 Papildyta straipsniu:
@@ -2851,46 +2876,46 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 ### 282 straipsnis. Leidimai verstis energetikos darbuotojų atestavimo veikla
 
 
-1. Energetikos sektoriuje leidimais reguliuojama energetikos darbuotojų atestavimo veikla. ^6cbcc9f0403d570159dc9580
+1. Energetikos sektoriuje leidimais reguliuojama energetikos darbuotojų atestavimo veikla. ^e45776c8a70aef12dd45c03a
 
 
-2. Leidimuose verstis energetikos darbuotojų atestavimo veikla įrašytų duomenų keitimo atvejai ir tvarka nustatomi energetikos ministro patvirtintose Leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisyklėse. ^cf8d7a61ddd914acd819ff41
+2. Leidimuose verstis energetikos darbuotojų atestavimo veikla įrašytų duomenų keitimo atvejai ir tvarka nustatomi energetikos ministro patvirtintose Leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisyklėse. ^d9e2e995047ef65bcbf15b02
 
 
-3. Leidimai verstis energetikos darbuotojų atestavimo veikla išduodami Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtiems juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, jeigu jie atitinka šiuos reikalavimus: ^d21ff569bd3eba1d4fa7fae8
+3. Leidimai verstis energetikos darbuotojų atestavimo veikla išduodami Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtiems juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, jeigu jie atitinka šiuos reikalavimus: ^548415584793598a66d51d34
 
 
-1) turi tokią struktūrą, kuri užtikrina, kad energetikos darbuotojų atestavimo veikla būtų atliekama nešališkai ir nebūtų susijusi su energetikos darbuotojų mokymu; ^b47bb5c44a28e4d42649e18c
+1) turi tokią struktūrą, kuri užtikrina, kad energetikos darbuotojų atestavimo veikla būtų atliekama nešališkai ir nebūtų susijusi su energetikos darbuotojų mokymu; ^6cf15a0571060c4925c71a45
 
 
-2) atitinka Tarybos patvirtintose Atestavimo įstaigų kompetencijos vertinimo taisyklėse nustatytus finansinius, technologinius ir vadybinius pajėgumus. ^3e4d6afe441192858cfe59f0
+2) atitinka Tarybos patvirtintose Atestavimo įstaigų kompetencijos vertinimo taisyklėse nustatytus finansinius, technologinius ir vadybinius pajėgumus. ^c7dde52445f926cb54a9cf56
 
 
-4. Leidimą verstis energetikos darbuotojų atestavimo veikla turintis asmuo privalo laikytis šių sąlygų: ^e0c381294a428823040bdb26
+4. Leidimą verstis energetikos darbuotojų atestavimo veikla turintis asmuo privalo laikytis šių sąlygų: ^a655f20e673dd9edb10c736b
 
 
-1) sudaryti sutartį su Taryba dėl energetikos darbuotojų atestavimo informacinės sistemos naudojimo ir laikytis šios sutarties nuostatų; ^30d6b063d339166a8b1d9143
+1) sudaryti sutartį su Taryba dėl energetikos darbuotojų atestavimo informacinės sistemos naudojimo ir laikytis šios sutarties nuostatų; ^23dadf7ea56fc6fb522910f0
 
 
-2) atestuoti energetikos darbuotojus vadovaudamasis energetikos ministro patvirtintu Energetikos darbuotojų atestavimo tvarkos aprašu, Bendra energetikos darbuotojų atestavimo schema, naudodamasis Tarybos sukurta energetikos darbuotojų atestavimo informacine sistema; ^b7a79d35233dac9356f60e7c
+2) atestuoti energetikos darbuotojus vadovaudamasis energetikos ministro patvirtintu Energetikos darbuotojų atestavimo tvarkos aprašu, Bendra energetikos darbuotojų atestavimo schema, naudodamasis Tarybos sukurta energetikos darbuotojų atestavimo informacine sistema; ^a6db4020987ef6961c297209
 
 
-3) sustabdyti išduoto energetikos darbuotojo pažymėjimo galiojimą arba panaikinti išduoto energetikos darbuotojo pažymėjimo galiojimą, jeigu Taryba raštu pateikia informaciją, kad atestuotas energetikos darbuotojas pažeidė norminių teisės aktų, reglamentuojančių energetikos veiklą, reikalavimus ir dėl to įvyko ar galėjo įvykti energetikos įrenginio avarija, sutrikimas, gaisras arba buvo iškilusi grėsmė aplinkai, turtui, žmonių sveikatai ar gyvybei; ^c420c21f26b38a891abdb027
+3) sustabdyti išduoto energetikos darbuotojo pažymėjimo galiojimą arba panaikinti išduoto energetikos darbuotojo pažymėjimo galiojimą, jeigu Taryba raštu pateikia informaciją, kad atestuotas energetikos darbuotojas pažeidė norminių teisės aktų, reglamentuojančių energetikos veiklą, reikalavimus ir dėl to įvyko ar galėjo įvykti energetikos įrenginio avarija, sutrikimas, gaisras arba buvo iškilusi grėsmė aplinkai, turtui, žmonių sveikatai ar gyvybei; ^fe1a0f15971da3ecb6215e4f
 
 
-4) neturi teisės įgalioti kitų asmenų verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą; ^a239bf1bbe18c32a678a8369
+4) neturi teisės įgalioti kitų asmenų verstis leidime nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį ar kitaip pavesti vykdyti šią veiklą; ^6043d96a9402366b19f24689
 
 
-5) teikti informaciją energetikos darbuotojams ir juos konsultuoti teisės aktų nustatyta tvarka; ^6cb69c5f67f2f5c4d36c9802
+5) teikti informaciją energetikos darbuotojams ir juos konsultuoti teisės aktų nustatyta tvarka; ^c2ce5f7fd0c51443adbadd7a
 
 
-6) teikti Tarybai informaciją, reikalingą įstatymuose nustatytoms pareigoms vykdyti; ^0e3425fd7d6c8af7cb75cfcb
+6) teikti Tarybai informaciją, reikalingą įstatymuose nustatytoms pareigoms vykdyti; ^8e6b4c817bf8a0cbfb7e05f8
 
 
-7) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir kituose teisės aktuose nustatytų reikalavimų. ^836261602d3993ccf6321f78
+7) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir kituose teisės aktuose nustatytų reikalavimų. ^2d341f64d9e027c7052a37f1
 
 
-5. [[#^6cbcc9f0403d570159dc9580|Šio straipsnio 1 dalyje]] nurodytus leidimus verstis energetikos darbuotojų atestavimo veikla išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisyklėse nustatyta tvarka. ^295ed78dbad01901b1f64a78
+5. [[#^e45776c8a70aef12dd45c03a|Šio straipsnio 1 dalyje]] nurodytus leidimus verstis energetikos darbuotojų atestavimo veikla išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis energetikos darbuotojų atestavimo veikla išdavimo taisyklėse nustatyta tvarka. ^d005ee24b1b396bb2b824975
 
 
 Papildyta straipsniu:
@@ -2901,19 +2926,19 @@ Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
 ### 29 straipsnis. Energijos išteklių rezervinės atsargos
 
 
-1. Energetikos įmonės, kurių šilumos ir (ar) elektros energijos gamybos įrenginių bendra galia yra didesnė kaip 5 MW ir kurios gamina parduoti skirtą šilumos ir (ar) elektros energiją, privalo turėti energijos išteklių rezervinių atsargų šaltuoju metų periodu. Ši nuostata netaikoma energetikos įmonėms, kuriose elektros energija gaminama naudojant išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti: saulės energija, vėjo energija, hidroenergija, geoterminė energija ar energijai gaminti tinkamos pramoninės ir (ar) komunalinės atliekos, kai atliekas deginančios jėgainės technologija neleidžia atskirai deginti kitos rūšies kurą. Energetikos įmonės, šilumos gamybai naudojančios energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti: geoterminė energija ar energijai gaminti tinkamos pramoninės ir (ar) komunalinės atliekos, kai atliekas deginančios jėgainės technologija neleidžia atskirai deginti kitos rūšies kurą, privalo sudaryti sutartį su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone dėl šilumos kiekio, reikalingo sutrikus kuro tiekimui, gamybos [[#^5115020d42e98759b6f9b8f7|šio straipsnio 3 dalyje]] nurodytu laikotarpiu ir atitinkamų rezervinių atsargų kaupimo bei saugojimo. ^8406af59cb634b67d6f20d12
+1. Energetikos įmonės, kurių šilumos ir (ar) elektros energijos gamybos įrenginių bendra galia yra didesnė kaip 5 MW ir kurios gamina parduoti skirtą šilumos ir (ar) elektros energiją, privalo turėti energijos išteklių rezervinių atsargų šaltuoju metų periodu. Ši nuostata netaikoma energetikos įmonėms, kuriose elektros energija gaminama naudojant išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti: saulės energija, vėjo energija, hidroenergija, geoterminė energija ar energijai gaminti tinkamos pramoninės ir (ar) komunalinės atliekos, kai atliekas deginančios jėgainės technologija neleidžia atskirai deginti kitos rūšies kurą. Energetikos įmonės, šilumos gamybai naudojančios energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti: geoterminė energija ar energijai gaminti tinkamos pramoninės ir (ar) komunalinės atliekos, kai atliekas deginančios jėgainės technologija neleidžia atskirai deginti kitos rūšies kurą, privalo sudaryti sutartį su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone dėl šilumos kiekio, reikalingo sutrikus kuro tiekimui, gamybos [[#^46c757639fc8a14bb783f838|šio straipsnio 3 dalyje]] nurodytu laikotarpiu ir atitinkamų rezervinių atsargų kaupimo bei saugojimo. ^c63d45793b86f85452093d79
 
 
-2. Energijos išteklių rezervinės atsargos kaupiamos, laikomos, atnaujinamos energetikos įmonių, kurios privalo turėti energijos išteklių rezervinių atsargų, lėšomis. Tuo atveju, kai energetikos įmonės privalo sudaryti sutartį su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone pagal [[#^8406af59cb634b67d6f20d12|šio straipsnio 1 dalį]], atitinkamų rezervinių atsargų kaupimo bei saugojimo sąnaudos šiai šilumos gamybos įmonei atlyginamos sutartyje nustatyta tvarka. ^0c19e2ec61fff0d0fa83d905
+2. Energijos išteklių rezervinės atsargos kaupiamos, laikomos, atnaujinamos energetikos įmonių, kurios privalo turėti energijos išteklių rezervinių atsargų, lėšomis. Tuo atveju, kai energetikos įmonės privalo sudaryti sutartį su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone pagal [[#^c63d45793b86f85452093d79|šio straipsnio 1 dalį]], atitinkamų rezervinių atsargų kaupimo bei saugojimo sąnaudos šiai šilumos gamybos įmonei atlyginamos sutartyje nustatyta tvarka. ^5c8d40e650af714639550402
 
 
-3. Energijos išteklių rezervinių atsargų kiekis šaltuoju metų periodu turi būti ne mažesnis, negu energetikos įmonės vidutiniškai suvartoja per 10 kalendorinių dienų, skaičiuojant pagal trejų praėjusių kalendorinių metų 10 kalendorinių dienų vartojimo vidurkį šaltuoju metų periodu. Šaltuoju metų periodu laikomas laikotarpis nuo lapkričio 1 dienos iki kovo 31 dienos imtinai. ^5115020d42e98759b6f9b8f7
+3. Energijos išteklių rezervinių atsargų kiekis šaltuoju metų periodu turi būti ne mažesnis, negu energetikos įmonės vidutiniškai suvartoja per 10 kalendorinių dienų, skaičiuojant pagal trejų praėjusių kalendorinių metų 10 kalendorinių dienų vartojimo vidurkį šaltuoju metų periodu. Šaltuoju metų periodu laikomas laikotarpis nuo lapkričio 1 dienos iki kovo 31 dienos imtinai. ^46c757639fc8a14bb783f838
 
 
-4. Šiltuoju metų laikotarpiu (nuo balandžio 1 dienos iki spalio 31 dienos imtinai) energijos išteklių rezervinių atsargų poreikį ir kiekį nustato energetikos įmonės. ^5b36d0bcce78840dbca19b17
+4. Šiltuoju metų laikotarpiu (nuo balandžio 1 dienos iki spalio 31 dienos imtinai) energijos išteklių rezervinių atsargų poreikį ir kiekį nustato energetikos įmonės. ^41da2405ca1dce2ac6293ed7
 
 
-TAR pastaba. [[#^8406af59cb634b67d6f20d12|29 straipsnio 1 dalyje]] nustatytas įpareigojimas energetikos įmonėms, kurios šilumos gamybai naudoja energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti, sudaryti sutartis su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone taikytinas nuo 2014 m. sausio 1 d. (įstatymas Nr. XII-554).
+TAR pastaba. [[#^c63d45793b86f85452093d79|29 straipsnio 1 dalyje]] nustatytas įpareigojimas energetikos įmonėms, kurios šilumos gamybai naudoja energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti, sudaryti sutartis su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone taikytinas nuo 2014 m. sausio 1 d. (įstatymas Nr. XII-554).
 Straipsnio pakeitimai:
 Nr. XII-554, 2013-10-15, Žin., 2013, Nr. 111-5490 (2013-10-24)
 
@@ -2922,16 +2947,16 @@ Nr. XII-554, 2013-10-15, Žin., 2013, Nr. 111-5490 (2013-10-24)
 ### 30 straipsnis. Energijos apskaita
 
 
-1. Pagaminta, perduodama, skirstoma, parduodama, eksportuojama, importuojama ar tranzitu perduodama energija turi būti įtraukiama į apskaitą. ^2450870a9242441aedb1d3f1
+1. Pagaminta, perduodama, skirstoma, parduodama, eksportuojama, importuojama ar tranzitu perduodama energija turi būti įtraukiama į apskaitą. ^e4d145097556ccee91fb965d
 
 
-2. [[#^2450870a9242441aedb1d3f1|Šio straipsnio 1 dalyje]] nurodytos energijos apskaita turi būti tvarkoma energijos matavimo priemonėmis ar išmaniosiomis energijos apskaitos sistemomis, išskyrus atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose nustatytus atvejus. Matavimo priemonių, įskaitant matavimo priemones, kurios yra išmaniosios energijos apskaitos sistemos sudedamoji dalis, teisinis metrologinis patvirtinimas turi būti atliktas Metrologijos įstatymo nustatyta tvarka. ^a3faa3e5d88c74f96d0ed406
+2. [[#^e4d145097556ccee91fb965d|Šio straipsnio 1 dalyje]] nurodytos energijos apskaita turi būti tvarkoma energijos matavimo priemonėmis ar išmaniosiomis energijos apskaitos sistemomis, išskyrus atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose nustatytus atvejus. Matavimo priemonių, įskaitant matavimo priemones, kurios yra išmaniosios energijos apskaitos sistemos sudedamoji dalis, teisinis metrologinis patvirtinimas turi būti atliktas Metrologijos įstatymo nustatyta tvarka. ^4ea729c2e9b23fa4602666f4
 
 
-3. Energijos matavimo priemones ar išmaniąsias energijos apskaitos sistemas savo lėšomis įrengia ir eksploatuoja perdavimo, skirstymo ar laikymo energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais valdančios energetikos įmonės, išskyrus atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose nustatytus atvejus. Atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nustatytais atvejais ir tvarka šioje dalyje nurodytos energetikos įmonės energijos vartojimo ir (ar) gamybos apskaitai diegia išmaniąsias energijos apskaitos sistemas. ^37140a1bcfcbbfe4e91eeec2
+3. Energijos matavimo priemones ar išmaniąsias energijos apskaitos sistemas savo lėšomis įrengia ir eksploatuoja perdavimo, skirstymo ar laikymo energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais valdančios energetikos įmonės, išskyrus atskirų energetikos sektorių veiklą reglamentuojančiuose įstatymuose nustatytus atvejus. Atskirų energetikos sektorių veiklą reglamentuojančių įstatymų nustatytais atvejais ir tvarka šioje dalyje nurodytos energetikos įmonės energijos vartojimo ir (ar) gamybos apskaitai diegia išmaniąsias energijos apskaitos sistemas. ^312ba3940d10b0524a5a90ab
 
 
-4. Energijos matavimo priemones ar išmaniąsias energijos apskaitos sistemas tarp energetikos objektų įrengia ir eksploatuoja energiją perduodančius energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais juos valdančios energetikos įmonės savo lėšomis. ^93512c9624444796c9c04e54
+4. Energijos matavimo priemones ar išmaniąsias energijos apskaitos sistemas tarp energetikos objektų įrengia ir eksploatuoja energiją perduodančius energetikos objektus nuosavybės teise ar kitais teisėtais pagrindais juos valdančios energetikos įmonės savo lėšomis. ^69a92e1a5c21899e9861a411
 
 
 Straipsnio pakeitimai:
@@ -2953,19 +2978,19 @@ Nr. XIII-788, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18851
 ### 31 straipsnis. Duomenų saugojimas
 
 
-1. Energetikos įmonės, vykdančios energijos ar energijos išteklių tiekimo veiklą, ne mažiau kaip penkerius metus saugo ir kompetentingoms valstybės institucijoms, tarp jų Tarybai, Konkurencijos tarybai ir Europos Komisijai, šių prašymu pateikia visų sandorių su elektros energijos didmenininkais ir didmeniniais gamtinių dujų vartotojais ir perdavimo sistemos operatoriais, sudarytų pagal elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones, duomenis. ^552b47af8df64d56b7e4e560
+1. Energetikos įmonės, vykdančios energijos ar energijos išteklių tiekimo veiklą, ne mažiau kaip penkerius metus saugo ir kompetentingoms valstybės institucijoms, tarp jų Tarybai, Konkurencijos tarybai ir Europos Komisijai, šių prašymu pateikia visų sandorių su elektros energijos didmenininkais ir didmeniniais gamtinių dujų vartotojais ir perdavimo sistemos operatoriais, sudarytų pagal elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones, duomenis. ^b6888950524d86430664b48e
 Straipsnio dalies pakeitimai:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
 
 
 
-2. [[#^552b47af8df64d56b7e4e560|Šio straipsnio 1 dalyje]] nurodytus duomenis sudaro išsamūs sandorių su vartotojais duomenys, tarp jų sandorių galiojimo terminai, tiekimo ir apmokėjimo sąlygos, šalių įsipareigojimai, sandorio vykdymo datos ir terminai, sandorio kainos, atitinkamo didmeninio vartotojo identifikavimo priemonės, taip pat išsami informacija apie visas neįvykdytas elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones. ^deb5f08ba604805089a7769b
+2. [[#^b6888950524d86430664b48e|Šio straipsnio 1 dalyje]] nurodytus duomenis sudaro išsamūs sandorių su vartotojais duomenys, tarp jų sandorių galiojimo terminai, tiekimo ir apmokėjimo sąlygos, šalių įsipareigojimai, sandorio vykdymo datos ir terminai, sandorio kainos, atitinkamo didmeninio vartotojo identifikavimo priemonės, taip pat išsami informacija apie visas neįvykdytas elektros energijos ar dujų tiekimo sutartis ir elektros energijos ar dujų rinkos išvestines finansines priemones. ^877562100f85d3174ee33355
 
 
-3. Taryba gali nuspręsti tam tikrą iš energetikos įmonių gautos informacijos apie sandorius dalį pateikti rinkos dalyviams, jeigu komercine (gamybine) ar profesine paslaptimi laikoma informacija apie atskirus rinkos dalyvius ar atskirus sandorius nebus atskleista. ^e31d038ba5d75d1dc8d20734
+3. Taryba gali nuspręsti tam tikrą iš energetikos įmonių gautos informacijos apie sandorius dalį pateikti rinkos dalyviams, jeigu komercine (gamybine) ar profesine paslaptimi laikoma informacija apie atskirus rinkos dalyvius ar atskirus sandorius nebus atskleista. ^2a0f36b2898f3e4c0331153f
 
 
-4. Duomenų saugojimo metodus ir priemones šio straipsnio tikslais nustato Taryba, vadovaudamasi Europos Komisijos paskelbtomis gairėmis. ^83fbac6f82ec08bd48765402
+4. Duomenų saugojimo metodus ir priemones šio straipsnio tikslais nustato Taryba, vadovaudamasi Europos Komisijos paskelbtomis gairėmis. ^d43cd3dc215bbf68fcc4945e
 
 
 Straipsnio pakeitimai:
@@ -2976,52 +3001,46 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 ### 32 straipsnis. Energijos tranzitas
 
 
-1. Energijos ar energijos išteklių tranzitas vyksta pagal energijos ar energijos išteklių siuntėjo, gavėjo ir perdavimo energetikos objektus valdančių energetikos įmonių sudarytas sutartis, vadovaujantis Energetikos chartijos sutarties nuostatomis ir atsižvelgiant į esamų perdavimo objektų pajėgumą ir šalies poreikių tenkinimo prioritetus. ^3b40d92bf9ea5975aebd78c4
+1. Energijos ar energijos išteklių tranzitas vyksta pagal energijos ar energijos išteklių siuntėjo, gavėjo ir perdavimo energetikos objektus valdančių energetikos įmonių sudarytas sutartis, vadovaujantis Energetikos chartijos sutarties nuostatomis ir atsižvelgiant į esamų perdavimo objektų pajėgumą ir šalies poreikių tenkinimo prioritetus. ^19b306902f579c34c6948329
 
 
-2. Perdavimo objektus valdančios energetikos įmonės teikia Tarybai informaciją apie kiekvieną energijos tranzito pareikalavimą, sudarytas energijos tranzito sutartis ir atsisakymus jas sudaryti. Atsisakymas sudaryti energijos tranzito sutartį turi būti tinkamai motyvuotas. ^833a863fe8f5a169ea63c28b
+2. Perdavimo objektus valdančios energetikos įmonės teikia Tarybai informaciją apie kiekvieną energijos tranzito pareikalavimą, sudarytas energijos tranzito sutartis ir atsisakymus jas sudaryti. Atsisakymas sudaryti energijos tranzito sutartį turi būti tinkamai motyvuotas. ^8f4c6bf2f7ca0848dc292501
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
 ### PENKTASIS SKIRSNIS
-EKSTREMALIOJI ENERGETIKOS PADĖTIS
+EKSTREMALIOJI SITUACIJA ENERGETIKOS SEKTORIUJE
 
 
 
-### 33 straipsnis. Ekstremalioji energetikos padėtis
+### 33 straipsnis. Ekstremalioji situacija energetikos sektoriuje
 
 
-1. Ekstremalioji energetikos padėtis skelbiama, kai elektros energijos, gamtinių dujų, naftos produktų ar šilumos tiekimas sumažėja tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai. ^0dc8db9807f3c8ec2abc2a95
+1. Ekstremalioji situacija energetikos sektoriuje paskelbiama, kai elektros energijos, gamtinių dujų, naftos produktų ar šilumos tiekimas sumažėja tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai. ^0fd14c28facf3223c51ff733
 
 
-2. Energetikos įmonės, susidarius [[#^0dc8db9807f3c8ec2abc2a95|šio straipsnio 1 dalyje]] nurodytoms aplinkybėms, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pranešti Energetikos ministerijai ir savivaldybės institucijoms apie energijos tiekimo sumažėjimą ir priemones energijos tiekimui atnaujinti. ^fa9a9bb8f9e704b8ff8f8a7f
-Straipsnio dalies pakeitimai:
-Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
+2. Energetikos įmonės, susidarius [[#^0fd14c28facf3223c51ff733|šio straipsnio 1 dalyje]] nurodytoms aplinkybėms, Vyriausybės tvirtinamame pranešimo ir keitimosi informacija apie įvykį, ekstremalųjį įvykį, ypatingą įvykį, ekstremaliąją situaciją ar krizę tvarkos apraše nustatyta tvarka teikia informaciją apie energijos tiekimo sumažėjimą ir priemones energijos tiekimui atnaujinti. ^01a5c107d859c3c92b1a105f
 
 
-
-3. Paskelbus ekstremaliąją energetikos padėtį, energijos ir (ar) energijos išteklių tiekimas vartotojams gali būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apribotas arba sustabdytas. Ekstremaliosios energetikos padėties metu energetikos įmonės, vykdančios Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės institucijų nurodymus, už vartotojams padarytus nuostolius dėl energijos ar energijos išteklių tiekimo apribojimo ar nutraukimo neatsako. ^e900b7ac18c8be5cd596c3c6
-Straipsnio dalies pakeitimai:
-Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
+3. Paskelbus ekstremaliąją situaciją energetikos sektoriuje, energijos ir (ar) energijos išteklių tiekimas vartotojams gali būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apribotas arba sustabdytas. Šios ekstremaliosios situacijos metu energetikos įmonės, vykdančios Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės institucijų nurodymus, už vartotojams padarytus nuostolius dėl energijos ar energijos išteklių tiekimo apribojimo ar sustabdymo neatsako. ^8bcf7b02760e3ccc46e99079
 
 
-
-4. Paskelbus ekstremaliąją energetikos padėtį, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos pajėgų, taip pat nacionaliniam saugumui užtikrinti svarbių objektų poreikiams. ^88b98c8992fb79eefdc42ed7
-
-
-5. Paskelbus ekstremaliąją energetikos padėtį, ūkio subjektams taikomi ūkinės veiklos laisvės apribojimai turi kuo mažiau trikdyti vidaus rinkos veikimą ir neturi būti taikomi platesniu mastu, negu yra būtina kilusioms grėsmėms suvaldyti. ^848b2ef1412f75e05de0d77e
+4. Paskelbus ekstremaliąją situaciją energetikos sektoriuje, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos pajėgų, taip pat nacionaliniam saugumui užtikrinti svarbių objektų poreikiams. ^f6976ea9a36e1f7c861458f2
 
 
-6. Vyriausybė ar jos įgaliota institucija apie paskelbus ekstremaliąją energetikos padėtį taikomas priemones nedelsdama praneša kitoms valstybėms narėms ir Europos Komisijai. Europos Komisija gali nuspręsti, kad taikomos priemonės turi būti iš dalies pakeistos ar panaikintos, jeigu jos iškreipia konkurenciją ir neigiamai veikia prekybą tokiu būdu, kuris neatitinka Europos Sąjungos interesų. ^1deff72a5c15e219496dc0ac
+5. Paskelbus ekstremaliąją situaciją energetikos sektoriuje, ūkio subjektams taikomi ūkinės veiklos laisvės apribojimai turi kuo mažiau trikdyti vidaus rinkos veikimą ir neturi būti taikomi platesniu mastu, negu yra būtina kilusioms grėsmėms suvaldyti. ^c2261df16d6892b7a2137730
 
 
-7. Ekstremaliosios energetikos padėties paskelbimo ir atšaukimo, taip pat kitus su tuo susijusius teisinius ir organizacinius pagrindus, kiek tai nenustatyta šiame įstatyme, reglamentuoja Krizių valdymo ir civilinės saugos įstatymas. ^abd53320e7edd3f4c81bd903
+6. Vyriausybė ar jos įgaliota institucija apie paskelbus ekstremaliąją situaciją energetikos sektoriuje taikomas priemones nedelsdama praneša kitoms valstybėms narėms ir Europos Komisijai. Europos Komisija gali nuspręsti, kad taikomos priemonės turi būti iš dalies pakeistos ar panaikintos, jeigu jos iškreipia konkurenciją ir neigiamai veikia prekybą tokiu būdu, kuris neatitinka Europos Sąjungos interesų. ^d80dce1e64c5ea085b1d7a88
 
 
-Straipsnio pakeitimai:
-Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+7. Ekstremaliosios situacijos energetikos sektoriuje paskelbimą ir atšaukimą, kiek tai nenustatyta šiame įstatyme, reglamentuoja Krizių valdymo ir civilinės saugos įstatymas. ^6d32911325c886c6626ba1a7
+
+
+Skirsnio pakeitimai:
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
 
 
 
@@ -3033,40 +3052,40 @@ SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
 ### 34 straipsnis. Ginčų sprendimas ne teismo tvarka
 
 
-1. Vartotojas, manantis, kad energetikos įmonė, vykdydama energetikos veiklą, pažeidė jo teises ar teisėtus interesus, susijusius su vartojimo sutartimi, pirmiausia privalo raštu kreiptis į energetikos įmonę ir nurodyti savo reikalavimus. ^ed156e219f2f480d273b1bc5
+1. Vartotojas, manantis, kad energetikos įmonė, vykdydama energetikos veiklą, pažeidė jo teises ar teisėtus interesus, susijusius su vartojimo sutartimi, pirmiausia privalo raštu kreiptis į energetikos įmonę ir nurodyti savo reikalavimus. ^292641534228a133034d1d87
 
 
-2. Energetikos įmonė privalo išnagrinėti vartotojo kreipimąsi ir jam motyvuotai atsakyti ne vėliau kaip per 30 dienų nuo kreipimosi gavimo dienos. Vartotojo kreipimąsi energetikos įmonė nagrinėja savo nustatyta tvarka, kurią privalo skelbti savo interneto svetainėje ir sudaryti sąlygas vartotojams su ja susipažinti kitais būdais. ^2dca2e90805bbf0542f9a977
+2. Energetikos įmonė privalo išnagrinėti vartotojo kreipimąsi ir jam motyvuotai atsakyti ne vėliau kaip per 30 dienų nuo kreipimosi gavimo dienos. Vartotojo kreipimąsi energetikos įmonė nagrinėja savo nustatyta tvarka, kurią privalo skelbti savo interneto svetainėje ir sudaryti sąlygas vartotojams su ja susipažinti kitais būdais. ^728f8f4526f2a3ebec4944ec
 
 
-3. Jeigu energetikos įmonė netenkina vartotojo reikalavimų arba juos tenkina iš dalies, atsakyme vartotojui turi būti pateikta informacija apie vartojimo ginčų neteisminio sprendimo instituciją ar kitą subjektą, kompetentingą spręsti ginčą. Vartotojo kreipimasis į vartojimo ginčų neteisminio sprendimo subjektą neatima vartotojo teisės kreiptis į teismą. Vartotojas turi teisę ginti savo teises ir kitais, šiame įstatyme nenumatytais, teisėtais būdais. ^a8a092690b0192802d495a95
+3. Jeigu energetikos įmonė netenkina vartotojo reikalavimų arba juos tenkina iš dalies, atsakyme vartotojui turi būti pateikta informacija apie vartojimo ginčų neteisminio sprendimo instituciją ar kitą subjektą, kompetentingą spręsti ginčą. Vartotojo kreipimasis į vartojimo ginčų neteisminio sprendimo subjektą neatima vartotojo teisės kreiptis į teismą. Vartotojas turi teisę ginti savo teises ir kitais, šiame įstatyme nenumatytais, teisėtais būdais. ^bdccd9144f4cf432c4d520f9
 
 
-4. Vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, energijos taupymo paslaugų teikimo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, mokėjimo už suvartotą energiją ar paslaugas, valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energijos ir energijos išteklių tiekimo srautų balansavimo, taip pat kitus vartotojų ir energetikos įmonių ginčus energetikos srityje ne teismo tvarka nagrinėja Taryba. ^9efa8c7d1ea81d78bbcfc2e6
+4. Vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, energijos taupymo paslaugų teikimo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, mokėjimo už suvartotą energiją ar paslaugas, valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energijos ir energijos išteklių tiekimo srautų balansavimo, taip pat kitus vartotojų ir energetikos įmonių ginčus energetikos srityje ne teismo tvarka nagrinėja Taryba. ^c1968b8795e80b0aac36cd94
 
 
-5. Buitinių vartotojų ir energetikos įmonių ginčai nagrinėjami Lietuvos Respublikos vartotojų teisių apsaugos įstatymo nustatyta tvarka. Kitų (ne buitinių) vartotojų ir energetikos įmonių ginčai nagrinėjami ne teismo tvarka pagal Tarybos nustatytas atitinkamų ginčų nagrinėjimo taisykles. ^7bd75f1f223ecb7b0b585d05
+5. Buitinių vartotojų ir energetikos įmonių ginčai nagrinėjami Lietuvos Respublikos vartotojų teisių apsaugos įstatymo nustatyta tvarka. Kitų (ne buitinių) vartotojų ir energetikos įmonių ginčai nagrinėjami ne teismo tvarka pagal Tarybos nustatytas atitinkamų ginčų nagrinėjimo taisykles. ^1f054ddf6cf762fffe4a71bd
 
 
-6. Taryba, išnagrinėjusi ginčą ne teismo tvarka ir priimdama sprendimą patenkinti vartotojo reikalavimus arba iš dalies patenkinti vartotojo reikalavimus, privalo spręsti dėl energetikos įmonės įpareigojimo grąžinti ar kompensuoti vartotojo patirtas išlaidas ir tokio grąžinimo ar kompensavimo sąlygų. ^8e1375abc054218f5b151190
+6. Taryba, išnagrinėjusi ginčą ne teismo tvarka ir priimdama sprendimą patenkinti vartotojo reikalavimus arba iš dalies patenkinti vartotojo reikalavimus, privalo spręsti dėl energetikos įmonės įpareigojimo grąžinti ar kompensuoti vartotojo patirtas išlaidas ir tokio grąžinimo ar kompensavimo sąlygų. ^c4b0082a8a151bb4c42bb624
 
 
-7. Tarybos sprendimai, priimti išnagrinėjus vartotojų ir energetikos įmonių ginčus, įsigalioja ir yra privalomi vykdyti, jeigu nė viena ginčo šalis per 30 dienų nuo Tarybos sprendimo dėl ginčo priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. Kreipimasis į bendrosios kompetencijos teismą po Tarybos sprendimo dėl ginčo priėmimo nelaikomas šio sprendimo apskundimu. ^289c49029106c4cc4996326e
+7. Tarybos sprendimai, priimti išnagrinėjus vartotojų ir energetikos įmonių ginčus, įsigalioja ir yra privalomi vykdyti, jeigu nė viena ginčo šalis per 30 dienų nuo Tarybos sprendimo dėl ginčo priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. Kreipimasis į bendrosios kompetencijos teismą po Tarybos sprendimo dėl ginčo priėmimo nelaikomas šio sprendimo apskundimu. ^2e43ba3090b0842e9d6a658d
 
 
-8. Įsigaliojęs Tarybos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas Civilinio proceso kodekso nustatyta tvarka. ^1b5e57cc1de1730fe7634cff
+8. Įsigaliojęs Tarybos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas Civilinio proceso kodekso nustatyta tvarka. ^e380cf0b84888150be731820
 
 
-9. Tarybos procedūriniai sprendimai, priimti nagrinėjant vartotojo ir energetikos įmonės ginčą, tarp jų ir sprendimai atsisakyti nagrinėti ginčą, sustabdyti ar nutraukti ginčo nagrinėjimą, užkertantys kelią toliau nagrinėti ginčą, per 7 dienas nuo sprendimo įteikimo suinteresuotam asmeniui dienos gali būti skundžiami bendrosios kompetencijos teismui. Teismo nutartys dėl šioje dalyje nurodytų sprendimų neskundžiamos. ^42330e2566d314c72710e7c4
+9. Tarybos procedūriniai sprendimai, priimti nagrinėjant vartotojo ir energetikos įmonės ginčą, tarp jų ir sprendimai atsisakyti nagrinėti ginčą, sustabdyti ar nutraukti ginčo nagrinėjimą, užkertantys kelią toliau nagrinėti ginčą, per 7 dienas nuo sprendimo įteikimo suinteresuotam asmeniui dienos gali būti skundžiami bendrosios kompetencijos teismui. Teismo nutartys dėl šioje dalyje nurodytų sprendimų neskundžiamos. ^d508831c6b65eb13249d8c62
 
 
-10. [[#^2dca2e90805bbf0542f9a977|Šio straipsnio 2 dalyje]] nustatytu vartotojo kreipimosi į energetikos įmonę nagrinėjimo laikotarpiu, taip pat vartotojo ir energetikos įmonės ginčo nagrinėjimo ne teismo tvarka laikotarpiu, po to, kai energetikos įmonė buvo ginčą nagrinėjančios institucijos informuota apie priimtą nagrinėti ginčą, energetikos įmonė negali vienašališkai nutraukti su vartotoju sudarytos sutarties, pakeisti šios sutarties sąlygų ir (ar) nutraukti energijos tiekimo vartotojo objektui remdamasi priežastimi, dėl kurios vartotojas kreipėsi į energetikos įmonę ar ginčo nagrinėjimo instituciją. Vartotojo pateiktas kreipimasis nedaro poveikio ginčo šalių sutartinėms teisėms ir pareigoms. ^4c86374281b5500ee60af50a
+10. [[#^728f8f4526f2a3ebec4944ec|Šio straipsnio 2 dalyje]] nustatytu vartotojo kreipimosi į energetikos įmonę nagrinėjimo laikotarpiu, taip pat vartotojo ir energetikos įmonės ginčo nagrinėjimo ne teismo tvarka laikotarpiu, po to, kai energetikos įmonė buvo ginčą nagrinėjančios institucijos informuota apie priimtą nagrinėti ginčą, energetikos įmonė negali vienašališkai nutraukti su vartotoju sudarytos sutarties, pakeisti šios sutarties sąlygų ir (ar) nutraukti energijos tiekimo vartotojo objektui remdamasi priežastimi, dėl kurios vartotojas kreipėsi į energetikos įmonę ar ginčo nagrinėjimo instituciją. Vartotojo pateiktas kreipimasis nedaro poveikio ginčo šalių sutartinėms teisėms ir pareigoms. ^cd9175bda20b1fdb6d611c38
 Papildyta straipsnio dalimi:
 Nr. XV-513, 2025-11-13, paskelbta TAR 2025-11-28, i. k. 2025-20134
 
 
 
-11. Taryba ne teismo tvarka nagrinėja tarp energetikos įmonių kylančius ginčus dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl teisės energetikos įmonėms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, kainų ir tarifų taikymo. Šie ginčai nagrinėjami pagal Tarybos patvirtintas energetikos įmonių ginčų nagrinėjimo taisykles. Be to, energetikos įmonės, vadovaudamosi šio įstatymo ir Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo nuostatomis, turi teisę kreiptis į Tarybą, prašydamos joms tarpininkauti ir (ar) jas taikinti, kad ginčas dėl šio ar kitų energetikos srities įstatymų reglamentuojamų santykių būtų išspręstas taikiai. Taryba nustato savo taikinamojo tarpininkavimo taisykles. ^a468b4776f33dc54265452b4
+11. Taryba ne teismo tvarka nagrinėja tarp energetikos įmonių kylančius ginčus dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl teisės energetikos įmonėms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, kainų ir tarifų taikymo. Šie ginčai nagrinėjami pagal Tarybos patvirtintas energetikos įmonių ginčų nagrinėjimo taisykles. Be to, energetikos įmonės, vadovaudamosi šio įstatymo ir Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo nuostatomis, turi teisę kreiptis į Tarybą, prašydamos joms tarpininkauti ir (ar) jas taikinti, kad ginčas dėl šio ar kitų energetikos srities įstatymų reglamentuojamų santykių būtų išspręstas taikiai. Taryba nustato savo taikinamojo tarpininkavimo taisykles. ^df2291ddf24d885843133d38
 Straipsnio pakeitimai:
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 Straipsnio dalies numeracijos pakeitimas:
@@ -3083,16 +3102,16 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 ### 341 straipsnis. Skundų nagrinėjimas
 
 
-1. Tarnyba Vartotojų teisių apsaugos įstatymo nustatyta tvarka nagrinėja buitinių vartotojų skundus dėl energijos pirkimo–pardavimo sutarčių ir naujų buitinių vartotojų įrenginių prijungimo sutarčių nesąžiningų sąlygų taikymo. Tarnyba Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka nagrinėja ir buitinių vartotojų skundus dėl energijos tiekėjų nesąžiningos komercinės veiklos. Jeigu nustatoma nesąžiningos komercinės veiklos atvejų, energetikos įmonė atsako Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka. ^00ccc1c382d85fb1002fb3bf
+1. Tarnyba Vartotojų teisių apsaugos įstatymo nustatyta tvarka nagrinėja buitinių vartotojų skundus dėl energijos pirkimo–pardavimo sutarčių ir naujų buitinių vartotojų įrenginių prijungimo sutarčių nesąžiningų sąlygų taikymo. Tarnyba Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka nagrinėja ir buitinių vartotojų skundus dėl energijos tiekėjų nesąžiningos komercinės veiklos. Jeigu nustatoma nesąžiningos komercinės veiklos atvejų, energetikos įmonė atsako Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo nustatyta tvarka. ^e72777383e6498cbe92ac911
 
 
-2. Taryba pagal šiame ir atskirus energetikos sektorius reglamentuojančiuose įstatymuose nustatytą kompetenciją nagrinėja skundus dėl energetikos objektų, įrenginių ir apskaitos priemonių techninės saugos, eksploatavimo, energijos kokybės reikalavimų, dėl prisijungimo prie energetikos objektų ar įrenginių, atsijungimo nuo jų techninių sąlygų, dėl energetikos įmonių atliekamo energijos tiekimo, skirstymo, perdavimo, laikymo ar neveikimo, dėl teisės energetikos įmonėms pasinaudoti tinklais ir (ar) sistemomis nesuteikimo ir kitų teisės aktuose nustatytų reguliuojamos energetikos veiklos reikalavimų laikymosi. ^61eab443b2e59ef43007199b
+2. Taryba pagal šiame ir atskirus energetikos sektorius reglamentuojančiuose įstatymuose nustatytą kompetenciją nagrinėja skundus dėl energetikos objektų, įrenginių ir apskaitos priemonių techninės saugos, eksploatavimo, energijos kokybės reikalavimų, dėl prisijungimo prie energetikos objektų ar įrenginių, atsijungimo nuo jų techninių sąlygų, dėl energetikos įmonių atliekamo energijos tiekimo, skirstymo, perdavimo, laikymo ar neveikimo, dėl teisės energetikos įmonėms pasinaudoti tinklais ir (ar) sistemomis nesuteikimo ir kitų teisės aktuose nustatytų reguliuojamos energetikos veiklos reikalavimų laikymosi. ^8290ed580937d6aae1c34820
 
 
-3. [[#^61eab443b2e59ef43007199b|Šio straipsnio 2 dalyje]] nurodyti vartotojų skundai nagrinėjami Lietuvos Respublikos viešojo administravimo įstatymo ir Tarybos nustatyta tvarka. ^ec50573893844a8ab7b07632
+3. [[#^8290ed580937d6aae1c34820|Šio straipsnio 2 dalyje]] nurodyti vartotojų skundai nagrinėjami Lietuvos Respublikos viešojo administravimo įstatymo ir Tarybos nustatyta tvarka. ^3f40ff0011321f8b8a834f8f
 
 
-4. Tarybos sprendimai, priimti nagrinėjant skundus, gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. ^aaf5f4953d6c0863eebde2c2
+4. Tarybos sprendimai, priimti nagrinėjant skundus, gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. ^880d7cb1e15794a89cbd51c2
 
 
 Straipsnio pakeitimai:
@@ -3110,34 +3129,34 @@ Asmenys, nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako šio i
 ### 36 straipsnis. Sankcijos ir jų taikymo tvarka
 
 
-1. Energetikos įmonėms už pažeidimus vykdant reguliuojamąją veiklą, išskyrus [[#^c95936d340ffe1ea4c83d19f|šio straipsnio 2 dalyje]] numatytus pažeidimus, užtikrinant atitiktį teisės aktų nustatytoms reguliuojamosios veiklos sąlygoms, Taryba skiria baudas: ^9bbf9f52f52bd2002548868d
+1. Energetikos įmonėms už pažeidimus vykdant reguliuojamąją veiklą, išskyrus [[#^e023a0515e1c18eda94595e5|šio straipsnio 2 dalyje]] numatytus pažeidimus, užtikrinant atitiktį teisės aktų nustatytoms reguliuojamosios veiklos sąlygoms, Taryba skiria baudas: ^8ee2daebd1ff607bb5b775ca
 
 
-1) už viešai privalomos skelbti informacijos apie energetikos įmonės reguliuojamąją veiklą nepaskelbimą, už teisės aktuose nustatytos informacijos nepateikimą šio įstatymo [[#^bf58188bd2fa4c5297fcdcfb|25 straipsnio 1 dalyje]] nurodytiems asmenims, taip pat už neteisingos ar ne visos informacijos pateikimą vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, o kitą energetikos veiklą vykdančioms įmonėms – iki 10 procentų energetikos veiklą vykdančios įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; ^c8a2690db4d85d93ee8672b8
+1) už viešai privalomos skelbti informacijos apie energetikos įmonės reguliuojamąją veiklą nepaskelbimą, už teisės aktuose nustatytos informacijos nepateikimą šio įstatymo [[#^0cfc1c8d47681505ba32b332|25 straipsnio 1 dalyje]] nurodytiems asmenims, taip pat už neteisingos ar ne visos informacijos pateikimą vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, o kitą energetikos veiklą vykdančioms įmonėms – iki 10 procentų energetikos veiklą vykdančios įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; ^bb3f1889840f7c299fdb7b96
 
 
-2) už teisės aktų nustatytų reguliuojamosios veiklos sąlygų pažeidimą arba jų nevykdymą, už Tarybos įpareigojimų (nurodymų) nevykdymą arba vykdymą ne laiku, už Tarybos didelę įtaką atitinkamoje rinkoje turinčiam asmeniui nustatytų įpareigojimų nevykdymą, už įsipareigojimų nesilaikymą vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, o kitą energetikos veiklą vykdančioms įmonėms – iki 10 procentų energetikos veiklą vykdančios įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; ^05a4acd4828da1330c6b91c7
+2) už teisės aktų nustatytų reguliuojamosios veiklos sąlygų pažeidimą arba jų nevykdymą, už Tarybos įpareigojimų (nurodymų) nevykdymą arba vykdymą ne laiku, už Tarybos didelę įtaką atitinkamoje rinkoje turinčiam asmeniui nustatytų įpareigojimų nevykdymą, už įsipareigojimų nesilaikymą vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, o kitą energetikos veiklą vykdančioms įmonėms – iki 10 procentų energetikos veiklą vykdančios įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; ^5457f2ce0e730aa8a121411b
 
 
-3) už veiklos saugumo ir patikimumo bei vartotojų nediskriminavimo principų pažeidimą, išskyrus [[#^c95936d340ffe1ea4c83d19f|šio straipsnio 2 dalyje]] nurodytus atvejus, už reguliuojamosios veiklos sąlygų pakartotinį pažeidimą per kalendorinius metus vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, o kitą energetikos veiklą vykdančioms įmonėms – iki 10 procentų energetikos veiklą vykdančios įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; ^f6573c6169e926d3f2679e01
+3) už veiklos saugumo ir patikimumo bei vartotojų nediskriminavimo principų pažeidimą, išskyrus [[#^e023a0515e1c18eda94595e5|šio straipsnio 2 dalyje]] nurodytus atvejus, už reguliuojamosios veiklos sąlygų pakartotinį pažeidimą per kalendorinius metus vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, o kitą energetikos veiklą vykdančioms įmonėms – iki 10 procentų energetikos veiklą vykdančios įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; ^f454b50025d38846c1edc293
 
 
-4) už energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos atskyrimo reikalavimų nevykdymą ar jų netinkamą vykdymą, vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais metais; ^5d91eeb06b9234015e7475ab
+4) už energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos atskyrimo reikalavimų nevykdymą ar jų netinkamą vykdymą, vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki 10 procentų šios energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais metais; ^14be60c3345b691a29f236df
 
 
-5) už Lietuvos Respublikos šilumos ūkio įstatyme nustatytų pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) veiklos reikalavimų nesilaikymą – iki 10 procentų pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) metinių pajamų dydžio, gautų praėjusiais finansiniais metais. ^0819caaaf1297971983c4d96
+5) už Lietuvos Respublikos šilumos ūkio įstatyme nustatytų pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) veiklos reikalavimų nesilaikymą – iki 10 procentų pastato šildymo ir karšto vandens sistemų prižiūrėtojo (eksploatuotojo) metinių pajamų dydžio, gautų praėjusiais finansiniais metais. ^d55037f645dabd09f2009495
 
 
-11. Kai Tarybai skiriant baudą energetikos įmonėms už pažeidimus, vykdant reguliuojamąją veiklą pagal [[#^9bbf9f52f52bd2002548868d|šio straipsnio 1 dalį]], duomenų apie pajamas, gautas praėjusiais metais iš konkrečios reguliuojamosios veiklos, nėra arba praėjusiais metais reguliuojamoji veikla nebuvo vykdoma, vertinamos paskutinių finansinių metų, kurių duomenis Taryba turi, vertikalios integracijos įmonės ir (ar) tinklų operatoriaus metinės pajamos, o kitą energetikos veiklą vykdančių įmonių – paskutinių finansinių metų, kurių duomenis Taryba turi, metinės pajamos iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas. ^020ebfd30dce681b78c3121d
+11. Kai Tarybai skiriant baudą energetikos įmonėms už pažeidimus, vykdant reguliuojamąją veiklą pagal [[#^8ee2daebd1ff607bb5b775ca|šio straipsnio 1 dalį]], duomenų apie pajamas, gautas praėjusiais metais iš konkrečios reguliuojamosios veiklos, nėra arba praėjusiais metais reguliuojamoji veikla nebuvo vykdoma, vertinamos paskutinių finansinių metų, kurių duomenis Taryba turi, vertikalios integracijos įmonės ir (ar) tinklų operatoriaus metinės pajamos, o kitą energetikos veiklą vykdančių įmonių – paskutinių finansinių metų, kurių duomenis Taryba turi, metinės pajamos iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas. ^d0b896c2f89ae851ec2b280b
 Papildyta straipsnio dalimi:
 Nr. XIV-2840, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12635
 
 
 
-2. Asmenims už Reglamento (ES) Nr. 1227/2011 nuostatų pažeidimus Taryba skiria šias sankcijas: ^c95936d340ffe1ea4c83d19f
+2. Asmenims už Reglamento (ES) Nr. 1227/2011 nuostatų pažeidimus Taryba skiria šias sankcijas: ^e023a0515e1c18eda94595e5
 
 
-1) juridiniams asmenims: ^40aee1987fc0a358432d4d24
+1) juridiniams asmenims: ^34b45a86ca06990877274cab
 
 
 a) už Reglamento (ES) Nr. 1227/2011 8 ir [[#9 straipsnis. Neteko galios nuo 2019-07-01|9 straipsnių]] pažeidimus skiria piniginę baudą iki 1 procento juridinio asmens bendrų metinių pajamų praėjusiais finansiniais metais, o jeigu juridiniai asmenys neturėjo pajamų praėjusiais finansiniais metais, – iki dvidešimt tūkstančių eurų arba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje;
@@ -3149,7 +3168,7 @@ b) už Reglamento (ES) Nr. 1227/2011 4 ir [[#15 straipsnis. Energetikos objektų
 c) už Reglamento (ES) Nr. 1227/2011 3 ir [[#5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija|5 straipsnių]] pažeidimus skiria piniginę baudą iki 15 procentų juridinio asmens bendrų metinių pajamų praėjusiais finansiniais metais, o jeigu juridiniai asmenys neturėjo pajamų praėjusiais finansiniais metais, – iki trijų šimtų tūkstančių eurų arba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje;
 
 
-2) fiziniams asmenims: ^984d52eb139ebf338cab7ff3
+2) fiziniams asmenims: ^9f480e95ba4e592cb3833db8
 
 
 a) už Reglamento (ES) Nr. 1227/2011 8 ir [[#9 straipsnis. Neteko galios nuo 2019-07-01|9 straipsnių]] pažeidimus skiria piniginę baudą iki penkių šimtų tūkstančių eurų;
@@ -3166,57 +3185,22 @@ Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-21. Taryba už asmens, dėl kurio atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, atsisakymą teikti informaciją turi teisę skirti periodinę baudą, kurios dydis juridiniam asmeniui yra 3 procentai praėjusių finansinių metų vidutinių dienos pajamų už kiekvieną pažeidimo vykdymo (tęsimo) dieną, kol šis juridinis asmuo įvykdys Tarybos įpareigojimą pateikti informaciją, fiziniam asmeniui – 2 procentai praėjusių kalendorinių metų vidutinių dienos pajamų už kiekvieną pažeidimo vykdymo (tęsimo) dieną, kol šis fizinis asmuo įvykdys Tarybos įpareigojimą pateikti informaciją. Šioje dalyje nurodyta periodinė bauda skiriama už laikotarpį, kuris prasideda nuo Tarybos nutarimo skirti baudą priėmimo dienos ir baigiasi tą dieną, kai baigiasi pažeidimo vykdymas (tęsimas). Periodinė bauda gali būti skiriama ne ilgesniam kaip šešių mėnesių laikotarpiui nuo Tarybos sprendimo paskirti tokią baudą priėmimo dienos. ^2abc0b29595600d65ad284c7
+21. Taryba už asmens, dėl kurio atliekamas Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimas, atsisakymą teikti informaciją turi teisę skirti periodinę baudą, kurios dydis juridiniam asmeniui yra 3 procentai praėjusių finansinių metų vidutinių dienos pajamų už kiekvieną pažeidimo vykdymo (tęsimo) dieną, kol šis juridinis asmuo įvykdys Tarybos įpareigojimą pateikti informaciją, fiziniam asmeniui – 2 procentai praėjusių kalendorinių metų vidutinių dienos pajamų už kiekvieną pažeidimo vykdymo (tęsimo) dieną, kol šis fizinis asmuo įvykdys Tarybos įpareigojimą pateikti informaciją. Šioje dalyje nurodyta periodinė bauda skiriama už laikotarpį, kuris prasideda nuo Tarybos nutarimo skirti baudą priėmimo dienos ir baigiasi tą dieną, kai baigiasi pažeidimo vykdymas (tęsimas). Periodinė bauda gali būti skiriama ne ilgesniam kaip šešių mėnesių laikotarpiui nuo Tarybos sprendimo paskirti tokią baudą priėmimo dienos. ^a72b728a9538af0ac74757e2
 Papildyta straipsnio dalimi:
 Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-3. Energetikos įmonėms už Tarybos, jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, ar asmenų, nurodytų šio įstatymo [[#^c078730c3b18d7364dffea2d|241 straipsnio 1 dalies]] 5 ir 6 punktuose, reikalavimų, duotų atliekant šio įstatymo [[#241 straipsnis. Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimai, energetikos įmonių reguliuojamosios veiklos, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimai|241 straipsnyje]] nurodytus veiksmus, nevykdymą Taryba skiria baudą iki 0,5 procento energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais metais. Kitiems juridiniams ir fiziniams asmenims už šioje dalyje nurodytus pažeidimus Taryba skiria baudą iki šešių tūkstančių eurų. ^6505099469ae98f70ce9fae9
+3. Energetikos įmonėms už Tarybos, jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, ar asmenų, nurodytų šio įstatymo [[#^9c7a971a4375bd5bda8936a1|241 straipsnio 1 dalies]] 5 ir 6 punktuose, reikalavimų, duotų atliekant šio įstatymo [[#241 straipsnis. Reglamento (ES) Nr. 1227/2011 pažeidimo tyrimai, energetikos įmonių reguliuojamosios veiklos, energetikos objektų, energetikos įrenginių ir vartotojų energetikos įrenginių patikrinimai|241 straipsnyje]] nurodytus veiksmus, nevykdymą Taryba skiria baudą iki 0,5 procento energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais metais. Kitiems juridiniams ir fiziniams asmenims už šioje dalyje nurodytus pažeidimus Taryba skiria baudą iki šešių tūkstančių eurų. ^9fb262440e2151d4320410d9
 
 
-4. Jeigu dėl [[#^c95936d340ffe1ea4c83d19f|šio straipsnio 2 dalyje]] išvardytų pažeidimų asmuo gavo pajamų, kitokios turtinės naudos, išvengė nuostolių ir (ar) padarė žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ir (ar) žalos dydis viršijo [[#^c95936d340ffe1ea4c83d19f|šio straipsnio 2 dalyje]] nurodytų baudų dydžius, Taryba turi teisę skirti baudą iki dvigubo asmens dėl [[#^c95936d340ffe1ea4c83d19f|šio straipsnio 2 dalyje]] išvardytų pažeidimų gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ir (ar) padarytos žalos dydžio. Jeigu asmuo dėl pažeidimo gavo pajamų, kitokios turtinės naudos, išvengė nuostolių ir (arba) padarė žalos, sankcijos dydis turi būti ne mažesnis, nei  gautos pajamos, kitokia turtinė nauda, išvengti nuostoliai ir (ar) padaryta žala, išskyrus atvejus, kai šiame straipsnyje nustatyta tvarka šiam asmeniui skirtos sankcijos dydis viršija pažeidimą padariusio: ^a241b853a72164a780267c75
+4. Jeigu dėl [[#^e023a0515e1c18eda94595e5|šio straipsnio 2 dalyje]] išvardytų pažeidimų asmuo gavo pajamų, kitokios turtinės naudos, išvengė nuostolių ir (ar) padarė žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ir (ar) žalos dydis viršijo [[#^e023a0515e1c18eda94595e5|šio straipsnio 2 dalyje]] nurodytų baudų dydžius, Taryba turi teisę skirti baudą iki dvigubo asmens dėl [[#^e023a0515e1c18eda94595e5|šio straipsnio 2 dalyje]] išvardytų pažeidimų gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ir (ar) padarytos žalos dydžio. Jeigu asmuo dėl pažeidimo gavo pajamų, kitokios turtinės naudos, išvengė nuostolių ir (arba) padarė žalos, sankcijos dydis turi būti ne mažesnis, nei  gautos pajamos, kitokia turtinė nauda, išvengti nuostoliai ir (ar) padaryta žala, išskyrus atvejus, kai šiame straipsnyje nustatyta tvarka šiam asmeniui skirtos sankcijos dydis viršija pažeidimą padariusio: ^98786fcd6202dabd0266e526
 
 
-1) juridinio asmens 20 procentų praėjusių finansinių metų metinės apyvartos; ^9fa8f4597d1cec1f5109202a
+1) juridinio asmens 20 procentų praėjusių finansinių metų metinės apyvartos; ^2eaf59f8bd9d3c179e236f9c
 
 
-2) fizinio asmens 20 procentų metinių pajamų praėjusiais kalendoriniais metais. ^feae6d4901a21df9af67f32e
-
-
-Straipsnio dalies pakeitimai:
-Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
-
-
-
-5. Taryba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, kai, Tarybai paskyrus baudą, per Tarybos nustatytą protingą terminą, ne ilgesnį kaip du mėnesiai, asmuo nenutraukia daryti [[#^c95936d340ffe1ea4c83d19f|šio straipsnio 2 dalyje]] išvardytų pažeidimų, arba, esant faktinėms aplinkybėms, laikinas apribojimas vykdyti veiklą yra efektyvesnė priemonė negu baudos skyrimas. Taryba skiria [[#^a241b853a72164a780267c75|šio straipsnio 4 dalyje]] nurodytą piniginę baudą visais atvejais, kai asmuo dėl [[#^c95936d340ffe1ea4c83d19f|šio straipsnio 2 dalyje]] išvardytų pažeidimų gavo pajamų, kitokios turtinės naudos, išvengė nuostolių ir (ar) padarė žalos. ^2d3b1e92c70437eff3f6af3d
-Straipsnio dalies pakeitimai:
-Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
-
-
-
-6. Tais atvejais, kai nesąžiningos konkurencijos veiksmus ar vartotojų nediskriminavimo principų pažeidimą energetikos sektoriuje pagal kompetenciją tiria Konkurencijos taryba, šių veiksmų tyrimas atliekamas, privalomi nurodymai energetikos įmonėms, didmeninės energijos rinkos dalyviams duodami ir atsakomybė už pažeidimus nustatoma, įskaitant energetikos įmonėms, didmeninės energijos rinkos dalyviams taikomas sankcijas, Konkurencijos įstatymo nustatyta tvarka ir sąlygomis. Šiuo tikslu Taryba ir Konkurencijos taryba bendradarbiauja tarpusavyje, siekdamos efektyviai nustatyti nesąžiningos konkurencijos veiksmų ar vartotojų nediskriminavimo principų pažeidimų energetikos sektoriuje mastą ir poveikį energijos vartotojams ir (ar) kitoms energetikos įmonėms, didmeninės energijos rinkos dalyviams. Energetikos įmonės, didmeninės energijos rinkos dalyviai už tuos pačius pažeidimus atsako tik pagal šį įstatymą arba pagal Konkurencijos įstatymą, atsižvelgiant į nustatytą Tarybos ar Konkurencijos tarybos kompetenciją. ^234f03fad87c416ca3bb5051
-
-
-7. Taryba, skirdama baudą ir (ar) kreipdamasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, kartu nustato protingą terminą, ne ilgesnį kaip du mėnesiai, pažeidimui pašalinti, jeigu pažeidimą pašalinti yra objektyviai įmanoma. Jeigu pažeidimas yra mažareikšmis, tai yra energetikos įmonė, didmeninės energijos rinkos dalyvis nepadarė esminės žalos kitų asmenų interesams, nutraukė pažeidimą, pašalino pažeidimo padarinius, o teisės aktų reikalavimų laikymasis atsižvelgiant į faktines aplinkybes gali būti užtikrintas kitais būdais ir (ar) kitomis priemonėmis, Taryba, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos ir (ar) nesikreipdama į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje. ^634d8e1a8a5acf69bd106986
-
-
-8. Taryba, skirdama šiame straipsnyje nurodytas sankcijas, atsižvelgia į: ^c64c2f10930ddbc9ebcac466
-
-
-1) pažeidimo pavojingumą; ^2b55d7b69bee7207e7a113d4
-
-
-2) pažeidimo trukmę; ^ad8d48fe945c3f98d9bd1bed
-
-
-3) pažeidimo pasekmes; ^f7661ca3ec8996b35f108bae
-
-
-4) energetikos įmonės atsakomybę lengvinančias ar sunkinančias aplinkybes; ^d7566b4b767d60a890e25dc0
-
-
-5) Reglamento (ES) Nr. 1227/2011 18 straipsnio 7 dalyje nurodytas aplinkybes, kai skiriama sankcija už šio reglamento pažeidimus. ^bc2d59d8cd0931d51b0393b7
+2) fizinio asmens 20 procentų metinių pajamų praėjusiais kalendoriniais metais. ^0f60d64430e807662e09160f
 
 
 Straipsnio dalies pakeitimai:
@@ -3224,43 +3208,78 @@ Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
 
-9. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pažeidimą padariusi energetikos įmonė, didmeninės energijos rinkos dalyviai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo išaiškinti pažeidimo aplinkybes, nedelsdami ėmėsi priemonių pažeidimui pašalinti. ^2244a9f74156f289b544bb62
+5. Taryba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, kai, Tarybai paskyrus baudą, per Tarybos nustatytą protingą terminą, ne ilgesnį kaip du mėnesiai, asmuo nenutraukia daryti [[#^e023a0515e1c18eda94595e5|šio straipsnio 2 dalyje]] išvardytų pažeidimų, arba, esant faktinėms aplinkybėms, laikinas apribojimas vykdyti veiklą yra efektyvesnė priemonė negu baudos skyrimas. Taryba skiria [[#^98786fcd6202dabd0266e526|šio straipsnio 4 dalyje]] nurodytą piniginę baudą visais atvejais, kai asmuo dėl [[#^e023a0515e1c18eda94595e5|šio straipsnio 2 dalyje]] išvardytų pažeidimų gavo pajamų, kitokios turtinės naudos, išvengė nuostolių ir (ar) padarė žalos. ^594a93d8c18b6ceaf53c5de7
+Straipsnio dalies pakeitimai:
+Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
-10. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad energetikos įmonė, didmeninės energijos rinkos dalyviai kliudė nustatyti pažeidimo aplinkybes, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydami Tarybos nurodymo nutraukti neteisėtą veiklą, arba padarė pažeidimą, dėl kurio šiai energetikos įmonei per paskutinius 12 mėnesių buvo skirta sankcija (įspėjimas, bauda, laikinas apribojimas vykdyti veiklą didmeninėje energijos rinkoje). ^9f8eee863631c1a76af3300d
+
+6. Tais atvejais, kai nesąžiningos konkurencijos veiksmus ar vartotojų nediskriminavimo principų pažeidimą energetikos sektoriuje pagal kompetenciją tiria Konkurencijos taryba, šių veiksmų tyrimas atliekamas, privalomi nurodymai energetikos įmonėms, didmeninės energijos rinkos dalyviams duodami ir atsakomybė už pažeidimus nustatoma, įskaitant energetikos įmonėms, didmeninės energijos rinkos dalyviams taikomas sankcijas, Konkurencijos įstatymo nustatyta tvarka ir sąlygomis. Šiuo tikslu Taryba ir Konkurencijos taryba bendradarbiauja tarpusavyje, siekdamos efektyviai nustatyti nesąžiningos konkurencijos veiksmų ar vartotojų nediskriminavimo principų pažeidimų energetikos sektoriuje mastą ir poveikį energijos vartotojams ir (ar) kitoms energetikos įmonėms, didmeninės energijos rinkos dalyviams. Energetikos įmonės, didmeninės energijos rinkos dalyviai už tuos pačius pažeidimus atsako tik pagal šį įstatymą arba pagal Konkurencijos įstatymą, atsižvelgiant į nustatytą Tarybos ar Konkurencijos tarybos kompetenciją. ^9c687e5a32d15ceed4d06423
 
 
-11. Taryba, nustatydama sankciją, atsakomybę lengvinančiomis aplinkybėmis gali pripažinti ir kitas šiame įstatyme nenurodytas aplinkybes. ^49d8cf8055e83cd2ebce40cc
+7. Taryba, skirdama baudą ir (ar) kreipdamasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, kartu nustato protingą terminą, ne ilgesnį kaip du mėnesiai, pažeidimui pašalinti, jeigu pažeidimą pašalinti yra objektyviai įmanoma. Jeigu pažeidimas yra mažareikšmis, tai yra energetikos įmonė, didmeninės energijos rinkos dalyvis nepadarė esminės žalos kitų asmenų interesams, nutraukė pažeidimą, pašalino pažeidimo padarinius, o teisės aktų reikalavimų laikymasis atsižvelgiant į faktines aplinkybes gali būti užtikrintas kitais būdais ir (ar) kitomis priemonėmis, Taryba, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos ir (ar) nesikreipdama į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje. ^132aaa10d5ae1d3e58bc8471
 
 
-12. Skiriamos sankcijos nustatomos įvertinus [[#^c64c2f10930ddbc9ebcac466|šio straipsnio 8 dalies]] 1, 2 ir 3 punktuose nurodytas aplinkybes. Nustatytos sankcijos mažinamos, jeigu yra atsakomybę lengvinančių aplinkybių, arba didinamos, jeigu yra atsakomybę sunkinančių aplinkybių. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, sankcijos nustatomos atsižvelgiant į jų kiekį ir reikšmingumą. ^97ff9549fd1d3f7475a614d1
+8. Taryba, skirdama šiame straipsnyje nurodytas sankcijas, atsižvelgia į: ^b60ad4b9f6430e0f8362f8b7
 
 
-13. Kai Taryba svarsto sankcijos skyrimo klausimą, dalyvauja energetikos įmonės, didmeninės energijos rinkos dalyvio, kuris įtariamas padaręs pažeidimą ir kuriam skiriama sankcija, vadovas ir (ar) jo įgaliotas atstovas, kurie turi teisę būti išklausyti ir duoti paaiškinimus. Jeigu šie asmenys nedalyvauja, sankcijos skyrimo klausimas gali būti išnagrinėtas tik tais atvejais, kai yra duomenų, kad jiems buvo laiku pranešta apie šio klausimo nagrinėjimo vietą ir laiką, ir negautas jų prašymas atidėti klausimo nagrinėjimą. Tuo atveju, kai yra gautas prašymas atidėti klausimo nagrinėjimą, šis klausimas gali būti išnagrinėtas nedalyvaujant asmeniui, jeigu Taryba, pripažinusi neatvykimo į klausimo nagrinėjimą priežastis nesvarbiomis, atmeta asmens prašymą atidėti klausimo nagrinėjimą. ^32517460a85d22cfc8c5cb8e
+1) pažeidimo pavojingumą; ^d1d1120512a80c42390bb400
 
 
-14. Tarybos sprendimas dėl sankcijos skyrimo turi būti priimtas per šešis mėnesius nuo pažeidimo nustatymo dienos. Tęstinio pažeidimo atveju sankcija gali būti paskirta ne vėliau kaip per šešis mėnesius nuo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip penkeri metai, sankcijos negali būti skiriamos. ^e62bad4f477046bb304716cc
+2) pažeidimo trukmę; ^6852c0a0bd5020df71b9d7ca
 
 
-15. Už tą patį pažeidimą gali būti skiriama tik viena sankcija, išskyrus sankcijas, numatytas [[#^2d3b1e92c70437eff3f6af3d|šio straipsnio 5 dalyje]]. Sankcijos skyrimas neatleidžia nuo pareigos, už kurios nevykdymą paskirta sankcija, vykdymo. ^633baf953021be82989a6071
+3) pažeidimo pasekmes; ^b8c9838bb2fcdf945c3432a4
 
 
-16. Tarybos paskirta bauda į valstybės biudžetą sumokama Tarybos nustatyta tvarka ir terminais. ^750ef3e86ded9d6d56e50aab
+4) energetikos įmonės atsakomybę lengvinančias ar sunkinančias aplinkybes; ^2db0ea68599a9423f117407b
 
 
-17. Tarybos sprendimas dėl sankcijos skyrimo per 30 dienų nuo jo priėmimo dienos gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. ^5cb00b1cb63b4096c0308fd1
+5) Reglamento (ES) Nr. 1227/2011 18 straipsnio 7 dalyje nurodytas aplinkybes, kai skiriama sankcija už šio reglamento pažeidimus. ^b908ada72c86ed3592bdfa03
 
 
-18. Tarybos sprendimas dėl sankcijos skyrimo įsigalioja po 30 dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka sprendimas nebuvo apskųstas teismui. Tuo atveju, jeigu Taryba sprendimu ne tik skiria sankciją, bet ir nustato įpareigojimus, Tarybos sprendimas dalyje dėl įpareigojimų nustatymo įsigalioja sprendimo priėmimo dieną, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data. Tarybos sprendimo dėl įpareigojimų nustatymo apskundimas teismui įpareigojimų vykdymo nesustabdo, jeigu teismas nenusprendžia kitaip. ^aa0e3aafb981c2beb1b5fc77
+Straipsnio dalies pakeitimai:
+Nr. XV-310, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11979
 
 
-19. Tarybos sprendimas dėl sankcijos skyrimo yra vykdytinas ir vykdomasis dokumentas. Tarybos sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka. ^b108e2797e218e77570f27ec
+
+9. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pažeidimą padariusi energetikos įmonė, didmeninės energijos rinkos dalyviai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo išaiškinti pažeidimo aplinkybes, nedelsdami ėmėsi priemonių pažeidimui pašalinti. ^c411801bd6a3d48a44d86422
 
 
-20. Tarybos sprendimo dėl sankcijos skyrimo ir įpareigojimų nustatymo nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo jo priėmimo. ^81c56479fa7ee8526454cd1d
+10. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad energetikos įmonė, didmeninės energijos rinkos dalyviai kliudė nustatyti pažeidimo aplinkybes, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydami Tarybos nurodymo nutraukti neteisėtą veiklą, arba padarė pažeidimą, dėl kurio šiai energetikos įmonei per paskutinius 12 mėnesių buvo skirta sankcija (įspėjimas, bauda, laikinas apribojimas vykdyti veiklą didmeninėje energijos rinkoje). ^37e7b252c4c3cea50daf229e
 
 
-21. Taryba, vadovaudamasi šio straipsnio nuostatomis, patvirtina sankcijų skyrimo taisykles. ^2fe846f279fa81e3991f5f99
+11. Taryba, nustatydama sankciją, atsakomybę lengvinančiomis aplinkybėmis gali pripažinti ir kitas šiame įstatyme nenurodytas aplinkybes. ^557d165fcba9f44eb52c40c1
+
+
+12. Skiriamos sankcijos nustatomos įvertinus [[#^b60ad4b9f6430e0f8362f8b7|šio straipsnio 8 dalies]] 1, 2 ir 3 punktuose nurodytas aplinkybes. Nustatytos sankcijos mažinamos, jeigu yra atsakomybę lengvinančių aplinkybių, arba didinamos, jeigu yra atsakomybę sunkinančių aplinkybių. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, sankcijos nustatomos atsižvelgiant į jų kiekį ir reikšmingumą. ^4a3f22e9218daab3dc5816f7
+
+
+13. Kai Taryba svarsto sankcijos skyrimo klausimą, dalyvauja energetikos įmonės, didmeninės energijos rinkos dalyvio, kuris įtariamas padaręs pažeidimą ir kuriam skiriama sankcija, vadovas ir (ar) jo įgaliotas atstovas, kurie turi teisę būti išklausyti ir duoti paaiškinimus. Jeigu šie asmenys nedalyvauja, sankcijos skyrimo klausimas gali būti išnagrinėtas tik tais atvejais, kai yra duomenų, kad jiems buvo laiku pranešta apie šio klausimo nagrinėjimo vietą ir laiką, ir negautas jų prašymas atidėti klausimo nagrinėjimą. Tuo atveju, kai yra gautas prašymas atidėti klausimo nagrinėjimą, šis klausimas gali būti išnagrinėtas nedalyvaujant asmeniui, jeigu Taryba, pripažinusi neatvykimo į klausimo nagrinėjimą priežastis nesvarbiomis, atmeta asmens prašymą atidėti klausimo nagrinėjimą. ^fac13e912c1693f386cd8e38
+
+
+14. Tarybos sprendimas dėl sankcijos skyrimo turi būti priimtas per šešis mėnesius nuo pažeidimo nustatymo dienos. Tęstinio pažeidimo atveju sankcija gali būti paskirta ne vėliau kaip per šešis mėnesius nuo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip penkeri metai, sankcijos negali būti skiriamos. ^780cabbe082d4990816d9674
+
+
+15. Už tą patį pažeidimą gali būti skiriama tik viena sankcija, išskyrus sankcijas, numatytas [[#^594a93d8c18b6ceaf53c5de7|šio straipsnio 5 dalyje]]. Sankcijos skyrimas neatleidžia nuo pareigos, už kurios nevykdymą paskirta sankcija, vykdymo. ^bd17f8a403e460d6a8476d6d
+
+
+16. Tarybos paskirta bauda į valstybės biudžetą sumokama Tarybos nustatyta tvarka ir terminais. ^6ff70c818a0d0d7413300f8c
+
+
+17. Tarybos sprendimas dėl sankcijos skyrimo per 30 dienų nuo jo priėmimo dienos gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. ^92004d73c3c31a85108d838c
+
+
+18. Tarybos sprendimas dėl sankcijos skyrimo įsigalioja po 30 dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka sprendimas nebuvo apskųstas teismui. Tuo atveju, jeigu Taryba sprendimu ne tik skiria sankciją, bet ir nustato įpareigojimus, Tarybos sprendimas dalyje dėl įpareigojimų nustatymo įsigalioja sprendimo priėmimo dieną, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data. Tarybos sprendimo dėl įpareigojimų nustatymo apskundimas teismui įpareigojimų vykdymo nesustabdo, jeigu teismas nenusprendžia kitaip. ^b4c71ee284418b3197de6449
+
+
+19. Tarybos sprendimas dėl sankcijos skyrimo yra vykdytinas ir vykdomasis dokumentas. Tarybos sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka. ^cc85f1adfec9d58c604e3319
+
+
+20. Tarybos sprendimo dėl sankcijos skyrimo ir įpareigojimų nustatymo nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo jo priėmimo. ^206d2a701c43f1615184de3f
+
+
+21. Taryba, vadovaudamasi šio straipsnio nuostatomis, patvirtina sankcijų skyrimo taisykles. ^0661493afac113ec10c65569
 Straipsnio pakeitimai:
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 
@@ -3278,26 +3297,26 @@ BAIGIAMOSIOS NUOSTATOS
 ### 37 straipsnis. Įstatymo įgyvendinimo tvarka
 
 
-1. Energetikos įmonės, gavusios vartotojų (fizinių ar juridinių asmenų) prašymą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis išperka arba eksploatuoja vartotojams nuosavybės teise priklausančius ir jų lėšomis iki 2002 m. liepos 1 d. įrengtus bendrai naudojamus energetikos objektus, skirtus energijai perduoti ir (ar) skirstyti. Energetikos įmonė ir prašymą pateikęs vartotojas tarpusavio sutarimu derina vartotojams nuosavybės teise priklausančių ir jų lėšomis iki 2002 m. liepos 1 d. įrengtų bendrai naudojamų energetikos objektų išpirkimo ar eksploatavimo tvarką ir sąlygas, kiek tai neprieštarauja Vyriausybės ar jos įgaliotos institucijos nustatytiems reikalavimams. Jeigu energetikos įmonė ir vartotojas nesusitaria dėl energetikos objektų išpirkimo ar eksploatavimo tvarkos ir sąlygų, energetikos įmonė ir (ar) vartotojas gali kreiptis į Tarybą dėl šios tvarkos ir sąlygų nustatymo. Taryba, nustatydama energetikos objektų išpirkimo ar eksploatavimo tvarką ir sąlygas, vadovaujasi sąžiningumo, protingumo ir teisingumo reikalavimais bei atitinkamais energetikos srities teisės aktais. ^90ee0c6567ead7e72a7b3fcb
+1. Energetikos įmonės, gavusios vartotojų (fizinių ar juridinių asmenų) prašymą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis išperka arba eksploatuoja vartotojams nuosavybės teise priklausančius ir jų lėšomis iki 2002 m. liepos 1 d. įrengtus bendrai naudojamus energetikos objektus, skirtus energijai perduoti ir (ar) skirstyti. Energetikos įmonė ir prašymą pateikęs vartotojas tarpusavio sutarimu derina vartotojams nuosavybės teise priklausančių ir jų lėšomis iki 2002 m. liepos 1 d. įrengtų bendrai naudojamų energetikos objektų išpirkimo ar eksploatavimo tvarką ir sąlygas, kiek tai neprieštarauja Vyriausybės ar jos įgaliotos institucijos nustatytiems reikalavimams. Jeigu energetikos įmonė ir vartotojas nesusitaria dėl energetikos objektų išpirkimo ar eksploatavimo tvarkos ir sąlygų, energetikos įmonė ir (ar) vartotojas gali kreiptis į Tarybą dėl šios tvarkos ir sąlygų nustatymo. Taryba, nustatydama energetikos objektų išpirkimo ar eksploatavimo tvarką ir sąlygas, vadovaujasi sąžiningumo, protingumo ir teisingumo reikalavimais bei atitinkamais energetikos srities teisės aktais. ^876827f1294bc60592517758
 Straipsnio dalies pakeitimai:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-2. Valstybei ar savivaldybei nuosavybės teise priklausantys energetikos objektai, skirti energijai perduoti ir (ar) skirstyti, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parduodami energetikos įmonėms, turinčioms teisę verstis atitinkama energetikos veikla, už kainą, nustatomą pagal energetikos objektų vertę, nustatytą vadovaujantis turto ir verslo vertinimą reglamentuojančiais teisės aktais. Parduodamų energetikos objektų vertės nustatymą gali inicijuoti ir energetikos įmonė, jeigu asmenys, patikėjimo teise valdantys valstybei ar savivaldybei nuosavybės teise priklausančius energetikos objektus, sutinka su tuo. Parduodamų energetikos objektų kaina gali būti mažinama atsižvelgiant į objektų nusidėvėjimą per laikotarpį nuo turto vertinimo atlikimo iki sutarties sudarymo, energetikos įmonės patirtų turto vertinimo sąnaudų sumą ar kitus objektyvius vertę mažinančius veiksnius, vertintus turto vertinimo metu ir pasikeitusius po jo atlikimo. Valstybei ar savivaldybei nuosavybės teise priklausantys energetikos objektai perduodami energetikos įmonei po to, kai asmenys, patikėjimo teise valdantys šiuos objektus, sudaro pirkimo–pardavimo sutartį (toliau – sutartis) su energetikos įmone. Sutartyje turi būti nustatytas atlyginimo už perduodamą energetikos objektą būdas, terminai, energetikos objekto naudojimo tikslas. Sutartis sudaroma tik po to, kai energetikos objektų pardavimui ir sutarties projektui pritaria atitinkamai Vyriausybė arba savivaldybės taryba. Teikiant Vyriausybei ar savivaldybės tarybai sutarties projektą dėl pritarimo, pagrindžiama būtinybė parduoti energetikos objektą energetikos įmonei ir kartu pateikiama energetikos objekto turto vertinimo ataskaita. Asmenys, patikėjimo teise valdę valstybei ar savivaldybei nuosavybės teise priklausančius energetikos objektus, už šių objektų pardavimą gautas lėšas, atskaitę parduotų objektų vertės nustatymo paslaugas įsigyjant patirtas išlaidas, atitinkamai perveda į valstybės ar savivaldybės biudžetą. ^7bcee272588b29921d75bc7b
+2. Valstybei ar savivaldybei nuosavybės teise priklausantys energetikos objektai, skirti energijai perduoti ir (ar) skirstyti, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka parduodami energetikos įmonėms, turinčioms teisę verstis atitinkama energetikos veikla, už kainą, nustatomą pagal energetikos objektų vertę, nustatytą vadovaujantis turto ir verslo vertinimą reglamentuojančiais teisės aktais. Parduodamų energetikos objektų vertės nustatymą gali inicijuoti ir energetikos įmonė, jeigu asmenys, patikėjimo teise valdantys valstybei ar savivaldybei nuosavybės teise priklausančius energetikos objektus, sutinka su tuo. Parduodamų energetikos objektų kaina gali būti mažinama atsižvelgiant į objektų nusidėvėjimą per laikotarpį nuo turto vertinimo atlikimo iki sutarties sudarymo, energetikos įmonės patirtų turto vertinimo sąnaudų sumą ar kitus objektyvius vertę mažinančius veiksnius, vertintus turto vertinimo metu ir pasikeitusius po jo atlikimo. Valstybei ar savivaldybei nuosavybės teise priklausantys energetikos objektai perduodami energetikos įmonei po to, kai asmenys, patikėjimo teise valdantys šiuos objektus, sudaro pirkimo–pardavimo sutartį (toliau – sutartis) su energetikos įmone. Sutartyje turi būti nustatytas atlyginimo už perduodamą energetikos objektą būdas, terminai, energetikos objekto naudojimo tikslas. Sutartis sudaroma tik po to, kai energetikos objektų pardavimui ir sutarties projektui pritaria atitinkamai Vyriausybė arba savivaldybės taryba. Teikiant Vyriausybei ar savivaldybės tarybai sutarties projektą dėl pritarimo, pagrindžiama būtinybė parduoti energetikos objektą energetikos įmonei ir kartu pateikiama energetikos objekto turto vertinimo ataskaita. Asmenys, patikėjimo teise valdę valstybei ar savivaldybei nuosavybės teise priklausančius energetikos objektus, už šių objektų pardavimą gautas lėšas, atskaitę parduotų objektų vertės nustatymo paslaugas įsigyjant patirtas išlaidas, atitinkamai perveda į valstybės ar savivaldybės biudžetą. ^4aad2648aaf42acf1d00e10b
 Straipsnio dalies pakeitimai:
 Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-3. Energetikos įmonės Vyriausybės nustatyta tvarka ir sąlygomis Vyriausybės įgaliotai institucijai arba savivaldybės institucijoms pagal kompetenciją teikia informaciją apie naudojamus į apskaitą neįtrauktus energetikos objektus, kurie neturi savininko arba kurių savininkai nežinomi (toliau – bešeimininkiai energetikos objektai). Vyriausybės įgaliota institucija arba savivaldybės institucijos bešeimininkius energetikos objektus Vyriausybės nustatyta tvarka įtraukia į apskaitą ir imasi priemonių šių objektų savininkams nustatyti. Vyriausybės įgaliota institucija arba savivaldybės institucijos pareiškimą dėl bešeimininkio energetikos objekto perdavimo valstybės arba savivaldybės nuosavybėn teismui paduoda suėjus 4 mėnesiams nuo šio objekto įtraukimo į apskaitą dienos. Bešeimininkiai energetikos objektai, kurie teismo sprendimu perduoti valstybės arba savivaldybės nuosavybėn, atitinkamu Vyriausybės ar savivaldybės tarybos sprendimu parduodami, išnuomojami ar kitaip suteikiami naudotis jų teritorijoje veikiančiai energijos perdavimo ar skirstymo įmonei. ^d86c4538ea474019caab65f0
+3. Energetikos įmonės Vyriausybės nustatyta tvarka ir sąlygomis Vyriausybės įgaliotai institucijai arba savivaldybės institucijoms pagal kompetenciją teikia informaciją apie naudojamus į apskaitą neįtrauktus energetikos objektus, kurie neturi savininko arba kurių savininkai nežinomi (toliau – bešeimininkiai energetikos objektai). Vyriausybės įgaliota institucija arba savivaldybės institucijos bešeimininkius energetikos objektus Vyriausybės nustatyta tvarka įtraukia į apskaitą ir imasi priemonių šių objektų savininkams nustatyti. Vyriausybės įgaliota institucija arba savivaldybės institucijos pareiškimą dėl bešeimininkio energetikos objekto perdavimo valstybės arba savivaldybės nuosavybėn teismui paduoda suėjus 4 mėnesiams nuo šio objekto įtraukimo į apskaitą dienos. Bešeimininkiai energetikos objektai, kurie teismo sprendimu perduoti valstybės arba savivaldybės nuosavybėn, atitinkamu Vyriausybės ar savivaldybės tarybos sprendimu parduodami, išnuomojami ar kitaip suteikiami naudotis jų teritorijoje veikiančiai energijos perdavimo ar skirstymo įmonei. ^3d5e7a8332d5d8250fab15ad
 Straipsnio dalies pakeitimai:
 Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
 
 
 
-4. [[#^2b568b5d5e602ae6ac0be95f|Šio straipsnio 3 dalies]] nuostatos netaikomos sąžiningai įgytiems ir teisėtai valdomiems energetikos objektams, nors jų valdytojai įgyjamąja senatimi dar nėra įgiję nuosavybės teisės į šiuos objektus. ^410ea275729f2505ec631bc4
+4. [[#^ecb9a91f916fc0bc9f95c7aa|Šio straipsnio 3 dalies]] nuostatos netaikomos sąžiningai įgytiems ir teisėtai valdomiems energetikos objektams, nors jų valdytojai įgyjamąja senatimi dar nėra įgiję nuosavybės teisės į šiuos objektus. ^5a1348d707514673b982321d
 
 
 
@@ -3319,43 +3338,43 @@ priedas
 
 
 
-1. 1992 m. gegužės 21 d. Tarybos direktyva 92/42/EEB dėl naudingumo koeficiento reikalavimų naujiems karšto vandens katilams, deginantiems skystąjį arba dujinį kurą, su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 2 d. Komisijos reglamentu (ES) Nr. 813/2013. ^58483d06214a47ed512cfcd1
+1. 1992 m. gegužės 21 d. Tarybos direktyva 92/42/EEB dėl naudingumo koeficiento reikalavimų naujiems karšto vandens katilams, deginantiems skystąjį arba dujinį kurą, su paskutiniais pakeitimais, padarytais 2013 m. rugpjūčio 2 d. Komisijos reglamentu (ES) Nr. 813/2013. ^f2cbea5e12e31a8b0f88a183
 
 
-2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/869. ^580fb3de856e3b64c03b963f
+2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/869. ^5f500c5535665ce7fcb4b190
 
 
-3. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1999. ^2b568b5d5e602ae6ac0be95f
+3. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1999. ^ecb9a91f916fc0bc9f95c7aa
 
 
-4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1106. ^8589fa6f37bd06aa5cba8d7d
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1106. ^af17adc11a118b151a10b354
 
 
-5. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711. ^4a49a9e30e4e478c1afc5119
+5. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711. ^0d4d59273eb0f4534b0578c7
 
 
-6. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/942, kuriuo įsteigiama Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2024/1787. ^5e19133780de255d54ea5f24
+6. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/942, kuriuo įsteigiama Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2024/1787. ^7a8b7b7f13905fa9a5ad566d
 
 
-7. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/943 dėl elektros energijos vidaus rinkos su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1747. ^7c300490f03b5cf81566fbba
+7. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/943 dėl elektros energijos vidaus rinkos su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1747. ^59a84e51376d6854a0b32c26
 
 
-8. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711. ^6434b9c8b19b50a991fc6959
+8. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711. ^d8d31e2ab8ea7f5bc8551593
 
 
-9. 2019 m. spalio 1 d. Komisijos reglamentas (ES) 2019/2019, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2009/125/EB nustatomi šaldymo aparatų ekologinio projektavimo reikalavimai ir panaikinamas Komisijos reglamentas (EB) 643/2009, su paskutiniais pakeitimais, padarytais 2021 m. vasario 23 d. Komisijos reglamentu (ES) 2021/341. ^c27a0225aefc897637939c07
+9. 2019 m. spalio 1 d. Komisijos reglamentas (ES) 2019/2019, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2009/125/EB nustatomi šaldymo aparatų ekologinio projektavimo reikalavimai ir panaikinamas Komisijos reglamentas (EB) 643/2009, su paskutiniais pakeitimais, padarytais 2021 m. vasario 23 d. Komisijos reglamentu (ES) 2021/341. ^3d31c83b1fb92aaea6c8aee1
 
 
-10. 2019 m. spalio 1 d. Komisijos reglamentas (ES) 2019/2020, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2009/125/EB nustatomi šviesos šaltinių ir atskirų valdymo įtaisų ekologinio projektavimo reikalavimai ir panaikinami Komisijos reglamentai (EB) Nr. 244/2009, (EB) Nr. 245/2009 ir (ES) Nr. 1194/2012, su paskutiniais pakeitimais, padarytais 2021 m. vasario 23 d. Komisijos reglamentu (ES) 2021/341. ^6ba3674bfe99c4d4643ce6d9
+10. 2019 m. spalio 1 d. Komisijos reglamentas (ES) 2019/2020, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2009/125/EB nustatomi šviesos šaltinių ir atskirų valdymo įtaisų ekologinio projektavimo reikalavimai ir panaikinami Komisijos reglamentai (EB) Nr. 244/2009, (EB) Nr. 245/2009 ir (ES) Nr. 1194/2012, su paskutiniais pakeitimais, padarytais 2021 m. vasario 23 d. Komisijos reglamentu (ES) 2021/341. ^b29b49421efa479c128b56e7
 
 
-11. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/1791 dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas Reglamentas (ES) 2023/955. ^fe6df00d31ca03f40c407449
+11. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/1791 dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas Reglamentas (ES) 2023/955. ^5738876429132e838ba2dd95
 
 
-12. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1789 dėl dujų iš atsinaujinančiųjų išteklių, gamtinių dujų ir vandenilio vidaus rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1227/2011, (ES) 2017/1938, (ES) 2019/942 bei (ES) 2022/869 ir Sprendimas (ES) 2017/684 bei panaikinamas Reglamentas (EB) Nr. 715/2009. ^0d40d43681dec7c00d8f3d7b
+12. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1789 dėl dujų iš atsinaujinančiųjų išteklių, gamtinių dujų ir vandenilio vidaus rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1227/2011, (ES) 2017/1938, (ES) 2019/942 bei (ES) 2022/869 ir Sprendimas (ES) 2017/684 bei panaikinamas Reglamentas (EB) Nr. 715/2009. ^245318d7babba41857bbe467
 
 
-13. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2413, kuria iš dalies keičiami Direktyva (ES) 2018/2001, Reglamentas (ES) 2018/1999 ir Direktyva 98/70/EB, kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva (ES) 2015/652. ^53c950f8036d1d0333a9148d
+13. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2413, kuria iš dalies keičiami Direktyva (ES) 2018/2001, Reglamentas (ES) 2018/1999 ir Direktyva 98/70/EB, kiek tai susiję su skatinimu naudoti atsinaujinančiųjų išteklių energiją, ir panaikinama Tarybos direktyva (ES) 2015/652. ^c91971074aa6f1ab774f8059
 Papildyta punktu:
 Nr. XV-332, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11992
 
@@ -3416,10 +3435,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1888, 2011-12-22, Žin., 2011, Nr. 160-7576 (2011-12-28)
 ENERGETIKOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šis įstatymas, išskyrus [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^ba59fb58b1130d6c44e72675|27 straipsnio 6 dalį]] ir [[#^4a49a9e30e4e478c1afc5119|šio straipsnio 5 dalį]], įsigalioja 2012 m. sausio 1 d.
-Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^ba59fb58b1130d6c44e72675|27 straipsnio 6 dalis]] įsigalioja 2013 m. sausio 9 d.
-Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^252c36638a37294bd4184429|27 straipsnio 5 dalis]] netenka galios 2013 m. liepos 9 d.
-Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^252c36638a37294bd4184429|27 straipsnio 5 dalies]] nuostatos nuo 2013 m. sausio 9 d. taikomos tikrinant visų pastatų, išskyrus viešosios paskirties pastatus, atitiktį nustatytiems energijos vartojimo efektyvumo reikalavimams.
+Šis įstatymas, išskyrus [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^bed3d9ba8bcb4a79f78bc523|27 straipsnio 6 dalį]] ir [[#^0d4d59273eb0f4534b0578c7|šio straipsnio 5 dalį]], įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^bed3d9ba8bcb4a79f78bc523|27 straipsnio 6 dalis]] įsigalioja 2013 m. sausio 9 d.
+Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^a8d0d7f244de2ae473cf56e1|27 straipsnio 5 dalis]] netenka galios 2013 m. liepos 9 d.
+Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^a8d0d7f244de2ae473cf56e1|27 straipsnio 5 dalies]] nuostatos nuo 2013 m. sausio 9 d. taikomos tikrinant visų pastatų, išskyrus viešosios paskirties pastatus, atitiktį nustatytiems energijos vartojimo efektyvumo reikalavimams.
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3431,19 +3450,19 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 ENERGETIKOS ĮSTATYMO 2, 19, [[#23 straipsnis. Leidimai verstis prekyba suskystintomis naftos dujomis|23 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 19(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus 5 straipsnio 4 dalį, įsigalioja 2013 m. liepos 1 d.
-Energetikos įmonių nustatytos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja iki 2013 m. gruodžio 1 d. Centralizuotai suskystintas naftos dujas vartotojams tiekiančioms energetikos įmonėms Lietuvos Respublikos energetikos įstatymo [[#30 straipsnis. Energijos apskaita|30 straipsnio]] 2 ir [[#^2b568b5d5e602ae6ac0be95f|3 dalių]] reikalavimai taikomi nuo 2014 m. liepos 1 d.
+Energetikos įmonių nustatytos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja iki 2013 m. gruodžio 1 d. Centralizuotai suskystintas naftos dujas vartotojams tiekiančioms energetikos įmonėms Lietuvos Respublikos energetikos įstatymo [[#30 straipsnis. Energijos apskaita|30 straipsnio]] 2 ir [[#^ecb9a91f916fc0bc9f95c7aa|3 dalių]] reikalavimai taikomi nuo 2014 m. liepos 1 d.
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-554, 2013-10-15, Žin., 2013, Nr. 111-5490 (2013-10-24)
 ENERGETIKOS ĮSTATYMO [[#29 straipsnis. Energijos išteklių rezervinės atsargos|29 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
-Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^8406af59cb634b67d6f20d12|29 straipsnio 1 dalyje]] nustatytas įpareigojimas energetikos įmonėms, kurios šilumos gamybai naudoja energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti, sudaryti sutartis su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone taikytinas nuo 2014 m. sausio 1 d.
+Šio įstatymo [[#1 straipsnis. Įstatymo paskirtis|1 straipsnyje]] išdėstyto Lietuvos Respublikos energetikos įstatymo [[#^c63d45793b86f85452093d79|29 straipsnio 1 dalyje]] nustatytas įpareigojimas energetikos įmonėms, kurios šilumos gamybai naudoja energijos išteklių rūšis, kurių dėl gamybos šaltinių techninių ypatybių nėra galimybės kaupti ar palaikyti, sudaryti sutartis su kita toje pačioje aprūpinimo šiluma sistemoje veikiančia šilumos gamybos įmone taikytinas nuo 2014 m. sausio 1 d.
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 ENERGETIKOS ĮSTATYMO 2, 8, 26, 34, [[#36 straipsnis. Sankcijos ir jų taikymo tvarka|36 STRAIPSNIŲ]] IR PRIEDO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-Šio įstatymo [[#5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija|5 straipsnyje]] išdėstyta Lietuvos Respublikos energetikos įstatymo [[#^9bbf9f52f52bd2002548868d|36 straipsnio 1 dalies]] nuostata, kad energetikos įmonėms už pažeidimus vykdant reguliuojamąją veiklą, užtikrinant atitiktį teisės aktų nustatytoms reguliuojamosios veiklos sąlygoms, Komisija skiria sankcijas nenumatydama pažeidimų pašalinimo termino, taikoma tik po šio įstatymo įsigaliojimo energetikos įmonių padarytiems pažeidimams.
+Šio įstatymo [[#5 straipsnis. Vyriausybės ar jos įgaliotos institucijos kompetencija|5 straipsnyje]] išdėstyta Lietuvos Respublikos energetikos įstatymo [[#^8ee2daebd1ff607bb5b775ca|36 straipsnio 1 dalies]] nuostata, kad energetikos įmonėms už pažeidimus vykdant reguliuojamąją veiklą, užtikrinant atitiktį teisės aktų nustatytoms reguliuojamosios veiklos sąlygoms, Komisija skiria sankcijas nenumatydama pažeidimų pašalinimo termino, taikoma tik po šio įstatymo įsigaliojimo energetikos įmonių padarytiems pažeidimams.
 
 
 
@@ -3508,7 +3527,7 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 papildymo 30-1 straipsniu 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-997, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01009
-Lietuvos Respublikos energetikos įstatymo Nr. IX-884 [[#33 straipsnis. Ekstremalioji energetikos padėtis|33 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 [[#33 straipsnis. Ekstremalioji situacija energetikos sektoriuje|33 straipsnio]] pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3613,7 +3632,7 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 19-2 ir [[#21 straipsnis. 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
-Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 6, 13 ir [[#33 straipsnis. Ekstremalioji energetikos padėtis|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 6, 13 ir [[#33 straipsnis. Ekstremalioji situacija energetikos sektoriuje|33 straipsnių]] pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3654,3 +3673,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 16-1 ir [[#34 straipsnis. 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-688, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22578
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 22, 23, 24 ir [[#28 straipsnis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas|28 straipsnių]] pakeitimo įstatymas
+
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-1005, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11091
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 8, [[#13 straipsnis. Savivaldybės institucijų kompetencija|13 straipsnių]] ir penktojo skirsnio pakeitimo įstatymas

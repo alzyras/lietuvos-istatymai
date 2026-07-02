@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.1A98CE535B1C.md",
   "latest_revision": "1997-12-10",
-  "latest_sha256": "0a34a46e890b3447ea05a6a5128a386548fa32297fd5192e7d59e7c8ae2e3ef8",
+  "latest_sha256": "01ce0cc9f4a153b1f8a4cba6bd1b3fe4479969595677188e7aa7e3e4acd0fcd5",
   "metadata_path": "latest/TAR.1A98CE535B1C.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos aplinkos monitoringo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

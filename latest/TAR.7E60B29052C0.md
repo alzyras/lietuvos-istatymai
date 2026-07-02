@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-09-07"
 latest_path: "latest/TAR.7E60B29052C0.md"
-latest_sha256: "8f1f203739e2c9498c1ecf231dcd41a75fee36cbfbd7839f6366c4d97b2c49d4"
+latest_sha256: "3b0791040592be1a3834434eb2ea072c52c0f34caf2ac347f01b2b7767404e72"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2025-01-01 iki 2025-12-31
+Suvestinė redakcija nuo 2026-01-01 iki 2026-05-21
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
 
@@ -325,7 +325,7 @@ VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS KOEFICIENTAI
 
  20.
  Lietuvos kultūros tarybos pirmininkas
- 2,4
+ 3,1
 
 
  201.
@@ -354,6 +354,7 @@ Priedo pakeitimai:
 Nr. XIV-2345, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25600
 Nr. XIV-2411, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25929
 Nr. XIV-3040, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18437
+Nr. XV-592, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20535
 
 
 
@@ -771,3 +772,8 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3040, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18437
 Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymo Nr. VIII-1904 [[#2 straipsnis. Įstatymo taikymas|2 straipsnio]] ir priedo pakeitimo įstatymas
+
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-592, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20535
+Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymo Nr. VIII-1904 priedo pakeitimo įstatymas

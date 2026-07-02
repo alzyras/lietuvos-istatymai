@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/32086e9055cf11f0b070ee7f1ceefc75.md",
   "latest_revision": "2026-01-01",
-  "latest_sha256": "b6090e6a556b187c3464e76b772a649a6030f6ea131cab38c857b96b973eacc1",
+  "latest_sha256": "d5adcb562645e52b1324d83b2bac5b9b4e65cce2c2ce195a935307d9f347c32a",
   "metadata_path": "latest/32086e9055cf11f0b070ee7f1ceefc75.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos Valstybinio kelių fondo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:42Z"
 }

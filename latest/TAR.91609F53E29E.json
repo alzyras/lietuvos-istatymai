@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.91609F53E29E.md",
   "latest_revision": "2006-07-01",
-  "latest_sha256": "a3adecb135457821f70300266571ad8f8aaf583ca195e46e2a682b957a00f87c",
+  "latest_sha256": "bee87509cd4b8269486f985eaba45702316c7b126c6ec4e80910f1947dd6e4bd",
   "metadata_path": "latest/TAR.91609F53E29E.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos socialinių paslaugų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.6286F15970B3.md",
   "latest_revision": "1997-01-01",
-  "latest_sha256": "f7a0cbf733d2445157ed7dbb7219942879316e1a35d9fb8880f700bede23a22e",
+  "latest_sha256": "3690cc8ce4d23b140185e6d399cd81e153e417ebea1af9dc5ef176d9748774b7",
   "metadata_path": "latest/TAR.6286F15970B3.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos branduolinės energijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:40Z"
 }

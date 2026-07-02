@@ -11,7 +11,7 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 
 ## Dažniausiai cituojami mazgai
 
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai|589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai]] - incoming: 268
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai|589 straipsnis. Administracinius nusižengimus tiriantys ir protokolus surašantys pareigūnai]] - incoming: 270
 - [[latest/TAR.EBB4FD337ADE#^5f8dd83d1d77992ac7d3ab73|1 str. 2 dalis]] - incoming: 257
 - [[latest/a09f7a8098ef11e58fd1fc0b9bba68a7#^fca8084593e051ef0ec6beb7|1 str. 2 dalis]] - incoming: 171
 - [[latest/a2edb8c0641211eca9ac839120d251c4#^5158b1a8eab74250854ef852|1 str. 2 dalis]] - incoming: 148
@@ -21,11 +21,11 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#507 straipsnis. Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens garbės ir orumo pažeminimas|507 straipsnis. Valstybės politiko, valstybės pareigūno, valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens garbės ir orumo pažeminimas]] - incoming: 90
 - [[latest/TAR.389CB90C666D#3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys|3 straipsnis. A kategorijos ginklai, ginklų priedėliai ir šaudmenys]] - incoming: 78
 - [[latest/caf5cd4048f611e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 73
+- [[latest/TAR.94F6B680E8B8#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnis. Privalomojo sveikatos draudimo įmokos]] - incoming: 72
 - [[latest/7217ebd07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimo įstaigų įstatymo 5 straipsnio pakeitimas]] - incoming: 71
-- [[latest/TAR.94F6B680E8B8#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnis. Privalomojo sveikatos draudimo įmokos]] - incoming: 70
 - [[latest/014ced40a62a11eea5a28c81c82193a8#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]] - incoming: 69
 - [[latest/c2e7f0a07f7d11e8ae2bfd1913d66d57#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo 11 straipsnio pakeitimas]] - incoming: 69
-- [[latest/TAR.6EA8AC8A483B#^1eb0d3c2bc0df2f4cc3d3a85|28 str. 3 dalis]] - incoming: 68
+- [[latest/TAR.6EA8AC8A483B#^709e8b8741934da1b323a03d|28 str. 3 dalis]] - incoming: 68
 - [[latest/TAR.82D8168D3049#^64a60ed331b917fb84059442|37 str. 1 dalis]] - incoming: 67
 - [[latest/TAR.B8B6AFC2BFF1#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]] - incoming: 67
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#43 straipsnis. Žalos atlyginimui taikytinos taisyklės|43 straipsnis. Žalos atlyginimui taikytinos taisyklės]] - incoming: 67
@@ -46,35 +46,39 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/8e34031049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 51
 - [[latest/9197387088f211e8af589337bf1eb893#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 51
 - [[latest/TAR.EDDCB615126E#16 straipsnis. Įstatymo įsigaliojimas ir taikymas|16 straipsnis. Įstatymo įsigaliojimas ir taikymas]] - incoming: 51
+- [[latest/TAR.026F44E06A27#^4b8bbbdce335906832ac7c53|21 str. 1 dalis]] - incoming: 50
 - [[latest/TAR.074B2F6259F9#^c51d6c4bc2f0c92d51e0f853|25 str. 3 dalis]] - incoming: 50
 - [[latest/TAR.94F6B680E8B8#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu]] - incoming: 50
 - [[latest/TAR.EBB4FD337ADE#26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams|26 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymas pertvarkytiniems subjektams]] - incoming: 50
 - [[latest/TAR.F8090E375DA0#26 straipsnis. Ekonominės sankcijos|26 straipsnis. Ekonominės sankcijos]] - incoming: 50
+- [[latest/TAR.6A3C7C36CD07#^e3ccd4c43c2e8dfa374f4b6a|26 str. 1 dalis]] - incoming: 49
 - [[latest/1a9058e049b311e6b5d09300a16a686c#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 48
 - [[latest/422c8b5042b811e6a8ae9e1795984391#25 straipsnis. Darbo rinkoje papildomai remiami asmenys|25 straipsnis. Darbo rinkoje papildomai remiami asmenys]] - incoming: 48
 - [[latest/TAR.1DEDD43B92AE#^50b752fadfc9349ac52d5111|1 str. 2 dalis]] - incoming: 48
-- [[latest/TAR.E2B2957B9182#^0acd67e976b3847ff5a796ba|591 str. 3 dalis]] - incoming: 48
+- [[latest/TAR.ED68997709F5#^da11d55fa03f1b23a4e1a8f4|58 str. 1 dalis]] - incoming: 48
 - [[latest/f79dd2d00c1711edb4cae1b158f98ea5#^cfda019768a1a2568548d99e|21 str. 1 dalis]] - incoming: 48
 - [[latest/TAR.5E8A7FF89480|latest/TAR.5E8A7FF89480.md]] - incoming: 47
 - [[latest/TAR.3EB34933E485#5 straipsnis. Tarptautinių sutarčių viršenybės principas|5 straipsnis. Tarptautinių sutarčių viršenybės principas]] - incoming: 47
 - [[latest/TAR.9D2F66B96EBC#^e3a78148b8052c8b0cf0b224|411 str. 2 dalis]] - incoming: 46
-- [[latest/TAR.ED68997709F5#^5d42e4b67b985b64ae2837d8|58 str. 1 dalis]] - incoming: 46
 - [[latest/TAR.FC7AB69BE291#^366a8fdfbcf7c98e53ce40f4|1 str. 4 dalis]] - incoming: 46
 - [[latest/b5c313d0986d11eb9fecb5ecd3bd711c#16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams|16 straipsnis. Įpareigojimai degalų ir transporto sektoriaus gamtinių dujų tiekėjams]] - incoming: 46
 - [[latest/17780ec0a54311eea5a28c81c82193a8#1 straipsnis. Įstatymo paskirtis ir taikymas|1 straipsnis. Įstatymo paskirtis ir taikymas]] - incoming: 45
 - [[latest/TAR.0F9036415DBD#4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas|4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas]] - incoming: 45
 - [[latest/TAR.D570962773F8#1 straipsnis. Atmintinos dienos|1 straipsnis. Atmintinos dienos]] - incoming: 45
+- [[latest/TAR.ED68997709F5#19 straipsnis. PVM tarifai|19 straipsnis. PVM tarifai]] - incoming: 45
 - [[latest/a2edb8c0641211eca9ac839120d251c4#58 straipsnis. 128 straipsnio pakeitimas|58 straipsnis. 128 straipsnio pakeitimas]] - incoming: 45
 - [[latest/c753b2904dc511ec862fdcbc8b3e3e05#1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas|1 straipsnis. Įstatymo paskirtis, tikslai ir taikymas]] - incoming: 45
 - [[latest/d211d26049e211e8ade598b2394a491d#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 45
 - [[latest/0fab56e0697511eca9ac839120d251c4#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio pakeitimas]] - incoming: 44
 - [[latest/86a0dea0fdf411ec8fa7d02a65c371ad#^f9d0773a64ac191d211d0837|16 str. 9 dalis]] - incoming: 44
+- [[latest/9f51bab0584411f180c9c618618421ed#^2e539ae0290410db70b94408|568 str. 1 dalis]] - incoming: 44
+- [[latest/TAR.B6B636C7384A#^46af56f6e7882897eca025a9|568 str. 1 dalis]] - incoming: 44
 - [[latest/TAR.EBB4FD337ADE#58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas|58 straipsnis. Kapitalo priemonių ir tinkamų įsipareigojimų nurašymas ir konvertavimas]] - incoming: 44
 - [[latest/TAR.FC7AB69BE291#^bd201d2546fc934c2c21430b|49 str. 10 dalis]] - incoming: 44
 - [[latest/ac7ee820cd9811e6a2cac7383cbb90a3#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 2 straipsnio pakeitimas]] - incoming: 44
 - [[latest/bd0c979255c611f0b070ee7f1ceefc75#^d677756d248271aefe936a4d|40 str. 10 dalis]] - incoming: 44
 - [[latest/e233dc307eb511e8ae2bfd1913d66d57#^75353f9fb6b57697292be02c|8 str. 1 dalis]] - incoming: 44
-- [[latest/TAR.ED68997709F5#19 straipsnis. PVM tarifai|19 straipsnis. PVM tarifai]] - incoming: 43
+- [[latest/TAR.D4A66ACB9F97#^093363448b3697fe9807a619|2 str. 1 dalis]] - incoming: 43
 - [[latest/fb63ade00a8611e9a5eaf2cd290f1944#1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas|1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos diplomatinės tarnybos įstatymo 1 straipsnio pakeitimas]] - incoming: 43
 - [[latest/09a371f081df11ed8df094f359a60216#3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas|3 straipsnis. Totalitarinių, autoritarinių režimų ir jų ideologijų propagavimo viešuose objektuose draudimas]] - incoming: 42
 - [[latest/33d53292042311edb32c9f9d8ba206f8#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 42
@@ -84,10 +88,10 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/TAR.39678AC27C78|latest/TAR.39678AC27C78.md]] - incoming: 41
 - [[latest/a2edb8c0641211eca9ac839120d251c4#28 straipsnis. 27 straipsnio pripažinimas netekusiu galios|28 straipsnis. 27 straipsnio pripažinimas netekusiu galios]] - incoming: 41
 - [[latest/30f397c0d8db11eb9f09e7df20500045#^7f9de14f3cbe2b7c04aff344|12 str. 2 dalis]] - incoming: 40
-- [[latest/422c8b5042b811e6a8ae9e1795984391#^17e0d086aae3510e3597331b|41 str. 3 dalis]] - incoming: 40
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^fe12d65e956fdac887a3d6ba|41 str. 3 dalis]] - incoming: 40
 - [[latest/57a83860ace511e78a4c904b1afa0332#^a83fa949b0dcd8ee3081cf36|20 str. 1 dalis]] - incoming: 40
 - [[latest/TAR.068516AF734B#^5e19c793764fdf1a1cee6185|5 str. 2 dalis]] - incoming: 40
-- [[latest/TAR.424F7C72601E#^9caa84be8e8898266ad5b0a7|391 str. 1 dalis]] - incoming: 40
+- [[latest/TAR.424F7C72601E#^ae96b290c49f55b6d27a604e|391 str. 1 dalis]] - incoming: 40
 - [[latest/TAR.7FE50D845019#^2dd0e5be7b6d412c1ac7246c|7 str. 3 dalis]] - incoming: 40
 - [[latest/TAR.D3ED3792F52B#3 straipsnis. Pagrindinės šio įstatymo sąvokos|3 straipsnis. Pagrindinės šio įstatymo sąvokos]] - incoming: 40
 - [[latest/96842d9088f511e8af589337bf1eb893#1 straipsnis. Statuto paskirtis|1 straipsnis. Statuto paskirtis]] - incoming: 39
@@ -97,8 +101,10 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/TAR.EBB4FD337ADE#28 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymo išimtis|28 straipsnis. Minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo taikymo išimtis]] - incoming: 38
 - [[latest/TAR.F4CA26A706AF#^cf1e9ce032f6b7a799edd1a1|35 str. 3 punktas]] - incoming: 38
 - [[latest/TAR.549BF4CABA46|latest/TAR.549BF4CABA46.md]] - incoming: 37
-- [[latest/422c8b5042b811e6a8ae9e1795984391#^1ae1e87a73c63522554068b9|37 str. 13 dalis]] - incoming: 36
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^7d7033ab3a484a713959120f|37 str. 13 dalis]] - incoming: 36
 - [[latest/8e34031049e211e8ade598b2394a491d#5 straipsnis. Mokėjimo įstaigos licencija|5 straipsnis. Mokėjimo įstaigos licencija]] - incoming: 36
+- [[latest/TAR.42837E5A79DD#^3025cfe0821f95b198fe4e68|40 str. 1 dalis]] - incoming: 36
+- [[latest/TAR.6286F15970B3#^e243a655bf6e4230343647eb|50 str. 3 dalis]] - incoming: 36
 - [[latest/TAR.82D8168D3049#11 straipsnis. Viešas konsultavimasis|11 straipsnis. Viešas konsultavimasis]] - incoming: 36
 - [[latest/TAR.D790096B17EE#40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus|40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus]] - incoming: 36
 - [[latest/TAR.E5509883EBB4#^fe2884709df39b82c1ab75fa|6 str. 1 dalis]] - incoming: 36
@@ -117,7 +123,7 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/7dce02600aa711e9a5eaf2cd290f1944#^0c8a56921624fd1e2bc952ea|79 str. 1 dalis]] - incoming: 34
 - [[latest/TAR.065AB8483E1E#^c06b8103e956e98e34a2445e|19 str. 1 dalis]] - incoming: 34
 - [[latest/TAR.2087C46BB049|latest/TAR.2087C46BB049.md]] - incoming: 34
-- [[latest/TAR.3ED3D65F5638#^329cbcb25edec2750caa2eeb|2 str. 2 punktas]] - incoming: 34
+- [[latest/TAR.3ED3D65F5638#^3a5e69cdabe48b2bdcd776c5|2 str. 2 punktas]] - incoming: 34
 - [[latest/TAR.82D8168D3049#17 straipsnis. Įpareigojimų didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams nustatymas|17 straipsnis. Įpareigojimų didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams nustatymas]] - incoming: 34
 - [[latest/TAR.9A3AD08EA5D0#43 straipsnis. Mokyklos veikla|43 straipsnis. Mokyklos veikla]] - incoming: 34
 - [[latest/TAR.9E5C5C16B6E6#34 straipsnis. Ekonominių sankcijų už šio Įstatymo pažeidimus taikymas|34 straipsnis. Ekonominių sankcijų už šio Įstatymo pažeidimus taikymas]] - incoming: 34
@@ -125,9 +131,3 @@ licencija: "https://creativecommons.org/licenses/by/4.0/"
 - [[latest/TAR.EBB4FD337ADE#^a46cbf47eaff6b4e21bfae8e|211 str. 1 dalis]] - incoming: 34
 - [[latest/TAR.EBB4FD337ADE#252 straipsnis. Pertvarkytinų subjektų minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo apskaičiavimas|252 straipsnis. Pertvarkytinų subjektų minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo apskaičiavimas]] - incoming: 34
 - [[latest/TAR.EBB4FD337ADE#^f69098864bd85f3de57ae89b|11 str. 1 dalis]] - incoming: 34
-- [[latest/TAR.ED28779BEADF#^8fac1a9f4aefc6cdbdccbe7a|79 str. 1 dalis]] - incoming: 34
-- [[latest/TAR.FC7AB69BE291#393 straipsnis. Biomasės kuro tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijai|393 straipsnis. Biomasės kuro tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijai]] - incoming: 34
-- [[latest/c753b2904dc511ec862fdcbc8b3e3e05#17 straipsnis. Įpareigojimų didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams nustatymas|17 straipsnis. Įpareigojimų didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams nustatymas]] - incoming: 34
-- [[latest/f6f991a041d111e6a8ae9e1795984391#301 straipsnis. Geležinkelių paslaugų įrenginiai|301 straipsnis. Geležinkelių paslaugų įrenginiai]] - incoming: 34
-- [[latest/0892744006bf11ee9978886e85107ab2#1 straipsnis. Įstatymo paskirtis|1 straipsnis. Įstatymo paskirtis]] - incoming: 33
-- [[latest/6d3310b0037a11edb32c9f9d8ba206f8#^84898df0e4b82010f7f0b3a6|79 str. 2 dalis]] - incoming: 33

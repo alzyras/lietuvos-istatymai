@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "2000-06-02"
 latest_path: "latest/TAR.29EEB33AFCD0.md"
-latest_sha256: "98f68bd3654ddbe7434214f7b00ee8a714cc613f8afbead45ebe7bdd994d0916"
+latest_sha256: "f91be31701f282c8a0f6aed2b9e888ba3ce806e40fb37f64775a3e50ba8ba810"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2025-07-01
+Suvestinė redakcija nuo 2025-07-01 iki 2026-06-29
 
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
 

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.4CF08CA2BA45.md",
   "latest_revision": "2013-03-01",
-  "latest_sha256": "27619acb4bfbc4c9252da2deec2064931135640de01b2d11d3d46764ef672996",
+  "latest_sha256": "11afac07b51488d731b5d500d5cab0545f2dafed8fc32bb187177d04618f99e0",
   "metadata_path": "latest/TAR.4CF08CA2BA45.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos fizinių asmenų bankroto įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

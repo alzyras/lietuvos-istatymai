@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.29EEB33AFCD0.md",
   "latest_revision": "2000-06-02",
-  "latest_sha256": "98f68bd3654ddbe7434214f7b00ee8a714cc613f8afbead45ebe7bdd994d0916",
+  "latest_sha256": "f91be31701f282c8a0f6aed2b9e888ba3ce806e40fb37f64775a3e50ba8ba810",
   "metadata_path": "latest/TAR.29EEB33AFCD0.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos centrinių kredito unijų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:42Z"
 }

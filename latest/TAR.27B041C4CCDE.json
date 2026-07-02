@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.27B041C4CCDE.md",
   "latest_revision": "2008-07-31",
-  "latest_sha256": "b5d91cf00094b08a0dd2e5eba7006d528e647b537a3cec9cdb9747f09113c3f2",
+  "latest_sha256": "d94f5e5a2dffbf17ebd2319b5d969b4b22d664b0ea44407e6673c553e8039bc7",
   "metadata_path": "latest/TAR.27B041C4CCDE.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos mediacijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

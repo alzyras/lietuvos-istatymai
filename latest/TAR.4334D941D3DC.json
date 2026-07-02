@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.4334D941D3DC.md",
   "latest_revision": "2014-01-01",
-  "latest_sha256": "52f042ebffcff38287d028ffb4b154169d7a866bbfad9527720a75683e218b60",
+  "latest_sha256": "e4d3f1e3d75500bb8cbf7a1107676f9f4be226edad222cabf1426991f252a381",
   "metadata_path": "latest/TAR.4334D941D3DC.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos pluoštinių kanapių įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:58:27Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

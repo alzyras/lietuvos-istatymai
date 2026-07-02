@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.3EEE59417F13.md",
   "latest_revision": "2004-01-01",
-  "latest_sha256": "418761b62ac1a0fb81b5ca1313ebf91e6d8b26afd7679f93b685f74824433097",
+  "latest_sha256": "bdbd289167e581f912f1d18a689e4575e25277b9c7227bb22b7b7b1514f41988",
   "metadata_path": "latest/TAR.3EEE59417F13.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

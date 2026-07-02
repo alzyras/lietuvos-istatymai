@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.67B5099C5848.md",
   "latest_revision": "1999-05-01",
-  "latest_sha256": "2eff1136eeba49611e25cf3200dcc94c4663747f6090bfcd8123c91c8ba1935a",
+  "latest_sha256": "40634ee175ed66768b9d7760483c353374e47e4ec22ae00ae05a7774e470a543",
   "metadata_path": "latest/TAR.67B5099C5848.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos administracinių bylų teisenos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:58:27Z"
+  "updated_from_source_at": "2026-07-02T19:25:52Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.C15592B096FA.md",
   "latest_revision": "1998-12-31",
-  "latest_sha256": "25dfaf20bb453db914f5cc4854325b58cc76dd0ff047c4157766edfbe94353fa",
+  "latest_sha256": "4301b04cd0f8b445ccd1c7f72b9300bfb6f78d4721b372ccb0a21c93f87345b2",
   "metadata_path": "latest/TAR.C15592B096FA.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-02T19:26:40Z"
 }

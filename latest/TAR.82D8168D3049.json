@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.82D8168D3049.md",
   "latest_revision": "2004-05-01",
-  "latest_sha256": "2c7db8a631fc56abc6c12d516f0b82839323233d95b110e842c22a748ba120ca",
+  "latest_sha256": "84aae6499a03ed07d0ab925c6d3be6d955952d10c7f1ff5a368aca761abf5a20",
   "metadata_path": "latest/TAR.82D8168D3049.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos elektroninių ryšių įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-20T10:59:27Z"
+  "updated_from_source_at": "2026-07-02T19:26:25Z"
 }

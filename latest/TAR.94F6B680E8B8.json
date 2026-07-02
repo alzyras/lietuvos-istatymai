@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.94F6B680E8B8.md",
   "latest_revision": "1997-01-01",
-  "latest_sha256": "f7149ebc8d2246d99f56934096c0cde1cc9b4c363177b9ec071635ac381dce2a",
+  "latest_sha256": "42275fb767ae1a50f232741bac8cee61d6f2ed5e336dbe198add09c2298f6bb6",
   "metadata_path": "latest/TAR.94F6B680E8B8.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos sveikatos draudimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-02T19:26:44Z"
 }

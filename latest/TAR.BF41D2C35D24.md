@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1995-05-26"
 latest_path: "latest/TAR.BF41D2C35D24.md"
-latest_sha256: "01a74f678745a577b698df838580974ac568851fff858244099d9e95b440ad8c"
+latest_sha256: "be215df9247410ea05551f0bcc44942c7db61fbbbb77edad33aeb3a8383cc312"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos kelių įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2026-06-01
+Suvestinė redakcija nuo 2026-06-01 iki 2026-06-30
 
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
 

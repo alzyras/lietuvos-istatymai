@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.ED68997709F5.md",
   "latest_revision": "2002-07-01",
-  "latest_sha256": "bff91beee719c791f53c5dc1ec60d16c0842b9164fecf8536cf2455bc2ad1e24",
+  "latest_sha256": "9db0f0b1692f29596ff4fce3840bc7f369490cb3a21b887be6dd06d8ea1357bd",
   "metadata_path": "latest/TAR.ED68997709F5.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:55Z"
+  "updated_from_source_at": "2026-07-02T19:26:44Z"
 }

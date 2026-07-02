@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-08"
 latest_path: "latest/TAR.A0BAB27D768C.md"
-latest_sha256: "82f9db47ce8a62469affc390b41563434ef70697654ea3ad4fb7fd2330314e3c"
+latest_sha256: "f787bc69fc9cc50d26740bf4d2f2887ad3e0b2fb41e3b76a5fed8adb3884b9c4"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
@@ -20,7 +20,7 @@ parser_version: "0.1.0"
 
 ## Oficialus tekstas
 
-Suvestinė redakcija nuo 2026-08-01
+Suvestinė redakcija nuo 2027-01-01
 
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
 
@@ -410,7 +410,7 @@ Lietuvos gynybinė galia grindžiama:
 – valstybės atsargomis ir kitais mobilizacinio rezervo ištekliais.
 – šalies mokslo ir studijų institucijų bei įmonių potencialo panaudojimu.
 Lietuvos kariuomenė ir kitos krašto apsaugos institucijos kuriamos ir rengiamos Lietuvos valstybės gynybai ir sąveikai su NATO pajėgomis.
-Valstybės ginkluotąsias pajėgas taikos metu sudaro kariuomenė ir jos aktyvusis kariuomenės personalo rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotąsias pajėgas taip pat sudaro: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba (toliau – Vadovybės apsaugos tarnyba), Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos (toliau – Antrasis operatyvinių tarnybų departamentas) ir Lietuvos šaulių sąjungos koviniai būriai, taip pat Lietuvos Respublikos karo padėties įstatymo nustatyta tvarka ginkluotosioms pajėgoms priskirti koviniai asmenų ir jų organizacijų ginkluoto pasipriešinimo vienetai ir partizanų vienetai, veikiantys okupuotoje Lietuvos valstybės teritorijoje.
+Valstybės ginkluotąsias pajėgas taikos metu sudaro kariuomenė ir jos aktyvusis kariuomenės personalo rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotąsias pajėgas taip pat sudaro: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba, Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos (toliau – Antrasis operatyvinių tarnybų departamentas), Lietuvos šaulių sąjungos koviniai būriai, komendantiniai Lietuvos šaulių sąjungos ginkluoto pasipriešinimo vienetai ir kariniams vienetams priskirti Lietuvos šaulių sąjungos specializuoti vienetai, taip pat Lietuvos Respublikos karo padėties įstatymo nustatyta tvarka ginkluotosioms pajėgoms priskirti koviniai asmenų ir jų organizacijų ginkluoto pasipriešinimo vienetai ir partizanų vienetai, veikiantys okupuotoje Lietuvos valstybės teritorijoje.
 Lietuvos gynybos sistemos pagrindas – visuotinės ir besąlyginės gynybos principas, įgyvendinamas atsižvelgiant į NATO kolektyvinės gynybos principą. Šis principas įtvirtinamas įstatymuose, kituose gynybą reglamentuojančiuose teisės aktuose, kariuomenės bei jos aktyviojo rezervo parengimo gynybai planuose ir kituose dokumentuose. Šiuo principu taip pat grindžiamas piliečių mokymas ir rengimasis gynybai bei pasipriešinimui.
 Visuotiniu piliečių pasirengimu pasipriešinimui ir ginkluotųjų pajėgų pasirengimu besąlygiškai gynybai nuo agresijos, įgyvendinamai individualiai ir kartu su NATO sąjungininkų pajėgomis, Lietuva siekia atgrasinti kiekvieną potencialų užpuoliką.
 Lietuva priešinsis agresoriui visomis jai prieinamomis priemonėmis: karine gynyba ir partizaniniais veiksmais, civilių piliečių nepaklusnumu, nekolaboravimu bei kitais būdais.
@@ -433,6 +433,7 @@ Nr. XII-1284, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15004
 Nr. XIII-2672, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21315
 Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
 Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
+Nr. XV-943, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08549
 
 
 
@@ -1116,4 +1117,9 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-519, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19755
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XV-943, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08549
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas

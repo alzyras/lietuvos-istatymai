@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.5DC1759E42CB.md",
   "latest_revision": "2001-01-01",
-  "latest_sha256": "c03d6de49b58f7c79a643a1b1154f4fc3d4153fe243121a08daef2c081f6a7c1",
+  "latest_sha256": "95a3fd9f2e84338e6b98eb21a1228ff999ccfd8d741ade9ecee4271585900fc0",
   "metadata_path": "latest/TAR.5DC1759E42CB.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:22Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.0120FD7BCFFC.md",
   "latest_revision": "1994-08-05",
-  "latest_sha256": "603bfcf003edc5487197460ec3ed9a93f706a79d6972dc6baf02bf22995a6466",
+  "latest_sha256": "07ab958bfe5400db97f056638519fdce76ce60c00b0536bc20aad3fcd56b8d32",
   "metadata_path": "latest/TAR.0120FD7BCFFC.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:07Z"
 }

@@ -6,7 +6,7 @@ rusis: "Įstatymas"
 busena: "galioja"
 latest_revision: "1997-01-01"
 latest_path: "latest/TAR.94F6B680E8B8.md"
-latest_sha256: "f7149ebc8d2246d99f56934096c0cde1cc9b4c363177b9ec071635ac381dce2a"
+latest_sha256: "42275fb767ae1a50f232741bac8cee61d6f2ed5e336dbe198add09c2298f6bb6"
 parser_version: "0.1.0"
 ---
 # Lietuvos Respublikos sveikatos draudimo įstatymas
@@ -23,7 +23,7 @@ parser_version: "0.1.0"
 Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
-Suvestinė redakcija nuo 2027-01-01
+Suvestinė redakcija nuo 2026-07-01 iki 2026-08-31
 
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
 
@@ -246,15 +246,16 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 1) Lietuvos Respublikos piliečiai ir užsieniečiai, nuolat gyvenantys Lietuvos Respublikoje; ^02503d8b48c99bce9ecd924c
 
 
-2) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai (išskyrus [[#^fe1445ce5b435a757583aec4|šios dalies 5 punkte]] nurodytus asmenis), kurie dirba Lietuvos Respublikoje arba kurie dirbo Lietuvos Respublikoje ne trumpiau kaip 6 mėnesius ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) kaip bedarbiai. ^c57532ba826b704ec21e5dd6
+2) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai (išskyrus [[#^114660adef74f3795ed55f38|šios dalies 5 punkte]] nurodytus asmenis), kurie dirba Lietuvos Respublikoje arba kurie dirbo Lietuvos Respublikoje ne trumpiau kaip 6 mėnesius ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) kaip bedarbiai, taip pat teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju įgiję Lietuvos Respublikoje dirbantys užsieniečiai. ^c83d307c95867f6222c307f2
 Straipsnio punkto pakeitimai:
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
+Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
 
 
 
-21) Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiai ir jų šeimos nariai, kurie iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos buvo įgiję teisę gyventi Lietuvos Respublikoje ir teisėtai gyvena Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“; ^14777bf43c87a60a6a62f68a
+21) Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiai ir jų šeimos nariai, kurie iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos buvo įgiję teisę gyventi Lietuvos Respublikoje ir teisėtai gyvena Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“; ^078e869b13c5290f5cfd73d4
 Papildyta straipsnio punktu:
 Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
 Straipsnio punkto pakeitimai:
@@ -262,28 +263,28 @@ Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
 
 
 
-22) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai, nurodyti [[#^68feee60fc9f2e34dc41742b|6 straipsnio 4 dalies 21 punkte]]; ^f5fadb06e2e4ba288c3a4978
+22) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai, nurodyti [[#^54bb464e74ff7b74d75e15cd|6 straipsnio 4 dalies 21 punkte]]; ^3cd136216e75d5d4c9d89886
 Papildyta straipsnio punktu:
 Nr. XIII-2625, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20566
 
 
 
-3) nelydimi nepilnamečiai užsieniečiai; ^10a103963da8d3bbf8a56a02
+3) nelydimi nepilnamečiai užsieniečiai; ^fecd66bed63d39ff8b2b1ea7
 
 
-4) užsieniečiai, kuriems suteikta papildoma apsauga Lietuvos Respublikoje; ^bbdf5b2f24f61a29e3568805
+4) užsieniečiai, kuriems suteikta papildoma apsauga Lietuvos Respublikoje; ^4ff2280214fd5153243fd436
 
 
-5) asmenys, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas; ^fe1445ce5b435a757583aec4
+5) asmenys, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas; ^114660adef74f3795ed55f38
 
 
-6) perkeliamieji asmenys; ^dfb7c1d5dbaa3d358d0a0a45
+6) perkeliamieji asmenys; ^295b9887470cca0ca0c77895
 Papildyta straipsnio punktu:
 Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 
 
 
-7) užsieniečiai, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje ir kurie yra asmenys iki 18 metų arba asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą senatvės pensiją, netekto darbingumo pensiją ar šalpos neįgalumo pensiją, arba asmenys, gaunantys šalpos kompensaciją, jiems sukakus Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių ar juos pripažinus netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. netekusiais 60 procentų ar daugiau darbingumo), arba senatvės ar negalios pensiją pagal šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktus, arba Lietuvos Respublikos arba šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktų nustatyta tvarka yra pripažinti asmenimis su negalia; ^8fab6edb75f4d56b9e413aff
+7) užsieniečiai, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje ir kurie yra asmenys iki 18 metų arba asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą senatvės pensiją, netekto darbingumo pensiją ar šalpos neįgalumo pensiją, arba asmenys, gaunantys šalpos kompensaciją, jiems sukakus Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių ar juos pripažinus netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. netekusiais 60 procentų ar daugiau darbingumo), arba senatvės ar negalios pensiją pagal šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktus, arba Lietuvos Respublikos arba šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktų nustatyta tvarka yra pripažinti asmenimis su negalia; ^9a0d3a4d37483b78bbe907b3
 Papildyta straipsnio punktu:
 Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 Straipsnio punkto pakeitimai:
@@ -291,23 +292,23 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-8) asmenų, nurodytų šios dalies 1 ir [[#^c57532ba826b704ec21e5dd6|2 punktuose]], sutuoktiniai arba asmenys, su kuriais yra sudaryta registruotos partnerystės sutartis, ir (arba) nepilnamečiai jų šeimos nariai, turintys leidimą laikinai gyventi Lietuvos Respublikoje arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę, patvirtinančią jo teisę laikinai gyventi Lietuvos Respublikoje. ^4565e9e67223528375528683
+8) asmenų, nurodytų šios dalies 1 ir [[#^c83d307c95867f6222c307f2|2 punktuose]], sutuoktiniai arba asmenys, su kuriais yra sudaryta registruotos partnerystės sutartis, ir (arba) nepilnamečiai jų šeimos nariai, turintys leidimą laikinai gyventi Lietuvos Respublikoje arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę, patvirtinančią jo teisę laikinai gyventi Lietuvos Respublikoje. ^0e60e31a6d2c6adb64595676
 Papildyta straipsnio punktu:
 Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
 
 
 
-2. Lietuvos Respublikos piliečiai, nuolat ar laikinai gyvenantys šalyse, su kuriomis Lietuvos Respublika yra sudariusi tarptautines sutartis dėl privalomojo sveikatos draudimo, ir šių šalių piliečiai, nuolat ar laikinai gyvenantys Lietuvos Respublikoje, draudžiami privalomuoju sveikatos draudimu šių sutarčių nustatyta tvarka. ^ef22b396f6248b37d1cf9319
+2. Lietuvos Respublikos piliečiai, nuolat ar laikinai gyvenantys šalyse, su kuriomis Lietuvos Respublika yra sudariusi tarptautines sutartis dėl privalomojo sveikatos draudimo, ir šių šalių piliečiai, nuolat ar laikinai gyvenantys Lietuvos Respublikoje, draudžiami privalomuoju sveikatos draudimu šių sutarčių nustatyta tvarka. ^8d4331bfc83c080079906260
 
 
-3. Apdraustaisiais privalomuoju sveikatos draudimu (toliau – apdraustieji) laikomi: ^022de384edc58f281596f156
+3. Apdraustaisiais privalomuoju sveikatos draudimu (toliau – apdraustieji) laikomi: ^c019e478736f5830f9ebfe64
 
 
-1) šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2–11 dalyse nurodyti asmenys (išskyrus draudėjus), kurių privalomasis sveikatos draudimas galioja šio Įstatymo [[#8 straipsnis. Privalomojo sveikatos draudimo galiojimas|8 straipsnio]] 1, 2 ir 21 dalyse nustatyta tvarka; ^f708c7ebabf911d04a9f18c4
+1) šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2–11 dalyse nurodyti asmenys (išskyrus draudėjus), kurių privalomasis sveikatos draudimas galioja šio Įstatymo [[#8 straipsnis. Privalomojo sveikatos draudimo galiojimas|8 straipsnio]] 1, 2 ir 21 dalyse nustatyta tvarka; ^b6418db709d0bfde373d6fbf
 
 
-2) [[#^294114ae4af9dc123bd84839|šio straipsnio 4 dalyje]] nurodyti valstybės lėšomis draudžiami asmenys, kurių privalomasis sveikatos draudimas galioja šio Įstatymo [[#^f545080e499332ea61179093|8 straipsnio 3 dalyje]] nustatyta tvarka. ^0e79b0e21cbdd38eb006bad1
-TAR pastaba. [[#^022de384edc58f281596f156|3 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
+2) [[#^f42825d3b04c9e819f915b04|šio straipsnio 4 dalyje]] nurodyti valstybės lėšomis draudžiami asmenys, kurių privalomasis sveikatos draudimas galioja šio Įstatymo [[#^f545080e499332ea61179093|8 straipsnio 3 dalyje]] nustatyta tvarka. ^36365372d788cfb0bfb09bc8
+TAR pastaba. [[#^c019e478736f5830f9ebfe64|3 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
 
 
 Straipsnio dalies pakeitimai:
@@ -316,36 +317,36 @@ Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 
 
-4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti privalomojo sveikatos draudimo įmokas arba už kuriuos šios įmokos yra mokamos pagal šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 1–7 ir 9 dalis), laikomi: ^294114ae4af9dc123bd84839
+4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti privalomojo sveikatos draudimo įmokas arba už kuriuos šios įmokos yra mokamos pagal šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 1–7 ir 9 dalis), laikomi: ^f42825d3b04c9e819f915b04
 
 
-1) asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą bet kurios rūšies pensiją ar šalpos kompensaciją; ^aa27034a70785fa0fe939c77
+1) asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą bet kurios rūšies pensiją ar šalpos kompensaciją; ^9dbbc90b0c67dd60909add70
 
 
-2) Užimtumo tarnyboje įsiregistravę bedarbiai, darbo rinkai besirengiantys asmenys ir asmenys, dalyvaujantys Užimtumo tarnybos organizuojamose paramos mokymuisi priemonėse, jeigu su jais nesudaromos darbo sutartys; ^283246f74e444273b8895a69
+2) Užimtumo tarnyboje įsiregistravę bedarbiai, darbo rinkai besirengiantys asmenys ir asmenys, dalyvaujantys Užimtumo tarnybos organizuojamose paramos mokymuisi priemonėse, jeigu su jais nesudaromos darbo sutartys; ^62b86f488e0c01cf7e4afd12
 Straipsnio punkto pakeitimai:
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 Nr. XIV-1107, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11865
 
 
 
-3) nedirbantys darbingo amžiaus asmenys, turintys įstatymų nustatytą būtinąjį pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti arba turintys iki 2017 m. gruodžio 31 d. įgytą ne mažesnį kaip 30 metų pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti; ^5b1e4e1908c2fc4f669ae6f9
+3) nedirbantys darbingo amžiaus asmenys, turintys įstatymų nustatytą būtinąjį pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti arba turintys iki 2017 m. gruodžio 31 d. įgytą ne mažesnį kaip 30 metų pensijų socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti; ^fc80ca5807bba09344ac6346
 Straipsnio punkto pakeitimai:
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 
 
-4) moterys, kurioms įstatymų nustatyta tvarka suteiktos nėštumo ir gimdymo atostogos, ir nedirbančios moterys nėštumo laikotarpiu 70 dienų (suėjus 28 nėštumo savaitėms ir daugiau) iki gimdymo ir 56 dienas po gimdymo; ^e36b7ae4f89b995ea02e624d
+4) moterys, kurioms įstatymų nustatyta tvarka suteiktos nėštumo ir gimdymo atostogos, ir nedirbančios moterys nėštumo laikotarpiu 70 dienų (suėjus 28 nėštumo savaitėms ir daugiau) iki gimdymo ir 56 dienas po gimdymo; ^400e93d005dcc0c4089ac81e
 
 
-5) vienas iš tėvų (įtėvių), auginantis vaiką iki 8 metų, vienas iš globėjų, šeimoje globojantis vaiką iki 8 metų, taip pat vienas iš tėvų (įtėvių), auginantis du ir daugiau nepilnamečių vaikų, vienas iš globėjų (rūpintojų), šeimoje globojantis (besirūpinantis) du (dviem) ir daugiau nepilnamečių vaikų; ^101d6dd8d8a999571c0c63cb
+5) vienas iš tėvų (įtėvių), auginantis vaiką iki 8 metų, vienas iš globėjų, šeimoje globojantis vaiką iki 8 metų, taip pat vienas iš tėvų (įtėvių), auginantis du ir daugiau nepilnamečių vaikų, vienas iš globėjų (rūpintojų), šeimoje globojantis (besirūpinantis) du (dviem) ir daugiau nepilnamečių vaikų; ^6832f09ab51812426e43d393
 
 
-6) asmenys iki 18 metų; ^8be92cf86625cefa3f6f61c5
+6) asmenys iki 18 metų; ^a2b0474a2fe73043edb51c46
 
 
-7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, asmenys, studijuojantys Europos Sąjungos valstybių narių (taip pat Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu studijos buvo pradėtos iki pereinamojo laikotarpio pabaigos) aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai (įskaitant pilnamečius asmenis), kurie mokosi Lietuvos Respublikos ir  Europos Sąjungos valstybių narių (taip pat ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu mokymasis buvo pradėtas iki pereinamojo laikotarpio pabaigos) mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir (ar) formaliojo profesinio mokymo programas; ^3cbec55762b7e10f9184cd32
+7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, asmenys, studijuojantys Europos Sąjungos valstybių narių (taip pat Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu studijos buvo pradėtos iki pereinamojo laikotarpio pabaigos) aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai (įskaitant pilnamečius asmenis), kurie mokosi Lietuvos Respublikos ir  Europos Sąjungos valstybių narių (taip pat ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu mokymasis buvo pradėtas iki pereinamojo laikotarpio pabaigos) mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir (ar) formaliojo profesinio mokymo programas; ^239dc18e5289187c389e9859
 Straipsnio punkto pakeitimai:
 Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
 Nr. XIV-167, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01180
@@ -353,10 +354,10 @@ Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
 
 
 
-8) nepasiturintys gyventojai, gaunantys socialinę pašalpą; ^0898446b5b5924a1e25d997e
+8) nepasiturintys gyventojai, gaunantys socialinę pašalpą; ^6889b42d20488bd7c6edbf3d
 
 
-9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, slaugantys ar nuolat prižiūrintys namuose vaiką, kuriam nustatytas neįgalumo lygis, arba vienas iš tėvų (įtėvių), globėjas ar rūpintojas, aprūpintojas, slaugantys ar nuolat prižiūrintys namuose (teikiantys pagalbą namuose) asmenį su negalia, kuriam nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis (iki 2023 m. gruodžio 31 d. specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis). Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugantiems namuose asmenį, kuriam iki 2005 m. birželio 30 d. nustatyta visiška negalia; ^8af1e4bdf78b30c679310a50
+9) vienas iš tėvų (įtėvių), globėjas ar rūpintojas, slaugantys ar nuolat prižiūrintys namuose vaiką, kuriam nustatytas neįgalumo lygis, arba vienas iš tėvų (įtėvių), globėjas ar rūpintojas, aprūpintojas, slaugantys ar nuolat prižiūrintys namuose (teikiantys pagalbą namuose) asmenį su negalia, kuriam nustatytas individualios pagalbos teikimo išlaidų kompensacijos poreikis (iki 2023 m. gruodžio 31 d. specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis). Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugantiems namuose asmenį, kuriam iki 2005 m. birželio 30 d. nustatyta visiška negalia; ^3ed347b07a35b4b0eecce3f2
 Straipsnio punkto pakeitimai:
 Nr. XIV-1367, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15462
 Nr. XIV-1437, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20332
@@ -364,64 +365,64 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 
 
 
-10) asmenys su negalia; ^f161ab768d00834e877e1fa9
+10) asmenys su negalia; ^7a5f6484b502c0498d8c41a1
 Straipsnio punkto pakeitimai:
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 
 
 
-11) asmenys, sergantys visuomenei pavojingomis užkrečiamosiomis ligomis, kurios yra įtrauktos į sveikatos apsaugos ministro patvirtintą sąrašą; ^d750387d989650c4c828870f
+11) asmenys, sergantys visuomenei pavojingomis užkrečiamosiomis ligomis, kurios yra įtrauktos į sveikatos apsaugos ministro patvirtintą sąrašą; ^7ff33c5c58124dc07208dcc1
 
 
-12) pasipriešinimo (rezistencijos) dalyviai – kariai savanoriai, laisvės kovų dalyviai; reabilituoti politiniai kaliniai ir jiems prilyginti asmenys, tremtiniai ir jiems prilyginti asmenys, taip pat asmenys, nukentėję 1991 m. sausio 13-osios ar kituose įvykiuose gindami Lietuvos nepriklausomybę ir valstybingumą; ^dbb7e86483657334f51900ec
+12) pasipriešinimo (rezistencijos) dalyviai – kariai savanoriai, laisvės kovų dalyviai; reabilituoti politiniai kaliniai ir jiems prilyginti asmenys, tremtiniai ir jiems prilyginti asmenys, taip pat asmenys, nukentėję 1991 m. sausio 13-osios ar kituose įvykiuose gindami Lietuvos nepriklausomybę ir valstybingumą; ^471d350e244b2e12e4da8971
 
 
-13) asmenys, prisidėję prie Černobylio atominės elektrinės avarijos padarinių likvidavimo; ^98a70bae3337b6ad87e632a1
+13) asmenys, prisidėję prie Černobylio atominės elektrinės avarijos padarinių likvidavimo; ^0ff8d1fd132312d44e93b7d1
 
 
-14) buvę geto ir buvę mažamečiai fašistinių prievartinio įkalinimo vietų kaliniai; ^5942b0f2b9750be265021ad5
+14) buvę geto ir buvę mažamečiai fašistinių prievartinio įkalinimo vietų kaliniai; ^4a7912ca8331ed1679c0e16a
 
 
-15) valstybės pripažįstamų tradicinių religinių bendrijų dvasininkai, dvasininkų rengimo mokyklų studentai ir vienuolijų noviciatuose atliekantys vienuolinę formaciją naujokai; ^7b7f20af844b5b8fb5176ce8
+15) valstybės pripažįstamų tradicinių religinių bendrijų dvasininkai, dvasininkų rengimo mokyklų studentai ir vienuolijų noviciatuose atliekantys vienuolinę formaciją naujokai; ^33ccd37a6a4ced2fb5d0ac24
 
 
-16) asmenys, kuriems įstatymų nustatyta tvarka yra pripažintas Afganistano karo dalyvių teisinis statusas; ^b232aa419c2929b406c81355
+16) asmenys, kuriems įstatymų nustatyta tvarka yra pripažintas Afganistano karo dalyvių teisinis statusas; ^95ba50245205f60533b826cd
 
 
-17) nelydimi nepilnamečiai užsieniečiai; ^bca4c416f132c919d2aefaf2
+17) nelydimi nepilnamečiai užsieniečiai; ^b94491f28c85cfdc328ca9b0
 
 
-18) nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu; ^8179b0f814c22061c68560f4
+18) nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu; ^9cce4ac8c2a5f25b78e75c06
 
 
-19) asmenys, atliekantys savanorišką praktiką Užimtumo įstatymo nustatyta tvarka; ^4baa81227f24ff3c42eb6833
+19) asmenys, atliekantys savanorišką praktiką Užimtumo įstatymo nustatyta tvarka; ^3e1b9eac51b4442d527e1b90
 
 
-20) perkeliamieji asmenys. ^6dd1ef53d4ab2fd7b79359ae
+20) perkeliamieji asmenys. ^68a761961f366efe47e76e32
 Papildyta straipsnio punktu:
 Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 
 
 
-21) Lietuvos Respublikoje nuolat ar laikinai gyvenantys asmenys, kurie gauna bet kurios rūšies pensiją pagal Lietuvos Respublikos tarptautines sutartis ir kuriems Lietuvos Respublikos teisės aktų, reglamentuojančių sveikatos draudimą, taikymas numatytas šiose tarptautinėse sutartyse. ^68feee60fc9f2e34dc41742b
+21) Lietuvos Respublikoje nuolat ar laikinai gyvenantys asmenys, kurie gauna bet kurios rūšies pensiją pagal Lietuvos Respublikos tarptautines sutartis ir kuriems Lietuvos Respublikos teisės aktų, reglamentuojančių sveikatos draudimą, taikymas numatytas šiose tarptautinėse sutartyse. ^54bb464e74ff7b74d75e15cd
 Papildyta straipsnio punktu:
 Nr. XIII-2625, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20566
 
 
 
-22) suimtieji ir nuteistieji, atliekantys arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes; ^1854454383547671e946cee2
+22) suimtieji ir nuteistieji, atliekantys arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes; ^ed2a637f7e00a932b762ef22
 Papildyta straipsnio punktu:
 Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
 
 
 
-23) [[#^8fab6edb75f4d56b9e413aff|šio straipsnio 1 dalies 7 punkte]] nurodyti asmenys; ^1bc0b95a3db6d3997a557883
+23) [[#^9a0d3a4d37483b78bbe907b3|šio straipsnio 1 dalies 7 punkte]] nurodyti asmenys; ^05f3cb4fa4e9664e6696dbfa
 Papildyta straipsnio punktu:
 Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 
 
 
-24) Lietuvos Respublikos privalomosios pradinės karo tarnybos kariai ir privalomosios karo tarnybos kariai, paskelbus mobilizaciją pašaukti į karinius mokymus įgyti pagrindinio karinio parengtumo. ^891a2284b14a386e09aba4bb
+24) Lietuvos Respublikos privalomosios pradinės karo tarnybos kariai ir privalomosios karo tarnybos kariai, paskelbus mobilizaciją pašaukti į karinius mokymus įgyti pagrindinio karinio parengtumo. ^40fd9077517bf7d96b6f1f07
 Papildyta straipsnio punktu:
 Nr. XV-354, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12015
 
@@ -432,31 +433,42 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-5. Valstybės biudžeto lėšomis apmokama [[#^bce94b7c08878ae05d828b2b|šio straipsnio 1 dalyje]] nenurodytų: ^33523120dd1c21122227723f
+5. Valstybės biudžeto lėšomis apmokama [[#^bce94b7c08878ae05d828b2b|šio straipsnio 1 dalyje]] nenurodytų: ^816dd9803a3a5bdd09f9c2ff
 
 
-1) Lietuvos Respublikos privalomosios pradinės karo tarnybos karių ir privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, sveikatos priežiūra; ^39a6191e379bb87dd6f63f46
+1) Lietuvos Respublikos privalomosios pradinės karo tarnybos karių ir privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, sveikatos priežiūra; ^fa39665d33082ecb5d6b7a44
 
 
-2) baudžiamojo įstatymo uždraustą veiką padariusių asmenų, kuriems teismo nutartimi paskirtos priverčiamosios medicinos priemonės, ir asmenų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes Lietuvos Respublikoje, sveikatos priežiūra; ^f0d8c03c8be59c66e593867e
+2) baudžiamojo įstatymo uždraustą veiką padariusių asmenų, kuriems teismo nutartimi paskirtos priverčiamosios medicinos priemonės, ir asmenų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes Lietuvos Respublikoje, sveikatos priežiūra; ^752499cbe15e25228f8eb574
 
 
-3) užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, ir užsieniečių, turinčių teisę gauti laikinąją apsaugą, iki sprendimo dėl laikinosios apsaugos suteikimo (nesuteikimo) priėmimo, tačiau ne ilgiau kaip laikinosios apsaugos laikotarpiu būtinoji medicinos pagalba ir kitos būtinos asmens sveikatos priežiūros paslaugos, kurių nesuteikus paciento sveikatos būklė galėtų pablogėti tiek, kad jam prireiktų skubiosios medicinos pagalbos paslaugų (toliau – būtinosios paslaugos); ^0fc8e8b30436e8b2dd5893ae
+3) užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, ir užsieniečių, turinčių teisę gauti laikinąją apsaugą, iki sprendimo dėl laikinosios apsaugos suteikimo (nesuteikimo) priėmimo, tačiau ne ilgiau kaip laikinosios apsaugos laikotarpiu būtinoji medicinos pagalba ir kitos būtinos asmens sveikatos priežiūros paslaugos, kurių nesuteikus paciento sveikatos būklė galėtų pablogėti tiek, kad jam prireiktų skubiosios medicinos pagalbos paslaugų (toliau – būtinosios paslaugos); ^6c29310f5c2d4372ad50aa77
 Straipsnio punkto pakeitimai:
 Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 
 
 
-4) užsieniečių, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 8 punkte nurodytu pagrindu suteiktas leidimas laikinai gyventi Lietuvos Respublikoje, būtinoji medicinos pagalba ir būtinosios paslaugos; ^eae3582c700d4c96cc897d75
+4) užsieniečių, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 8 punkte nurodytu pagrindu suteiktas leidimas laikinai gyventi Lietuvos Respublikoje, būtinoji medicinos pagalba ir būtinosios paslaugos; ^f5c1206091215aa930f979a6
 
 
-5) nelegaliai Lietuvos Respublikos sieną kirtusių užsieniečių būtinoji medicinos pagalba ir būtinosios paslaugos; ^dd7eec78d78ae0637107401e
+5) nelegaliai Lietuvos Respublikos sieną kirtusių užsieniečių būtinoji medicinos pagalba ir būtinosios paslaugos; ^89984a2aa1a9adfa44946bf7
 
 
-6) užsieniečių, gyvenančių užsienio šalyje, kurioje vyksta ginkluotas konfliktas, dėl kurio Lietuvos Respublikoje paskelbta nepaprastoji padėtis ar ekstremalioji situacija, ir pasitraukusių iš šios užsienio šalies į Lietuvos Respubliką, būtinoji medicinos pagalba ir būtinosios paslaugos; ^31e76c2d5ec8b6a13e62db81
+6) užsieniečių, gyvenančių užsienio šalyje, kurioje vyksta ginkluotas konfliktas, dėl kurio Lietuvos Respublikoje paskelbta nepaprastoji padėtis ar ekstremalioji situacija, ir pasitraukusių iš šios užsienio šalies į Lietuvos Respubliką, būtinoji medicinos pagalba ir būtinosios paslaugos; ^35b80302832433547bdf5f1c
 
 
-7) šios dalies 3–[[#^31e76c2d5ec8b6a13e62db81|6 punktuose]] nurodytų užsieniečių vaikų iki 18 metų būtinoji medicinos pagalba, būtinosios paslaugos, skiepijimas pagal Nacionalinę imunoprofilaktikos programą ir profilaktiniai sveikatos tikrinimai. ^01e171f9fd8d3bca144be8b3
+7) užsieniečių, kurie įgijo teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 3–[[#^89984a2aa1a9adfa44946bf7|5 punktuose]] nurodytais atvejais, būtinoji medicinos pagalba ir būtinosios paslaugos; ^7f7ff4bc0a92b4d046e8c086
+Papildyta straipsnio punktu:
+Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
+
+
+
+8) šios dalies 3–[[#^7f7ff4bc0a92b4d046e8c086|7 punktuose]] nurodytų užsieniečių vaikų iki 18 metų būtinoji medicinos pagalba, būtinosios paslaugos, skiepijimas pagal Nacionalinę imunoprofilaktikos programą ir profilaktiniai sveikatos tikrinimai. ^783ca32cd7930b4c35c912d9
+Straipsnio punkto pakeitimai:
+Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
+
 
 
 Straipsnio dalies pakeitimai:
@@ -467,7 +479,7 @@ Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
 
 
 
-6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis [[#^294114ae4af9dc123bd84839|šio straipsnio 4 dalyje]] nurodytų asmenų privalomajam sveikatos draudimui ir [[#^33523120dd1c21122227723f|šio straipsnio 5 dalyje]] nurodytų asmenų sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos teisingumo ministro, krašto apsaugos ministro ar vidaus reikalų ministro valdymo srities sveikatos priežiūros įstaigose. ^85c5007783e669e6f2722cdd
+6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis [[#^f42825d3b04c9e819f915b04|šio straipsnio 4 dalyje]] nurodytų asmenų privalomajam sveikatos draudimui ir [[#^816dd9803a3a5bdd09f9c2ff|šio straipsnio 5 dalyje]] nurodytų asmenų sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos teisingumo ministro, krašto apsaugos ministro ar vidaus reikalų ministro valdymo srities sveikatos priežiūros įstaigose. ^149b9fa347ad5c75ee65c05f
 Straipsnio dalies pakeitimai:
 Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
 Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
@@ -497,52 +509,40 @@ Nr. XII-1001, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10432
 ### 7 straipsnis. Draudžiamųjų privalomuoju sveikatos draudimu registras
 
 
-1. Draudžiamųjų privalomuoju sveikatos draudimu registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja yra Valstybinė ligonių kasa. ^259f93b42e83a8e8ece5c535
+1. Draudžiamųjų privalomuoju sveikatos draudimu registrą steigia ir jo nuostatus tvirtina Vyriausybė. ^b0259f147e79fa6d2548d472
 
 
-2. Draudžiamųjų privalomuoju sveikatos draudimu registras yra šio registro informacinėje sistemoje tvarkomas duomenų apie registro objektus – privalomuoju sveikatos draudimu draudžiamus asmenis, nurodytus šio Įstatymo [[#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnio]] 1 ir [[#^200a0da9faeee833da075e58|2 dalyse]], taip pat valstybės biudžeto lėšomis apmokamą būtinąją medicinos pagalbą, būtinąsias paslaugas ir kitą sveikatos priežiūrą gaunančius asmenis, nurodytus šio Įstatymo [[#^33523120dd1c21122227723f|6 straipsnio 5 dalyje]] – rinkinys. Draudžiamųjų privalomuoju sveikatos draudimu registro informacinėje sistemoje (toliau – Registro informacinė sistema) tvarkomi registro objektus identifikuojančių duomenų rinkiniai, taip pat duomenų apie įregistravimo į Draudžiamųjų privalomuoju sveikatos draudimu registrą ir išregistravimo pagrindus, privalomojo sveikatos draudimo galiojimą ir laikotarpius, kuriais valstybės biudžeto lėšomis apmokama būtinoji medicinos pagalba, būtinosios paslaugos ir kita sveikatos priežiūra, rinkiniai. Konkretūs Registro informacinėje sistemoje tvarkomų duomenų rinkinius sudarantys duomenys yra nustatomi Registro informacinės sistemos nuostatuose. Registro informacinės sistemos objektai registruojami neatlygintinai. ^200a0da9faeee833da075e58
+2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo [[#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnio]] 1 ir [[#^bf547d90459343961a220fd7|2 dalyse]], taip pat valstybės biudžeto lėšomis apmokamą būtinąją medicinos pagalbą, būtinąsias paslaugas ir kitą sveikatos priežiūrą gaunantys asmenys, nurodyti šio Įstatymo [[#^816dd9803a3a5bdd09f9c2ff|6 straipsnio 5 dalyje]]. ^bf547d90459343961a220fd7
 
 
-3. Registro informacinės sistemos duomenys tvarkomi siekiant identifikuoti Registro informacinės sistemos objektus, nustatyti jiems privalomojo sveikatos draudimo laikotarpius ir laikotarpius, kuriais valstybės biudžeto lėšomis apmokama būtinoji medicinos pagalba, būtinosios paslaugos ir kita sveikatos priežiūra, teikti aktualią informaciją privalomojo sveikatos draudimo įmokų administravimo įstaigoms ir kitiems duomenų gavėjams, turintiems teisę ją gauti, atlikti kitus duomenų tvarkymo veiksmus. ^aa313af975103f030f7d1dab
-
-
-4. Registro informacinės sistemos nuostatuose nurodyti duomenų teikėjai Valstybinei ligonių kasai teikia Registro informacinės sistemos nuostatuose nurodytus duomenis šiuose nuostatuose nustatyta tvarka. ^37bb6f23dfd7569c0e7eda74
-
-
-5. Registro informacinės sistemos duomenys nėra vieši. Registro informacinės sistemos duomenys teikiami laikantis Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo [[#^0b9dce71c9b823537344e11f|28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo [[#3 straipsnis. Sveikatos draudimo rūšys|3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^872be25b6d28efdf89ece05a
-
-
-6. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo nuostatomis arba kitu teisėtu pagrindu, nustatytu Reglamente (ES) 2016/679 arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenis teikti pakartotinai naudoti galima tik kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal Reglamento (ES) 2016/679 [[#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnį]], o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento [[#^0845477e97ab5afc96d24f5a|9 straipsnio 2 dalyje]] nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka Reglamento (ES) 2016/679 [[#5 straipsnis. Privalomojo sveikatos draudimo draudiminiai įvykiai|5 straipsnyje]] nustatytus duomenų tvarkymo principus. ^73e5e66512a309734dc5e73b
-
-
-7. Registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti. ^9b732a295df8930b59ec3795
+3. Draudžiamųjų privalomuoju sveikatos draudimu registras tvarkomas ir jo duomenys teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu), Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymu, šio registro nuostatais ir kitais teisės aktais, reglamentuojančiais registrų tvarkymą ir duomenų teikimą. ^afd1f873582a63cb55b1da11
 
 
 Straipsnio pakeitimai:
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
-Nr. XV-603, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20815
 
 
 
 ### 8 straipsnis. Privalomojo sveikatos draudimo galiojimas
 
 
-1. Asmenų, nurodytų šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3 ir 9 dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią atsirado pagrindas mokėti privalomojo sveikatos draudimo įmokas (nuo šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3 ir 9 dalyse nurodyto statuso įgijimo dienos), ir galioja iki šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3 ir 9 dalyse nurodyto statuso netekimo dienos. Asmenų, nurodytų šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse, privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią buvo pradėtos mokėti privalomojo sveikatos draudimo įmokos, ir galioja iki mėnesio, buvusio prieš tą mėnesį, kurį privalomojo sveikatos draudimo įmokos nebuvo sumokėtos, paskutinės dienos. Asmenų, nurodytų šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 7 ir 10 dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja tą kalendorinį mėnesį, kurį sumokamos privalomojo sveikatos draudimo įmokos, o draudėjui neįvykdžius pareigos sumokėti už juos privalomojo sveikatos draudimo įmokų, šie asmenys laikomi apdraustaisiais tą mėnesį, kurį įmokos už juos privalėjo būti sumokėtos. ^94257ee2265a95f3e511356a
+1. Asmenų, nurodytų šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3 ir 9 dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią atsirado pagrindas mokėti privalomojo sveikatos draudimo įmokas (nuo šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3 ir 9 dalyse nurodyto statuso įgijimo dienos), ir galioja iki šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3 ir 9 dalyse nurodyto statuso netekimo dienos. Asmenų, nurodytų šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse, privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią buvo pradėtos mokėti privalomojo sveikatos draudimo įmokos, ir galioja iki mėnesio, buvusio prieš tą mėnesį, kurį privalomojo sveikatos draudimo įmokos nebuvo sumokėtos, paskutinės dienos. Asmenų, nurodytų šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 7 ir 10 dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja tą kalendorinį mėnesį, kurį sumokamos privalomojo sveikatos draudimo įmokos, o draudėjui neįvykdžius pareigos sumokėti už juos privalomojo sveikatos draudimo įmokų, šie asmenys laikomi apdraustaisiais tą mėnesį, kurį įmokos už juos privalėjo būti sumokėtos. ^2788c89ab824c64b362b378b
 Straipsnio dalies pakeitimai:
 Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-2.  Kai už šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse nurodytus asmenis privalomojo sveikatos draudimo įmokos nesumokamos, jų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią jie ar jų draudėjai sumoka visas nesumokėtas šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nustatyto dydžio privalomojo sveikatos draudimo įmokas, bet ne daugiau kaip už 5 metus. Nuostata, kad šioje dalyje nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie: ^ca84efdfc9d08a53517263fc
+2.  Kai už šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse nurodytus asmenis privalomojo sveikatos draudimo įmokos nesumokamos, jų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią jie ar jų draudėjai sumoka visas nesumokėtas šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nustatyto dydžio privalomojo sveikatos draudimo įmokas, bet ne daugiau kaip už 5 metus. Nuostata, kad šioje dalyje nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie: ^a6aafc10e49724bd36278935
 
 
-1) tuo pačiu metu yra apdrausti privalomuoju sveikatos draudimu kaip kitos kategorijos asmenys ir jų privalomasis sveikatos draudimas galioja; ^9a60b4d5550b367b8b4e7d7b
+1) tuo pačiu metu yra apdrausti privalomuoju sveikatos draudimu kaip kitos kategorijos asmenys ir jų privalomasis sveikatos draudimas galioja; ^177bc1bdaed30e3a7cca4295
 
 
-2) buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų užsienio valstybių institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad išvykimo laikotarpiu jie buvo apdrausti valstybiniu socialiniu draudimu kitoje šalyje arba buvo suimti ir (arba) nuteisti užsienyje, arba atliko arešto ar terminuoto laisvės atėmimo bausmę užsienyje, arba kompetentingų Ukrainos institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad asmuo išvykimo laikotarpiu teikė savanorišką pagalbą Ukrainai kovojant su karine agresija, o Valstybinė ligonių kasa patvirtina, kad išvykimo laikotarpiu jie negavo asmens sveikatos priežiūros paslaugų, kompensuojamų Privalomojo sveikatos draudimo fondo biudžeto lėšomis. ^354b11f24380e35ce1fc7e81
+2) buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų užsienio valstybių institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad išvykimo laikotarpiu jie buvo apdrausti valstybiniu socialiniu draudimu kitoje šalyje arba buvo suimti ir (arba) nuteisti užsienyje, arba atliko arešto ar terminuoto laisvės atėmimo bausmę užsienyje, arba kompetentingų Ukrainos institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad asmuo išvykimo laikotarpiu teikė savanorišką pagalbą Ukrainai kovojant su karine agresija, o Valstybinė ligonių kasa patvirtina, kad išvykimo laikotarpiu jie negavo asmens sveikatos priežiūros paslaugų, kompensuojamų Privalomojo sveikatos draudimo fondo biudžeto lėšomis. ^2766dd4727949c861cf764a9
 Straipsnio punkto pakeitimai:
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
+TAR pastaba. Nuostata, numatanti, kad Sveikatos draudimo įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų Ukrainos institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad asmuo išvykimo laikotarpiu teikė savanorišką pagalbą Ukrainai kovojant su karine agresija, taikoma iki karo Ukrainoje pabaigos Sveikatos draudimo įstatymo [[#^a6aafc10e49724bd36278935|8 straipsnio 2 dalies]] pirmajame sakinyje nurodytiems asmenims, kurie į Ukrainą išvyko 2022 m. vasario 24 d. ar vėliau.
 Nr. XV-824, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06395
 
 
@@ -554,24 +554,24 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-21. Asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino Lietuvos Respublikos teritorijoje metu turi teisę privalomojo sveikatos draudimo įmokų nemokėti. Šie asmenys Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu nesumokėtas privalomojo sveikatos draudimo įmokas sumoka šio Įstatymo [[#^b331f39f029987c204b4bd99|18 straipsnio 7 dalyje]] nustatyta tvarka. ^841be81cb3e25b051b5d7869
+21. Asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino Lietuvos Respublikos teritorijoje metu turi teisę privalomojo sveikatos draudimo įmokų nemokėti. Šie asmenys Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu nesumokėtas privalomojo sveikatos draudimo įmokas sumoka šio Įstatymo [[#^ba8b8f02fc17f0d9613b96f2|18 straipsnio 7 dalyje]] nustatyta tvarka. ^841be81cb3e25b051b5d7869
 TAR pastaba. [[#^841be81cb3e25b051b5d7869|21 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
 Papildyta straipsnio dalimi:
 Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 
 
-3. Asmenys, nurodyti šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]], apdraustaisiais laikomi nuo šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]] nurodyto statuso įgijimo dienos iki jo netekimo dienos. ^f545080e499332ea61179093
+3. Asmenys, nurodyti šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]], apdraustaisiais laikomi nuo šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]] nurodyto statuso įgijimo dienos iki jo netekimo dienos. ^f545080e499332ea61179093
 
 
-4. Asmenys, nurodyti šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]] ir [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2–11 dalyse (išskyrus draudėjus), šio Įstatymo 9–[[#12 straipsnis. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimas iš Privalomojo sveikatos draudimo fondo biudžeto|12 straipsniuose]] nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai nustoja galioti privalomasis sveikatos draudimas pagal šio Įstatymo [[#8 straipsnis. Privalomojo sveikatos draudimo galiojimas|8 straipsnio]] 1 ir [[#^f545080e499332ea61179093|3 dalis]]. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nustatyto dydžio įmokas. ^ec9ff579e9080d82a71c5c44
+4. Asmenys, nurodyti šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]] ir [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2–11 dalyse (išskyrus draudėjus), šio Įstatymo 9–[[#12 straipsnis. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimas iš Privalomojo sveikatos draudimo fondo biudžeto|12 straipsniuose]] nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai nustoja galioti privalomasis sveikatos draudimas pagal šio Įstatymo [[#8 straipsnis. Privalomojo sveikatos draudimo galiojimas|8 straipsnio]] 1 ir [[#^f545080e499332ea61179093|3 dalis]]. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nustatyto dydžio įmokas. ^ec9ff579e9080d82a71c5c44
 Straipsnio dalies pakeitimai:
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 Nr. XIV-1144, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13883
 
 
 
-5. Asmenys, nelaikomi apdraustaisiais privalomuoju sveikatos draudimu pagal šio Įstatymo [[#^022de384edc58f281596f156|6 straipsnio 3 dalį]], patys moka asmens sveikatos priežiūros įstaigai už jiems suteiktas asmens sveikatos priežiūros paslaugas (išskyrus valstybės biudžeto lėšomis apmokamas nuolatiniams Lietuvos Respublikos gyventojams suteiktas būtinosios medicinos pagalbos paslaugas ir būtinąsias paslaugas). ^570c4c98271fd412e77a65d1
+5. Asmenys, nelaikomi apdraustaisiais privalomuoju sveikatos draudimu pagal šio Įstatymo [[#^c019e478736f5830f9ebfe64|6 straipsnio 3 dalį]], patys moka asmens sveikatos priežiūros įstaigai už jiems suteiktas asmens sveikatos priežiūros paslaugas (išskyrus valstybės biudžeto lėšomis apmokamas nuolatiniams Lietuvos Respublikos gyventojams suteiktas būtinosios medicinos pagalbos paslaugas ir būtinąsias paslaugas). ^570c4c98271fd412e77a65d1
 Straipsnio dalies pakeitimai:
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
@@ -892,7 +892,7 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 ### 11 straipsnis. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų apmokėjimas asmens sveikatos priežiūros įstaigoms
 
 
-1. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų bazines kainas ir šių paslaugų apmokėjimo asmens sveikatos priežiūros įstaigoms tvarką nustato sveikatos apsaugos ministras. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų bazines kainas apskaičiuoja Valstybinė ligonių kasa pagal šio Įstatymo [[#^8898c9b1e9e61a0f20925cf4|25 straipsnio 2 dalyje]] nurodytą Asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, bazinių kainų nustatymo metodiką. ^b9197d88efca14d548a73c50
+1. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų bazines kainas ir šių paslaugų apmokėjimo asmens sveikatos priežiūros įstaigoms tvarką nustato sveikatos apsaugos ministras. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų bazines kainas apskaičiuoja Valstybinė ligonių kasa pagal šio Įstatymo [[#^8223c37181391f000692bed6|25 straipsnio 2 dalyje]] nurodytą Asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, bazinių kainų nustatymo metodiką. ^b9197d88efca14d548a73c50
 Straipsnio dalies pakeitimai:
 Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
 
@@ -1101,7 +1101,7 @@ b) [[#^e092e7504173fbb979c88197|šio straipsnio 2 dalyje]] nurodytais atvejais;
 2) apmoka išlaidas kompensacijoms kraujo donorams mokėti ir neatlygintinai kraujo donorystei propaguoti; ^58324486cc434373036303a2
 
 
-3) apmoka šio Įstatymo [[#^33523120dd1c21122227723f|6 straipsnio 5 dalyje]] nurodytos sveikatos priežiūros išlaidas; ^117d9a546e4677616df8688b
+3) apmoka šio Įstatymo [[#^816dd9803a3a5bdd09f9c2ff|6 straipsnio 5 dalyje]] nurodytos sveikatos priežiūros išlaidas; ^117d9a546e4677616df8688b
 
 
 4) apmoka šio Įstatymo [[#^570c4c98271fd412e77a65d1|8 straipsnio 5 dalyje]] nurodytos sveikatos priežiūros išlaidas; ^7db651f7565c67c89ef79c8b
@@ -1125,7 +1125,7 @@ b) [[#^e092e7504173fbb979c88197|šio straipsnio 2 dalyje]] nurodytais atvejais;
 9. Jeigu einamaisiais metais valstybės biudžeto asignavimų, skirtų [[#^9888e6236f5fad18bf5a599f|šio straipsnio 5 dalyje]] nurodytoms valstybės deleguotoms funkcijoms finansuoti, neužtenka, siekiant užtikrinti jų nenutrūkstamą atlikimą iki einamųjų metų pabaigos, laikinai gali būti skiriamos Privalomojo sveikatos draudimo fondo biudžeto einamųjų metų viršplaninės pajamos [[#^171836f4cd1ac408b80debda|šio straipsnio 4 dalyje]] nustatyta tvarka arba Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos šio Įstatymo [[#23 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšų naudojimas ir investavimas|23 straipsnyje]] nustatyta tvarka. Ne vėliau kaip per 2 metus (pasibaigus biudžetiniams metams, kuriais buvo panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos) šiuo tikslu panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos atkuriamos valstybės biudžeto lėšomis. ^863c5d58c864489edd966ae7
 
 
-10. Valstybinei ligonių kasai iš [[#^c3342a0b6a526016e6455e94|šio straipsnio 6 dalyje]] nurodytų valstybės biudžeto lėšų mokamos Valstybinės ligonių kasos veiklos sąnaudų, susidarančių atliekant [[#^9888e6236f5fad18bf5a599f|šio straipsnio 5 dalyje]] nurodytas valstybės deleguotas funkcijas, kompensacijos. Šių kompensacijų dydžio apskaičiavimo ir kompensacijų mokėjimo tvarką nustato sveikatos apsaugos ministras, suderinęs su finansų ministru. Šioje dalyje nurodytos kompensacijos laikomos [[#^8778fbbe4dae839bed43b456|šio straipsnio 1 dalies 3 punkte]] nurodytomis pajamomis ir naudojamos šio Įstatymo [[#^020cbcc98acfa318791c11a5|21 straipsnio 1 dalies 4 punkte]] nurodytoms išlaidoms apmokėti. ^747accb37c4ae86ce2a6912c
+10. Valstybinei ligonių kasai iš [[#^c3342a0b6a526016e6455e94|šio straipsnio 6 dalyje]] nurodytų valstybės biudžeto lėšų mokamos Valstybinės ligonių kasos veiklos sąnaudų, susidarančių atliekant [[#^9888e6236f5fad18bf5a599f|šio straipsnio 5 dalyje]] nurodytas valstybės deleguotas funkcijas, kompensacijos. Šių kompensacijų dydžio apskaičiavimo ir kompensacijų mokėjimo tvarką nustato sveikatos apsaugos ministras, suderinęs su finansų ministru. Šioje dalyje nurodytos kompensacijos laikomos [[#^8778fbbe4dae839bed43b456|šio straipsnio 1 dalies 3 punkte]] nurodytomis pajamomis ir naudojamos šio Įstatymo [[#^aeaedd367433f1792b301281|21 straipsnio 1 dalies 4 punkte]] nurodytoms išlaidoms apmokėti. ^747accb37c4ae86ce2a6912c
 
 
 11. Privalomojo sveikatos draudimo fondo biudžetui padaryta žala pripažįstama mažareikšme ir neišieškoma, jeigu jos išieškojimo išlaidos yra didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką ir mažareikšmės žalos dydį nustato sveikatos apsaugos ministras ar jo įgaliota institucija. ^26d5ddd876ca47fe212aa4f5
@@ -1144,17 +1144,16 @@ biudžetą
 1. Seimas, kiekvienais metais tvirtindamas valstybės biudžetą, Vyriausybės teikimu tvirtina į Privalomojo sveikatos draudimo fondo biudžetą pervedamos  įmokos vienam apdraustajam, draudžiamam valstybės lėšomis, dydį. ^2ce52d506ecfb696cbe1f117
 
 
-2. [[#^2ce52d506ecfb696cbe1f117|Šio straipsnio 1 dalyje]] nustatytos įmokos už vieną apdraustąjį, draudžiamą valstybės lėšomis, dydis 2027 metais – 50 procentų užpraeitų metų vidutinės metinės vieno dirbančio asmens privalomojo sveikatos draudimo įmokos dydžio, o nuo 2028 metų šios įmokos dydis kiekvienais metais didinamas 5 procentiniais punktais, kol sudarys 75 procentus užpraeitų metų vidutinės metinės vieno dirbančio asmens privalomojo sveikatos draudimo įmokos dydžio. ^278b8fc9e01e96bd5255cca5
+2. [[#^2ce52d506ecfb696cbe1f117|Šio straipsnio 1 dalyje]] nustatytos įmokos už vieną apdraustąjį, draudžiamą valstybės lėšomis, dydis nuo 2026 metų sudaro ne mažiau kaip 6,98 procento užpraeitų metų 12 minimaliųjų mėnesinių algų dydžio. ^e30e3e21da340eac91c570b3
 Straipsnio dalies pakeitimai:
 Nr. XII-2187, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20891
 Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 Nr. XV-653, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22527
-Nr. XV-739, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00070
 
 
 
-3. Valstybės biudžeto bendros pinigų sumos į Privalomojo sveikatos draudimo fondo biudžetą už apdraustuosius valstybės lėšomis pervedamos teisės aktų nustatyta tvarka. ^1ddcf7a8cc60c51e570fadbb
+3. Valstybės biudžeto bendros pinigų sumos į Privalomojo sveikatos draudimo fondo biudžetą už apdraustuosius valstybės lėšomis pervedamos teisės aktų nustatyta tvarka. ^a7ee0d30a9c5fa5947aa538f
 
 
 Straipsnio pakeitimai:
@@ -1169,62 +1168,62 @@ Nr. XI-1961, 2012-04-12, Žin., 2012, Nr. 48-2330 (2012-04-24)
 ### 17 straipsnis. Privalomojo sveikatos draudimo įmokos
 
 
-1. Asmenų, nurodytų [[#^b683d7160abfc4d39969a07d|šio straipsnio 2 dalyje]], privalomojo sveikatos draudimo įmokas apskaičiuoja ir sumoka draudėjai Valstybinio socialinio draudimo įstatymo nustatyta tvarka. ^e830453f93a6db3499b1f14e
+1. Asmenų, nurodytų [[#^6a7c54b768e4eaea24a1c140|šio straipsnio 2 dalyje]], privalomojo sveikatos draudimo įmokas apskaičiuoja ir sumoka draudėjai Valstybinio socialinio draudimo įstatymo nustatyta tvarka. ^64f83fd1fd6cd7febedad784
 
 
-2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo [[#4 straipsnis. Privalomojo sveikatos draudimo sistemos valstybinio valdymo subjektai|4 straipsnio]] 1–[[#^6a140ae495828e7df114e355|5 dalyse]], ir 4 straipsnio 6 dalyje nurodyti asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^b683d7160abfc4d39969a07d
+2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo [[#4 straipsnis. Privalomojo sveikatos draudimo sistemos valstybinio valdymo subjektai|4 straipsnio]] 1–[[#^afc7fcd3af10c1f021e8af62|5 dalyse]], ir 4 straipsnio 6 dalyje nurodyti asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^6a7c54b768e4eaea24a1c140
 Straipsnio dalies pakeitimai:
 Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
 
 
 
-3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]], šio straipsnio 2 ir 4–[[#^8d8274497e5fb891175ebcfb|10 dalyse]], privalomojo sveikatos draudimo įmokas sumoka tam tikrų metų biudžeto patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Už sportininkus, pagal Lietuvos Respublikos sporto įstatymą gaunančius valstybės stipendiją, neturinčius draudžiamųjų pajamų ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]], šio straipsnio 2 ir 4–[[#^8d8274497e5fb891175ebcfb|10 dalyse]], privalomojo sveikatos draudimo įmokas sumoka valstybės sporto politiką įgyvendinanti institucija iš atitinkamai programai skiriamų lėšų šios programos finansavimą reglamentuojančių teisės aktų nustatyta tvarka. Šių įmokų dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną. ^4d5c4897e06504266f52acd8
+3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]], šio straipsnio 2 ir 4–[[#^bb0ad0a00b4caa5825c088be|10 dalyse]], privalomojo sveikatos draudimo įmokas sumoka tam tikrų metų biudžeto patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Už sportininkus, pagal Lietuvos Respublikos sporto įstatymą gaunančius valstybės stipendiją, neturinčius draudžiamųjų pajamų ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]], šio straipsnio 2 ir 4–[[#^bb0ad0a00b4caa5825c088be|10 dalyse]], privalomojo sveikatos draudimo įmokas sumoka valstybės sporto politiką įgyvendinanti institucija iš atitinkamai programai skiriamų lėšų šios programos finansavimą reglamentuojančių teisės aktų nustatyta tvarka. Šių įmokų dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną. ^45e1e6a8a1842abae883173b
 Straipsnio dalies pakeitimai:
 Nr. XIV-1174, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13890
 Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
 
 
 
-4. 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos socialinio draudimo įmokos, moka asmenys, kurie verčiasi: ^9c0fe8b2b086eeb6f09c9d8d
+4. 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos socialinio draudimo įmokos, moka asmenys, kurie verčiasi: ^a7823f736f761db0dda1a780
 
 
-1) individualia ne žemės ūkio veikla (išskyrus [[#^6a140ae495828e7df114e355|šio straipsnio 5 dalyje]] nurodytus asmenis); ^c6cb3bfb59aa15ddbcc205a8
+1) individualia ne žemės ūkio veikla (išskyrus [[#^afc7fcd3af10c1f021e8af62|šio straipsnio 5 dalyje]] nurodytus asmenis); ^cd6181c75c4f93923da48fb7
 
 
-2) individualia žemės ūkio veikla ir yra pridėtinės vertės mokesčio mokėtojai (išskyrus [[#^2bd4aea0805c01f1dfab94a4|šio straipsnio 8 dalyje]] nurodytus asmenis). ^7626cb8cbf00fabb9a16d2ec
+2) individualia žemės ūkio veikla ir yra pridėtinės vertės mokesčio mokėtojai (išskyrus [[#^19fb9e0a6036b665c030925e|šio straipsnio 8 dalyje]] nurodytus asmenis). ^c8c67b5b572c3f93e0389df3
 
 
-5. Asmenys, kurie, vykdydami individualią veiklą, gyventojų pajamų mokestį nuo individualios veiklos pajamų sumoka įsigydami verslo liudijimus, kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Asmenų, nurodytų šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]], [[#^b683d7160abfc4d39969a07d|šio straipsnio 2 dalyje]], įmokos apskaičiuojamos proporcingai išduoto verslo liudijimo galiojimo laikotarpiui. ^6a140ae495828e7df114e355
+5. Asmenys, kurie, vykdydami individualią veiklą, gyventojų pajamų mokestį nuo individualios veiklos pajamų sumoka įsigydami verslo liudijimus, kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Asmenų, nurodytų šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]], [[#^6a7c54b768e4eaea24a1c140|šio straipsnio 2 dalyje]], įmokos apskaičiuojamos proporcingai išduoto verslo liudijimo galiojimo laikotarpiui. ^afc7fcd3af10c1f021e8af62
 
 
-6. Draudėjai (individualios įmonės, ūkinės bendrijos ir mažosios bendrijos) už individualių įmonių savininkus, ūkinių bendrijų tikruosius narius ir mažųjų bendrijų narius moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos jų socialinio draudimo įmokos. Tais atvejais, kai draudėjai laikinai nevykdo veiklos ir apie tai yra informavę Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos jos nustatyta tvarka arba turintys likviduojamos ar bankrutuojančios įmonės statusą, individualių įmonių savininkai, ūkinių bendrijų tikrieji nariai ir mažųjų bendrijų nariai, jeigu jie nepriskiriami asmenims, išvardytiems šio straipsnio 2–5 ir 7–[[#^8d8274497e5fb891175ebcfb|10 dalyse]] bei šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]], kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^9d43cfb06efcbf2b40f043d5
+6. Draudėjai (individualios įmonės, ūkinės bendrijos ir mažosios bendrijos) už individualių įmonių savininkus, ūkinių bendrijų tikruosius narius ir mažųjų bendrijų narius moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos jų socialinio draudimo įmokos. Tais atvejais, kai draudėjai laikinai nevykdo veiklos ir apie tai yra informavę Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos jos nustatyta tvarka arba turintys likviduojamos ar bankrutuojančios įmonės statusą, individualių įmonių savininkai, ūkinių bendrijų tikrieji nariai ir mažųjų bendrijų nariai, jeigu jie nepriskiriami asmenims, išvardytiems šio straipsnio 2–5 ir 7–[[#^bb0ad0a00b4caa5825c088be|10 dalyse]] bei šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]], kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^63b67a1851be5ea760a31a46
 
 
-7. Mažųjų bendrijų vadovai, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^e871fd25a6c54f9514d2e5a2
+7. Mažųjų bendrijų vadovai, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^7a80b74afe55eff5222838d3
 
 
-8. Asmenys, kurie nepriskiriami šio straipsnio 2, [[#^4d5c4897e06504266f52acd8|3 dalyse]], 4 dalies 1 punkte ir 5, 6, 7, 9 ir [[#^8d8274497e5fb891175ebcfb|10 dalyse]] bei šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]] išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 2,33 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^2bd4aea0805c01f1dfab94a4
+8. Asmenys, kurie nepriskiriami šio straipsnio 2, [[#^45e1e6a8a1842abae883173b|3 dalyse]], 4 dalies 1 punkte ir 5, 6, 7, 9 ir [[#^bb0ad0a00b4caa5825c088be|10 dalyse]] bei šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]] išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 2,33 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^19fb9e0a6036b665c030925e
 Straipsnio dalies pakeitimai:
 Nr. XIV-1303, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15630
 
 
 
-9. Asmenys, gaunantys Valstybinio socialinio draudimo fondo lėšomis pagal Ligos ir motinystės socialinio draudimo įstatymą mokamas išmokas, iš kurių Gyventojų pajamų mokesčio įstatymo nustatyta tvarka turi būti išskaitomas gyventojų pajamų mokestis, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas. ^eac65b28779cc039b9a84699
+9. Asmenys, gaunantys Valstybinio socialinio draudimo fondo lėšomis pagal Ligos ir motinystės socialinio draudimo įstatymą mokamas išmokas, iš kurių Gyventojų pajamų mokesčio įstatymo nustatyta tvarka turi būti išskaitomas gyventojų pajamų mokestis, nuo šių pajamų moka 6 procentų dydžio privalomojo sveikatos draudimo įmokas. ^c3ba2533e239a2a240df822f
 
 
-10. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, sumoka už paslaugų teikėjus 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo atlygio sumos, priskaičiuotos paslaugų teikėjui už suteiktas paslaugas. ^8d8274497e5fb891175ebcfb
+10. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, sumoka už paslaugų teikėjus 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo atlygio sumos, priskaičiuotos paslaugų teikėjui už suteiktas paslaugas. ^bb0ad0a00b4caa5825c088be
 
 
-11. Asmenys, nepriskiriami šio straipsnio 2–[[#^8d8274497e5fb891175ebcfb|10 dalyse]] ir šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]] išvardytiems asmenims, kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^d6a2631088b50714ef57552d
+11. Asmenys, nepriskiriami šio straipsnio 2–[[#^bb0ad0a00b4caa5825c088be|10 dalyse]] ir šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]] išvardytiems asmenims, kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^a3749414568e6619b5c36e14
 
 
-12. Asmenų, išskyrus asmenis, išvardytus šio straipsnio 2 ir [[#^2bd4aea0805c01f1dfab94a4|8 dalyse]] bei šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 6,98 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. Asmenų, išvardytų [[#^2bd4aea0805c01f1dfab94a4|šio straipsnio 8 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 2,33 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. ^f6de9ec12562d5a137978870
+12. Asmenų, išskyrus asmenis, išvardytus šio straipsnio 2 ir [[#^19fb9e0a6036b665c030925e|8 dalyse]] bei šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 6,98 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. Asmenų, išvardytų [[#^19fb9e0a6036b665c030925e|šio straipsnio 8 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 2,33 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. ^9421f71017004264c38451eb
 
 
-13. Asmenų, nurodytų [[#^9c0fe8b2b086eeb6f09c9d8d|šio straipsnio 4 dalyje]], metinė privalomojo sveikatos draudimo įmoka skaičiuojama nuo individualios veiklos pajamų sumos, ne didesnės negu numatyta Valstybinio socialinio draudimo įstatymo [[#^ec9be0e6728d67130589f7fb|10 straipsnio 5 dalyje]]. ^082bc655a808d7a350a4a71a
+13. Asmenų, nurodytų [[#^a7823f736f761db0dda1a780|šio straipsnio 4 dalyje]], metinė privalomojo sveikatos draudimo įmoka skaičiuojama nuo individualios veiklos pajamų sumos, ne didesnės negu numatyta Valstybinio socialinio draudimo įstatymo [[#^ec9be0e6728d67130589f7fb|10 straipsnio 5 dalyje]]. ^1f1b8e7027cea1950c017606
 
 
-14. Jeigu [[#^b683d7160abfc4d39969a07d|šio straipsnio 2 dalyje]] nurodytiems asmenims nėra apskaičiuota per kalendorinį mėnesį gautų pajamų, nuo kurių skaičiuojamos privalomojo sveikatos draudimo įmokos, ir šie asmenys nepriskiriami šio straipsnio 3–[[#^8d8274497e5fb891175ebcfb|10 dalyse]] ir šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]] išvardytiems asmenims, iki kitų metų gegužės 1 d. už tą kalendorinį mėnesį, kurį pajamų neturėjo, jie privalo sumokėti 6,98 procento Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^b9a263d08f1d2384daf3d8f2
+14. Jeigu [[#^6a7c54b768e4eaea24a1c140|šio straipsnio 2 dalyje]] nurodytiems asmenims nėra apskaičiuota per kalendorinį mėnesį gautų pajamų, nuo kurių skaičiuojamos privalomojo sveikatos draudimo įmokos, ir šie asmenys nepriskiriami šio straipsnio 3–[[#^bb0ad0a00b4caa5825c088be|10 dalyse]] ir šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]] išvardytiems asmenims, iki kitų metų gegužės 1 d. už tą kalendorinį mėnesį, kurį pajamų neturėjo, jie privalo sumokėti 6,98 procento Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^85dd107463fb473a2993fa67
 Papildyta straipsnio dalimi:
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
@@ -1240,35 +1239,35 @@ Nr. XIII-1724, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20978
 ### 18 straipsnis. Privalomojo sveikatos draudimo įmokų administravimo ir mokėjimo tvarka
 
 
-1. Šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytas privalomojo sveikatos draudimo įmokas administruoja, o šio Įstatymo [[#^eac65b28779cc039b9a84699|17 straipsnio 9 dalyje]] nurodytu atveju jas išskaito Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka. Surinktos (išskaitytos) įmokos ir su jomis susijusios šio Įstatymo [[#^5b1297be90f76db4c243cec8|19 straipsnio 1 dalyje]] nurodytos sumos per tris dienas nuo jų surinkimo (išskaitymo) dienos pervedamos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytų įmokų ir Privalomojo sveikatos draudimo fondo biudžeto lėšomis finansuojamų asmens sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką. ^52ce408b0ce8092fd777a282
+1. Šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytas privalomojo sveikatos draudimo įmokas administruoja, o šio Įstatymo [[#^c3ba2533e239a2a240df822f|17 straipsnio 9 dalyje]] nurodytu atveju jas išskaito Valstybinio socialinio draudimo fondo administravimo įstaigos Valstybinio socialinio draudimo įstatymo nustatyta tvarka. Surinktos (išskaitytos) įmokos ir su jomis susijusios šio Įstatymo [[#^1319a5683fb46d94d67641b1|19 straipsnio 1 dalyje]] nurodytos sumos per tris dienas nuo jų surinkimo (išskaitymo) dienos pervedamos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą. Valstybinio socialinio draudimo fondo administravimo įstaigos turi teikti Valstybinei ligonių kasai reikiamą informaciją apie atskirų juridinių ir fizinių asmenų sumokėtas šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytas privalomojo sveikatos draudimo įmokas. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos atsiskaitymus su Privalomojo sveikatos draudimo fondo biudžetu gali vykdyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytų įmokų ir Privalomojo sveikatos draudimo fondo biudžeto lėšomis finansuojamų asmens sveikatos priežiūros įstaigų socialinio draudimo įmokų tarpusavio įskaitymais. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius nustato privalomojo sveikatos draudimo įmokų deklaravimo atvejus ir tvarką. ^c8746df5b25140e88cf93ca6
 Straipsnio dalies pakeitimai:
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 
 
 
-2. Šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytos įmokos mokamos Valstybinio socialinio draudimo įstatymo nustatyta tvarka tiek, kiek ši tvarka tiesiogiai nereglamentuota šiame Įstatyme. ^3a7f29ef2bfe14ed977f42a8
+2. Šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytos įmokos mokamos Valstybinio socialinio draudimo įstatymo nustatyta tvarka tiek, kiek ši tvarka tiesiogiai nereglamentuota šiame Įstatyme. ^c16c7deffd52050e0aa27b4e
 
 
-3. Asmenys, nurodyti šio Įstatymo [[#^9c0fe8b2b086eeb6f09c9d8d|17 straipsnio 4 dalyje]], kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. Asmenys, nurodyti šio Įstatymo [[#^9c0fe8b2b086eeb6f09c9d8d|17 straipsnio 4 dalyje]], gali įmokų kas mėnesį nemokėti, jeigu jie moka ir (arba) už juos yra mokamos šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3, 5, 6, 7, 9 ir 10 dalyse nurodytos privalomojo sveikatos draudimo įmokos arba jeigu jie yra asmenys, išvardyti šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]], – tokie asmenys įmokas sumoka [[#^92c51cf9024da9c9d4c8c674|šio straipsnio 4 dalyje]] nustatyta tvarka. ^96acbaf9fe4221c57a3af01f
+3. Asmenys, nurodyti šio Įstatymo [[#^a7823f736f761db0dda1a780|17 straipsnio 4 dalyje]], kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. Asmenys, nurodyti šio Įstatymo [[#^a7823f736f761db0dda1a780|17 straipsnio 4 dalyje]], gali įmokų kas mėnesį nemokėti, jeigu jie moka ir (arba) už juos yra mokamos šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 2, 3, 5, 6, 7, 9 ir 10 dalyse nurodytos privalomojo sveikatos draudimo įmokos arba jeigu jie yra asmenys, išvardyti šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]], – tokie asmenys įmokas sumoka [[#^b5c70e7a0fc58ffe0787265a|šio straipsnio 4 dalyje]] nustatyta tvarka. ^818cea6b10c59bdde210550b
 Straipsnio dalies pakeitimai:
 Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 
 
-4. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 3, 4 ir [[#^b331f39f029987c204b4bd99|7 dalyse]], taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo [[#^8d8274497e5fb891175ebcfb|17 straipsnio 10 dalyje]], turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 3, 4, 7, 10, 11, 12 ir 13 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą. Susidariusi privalomojo sveikatos draudimo įmokų permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka pirmiausia įskaitoma privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti, po to socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl šioje dalyje nurodyto asmens kaltės, atlyginti, likusi suma – Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o kai mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, gavus šioje dalyje nurodyto asmens prašymą, įskaitoma kaip privalomojo sveikatos draudimo įmoka ar jos dalis už būsimus laikotarpius arba grąžinama jos mokėtojui. ^92c51cf9024da9c9d4c8c674
+4. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 3, 4 ir [[#^ba8b8f02fc17f0d9613b96f2|7 dalyse]], taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo [[#^bb0ad0a00b4caa5825c088be|17 straipsnio 10 dalyje]], turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 3, 4, 7, 10, 11, 12 ir 13 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą. Susidariusi privalomojo sveikatos draudimo įmokų permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka pirmiausia įskaitoma privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti, po to socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl šioje dalyje nurodyto asmens kaltės, atlyginti, likusi suma – Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o kai mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, gavus šioje dalyje nurodyto asmens prašymą, įskaitoma kaip privalomojo sveikatos draudimo įmoka ar jos dalis už būsimus laikotarpius arba grąžinama jos mokėtojui. ^b5c70e7a0fc58ffe0787265a
 Straipsnio dalies pakeitimai:
 Nr. XIII-3012, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13047
 
 
 
-5. Šio Įstatymo [[#^6a140ae495828e7df114e355|17 straipsnio 5 dalyje]] nurodyti asmenys, kurie moka šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 1, 2, 3, 6, 7, 9 ir 10 dalyse nurodytas privalomojo sveikatos draudimo įmokas ir (arba) už kuriuos šios įmokos yra mokamos arba kurie yra priskiriami šio Įstatymo [[#^294114ae4af9dc123bd84839|6 straipsnio 4 dalyje]] išvardytiems asmenims, turi teisę sumokėti šio Įstatymo [[#^6a140ae495828e7df114e355|17 straipsnio 5 dalyje]] nurodytas privalomojo sveikatos draudimo įmokas kartą per metus, tačiau ne vėliau kaip iki kitų metų gegužės 1 dienos. ^09b2da8a5b7feb48c86f014e
+5. Šio Įstatymo [[#^afc7fcd3af10c1f021e8af62|17 straipsnio 5 dalyje]] nurodyti asmenys, kurie moka šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 1, 2, 3, 6, 7, 9 ir 10 dalyse nurodytas privalomojo sveikatos draudimo įmokas ir (arba) už kuriuos šios įmokos yra mokamos arba kurie yra priskiriami šio Įstatymo [[#^f42825d3b04c9e819f915b04|6 straipsnio 4 dalyje]] išvardytiems asmenims, turi teisę sumokėti šio Įstatymo [[#^afc7fcd3af10c1f021e8af62|17 straipsnio 5 dalyje]] nurodytas privalomojo sveikatos draudimo įmokas kartą per metus, tačiau ne vėliau kaip iki kitų metų gegužės 1 dienos. ^1ddd206178ece5254696ebd5
 
 
-6. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, sumoka už paslaugų teikėjus atitinkamo mėnesio privalomojo sveikatos draudimo įmokas iki kito mėnesio 15 dienos. Tokia pačia tvarka šias įmokas moka draudėjai už mažųjų bendrijų vadovus, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai. ^51993a58e6f16ac7babd27c5
+6. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas, sumoka už paslaugų teikėjus atitinkamo mėnesio privalomojo sveikatos draudimo įmokas iki kito mėnesio 15 dienos. Tokia pačia tvarka šias įmokas moka draudėjai už mažųjų bendrijų vadovus, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai. ^e17456ffb8f869fac467cef4
 
 
-7. Asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu nemokėję privalomojo sveikatos draudimo įmokų, nesumokėtas privalomojo sveikatos draudimo įmokas už šį laikotarpį privalo sumokėti per 2 metus nuo tos dienos, kai Vyriausybės paskelbta ekstremalioji situacija ir karantinas atšaukiami arba kai sueina jų paskelbimo terminai. Jeigu privalomojo sveikatos draudimo įmokos nesumokamos per šioje dalyje nustatytą terminą, asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4–8 ir 10 dalyse, kuriems Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu Privalomojo sveikatos draudimo fondo biudžeto lėšomis buvo suteiktos asmens sveikatos priežiūros paslaugos, atlygina Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. ^b331f39f029987c204b4bd99
-TAR pastaba. [[#^b331f39f029987c204b4bd99|7 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
+7. Asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu nemokėję privalomojo sveikatos draudimo įmokų, nesumokėtas privalomojo sveikatos draudimo įmokas už šį laikotarpį privalo sumokėti per 2 metus nuo tos dienos, kai Vyriausybės paskelbta ekstremalioji situacija ir karantinas atšaukiami arba kai sueina jų paskelbimo terminai. Jeigu privalomojo sveikatos draudimo įmokos nesumokamos per šioje dalyje nustatytą terminą, asmenys, nurodyti šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 4–8 ir 10 dalyse, kuriems Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu Privalomojo sveikatos draudimo fondo biudžeto lėšomis buvo suteiktos asmens sveikatos priežiūros paslaugos, atlygina Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. ^ba8b8f02fc17f0d9613b96f2
+TAR pastaba. [[#^ba8b8f02fc17f0d9613b96f2|7 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
 Papildyta straipsnio dalimi:
 Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
@@ -1291,13 +1290,13 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 ### 19 straipsnis. Atsakomybė už privalomojo sveikatos draudimo įmokų mokėjimą
 
 
-1. Pažeidus šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytų įmokų apskaičiavimo ir mokėjimo tvarką, baudos, delspinigiai, palūkanos ir padidintos palūkanos skaičiuojami, priverstinai išieškomi, priverstiniai išieškojimai atidedami, pradėtos priverstinio išieškojimo procedūros pratęsiamos, priverstinio išieškojimo senaties terminas taikomas, nuo baudų ir delspinigių mokėjimo atleidžiama Valstybinio socialinio draudimo įstatymo nustatyta tvarka. ^5b1297be90f76db4c243cec8
+1. Pažeidus šio Įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnyje]] nurodytų įmokų apskaičiavimo ir mokėjimo tvarką, baudos, delspinigiai, palūkanos ir padidintos palūkanos skaičiuojami, priverstinai išieškomi, priverstiniai išieškojimai atidedami, pradėtos priverstinio išieškojimo procedūros pratęsiamos, priverstinio išieškojimo senaties terminas taikomas, nuo baudų ir delspinigių mokėjimo atleidžiama Valstybinio socialinio draudimo įstatymo nustatyta tvarka. ^1319a5683fb46d94d67641b1
 Straipsnio dalies pakeitimai:
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-2. Jeigu Valstybinio socialinio draudimo fondo administravimo įstaigos laiku neperveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą surinktų privalomojo sveikatos draudimo įmokų, jos moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą. ^566913092b5516cce7b6c1f1
+2. Jeigu Valstybinio socialinio draudimo fondo administravimo įstaigos laiku neperveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą surinktų privalomojo sveikatos draudimo įmokų, jos moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą. ^5030be261e10fa8f68c165d7
 
 
 Straipsnio pakeitimai:
@@ -1326,25 +1325,25 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 21 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto išlaidos
 
 
-1. Privalomojo sveikatos draudimo fondo biudžeto išlaidas sudaro: ^1f457afda9ab5a5923d3b357
+1. Privalomojo sveikatos draudimo fondo biudžeto išlaidas sudaro: ^f92588dc66c1b9efa5ca8af0
 
 
-1) išlaidos asmens sveikatos priežiūros paslaugoms; ^b201cdb67b2a4a49db20e09b
+1) išlaidos asmens sveikatos priežiūros paslaugoms; ^a45be84ab17eaf53e4117902
 
 
-2) išlaidos vaistams, medicinos pagalbos priemonėms (tarp jų ortopedijos techninėms priemonėms), specialiosios medicininės paskirties maisto produktams ir medicinos priemonių nuomai; ^4c4b4d5c17b59d309705396a
+2) išlaidos vaistams, medicinos pagalbos priemonėms (tarp jų ortopedijos techninėms priemonėms), specialiosios medicininės paskirties maisto produktams ir medicinos priemonių nuomai; ^2fc07cae5126d6189ec8f34e
 
 
-3) išlaidos sveikatos programoms vykdyti ir kitoms sveikatos draudimo išlaidoms apmokėti; ^8a2ca1cdbd6fd971cb376bf7
+3) išlaidos sveikatos programoms vykdyti ir kitoms sveikatos draudimo išlaidoms apmokėti; ^31dec1b0d8a436ee9d0cfe0c
 
 
-4) išlaidos privalomojo sveikatos draudimo sistemos funkcionavimui užtikrinti ir šį draudimą vykdančių institucijų veiklos išlaidoms apmokėti; ^020cbcc98acfa318791c11a5
+4) išlaidos privalomojo sveikatos draudimo sistemos funkcionavimui užtikrinti ir šį draudimą vykdančių institucijų veiklos išlaidoms apmokėti; ^aeaedd367433f1792b301281
 
 
-5) išlaidos Valstybinio socialinio draudimo fondo veiklos sąnaudoms, susidarančioms dėl privalomojo sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, kompensuoti. ^33c1fcc58059057956c19d5c
+5) išlaidos Valstybinio socialinio draudimo fondo veiklos sąnaudoms, susidarančioms dėl privalomojo sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, kompensuoti. ^468c128cfde13393790f992e
 
 
-2. [[#^020cbcc98acfa318791c11a5|Šio straipsnio 1 dalies 4 punkte]] numatytoms išlaidoms skiriama iki 2 procentų Privalomojo sveikatos draudimo fondo biudžeto lėšų, nurodytų šio Įstatymo [[#^05d70b05b2cd1059bb4b26ee|15 straipsnio 1 dalyje]]. ^dfdbd406322ff7ddd61963a3
+2. [[#^aeaedd367433f1792b301281|Šio straipsnio 1 dalies 4 punkte]] numatytoms išlaidoms skiriama iki 2 procentų Privalomojo sveikatos draudimo fondo biudžeto lėšų, nurodytų šio Įstatymo [[#^05d70b05b2cd1059bb4b26ee|15 straipsnio 1 dalyje]]. ^b3ad34a6d97e051ca9f21459
 
 
 Straipsnio pakeitimai:
@@ -1356,19 +1355,19 @@ Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
 ### 22 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto rezervas
 
 
-1. Privalomojo sveikatos draudimo fondo biudžeto rezervą einamaisiais metais sudaro: ^8a6f51d4ad6ff2c122e78755
+1. Privalomojo sveikatos draudimo fondo biudžeto rezervą einamaisiais metais sudaro: ^f81225f667f3f7e2e0348083
 
 
-1) praėjusių biudžetinių metų rezervo lėšų likutis metų pabaigoje; ^e505cfee084380217b3fed83
+1) praėjusių biudžetinių metų rezervo lėšų likutis metų pabaigoje; ^960ccd2b9a6b4f439df719e6
 
 
-2) einamaisiais metais į rezervą atskaitytos Privalomojo sveikatos draudimo fondo biudžeto lėšos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu; ^48cab8abc0fe2fdb32bbf643
+2) einamaisiais metais į rezervą atskaitytos Privalomojo sveikatos draudimo fondo biudžeto lėšos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu; ^7fa02f56ec2fb1b2677d1768
 
 
-3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas; ^3fe91ddafa8c6396e574dd07
+3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas; ^5f5500f61c32ad203aa1a355
 
 
-4) lėšos, skiriamos šiam rezervui atkurti šio Įstatymo [[#^81811e1256ee01f7611ee280|15 straipsnio 2 dalies 2 punkte]] ir 9 dalyje nurodytais atvejais. ^617f0ca3c85e904354483085
+4) lėšos, skiriamos šiam rezervui atkurti šio Įstatymo [[#^81811e1256ee01f7611ee280|15 straipsnio 2 dalies 2 punkte]] ir 9 dalyje nurodytais atvejais. ^542967588fa3acfe2957905c
 Papildyta straipsnio punktu:
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 Straipsnio punkto pakeitimai:
@@ -1376,7 +1375,7 @@ Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
 
 
 
-2. Privalomojo sveikatos draudimo fondo biudžeto rezervą sudaro pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalis. Pagrindinę Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalį sudaro 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Einamaisiais metais panaudota pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis gali būti atkuriama iš pagal šio Įstatymo [[#^81811e1256ee01f7611ee280|15 straipsnio 2 dalies 2 punktą]] skirtų papildomų valstybės biudžeto asignavimų ir gali sudaryti daugiau kaip 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalį sudaro likusios Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos. ^83a7d75e0a8c2d0d0c10c401
+2. Privalomojo sveikatos draudimo fondo biudžeto rezervą sudaro pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalis. Pagrindinę Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalį sudaro 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Einamaisiais metais panaudota pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis gali būti atkuriama iš pagal šio Įstatymo [[#^81811e1256ee01f7611ee280|15 straipsnio 2 dalies 2 punktą]] skirtų papildomų valstybės biudžeto asignavimų ir gali sudaryti daugiau kaip 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalį sudaro likusios Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos. ^698db8d93e4d19db306d8d4d
 Straipsnio dalies pakeitimai:
 Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
 
@@ -1390,43 +1389,43 @@ Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 ### 23 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšų naudojimas ir investavimas
 
 
-1. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos skirstomos Vyriausybės nutarimu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos sveikatos apsaugos ministro sprendimu, įvertinus Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos skiriamos ir naudojamos nepažeidžiant Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo [[#^a080c452d1b76bb28c1f426a|4 straipsnio 2 dalies]] nuostatų. ^aec74106c8bb3d00261d30a3
+1. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos skirstomos Vyriausybės nutarimu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos sveikatos apsaugos ministro sprendimu, įvertinus Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos skiriamos ir naudojamos nepažeidžiant Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo [[#^a080c452d1b76bb28c1f426a|4 straipsnio 2 dalies]] nuostatų. ^e246bf90ace4b4a860c22fc3
 
 
-2. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos: ^fb1e0b3c6af78472015028d0
+2. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos: ^b98bdc0d21bb3c37e625fff5
 
 
-1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui padengti, kai nevykdomas einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytas einamųjų metų pajamų planas ir neužtenka apyvartos lėšų šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti; ^1ee37f38276c0018c134f05b
+1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui padengti, kai nevykdomas einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytas einamųjų metų pajamų planas ir neužtenka apyvartos lėšų šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti; ^4ae6b501ad570f6f8d17ee4e
 
 
-2) Privalomojo sveikatos draudimo fondo biudžeto pajamoms ir išlaidoms, paskirstytoms metų ketvirčiais, subalansuoti; ^311be849749f638ba65e56e8
+2) Privalomojo sveikatos draudimo fondo biudžeto pajamoms ir išlaidoms, paskirstytoms metų ketvirčiais, subalansuoti; ^431a42be2c8805d9cf03df01
 
 
-3) šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti; ^a3d2ab028517f40f71d46cae
+3) šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti; ^527250853c6deb71b5ac4084
 
 
-4) Privalomojo sveikatos draudimo fondo biudžeto išlaidoms, susidariusioms dėl ekstremaliosios situacijos ar ekstremaliojo įvykio, apmokėti, kai šiam tikslui neužtenka einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^21f406a75172c9c4e5300fd5
+4) Privalomojo sveikatos draudimo fondo biudžeto išlaidoms, susidariusioms dėl ekstremaliosios situacijos ar ekstremaliojo įvykio, apmokėti, kai šiam tikslui neužtenka einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^0c3f6423acd2745a0cc9dcad
 
 
-5) šio Įstatymo [[#^9888e6236f5fad18bf5a599f|15 straipsnio 5 dalyje]] nurodytoms valstybės deleguotoms funkcijoms finansuoti, kai tam neužtenka skirtų valstybės biudžeto asignavimų. ^6e60c207fbd3999f2a5bb263
+5) šio Įstatymo [[#^9888e6236f5fad18bf5a599f|15 straipsnio 5 dalyje]] nurodytoms valstybės deleguotoms funkcijoms finansuoti, kai tam neužtenka skirtų valstybės biudžeto asignavimų. ^4d5b2bf4156cb2e1c6965f79
 
 
-3. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos naudojamos: ^91a5b7bac7074f86a078f90d
+3. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos naudojamos: ^c8cfbe02f0d1cb1a4eb205a0
 
 
-1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui kompensuoti, kai nesurenkama 1/12 ar daugiau einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytų einamųjų metų planuotų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir neužtenka šio biudžeto apyvartos lėšų; ^2c7f30dc65492b2bedc0b8b1
+1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui kompensuoti, kai nesurenkama 1/12 ar daugiau einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytų einamųjų metų planuotų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir neužtenka šio biudžeto apyvartos lėšų; ^346e3a82e08e5e89567d487a
 
 
-2) [[#^fb1e0b3c6af78472015028d0|šio straipsnio 2 dalies]] 4 ir 5 punktuose nurodytiems tikslams, kai Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšų einamaisiais biudžetiniais metais neužtenka šiems tikslams įgyvendinti. ^7704f0c3ea849a243641043a
+2) [[#^b98bdc0d21bb3c37e625fff5|šio straipsnio 2 dalies]] 4 ir 5 punktuose nurodytiems tikslams, kai Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšų einamaisiais biudžetiniais metais neužtenka šiems tikslams įgyvendinti. ^8d39e9bf1e578e22ec3a77f4
 
 
-4. Valstybinė ligonių kasa Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomoje sąskaitoje valstybės ižde ir (arba) konkurso būdu pasirinktoje finansų įstaigoje arba investuoja [[#^f8878598b853a7dd5e50cfdd|šio straipsnio 5 dalyje]] nustatyta tvarka. ^9b04c4d3a9a93f7bda2846e1
+4. Valstybinė ligonių kasa Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomoje sąskaitoje valstybės ižde ir (arba) konkurso būdu pasirinktoje finansų įstaigoje arba investuoja [[#^531da6de0acdb99fed4992ab|šio straipsnio 5 dalyje]] nustatyta tvarka. ^b9e9506854e3322ca677df70
 Straipsnio dalies pakeitimai:
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 
 
 
-5. Valstybinei ligonių kasai priėmus su Finansų ministerija suderintą sprendimą investuoti laikinai laisvas (šio Įstatymo nustatyta tvarka nepaskirstytas ir mokėjimams atlikti nenaudojamas) Privalomojo sveikatos draudimo fondo lėšas, jos pervedamos į Finansų ministerijos nurodytą valstybės iždo sąskaitą. Šias lėšas neatlygintinai valdo ir sprendimus dėl jų investavimo finansų ministro nustatyta tvarka priima Finansų ministerija, garantuodama, kad investuotos lėšos ir investavimo metu gautos pajamos Valstybinės ligonių kasos pageidavimu būtų grąžinamos į Privalomojo sveikatos draudimo fondo sąskaitą. Pajamos, gautos investuojant, naudojamos tik šiame Įstatyme nustatytoms Privalomojo sveikatos draudimo fondo biudžeto išlaidoms apmokėti. Valstybinė ligonių kasa Finansų ministerijai investavimo išlaidas kompensuoja šio Įstatymo [[#^020cbcc98acfa318791c11a5|21 straipsnio 1 dalies 4 punkte]] numatytomis lėšomis. ^f8878598b853a7dd5e50cfdd
+5. Valstybinei ligonių kasai priėmus su Finansų ministerija suderintą sprendimą investuoti laikinai laisvas (šio Įstatymo nustatyta tvarka nepaskirstytas ir mokėjimams atlikti nenaudojamas) Privalomojo sveikatos draudimo fondo lėšas, jos pervedamos į Finansų ministerijos nurodytą valstybės iždo sąskaitą. Šias lėšas neatlygintinai valdo ir sprendimus dėl jų investavimo finansų ministro nustatyta tvarka priima Finansų ministerija, garantuodama, kad investuotos lėšos ir investavimo metu gautos pajamos Valstybinės ligonių kasos pageidavimu būtų grąžinamos į Privalomojo sveikatos draudimo fondo sąskaitą. Pajamos, gautos investuojant, naudojamos tik šiame Įstatyme nustatytoms Privalomojo sveikatos draudimo fondo biudžeto išlaidoms apmokėti. Valstybinė ligonių kasa Finansų ministerijai investavimo išlaidas kompensuoja šio Įstatymo [[#^aeaedd367433f1792b301281|21 straipsnio 1 dalies 4 punkte]] numatytomis lėšomis. ^531da6de0acdb99fed4992ab
 
 
 Straipsnio pakeitimai:
@@ -1439,20 +1438,20 @@ Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
 ### 24 straipsnis. Kasos apyvartos lėšos
 
 
-1. Privalomojo sveikatos draudimo fondo biudžete numatomos kasos apyvartos lėšos. Jos sudaromos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų likučio, o kai jo nepakanka – iš planinių Privalomojo sveikatos draudimo fondo biudžeto pajamų. Kasos apyvartos lėšų dydis nustatomas tvirtinant Privalomojo sveikatos draudimo fondo biudžetą. ^2694a00d52a47c2d69616474
+1. Privalomojo sveikatos draudimo fondo biudžete numatomos kasos apyvartos lėšos. Jos sudaromos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų likučio, o kai jo nepakanka – iš planinių Privalomojo sveikatos draudimo fondo biudžeto pajamų. Kasos apyvartos lėšų dydis nustatomas tvirtinant Privalomojo sveikatos draudimo fondo biudžetą. ^4e5abf179a4f7395a131b32c
 
 
-2. Kasos apyvartos lėšos naudojamos kasos pajamų laikinam trūkumui padengti ir turi būti grąžintos ne vėliau kaip iki biudžetinių metų pabaigos. ^0a789007aa897463effa213e
+2. Kasos apyvartos lėšos naudojamos kasos pajamų laikinam trūkumui padengti ir turi būti grąžintos ne vėliau kaip iki biudžetinių metų pabaigos. ^0ce127c044fb6f139183863d
 
 
 
 ### 25 straipsnis. Asmens sveikatos priežiūros paslaugų apmokėjimas Privalomojo sveikatos draudimo fondo biudžeto lėšomis
 
 
-1. Asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, apmokėjimo tvarkas ir būdus Valstybinės ligonių kasos teikimu nustato sveikatos apsaugos ministras. ^da73d6ac1f6f56806752b6e1
+1. Asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, apmokėjimo tvarkas ir būdus Valstybinės ligonių kasos teikimu nustato sveikatos apsaugos ministras. ^c1eff666244df1daf3982d3b
 
 
-2. Sveikatos apsaugos ministras, įvertinęs Privalomojo sveikatos draudimo tarybos nuomonę, tvirtina Asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, bazinių kainų nustatymo metodiką ir pagal šią metodiką Valstybinės ligonių kasos apskaičiuotas asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, bazines kainas. ^8898c9b1e9e61a0f20925cf4
+2. Sveikatos apsaugos ministras, įvertinęs Privalomojo sveikatos draudimo tarybos nuomonę, tvirtina Asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, bazinių kainų nustatymo metodiką ir pagal šią metodiką Valstybinės ligonių kasos apskaičiuotas asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, bazines kainas. ^8223c37181391f000692bed6
 
 
 Straipsnio pakeitimai:
@@ -1463,52 +1462,52 @@ Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
 ### 26 straipsnis. Valstybinės ligonių kasos sutartys su asmens sveikatos priežiūros įstaigomis dėl asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo ir sutartys su vaistinėmis dėl kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų apmokėjimo
 
 
-1. Apdraustiesiems suteiktų asmens sveikatos priežiūros paslaugų išlaidos apmokamos vadovaujantis Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutartimis, o vaistinių išduoti kompensuojamieji vaistai ir medicinos pagalbos priemonės – vadovaujantis Valstybinės ligonių kasos ir vaistinių sutartimis. ^cd3fa9490387a06d5aff0ca3
+1. Apdraustiesiems suteiktų asmens sveikatos priežiūros paslaugų išlaidos apmokamos vadovaujantis Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutartimis, o vaistinių išduoti kompensuojamieji vaistai ir medicinos pagalbos priemonės – vadovaujantis Valstybinės ligonių kasos ir vaistinių sutartimis. ^f0f2b030bbd0ef43096feabf
 
 
-2. Sveikatos apsaugos ministras tvirtina standartines [[#^cd3fa9490387a06d5aff0ca3|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygas (išskyrus sutarčių dėl asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo priedus, kuriuose nustatoma asmens sveikatos priežiūros įstaigos teikiamų paslaugų nomenklatūra ir Privalomojo sveikatos draudimo fondo biudžeto lėšų suma asmens sveikatos priežiūros paslaugų išlaidoms apmokėti). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos standartinės sutarčių sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse [[#^cd3fa9490387a06d5aff0ca3|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, vaistinėse išduodamų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo reikalavimai, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas. ^3047673c93ff09dea71547fd
+2. Sveikatos apsaugos ministras tvirtina standartines [[#^f0f2b030bbd0ef43096feabf|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygas (išskyrus sutarčių dėl asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo priedus, kuriuose nustatoma asmens sveikatos priežiūros įstaigos teikiamų paslaugų nomenklatūra ir Privalomojo sveikatos draudimo fondo biudžeto lėšų suma asmens sveikatos priežiūros paslaugų išlaidoms apmokėti). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos standartinės sutarčių sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse [[#^f0f2b030bbd0ef43096feabf|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, vaistinėse išduodamų kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo reikalavimai, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas. ^f03d0a707b55f4f11ba34239
 
 
-3. Vaistinės, pageidaujančios sudaryti [[#^cd3fa9490387a06d5aff0ca3|šio straipsnio 1 dalyje]] nurodytas sutartis, privalo turėti vaistinės veiklos licenciją. ^dc41c3c392949eda2adb0848
+3. Vaistinės, pageidaujančios sudaryti [[#^f0f2b030bbd0ef43096feabf|šio straipsnio 1 dalyje]] nurodytas sutartis, privalo turėti vaistinės veiklos licenciją. ^0d7181d3c573a857d8c1ece1
 
 
-4. Sutartys su asmens sveikatos priežiūros įstaigomis dėl šio Įstatymo [[#9 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojama sveikatos priežiūra|9 straipsnio]] nuostatas atitinkančių asmens sveikatos priežiūros paslaugų sudaromos pagal Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje nurodytu pagrindu nustatytą asmens sveikatos priežiūros paslaugų poreikį ir, atsižvelgiant į šį poreikį, Sveikatos sistemos įstatymo [[#12 straipsnis. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimas iš Privalomojo sveikatos draudimo fondo biudžeto|12 straipsnio]] 5 ir 9 dalyse nurodytu pagrindu nustatytą sveikatos priežiūros mastą. Asmens sveikatos priežiūros įstaigos, pageidaujančios sudaryti šias sutartis, privalo: ^2399c9d708a400cc2b903686
+4. Sutartys su asmens sveikatos priežiūros įstaigomis dėl šio Įstatymo [[#9 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojama sveikatos priežiūra|9 straipsnio]] nuostatas atitinkančių asmens sveikatos priežiūros paslaugų sudaromos pagal Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje nurodytu pagrindu nustatytą asmens sveikatos priežiūros paslaugų poreikį ir, atsižvelgiant į šį poreikį, Sveikatos sistemos įstatymo [[#12 straipsnis. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimas iš Privalomojo sveikatos draudimo fondo biudžeto|12 straipsnio]] 5 ir 9 dalyse nurodytu pagrindu nustatytą sveikatos priežiūros mastą. Asmens sveikatos priežiūros įstaigos, pageidaujančios sudaryti šias sutartis, privalo: ^8e64c094f37c8ca07ffc2369
 
 
-1) turėti galiojančią asmens sveikatos priežiūros veiklos licenciją; ^da1ed5deaa57770a817b18b1
+1) turėti galiojančią asmens sveikatos priežiūros veiklos licenciją; ^de53b9d118e5b2cedf558471
 
 
-2) atitikti Sveikatos priežiūros įstaigų įstatymo [[#11 straipsnis. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų apmokėjimas asmens sveikatos priežiūros įstaigoms|11 straipsnio]] 1 ir [[#^2399c9d708a400cc2b903686|4 dalyse]] nurodytu pagrindu nustatytus įstaigų išdėstymo reikalavimus (jeigu asmens sveikatos priežiūros įstaigoms tokie reikalavimai nustatyti), išskyrus [[#^3a88be76d31aee81bc058519|šio straipsnio 5 dalyje]] nurodytą atvejį; ^125fa9887df1c0c643ae4347
+2) atitikti Sveikatos priežiūros įstaigų įstatymo [[#11 straipsnis. Medicininės reabilitacijos ir sanatorinio gydymo paslaugų apmokėjimas asmens sveikatos priežiūros įstaigoms|11 straipsnio]] 1 ir [[#^8e64c094f37c8ca07ffc2369|4 dalyse]] nurodytu pagrindu nustatytus įstaigų išdėstymo reikalavimus (jeigu asmens sveikatos priežiūros įstaigoms tokie reikalavimai nustatyti), išskyrus [[#^d884596df58eb5a08dbf3ba7|šio straipsnio 5 dalyje]] nurodytą atvejį; ^37530cf1cf7f0fde63aa0ee8
 
 
-3) teikti asmens sveikatos priežiūros paslaugas, dėl kurių pageidaujama sudaryti sutartis ir kurios atitinka šių paslaugų teikimo kokybės reikalavimus. Atitikties kokybės reikalavimams vertinimo metodiką nustato sveikatos apsaugos ministras; ^1f9dad8a906473249fbb6a64
+3) teikti asmens sveikatos priežiūros paslaugas, dėl kurių pageidaujama sudaryti sutartis ir kurios atitinka šių paslaugų teikimo kokybės reikalavimus. Atitikties kokybės reikalavimams vertinimo metodiką nustato sveikatos apsaugos ministras; ^c66cc7d5f3e1e3cdc0c138b5
 
 
-4) užtikrinti Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamų asmens sveikatos priežiūros paslaugų teikimą pacientams bazinėmis kainomis. ^456d24b45bf59c5995e3e37b
+4) užtikrinti Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamų asmens sveikatos priežiūros paslaugų teikimą pacientams bazinėmis kainomis. ^1fd380ad351256e8f1022759
 Straipsnio punkto pakeitimai:
 Nr. XV-584, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20655
 
 
 
-5. Sutartys su asmens sveikatos priežiūros įstaigomis, su kuriomis Valstybinė ligonių kasa nėra sudariusi sutarčių dėl tam tikrų asmens sveikatos priežiūros paslaugų teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, sudaromos tais atvejais, kai asmens sveikatos priežiūros įstaigos, su kuriomis Valstybinė ligonių kasa yra sudariusi sutartis dėl šių paslaugų, nepatenkina Sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje nurodytu pagrindu nustatyto šių paslaugų poreikio ir, atsižvelgiant į šį poreikį, neužtikrina Sveikatos sistemos įstatymo [[#12 straipsnis. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimas iš Privalomojo sveikatos draudimo fondo biudžeto|12 straipsnio]] 5 ir 9 dalyse nurodytu pagrindu nustatyto sveikatos priežiūros masto. Sutartys sudaromos vadovaujantis šiais kriterijais: ^3a88be76d31aee81bc058519
+5. Sutartys su asmens sveikatos priežiūros įstaigomis, su kuriomis Valstybinė ligonių kasa nėra sudariusi sutarčių dėl tam tikrų asmens sveikatos priežiūros paslaugų teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, sudaromos tais atvejais, kai asmens sveikatos priežiūros įstaigos, su kuriomis Valstybinė ligonių kasa yra sudariusi sutartis dėl šių paslaugų, nepatenkina Sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje nurodytu pagrindu nustatyto šių paslaugų poreikio ir, atsižvelgiant į šį poreikį, neužtikrina Sveikatos sistemos įstatymo [[#12 straipsnis. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimas iš Privalomojo sveikatos draudimo fondo biudžeto|12 straipsnio]] 5 ir 9 dalyse nurodytu pagrindu nustatyto sveikatos priežiūros masto. Sutartys sudaromos vadovaujantis šiais kriterijais: ^d884596df58eb5a08dbf3ba7
 
 
-1) asmens sveikatos priežiūros įstaigos teikiamų paslaugų kompleksiškumu; ^f0314113a8838d09a6dc2dd7
+1) asmens sveikatos priežiūros įstaigos teikiamų paslaugų kompleksiškumu; ^b2229287169ed859c84f7b61
 
 
-2) kokia dalimi sveikatos apsaugos ministro nustatyti paslaugos teikimo reikalavimai užtikrinami tuo pačiu asmens sveikatos priežiūros paslaugos teikimo adresu; ^b70603577aa998df2212769c
+2) kokia dalimi sveikatos apsaugos ministro nustatyti paslaugos teikimo reikalavimai užtikrinami tuo pačiu asmens sveikatos priežiūros paslaugos teikimo adresu; ^755f05575e0ed419d58523d5
 
 
-3) per praėjusius kalendorinius metus suteiktų asmens sveikatos priežiūros paslaugų, dėl kurių sudaroma sutartis, skaičiumi; ^da9a49a86f11cf733870bcbc
+3) per praėjusius kalendorinius metus suteiktų asmens sveikatos priežiūros paslaugų, dėl kurių sudaroma sutartis, skaičiumi; ^6ad3f7b9c2b71511ea80cf0f
 
 
-4) per praėjusius 3 metus vykdant ūkio subjektų priežiūrą šioje asmens sveikatos priežiūros įstaigoje nustatyti privalomąjį sveikatos draudimą ir sveikatos priežiūrą reglamentuojančių teisės aktų pažeidimai. ^05295c75857ae35dee5fca0f
+4) per praėjusius 3 metus vykdant ūkio subjektų priežiūrą šioje asmens sveikatos priežiūros įstaigoje nustatyti privalomąjį sveikatos draudimą ir sveikatos priežiūrą reglamentuojančių teisės aktų pažeidimai. ^27d4e1d8b35e1c475661e0ab
 
 
-6. [[#^cd3fa9490387a06d5aff0ca3|Šio straipsnio 1 dalyje]] nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. ^20f6c3a0214a04096ac5d348
+6. [[#^f0f2b030bbd0ef43096feabf|Šio straipsnio 1 dalyje]] nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. ^140f84761981ab7e1c460543
 
 
-7. [[#^3a88be76d31aee81bc058519|Šio straipsnio 5 dalyje]] nurodytus kriterijus, taikomus atitinkamoms asmens sveikatos priežiūros paslaugoms, dėl kurių sudaroma sutartis, detalizuoja, kriterijų reikšmes ir vertinimo pagal šiuos kriterijus tvarką nustato Vyriausybė. ^94a02c151ef13734ea973808
+7. [[#^d884596df58eb5a08dbf3ba7|Šio straipsnio 5 dalyje]] nurodytus kriterijus, taikomus atitinkamoms asmens sveikatos priežiūros paslaugoms, dėl kurių sudaroma sutartis, detalizuoja, kriterijų reikšmes ir vertinimo pagal šiuos kriterijus tvarką nustato Vyriausybė. ^e9d8129b4b859d97b5d8fb54
 
 
 Straipsnio pakeitimai:
@@ -1519,16 +1518,16 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 261 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo
 
 
-1. Sutartys dėl medicinos priemonių, įrašytų į šio Įstatymo [[#^49902d9311634cd3a6f6b85c|122 straipsnio 2 dalyje]] nurodytą sąrašą, nuomos išlaidų apmokėjimo sudaromos tarp Valstybinės ligonių kasos  ir to pageidaujančių ūkio subjektų, atitinkančių [[#^4742e08c91891bd4225755c3|šio straipsnio 2 dalyje]] nurodytas sąlygas. ^6161e5fadb519bf59ae75252
+1. Sutartys dėl medicinos priemonių, įrašytų į šio Įstatymo [[#^49902d9311634cd3a6f6b85c|122 straipsnio 2 dalyje]] nurodytą sąrašą, nuomos išlaidų apmokėjimo sudaromos tarp Valstybinės ligonių kasos  ir to pageidaujančių ūkio subjektų, atitinkančių [[#^d13e1d6bd64ea8edad56033b|šio straipsnio 2 dalyje]] nurodytas sąlygas. ^74c349b1a861db13c0b8b984
 
 
-2. Valstybinė ligonių kasa sudaro [[#^6161e5fadb519bf59ae75252|šio straipsnio 1 dalyje]] nurodytas sutartis su ūkio subjektu, jeigu šis užtikrina įrašytos į šio Įstatymo [[#^49902d9311634cd3a6f6b85c|122 straipsnio 2 dalyje]] nurodytą sąrašą medicinos priemonės tiekimą į Lietuvos Respublikos rinką, garantinį aptarnavimą, nuolatinę priežiūrą ir keičiamųjų dalių tiekimą. ^4742e08c91891bd4225755c3
+2. Valstybinė ligonių kasa sudaro [[#^74c349b1a861db13c0b8b984|šio straipsnio 1 dalyje]] nurodytas sutartis su ūkio subjektu, jeigu šis užtikrina įrašytos į šio Įstatymo [[#^49902d9311634cd3a6f6b85c|122 straipsnio 2 dalyje]] nurodytą sąrašą medicinos priemonės tiekimą į Lietuvos Respublikos rinką, garantinį aptarnavimą, nuolatinę priežiūrą ir keičiamųjų dalių tiekimą. ^d13e1d6bd64ea8edad56033b
 
 
-3. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų. ^1a5e86297331248c08257489
+3. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų. ^92acac71209eee056fda2edd
 
 
-4. [[#^6161e5fadb519bf59ae75252|Šio straipsnio 1 dalyje]] nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Sveikatos apsaugos ministras tvirtina standartines [[#^6161e5fadb519bf59ae75252|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygas (išskyrus sutarčių priedus, kuriuose nustatomas ūkio subjekto tiekiamų į rinką medicinos priemonių sąrašas). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos šios sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse [[#^6161e5fadb519bf59ae75252|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas. ^aec237a88756ef292dedbb13
+4. [[#^74c349b1a861db13c0b8b984|Šio straipsnio 1 dalyje]] nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Sveikatos apsaugos ministras tvirtina standartines [[#^74c349b1a861db13c0b8b984|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygas (išskyrus sutarčių priedus, kuriuose nustatomas ūkio subjekto tiekiamų į rinką medicinos priemonių sąrašas). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos šios sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse [[#^74c349b1a861db13c0b8b984|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas. ^2853c1ce0cf531938c6e80b2
 
 
 Straipsnio pakeitimai:
@@ -1540,16 +1539,16 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo
 
 
-1. Sutartis dėl medicinos priemonių, įrašytų į šio Įstatymo [[#^d1df3803b95d10a20076a7b8|10 straipsnio 1 dalyje]] nurodytą Kompensuojamųjų medicinos pagalbos priemonių sąrašą ir pagal sveikatos apsaugos ministro patvirtintuose medicinos priemonių saugos techniniuose reglamentuose nurodytas taisykles klasifikuojamų kaip gaminamos I klasės medicinos priemonės arba in vitro diagnostikos medicinos priemonės, skirtos savikontrolei, (toliau – I klasės medicinos priemonės ir in vitro diagnostikos priemonės, skirtos savikontrolei) apmokėjimo sudaro Valstybinė ligonių kasa su to pageidaujančiais ūkio subjektais, atitinkančiais [[#^c1974a8bf45e65a510fa4241|šio straipsnio 2 dalyje]] nurodytas sąlygas. Ši nuostata netaikoma vaistinėms, su kuriomis sutartys sudaromos šio Įstatymo [[#26 straipsnis. Valstybinės ligonių kasos sutartys su asmens sveikatos priežiūros įstaigomis dėl asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo ir sutartys su vaistinėmis dėl kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų apmokėjimo|26 straipsnyje]] nustatyta tvarka. ^3fa6d0b34601bb2aa8f55ac1
+1. Sutartis dėl medicinos priemonių, įrašytų į šio Įstatymo [[#^d1df3803b95d10a20076a7b8|10 straipsnio 1 dalyje]] nurodytą Kompensuojamųjų medicinos pagalbos priemonių sąrašą ir pagal sveikatos apsaugos ministro patvirtintuose medicinos priemonių saugos techniniuose reglamentuose nurodytas taisykles klasifikuojamų kaip gaminamos I klasės medicinos priemonės arba in vitro diagnostikos medicinos priemonės, skirtos savikontrolei, (toliau – I klasės medicinos priemonės ir in vitro diagnostikos priemonės, skirtos savikontrolei) apmokėjimo sudaro Valstybinė ligonių kasa su to pageidaujančiais ūkio subjektais, atitinkančiais [[#^fd7d30639b4100206fff9d5b|šio straipsnio 2 dalyje]] nurodytas sąlygas. Ši nuostata netaikoma vaistinėms, su kuriomis sutartys sudaromos šio Įstatymo [[#26 straipsnis. Valstybinės ligonių kasos sutartys su asmens sveikatos priežiūros įstaigomis dėl asmens sveikatos priežiūros paslaugų išlaidų apmokėjimo ir sutartys su vaistinėmis dėl kompensuojamųjų vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų apmokėjimo|26 straipsnyje]] nustatyta tvarka. ^db53fa1c212a02bc28fb6099
 
 
-2. Valstybinė ligonių kasa sudaro [[#^3fa6d0b34601bb2aa8f55ac1|šio straipsnio 1 dalyje]] nurodytas sutartis su ūkio subjektais, jeigu šie užtikrina I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, tiekimą į Lietuvos Respublikos rinką ir visas šias priemones išduoda (parduoda) sveikatos apsaugos ministro nustatyta tvarka. ^c1974a8bf45e65a510fa4241
+2. Valstybinė ligonių kasa sudaro [[#^db53fa1c212a02bc28fb6099|šio straipsnio 1 dalyje]] nurodytas sutartis su ūkio subjektais, jeigu šie užtikrina I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, tiekimą į Lietuvos Respublikos rinką ir visas šias priemones išduoda (parduoda) sveikatos apsaugos ministro nustatyta tvarka. ^fd7d30639b4100206fff9d5b
 
 
-3. [[#^3fa6d0b34601bb2aa8f55ac1|Šio straipsnio 1 dalyje]] nurodytos sutartys sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų. ^298ae2da6543211c2ee52f63
+3. [[#^db53fa1c212a02bc28fb6099|Šio straipsnio 1 dalyje]] nurodytos sutartys sudaromos vadovaujantis šiuo Įstatymu, sveikatos apsaugos ministro nustatyta tvarka ir laikantis skaidrumo, nediskriminavimo bei vienodo vertinimo principų. ^3298618883381cd78cb76bc7
 
 
-4. [[#^3fa6d0b34601bb2aa8f55ac1|Šio straipsnio 1 dalyje]] nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Sveikatos apsaugos ministras tvirtina standartines [[#^3fa6d0b34601bb2aa8f55ac1|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygas (išskyrus sutarčių priedus, kuriuose nustatomas išduodamų I klasės medicinos priemonių ir (arba) in vitro diagnostikos priemonių, skirtų savikontrolei, ir veiklos adresų sąrašas). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos šios sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse [[#^3fa6d0b34601bb2aa8f55ac1|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas. ^ddaf2d99209c08100dc62c57
+4. [[#^db53fa1c212a02bc28fb6099|Šio straipsnio 1 dalyje]] nurodytų sutarčių sudarymo tvarkos aprašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Sveikatos apsaugos ministras tvirtina standartines [[#^db53fa1c212a02bc28fb6099|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygas (išskyrus sutarčių priedus, kuriuose nustatomas išduodamų I klasės medicinos priemonių ir (arba) in vitro diagnostikos priemonių, skirtų savikontrolei, ir veiklos adresų sąrašas). Ne vėliau kaip kitą darbo dieną po patvirtinimo dienos šios sąlygos paskelbiamos Sveikatos apsaugos ministerijos interneto svetainėje. Standartinėse [[#^db53fa1c212a02bc28fb6099|šio straipsnio 1 dalyje]] nurodytų sutarčių sąlygose nurodomos esminės sutarties sąlygos: sutarties šalių teisės ir pareigos, kainodaros taisyklės, atsiskaitymų tvarka, sutarties šalių atsakomybė, ginčų sprendimo tvarka, sutarties nutraukimo tvarka, sutarties galiojimas, papildymas ar sustabdymas. ^c8d8eec37662896b7e70fec7
 
 
 Straipsnio pakeitimai:
@@ -1560,19 +1559,19 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 27 straipsnis. Atsiskaitymo su asmens sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo 261 ir 262 straipsniuose nurodytais ūkio subjektais tvarka ir terminai
 
 
-1. Valstybinė ligonių kasa sutartyse numatytomis sąlygomis, neviršydama skirtų Privalomojo sveikatos draudimo fondo biudžeto asignavimų, privalo apmokėti asmens sveikatos priežiūros įstaigų ir vaistinių, su kuriomis yra sudariusi sutartis, pateiktas sąskaitas. ^e8254fbaccc602bb6378b13e
+1. Valstybinė ligonių kasa sutartyse numatytomis sąlygomis, neviršydama skirtų Privalomojo sveikatos draudimo fondo biudžeto asignavimų, privalo apmokėti asmens sveikatos priežiūros įstaigų ir vaistinių, su kuriomis yra sudariusi sutartis, pateiktas sąskaitas. ^fc4b28cce34d56efb5fc6346
 
 
-2. Sąskaitas už suteiktas asmens sveikatos priežiūros paslaugas ir išduotus kompensuojamuosius vaistus bei medicinos pagalbos priemones kartą per mėnesį asmens sveikatos priežiūros įstaigos ir vaistinės pateikia Valstybinei ligonių kasai. Valstybinė ligonių kasa ne vėliau kaip per 30 dienų nuo sąskaitos gavimo dienos perveda pinigus sudariusioms su ja sutartis asmens sveikatos priežiūros įstaigoms ir vaistinėms, atsiskaitydama pagal pateiktas sąskaitas. Jeigu Valstybinė ligonių kasa laiku neatsiskaito, mokami sutartyse su asmens sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytais ūkio subjektais nustatyto dydžio delspinigiai. ^db4165145113797b23a97c82
+2. Sąskaitas už suteiktas asmens sveikatos priežiūros paslaugas ir išduotus kompensuojamuosius vaistus bei medicinos pagalbos priemones kartą per mėnesį asmens sveikatos priežiūros įstaigos ir vaistinės pateikia Valstybinei ligonių kasai. Valstybinė ligonių kasa ne vėliau kaip per 30 dienų nuo sąskaitos gavimo dienos perveda pinigus sudariusioms su ja sutartis asmens sveikatos priežiūros įstaigoms ir vaistinėms, atsiskaitydama pagal pateiktas sąskaitas. Jeigu Valstybinė ligonių kasa laiku neatsiskaito, mokami sutartyse su asmens sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytais ūkio subjektais nustatyto dydžio delspinigiai. ^44893d058bced8bc88a705cf
 
 
-3. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto išlaidos yra didesnės, negu yra patvirtintos Privalomojo sveikatos draudimo fondo biudžeto išlaidų plane, sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, šio Įstatymo ir kitų teisės aktų nustatyta tvarka priima sprendimus nustatyti tokį išmokų ir kompensacijų dydį, kuris atitinka patvirtintą išlaidų planą. ^b7ca61c86b60c21d02a5db2b
+3. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto išlaidos yra didesnės, negu yra patvirtintos Privalomojo sveikatos draudimo fondo biudžeto išlaidų plane, sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, šio Įstatymo ir kitų teisės aktų nustatyta tvarka priima sprendimus nustatyti tokį išmokų ir kompensacijų dydį, kuris atitinka patvirtintą išlaidų planą. ^d992ca337420d0b24bcc13f9
 
 
-4. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto pajamos yra mažesnės negu patvirtintame Privalomojo sveikatos draudimo fondo biudžete, Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, teikia siūlymus Vyriausybei patikslinti Privalomojo sveikatos draudimo fondo biudžetą. Tikslinant Privalomojo sveikatos draudimo fondo biudžetą, numatomos reikalingos lėšos susidariusiems delspinigiams padengti teisės aktų nustatyta tvarka. ^02b0c4bd46085d0ff3384e38
+4. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto pajamos yra mažesnės negu patvirtintame Privalomojo sveikatos draudimo fondo biudžete, Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, teikia siūlymus Vyriausybei patikslinti Privalomojo sveikatos draudimo fondo biudžetą. Tikslinant Privalomojo sveikatos draudimo fondo biudžetą, numatomos reikalingos lėšos susidariusiems delspinigiams padengti teisės aktų nustatyta tvarka. ^8920b61b41f3e420e91fbf47
 
 
-5. Šio straipsnio nuostatos mutatis mutandis taikomos Valstybinei ligonių kasai atsiskaitant su šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytais ūkio subjektais už medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomą ir už I klasės medicinos priemones bei in vitro diagnostikos priemones, skirtas savikontrolei. ^e14773e2e8b31bb043e78d23
+5. Šio straipsnio nuostatos mutatis mutandis taikomos Valstybinei ligonių kasai atsiskaitant su šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytais ūkio subjektais už medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomą ir už I klasės medicinos priemones bei in vitro diagnostikos priemones, skirtas savikontrolei. ^978991bd900ff86f80b77bd1
 
 
 Straipsnio pakeitimai:
@@ -1588,31 +1587,31 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 ### 28 straipsnis. Privalomojo sveikatos draudimo taryba
 
 
-1. Privalomojo sveikatos draudimo taryba yra trišalio atstovavimo pagrindu sudaryta kolegiali patariamoji institucija. Privalomojo sveikatos draudimo tarybą sudaro, jos sudėtį ir Privalomojo sveikatos draudimo tarybos nuostatus (toliau – Tarybos nuostatai) tvirtina sveikatos apsaugos ministras. ^3a7c4c4d0207c462b3a9c2fa
+1. Privalomojo sveikatos draudimo taryba yra trišalio atstovavimo pagrindu sudaryta kolegiali patariamoji institucija. Privalomojo sveikatos draudimo tarybą sudaro, jos sudėtį ir Privalomojo sveikatos draudimo tarybos nuostatus (toliau – Tarybos nuostatai) tvirtina sveikatos apsaugos ministras. ^703e3b0798d2291538c55107
 
 
-2. Privalomojo sveikatos draudimo taryba atlieka šias funkcijas: ^8ad699fd9a8ce24eac44bb4e
+2. Privalomojo sveikatos draudimo taryba atlieka šias funkcijas: ^e4138260abbd96fbd7d5f5d2
 
 
-1) svarsto perspektyvinius ir einamuosius privalomojo sveikatos draudimo uždavinius; ^48090a11a0b086a1ec37f6ec
+1) svarsto perspektyvinius ir einamuosius privalomojo sveikatos draudimo uždavinius; ^85c377127ce9ec4bc962f4b4
 
 
-2) teikia siūlymus sveikatos apsaugos ministrui dėl asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, sąrašo; ^862007370b00afd4270234ae
+2) teikia siūlymus sveikatos apsaugos ministrui dėl asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, sąrašo; ^7c6c8257c5393d092650dd4d
 
 
-3) teikia išvadą dėl Privalomojo sveikatos draudimo fondo biudžeto projekto, Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio; ^dfe6a873ae6c761d288d9597
+3) teikia išvadą dėl Privalomojo sveikatos draudimo fondo biudžeto projekto, Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio; ^2bb6333b52ba1e97cc5667e7
 
 
-4) teikia siūlymus sveikatos apsaugos ministrui dėl privalomąjį sveikatos draudimą reglamentuojančių teisės aktų; ^3ce8bc37a366ce9f186323ad
+4) teikia siūlymus sveikatos apsaugos ministrui dėl privalomąjį sveikatos draudimą reglamentuojančių teisės aktų; ^372f2dc3bf518a44ec57a1e1
 
 
-5) teikia siūlymus sveikatos apsaugos ministrui dėl Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutarčių, Valstybinės ligonių kasos ir vaistinių ar Valstybinės ligonių kasos ir šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytų ūkio subjektų sutarčių sudarymo tvarkos; ^49a8c04d38a63c7616666998
+5) teikia siūlymus sveikatos apsaugos ministrui dėl Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutarčių, Valstybinės ligonių kasos ir vaistinių ar Valstybinės ligonių kasos ir šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytų ūkio subjektų sutarčių sudarymo tvarkos; ^9e98280385ab3d2961ffdf8a
 
 
-6) nagrinėja Valstybinės ligonių kasos finansinę ir ekonominę veiklą; ^71d8a49bcbb3382e7c11ab5a
+6) nagrinėja Valstybinės ligonių kasos finansinę ir ekonominę veiklą; ^7940e5ec6d0b57aaf8ac99be
 
 
-7) nagrinėja kitus privalomojo sveikatos draudimo klausimus. ^09c41557772bd150c93bc4d1
+7) nagrinėja kitus privalomojo sveikatos draudimo klausimus. ^78a3c2512bdc7a1b9ecd0009
 
 
 Straipsnio dalies pakeitimai:
@@ -1620,16 +1619,16 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 
 
 
-3. Privalomojo sveikatos draudimo tarybą sudaro 15 narių. Privalomojo sveikatos draudimo taryba sudaroma taip, kad būtų vienodai ir lygiateisiškai atstovaujama valstybės institucijoms, draudėjų (darbdavių) organizacijoms ir apdraustųjų interesus ginančioms organizacijoms. Į Privalomojo sveikatos draudimo tarybą įeina: ^2f0966c819ed740c8e5690a2
+3. Privalomojo sveikatos draudimo tarybą sudaro 15 narių. Privalomojo sveikatos draudimo taryba sudaroma taip, kad būtų vienodai ir lygiateisiškai atstovaujama valstybės institucijoms, draudėjų (darbdavių) organizacijoms ir apdraustųjų interesus ginančioms organizacijoms. Į Privalomojo sveikatos draudimo tarybą įeina: ^a268bc4be7505301c9f4f4ea
 
 
-1) penki valstybės institucijų atstovai – po vieną Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Vyriausybės kanceliarijos ir Valstybinės ligonių kasos atstovą – deleguojami Tarybos nuostatuose nustatyta tvarka; ^2e671a7511bfce40fae50477
+1) penki valstybės institucijų atstovai – po vieną Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Vyriausybės kanceliarijos ir Valstybinės ligonių kasos atstovą – deleguojami Tarybos nuostatuose nustatyta tvarka; ^356064808293d5e4795a2d28
 Straipsnio punkto pakeitimai:
 Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
 
 
 
-2) penki draudėjų (darbdavių) atstovai, iš kurių: ^6861971bfec02b15095bf9a7
+2) penki draudėjų (darbdavių) atstovai, iš kurių: ^45af4bdbcba3f741433fca04
 
 
 a) du darbdavių organizacijų atstovai, kurie deleguojami bendru Lietuvos pramonininkų konfederacijos, Lietuvos darbdavių konfederacijos, Lietuvos verslo konfederacijos, Lietuvos Respublikos žemės ūkio rūmų, asociacijos „Investors’ Forum“, Lietuvos prekybos, pramonės ir amatų rūmų asociacijos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkami du darbdavių organizacijų atstovai;
@@ -1650,13 +1649,13 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 d) vienas asmens sveikatos priežiūros įstaigų darbuotojų atstovas, kuris deleguojamas bendru Lietuvos gydytojų sąjungos, Jaunųjų gydytojų asociacijos, Lietuvos slaugos specialistų organizacijos, Lietuvos sveikatos apsaugos darbuotojų profesinės sąjungos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas asmens sveikatos priežiūros įstaigų darbuotojų atstovas;
 
 
-3) penki apdraustųjų atstovai, iš kurių: ^417a0e8830a2a691ad2c8ed9
+3) penki apdraustųjų atstovai, iš kurių: ^acc1b54a953d7aed547540e5
 
 
-a) vienas pacientų interesus ginančių organizacijų atstovas, atrenkamas [[#^08054ead3bac6f8150a5b012|šio straipsnio 4 dalyje]] nustatyta tvarka;
+a) vienas pacientų interesus ginančių organizacijų atstovas, atrenkamas [[#^c55d9d1e2af72d1cf4b85706|šio straipsnio 4 dalyje]] nustatyta tvarka;
 
 
-b) vienas sveiką gyvenseną propaguojančių organizacijų atstovas, atrenkamas [[#^08054ead3bac6f8150a5b012|šio straipsnio 4 dalyje]] nustatyta tvarka;
+b) vienas sveiką gyvenseną propaguojančių organizacijų atstovas, atrenkamas [[#^c55d9d1e2af72d1cf4b85706|šio straipsnio 4 dalyje]] nustatyta tvarka;
 
 
 c) vienas vyresnio amžiaus žmonių ir asmenų su negalia interesus ginančių organizacijų atstovas, deleguojamas bendru Vyresnio amžiaus žmonių reikalų tarybos ir Asmens su negalia gerovės tarybos sutarimu. Jeigu šių organizacijų bendro sutarimo nėra, kiekviena jų sveikatos apsaugos ministrui teikia po vieną kandidatą į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas vyresnio amžiaus žmonių ir asmenų su negalia interesus ginančių organizacijų atstovas;
@@ -1671,61 +1670,61 @@ d) vienas Lietuvos jaunimo organizacijų tarybos deleguotas atstovas;
 e) vienas Lietuvos profesinių sąjungų konfederacijos deleguotas atstovas.
 
 
-4. Likus ne mažiau kaip 40 dienų iki Privalomojo sveikatos draudimo tarybos kadencijos pabaigos, sveikatos apsaugos ministras kreipiasi į [[#^2f0966c819ed740c8e5690a2|šio straipsnio 3 dalies]] 1, 2 punktuose ir 3 punkto c, d, e papunkčiuose nurodytus subjektus dėl naujų narių delegavimo ir viešai paskelbia kvietimą teikti [[#^417a0e8830a2a691ad2c8ed9|šio straipsnio 3 dalies 3 punkto]] a ir b papunkčiuose nurodytų organizacijų kandidatus į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas pacientų interesus ginančių ir vienas sveiką gyvenseną propaguojančių organizacijų atstovas. ^08054ead3bac6f8150a5b012
+4. Likus ne mažiau kaip 40 dienų iki Privalomojo sveikatos draudimo tarybos kadencijos pabaigos, sveikatos apsaugos ministras kreipiasi į [[#^a268bc4be7505301c9f4f4ea|šio straipsnio 3 dalies]] 1, 2 punktuose ir 3 punkto c, d, e papunkčiuose nurodytus subjektus dėl naujų narių delegavimo ir viešai paskelbia kvietimą teikti [[#^acc1b54a953d7aed547540e5|šio straipsnio 3 dalies 3 punkto]] a ir b papunkčiuose nurodytų organizacijų kandidatus į Privalomojo sveikatos draudimo tarybos narius, iš kurių Tarybos nuostatuose nustatyta tvarka atrenkamas vienas pacientų interesus ginančių ir vienas sveiką gyvenseną propaguojančių organizacijų atstovas. ^c55d9d1e2af72d1cf4b85706
 
 
-5. Privalomojo sveikatos draudimo taryba sudaroma dvejų metų kadencijai. Privalomojo sveikatos draudimo tarybos nariu asmuo gali būti ne ilgiau kaip dvi kadencijas iš eilės. ^bfbf34bfb98f3073fc16ee5b
+5. Privalomojo sveikatos draudimo taryba sudaroma dvejų metų kadencijai. Privalomojo sveikatos draudimo tarybos nariu asmuo gali būti ne ilgiau kaip dvi kadencijas iš eilės. ^f6197df033fd9d851169f5f6
 
 
-6. Privalomojo sveikatos draudimo tarybos darbui vadovauja pirmininkas. Sveikatos apsaugos ministrui patvirtinus Privalomojo sveikatos draudimo tarybos sudėtį, ne vėliau kaip per 10 darbo dienų pradedami pirmininko rinkimai. Privalomojo sveikatos draudimo taryba, dalyvaujant ne mažiau kaip 4/5 Privalomojo sveikatos draudimo tarybos narių, iš [[#^2e671a7511bfce40fae50477|šio straipsnio 3 dalies 1 punkte]] nurodytų subjektų renka Privalomojo sveikatos draudimo tarybos pirmininką. Išrinktu laikomas asmuo, surinkęs ne mažiau kaip pusę visų Privalomojo sveikatos draudimo tarybos narių balsų. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, Privalomojo sveikatos draudimo taryba, dalyvaujant ne mažiau kaip 4/5 Privalomojo sveikatos draudimo tarybos narių, Privalomojo sveikatos draudimo tarybos pirmininką renka pakartotiniuose rinkimuose, kuriuose dalyvauja du daugiausia balsų surinkę kandidatai. Išrinktu Privalomojo sveikatos draudimo tarybos pirmininku laikomas asmuo, surinkęs posėdyje dalyvaujančių Privalomojo sveikatos draudimo tarybos narių balsų daugumą. ^96445fb6b1e8e67de2f1ebbd
+6. Privalomojo sveikatos draudimo tarybos darbui vadovauja pirmininkas. Sveikatos apsaugos ministrui patvirtinus Privalomojo sveikatos draudimo tarybos sudėtį, ne vėliau kaip per 10 darbo dienų pradedami pirmininko rinkimai. Privalomojo sveikatos draudimo taryba, dalyvaujant ne mažiau kaip 4/5 Privalomojo sveikatos draudimo tarybos narių, iš [[#^356064808293d5e4795a2d28|šio straipsnio 3 dalies 1 punkte]] nurodytų subjektų renka Privalomojo sveikatos draudimo tarybos pirmininką. Išrinktu laikomas asmuo, surinkęs ne mažiau kaip pusę visų Privalomojo sveikatos draudimo tarybos narių balsų. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, Privalomojo sveikatos draudimo taryba, dalyvaujant ne mažiau kaip 4/5 Privalomojo sveikatos draudimo tarybos narių, Privalomojo sveikatos draudimo tarybos pirmininką renka pakartotiniuose rinkimuose, kuriuose dalyvauja du daugiausia balsų surinkę kandidatai. Išrinktu Privalomojo sveikatos draudimo tarybos pirmininku laikomas asmuo, surinkęs posėdyje dalyvaujančių Privalomojo sveikatos draudimo tarybos narių balsų daugumą. ^803fe289506c6eb98b5d388c
 
 
-7. Privalomojo sveikatos draudimo tarybos nariu gali būti tvirtinamas tik nepriekaištingos reputacijos, turintis aukštąjį universitetinį arba jam prilygintą išsilavinimą Lietuvos Respublikos pilietis. Privalomojo sveikatos draudimo tarybos nariu, atstovaujančiu valstybės institucijoms, gali būti tvirtinamas tik asmuo, turintis ne trumpesnę kaip dvejų metų darbo (valstybės tarnybos) patirtį [[#^2e671a7511bfce40fae50477|šio straipsnio 3 dalies 1 punkte]] nurodytose Privalomojo sveikatos draudimo tarybos narius deleguojančiose valstybės institucijose, o Privalomojo sveikatos draudimo tarybos nariu, atstovaujančiu draudėjų (darbdavių) ir apdraustųjų interesams, – ne trumpesnę kaip dvejų metų narystės (atstovavimo) [[#^2f0966c819ed740c8e5690a2|šio straipsnio 3 dalies]] 2 ir 3 punktuose nurodytose organizacijose patirtį. Kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos, taikomi tokie patys, kokie yra nustatyti Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams. ^a1253f83396ca5e2d67c5f72
+7. Privalomojo sveikatos draudimo tarybos nariu gali būti tvirtinamas tik nepriekaištingos reputacijos, turintis aukštąjį universitetinį arba jam prilygintą išsilavinimą Lietuvos Respublikos pilietis. Privalomojo sveikatos draudimo tarybos nariu, atstovaujančiu valstybės institucijoms, gali būti tvirtinamas tik asmuo, turintis ne trumpesnę kaip dvejų metų darbo (valstybės tarnybos) patirtį [[#^356064808293d5e4795a2d28|šio straipsnio 3 dalies 1 punkte]] nurodytose Privalomojo sveikatos draudimo tarybos narius deleguojančiose valstybės institucijose, o Privalomojo sveikatos draudimo tarybos nariu, atstovaujančiu draudėjų (darbdavių) ir apdraustųjų interesams, – ne trumpesnę kaip dvejų metų narystės (atstovavimo) [[#^a268bc4be7505301c9f4f4ea|šio straipsnio 3 dalies]] 2 ir 3 punktuose nurodytose organizacijose patirtį. Kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos, taikomi tokie patys, kokie yra nustatyti Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams. ^d71c1639dcd6e3adabfce318
 
 
-8. Privalomojo sveikatos draudimo tarybos nariais negali būti: ^0fd08d083b11fb6d7dc7f3f9
+8. Privalomojo sveikatos draudimo tarybos nariais negali būti: ^f523134b07cf52316d0cf924
 
 
-1) įstaigų, įmonių ir organizacijų, kurios verčiasi farmacine veikla, išskyrus asmens sveikatos priežiūros įstaigas, kuriose veikia ligoninės vaistinės, ortopedijos įmonių, medicinos priemonių rinkos subjektų valdymo organų nariai ir darbuotojai bei asmenys, ėję šias pareigas paskutinius vienus metus iki jų patvirtinimo Privalomojo sveikatos draudimo tarybos nariais dienos; ^68deba0b41992062ee9a92ad
+1) įstaigų, įmonių ir organizacijų, kurios verčiasi farmacine veikla, išskyrus asmens sveikatos priežiūros įstaigas, kuriose veikia ligoninės vaistinės, ortopedijos įmonių, medicinos priemonių rinkos subjektų valdymo organų nariai ir darbuotojai bei asmenys, ėję šias pareigas paskutinius vienus metus iki jų patvirtinimo Privalomojo sveikatos draudimo tarybos nariais dienos; ^20a2b57ad03b6b919b1f4ccf
 
 
-2) asmenys, pagal pareigas susiję tarpusavyje tiesioginio pavaldumo santykiais. ^c5ccf537ebdfe0f466be5ecb
+2) asmenys, pagal pareigas susiję tarpusavyje tiesioginio pavaldumo santykiais. ^dcf3c5d3ecff5cb191c290f4
 
 
-9. Privalomojo sveikatos draudimo taryba gali turėti visuomeninių patarėjų. Jų skaičius, funkcijos, kompetencija ir skyrimo (atrankos) tvarka nustatyta Tarybos nuostatuose. ^1dcb46789b84241288a1a04a
+9. Privalomojo sveikatos draudimo taryba gali turėti visuomeninių patarėjų. Jų skaičius, funkcijos, kompetencija ir skyrimo (atrankos) tvarka nustatyta Tarybos nuostatuose. ^2310c992600872b55520ddd5
 
 
-10. Privalomojo sveikatos draudimo tarybos nariai ir visuomeniniai patarėjai privalo deklaruoti privačius interesus Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo ir kitų teisės aktų nustatyta tvarka. ^a72225521549dfaf8c06fec0
+10. Privalomojo sveikatos draudimo tarybos nariai ir visuomeniniai patarėjai privalo deklaruoti privačius interesus Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo ir kitų teisės aktų nustatyta tvarka. ^a4fe01e4a36f695c97d22c33
 
 
-11. Privalomojo sveikatos draudimo tarybos posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip 1/2 Privalomojo sveikatos draudimo tarybos narių. Privalomojo sveikatos draudimo tarybos sprendimai priimami posėdyje dalyvaujančių Privalomojo sveikatos draudimo tarybos narių balsų dauguma. Kai balsai pasiskirsto po lygiai, Privalomojo sveikatos draudimo tarybos pirmininko balsas yra lemiamas. ^0b9dce71c9b823537344e11f
+11. Privalomojo sveikatos draudimo tarybos posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip 1/2 Privalomojo sveikatos draudimo tarybos narių. Privalomojo sveikatos draudimo tarybos sprendimai priimami posėdyje dalyvaujančių Privalomojo sveikatos draudimo tarybos narių balsų dauguma. Kai balsai pasiskirsto po lygiai, Privalomojo sveikatos draudimo tarybos pirmininko balsas yra lemiamas. ^6e27d814cd2e7c2679377f3e
 
 
-12. Privalomojo sveikatos draudimo tarybos nario įgaliojimai nutrūksta, kai: ^bb6f6377dd0cf90698dc196c
+12. Privalomojo sveikatos draudimo tarybos nario įgaliojimai nutrūksta, kai: ^37eed66de478afe8e1739f85
 
 
-1) pasibaigia Privalomojo sveikatos draudimo tarybos kadencijos laikas ir sveikatos apsaugos ministras patvirtina naują Privalomojo sveikatos draudimo tarybos sudėtį; ^85f8427118df921013b338e9
+1) pasibaigia Privalomojo sveikatos draudimo tarybos kadencijos laikas ir sveikatos apsaugos ministras patvirtina naują Privalomojo sveikatos draudimo tarybos sudėtį; ^c3bfbf28a2175a696d464949
 
 
-2) jis miršta; ^cb4ae1c2dd2950a0f2999857
+2) jis miršta; ^d5b0e7817601e02a8ea4f780
 
 
-3) jis atsistatydina ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos; ^70aa98960856a93f4522029d
+3) jis atsistatydina ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos; ^3e3368646b782a9fb769d169
 
 
-4) jį atšaukia deleguojanti institucija ar organizacija ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos; ^9167095569afe07ade48782d
+4) jį atšaukia deleguojanti institucija ar organizacija ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos; ^a8d2596d6763ced7e033b8f4
 
 
-5) teismas pripažįsta jį neveiksniu; ^4f1bbc03d4e3d4f1b47ea43f
+5) teismas pripažįsta jį neveiksniu; ^46a3cf0cad6ba00cfcb3d9b7
 
 
-6) jis neatitinka šio straipsnio 7, 8 ir [[#^a72225521549dfaf8c06fec0|10 dalyse]] nustatytų reikalavimų ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos. ^dc25b4eae66083f79d09bf44
+6) jis neatitinka šio straipsnio 7, 8 ir [[#^a4fe01e4a36f695c97d22c33|10 dalyse]] nustatytų reikalavimų ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos. ^b981e3b8b3ec948ab957b823
 
 
-13. Privalomojo sveikatos draudimo tarybos nario įgaliojimams nutrūkus [[#^bb6f6377dd0cf90698dc196c|šio straipsnio 12 dalies]] 2–6 punktuose nurodytais pagrindais, likusiam Privalomojo sveikatos draudimo tarybos kadencijos laikui į atsilaisvinusią vietą skiriamas naujas tarybos narys [[#^08054ead3bac6f8150a5b012|šio straipsnio 4 dalyje]] nustatyta tvarka. ^843c379c4d737e687a962d20
+13. Privalomojo sveikatos draudimo tarybos nario įgaliojimams nutrūkus [[#^37eed66de478afe8e1739f85|šio straipsnio 12 dalies]] 2–6 punktuose nurodytais pagrindais, likusiam Privalomojo sveikatos draudimo tarybos kadencijos laikui į atsilaisvinusią vietą skiriamas naujas tarybos narys [[#^c55d9d1e2af72d1cf4b85706|šio straipsnio 4 dalyje]] nustatyta tvarka. ^a43f1011db088d3f8a894789
 
 
-14. Tarybos nuostatuose nustatyta tvarka Privalomojo sveikatos draudimo tarybos nario įgaliojimai stabdomi, jeigu jam įstatymų nustatyta tvarka yra pradėtas ikiteisminis tyrimas dėl sunkaus ar labai sunkaus nusikaltimo padarymo, dėl nusikaltimo ar baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimo ar baudžiamojo nusižengimo padarymo ar dėl nusikaltimų, kuriais padaryta turtinė žala valstybei. ^7e3487a3fe59cbd88df97c23
+14. Tarybos nuostatuose nustatyta tvarka Privalomojo sveikatos draudimo tarybos nario įgaliojimai stabdomi, jeigu jam įstatymų nustatyta tvarka yra pradėtas ikiteisminis tyrimas dėl sunkaus ar labai sunkaus nusikaltimo padarymo, dėl nusikaltimo ar baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimo ar baudžiamojo nusižengimo padarymo ar dėl nusikaltimų, kuriais padaryta turtinė žala valstybei. ^809c615f779eb3115e96b048
 
 
 Straipsnio pakeitimai:
@@ -1739,19 +1738,19 @@ Nr. XIII-361, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08720
 ### 29 straipsnis. Valstybinė ligonių kasa
 
 
-1. Valstybinė ligonių kasa veikia pagal šį Įstatymą, Biudžetinių įstaigų įstatymą bei Sveikatos apsaugos ministerijos patvirtintus nuostatus. Biudžetinių įstaigų įstatymas Valstybinei ligonių kasai taikomas tiek, kiek jos veiklos nereglamentuoja šis Įstatymas. ^b09db2eb734f0f115318b855
+1. Valstybinė ligonių kasa veikia pagal šį Įstatymą, Biudžetinių įstaigų įstatymą bei Sveikatos apsaugos ministerijos patvirtintus nuostatus. Biudžetinių įstaigų įstatymas Valstybinei ligonių kasai taikomas tiek, kiek jos veiklos nereglamentuoja šis Įstatymas. ^e280ce5f87dd19d5e7a6152b
 
 
-2. Valstybinės ligonių kasos direktorių Valstybės tarnybos įstatymo nustatyta tvarka skiria ir atleidžia iš pareigų sveikatos apsaugos ministras. ^b35a803a6336e0e98347e174
+2. Valstybinės ligonių kasos direktorių Valstybės tarnybos įstatymo nustatyta tvarka skiria ir atleidžia iš pareigų sveikatos apsaugos ministras. ^346dac6d600b3e5c2e5bc6b7
 
 
-3. Valstybinė ligonių kasa yra juridinis asmuo, išlaikomas iš Privalomojo sveikatos draudimo fondo biudžeto, turintis antspaudą su Lietuvos valstybės herbu ir sąskaitas valstybės ižde ir (arba), kaip nustatyta Valstybės iždo įstatyme, finansų įstaigose. ^ea3a617837b049658d1a183e
+3. Valstybinė ligonių kasa yra juridinis asmuo, išlaikomas iš Privalomojo sveikatos draudimo fondo biudžeto, turintis antspaudą su Lietuvos valstybės herbu ir sąskaitas valstybės ižde ir (arba), kaip nustatyta Valstybės iždo įstatyme, finansų įstaigose. ^b90e5e51ddeb7ef9b4092604
 Straipsnio dalies pakeitimai:
 Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
 
 
 
-4. Už savo veiklą Valstybinė ligonių kasa atskaitinga Sveikatos apsaugos ministerijai. ^4f06488417fa51d7096f5fec
+4. Už savo veiklą Valstybinė ligonių kasa atskaitinga Sveikatos apsaugos ministerijai. ^e4f0295baf5a9f5c524cbaa4
 
 
 
@@ -1761,55 +1760,52 @@ Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
 Valstybinė ligonių kasa atlieka šias funkcijas:
 
 
-1) šio įstatymo nustatyta tvarka rengia Privalomojo sveikatos draudimo fondo biudžeto projektą, Privalomojo sveikatos draudimo fondo ataskaitų rinkinius, vykdo Privalomojo sveikatos draudimo fondo biudžetą; ^319891771b64ee97eb5e0c01
+1) šio įstatymo nustatyta tvarka rengia Privalomojo sveikatos draudimo fondo biudžeto projektą, Privalomojo sveikatos draudimo fondo ataskaitų rinkinius, vykdo Privalomojo sveikatos draudimo fondo biudžetą; ^d6ae3765dd5a67afef3ace29
 
 
-2) sudaro iš Privalomojo sveikatos draudimo fondo biudžeto lėšų rezervą ir šio Įstatymo nustatyta tvarka jį naudoja; ^60bf63d982e58bb03e24fe18
+2) sudaro iš Privalomojo sveikatos draudimo fondo biudžeto lėšų rezervą ir šio Įstatymo nustatyta tvarka jį naudoja; ^080bc985785675253e0da22d
 
 
-3) šio Įstatymo nustatyta tvarka naudoja laikinai laisvas Privalomojo sveikatos draudimo fondo biudžeto lėšas; ^376d793644049179c7e2c584
+3) šio Įstatymo nustatyta tvarka naudoja laikinai laisvas Privalomojo sveikatos draudimo fondo biudžeto lėšas; ^9ce6adc2a4ed059b1b0e4f75
 
 
-4) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūros išlaidas; ^c33818f7598d5b82d659eab0
+4) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūros išlaidas; ^30d032f2d42efa3c5d0028db
 
 
-5) sudaro sutartis su asmens sveikatos priežiūros įstaigomis, vaistinėmis, šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytais ūkio subjektais, šiose sutartyse nustatyta tvarka apmoka apdraustiesiems suteiktas asmens sveikatos priežiūros paslaugas, išduotus vaistus, medicinos pagalbos priemones, I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei, ir medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidas; ^fee9768dd92e05cf2763d96f
+5) sudaro sutartis su asmens sveikatos priežiūros įstaigomis, vaistinėmis, šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytais ūkio subjektais, šiose sutartyse nustatyta tvarka apmoka apdraustiesiems suteiktas asmens sveikatos priežiūros paslaugas, išduotus vaistus, medicinos pagalbos priemones, I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei, ir medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidas; ^2a162a0536753b0e509d2034
 
 
-6) registruoja privalomuoju sveikatos draudimu draudžiamus asmenis Registro informacinės sistemos nuostatuose nustatyta tvarka; ^5119018716c11b14046d1219
-Straipsnio punkto pakeitimai:
-Nr. XV-603, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20815
+6) registruoja privalomuoju sveikatos draudimu draudžiamus asmenis Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatuose nustatyta tvarka; ^0111f444302653694ca04b4e
 
 
-
-7) sudaro su vaistinio preparato registruotojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją, gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis, kuriose numatoma, kad jie į Privalomojo sveikatos draudimo fondą grąžina šiose sutartyse nurodyto dydžio lėšas, gautas už kompensuojamuosius vaistinius preparatus; ^679fc8b3f26f8558c1e4be3e
-
-
-8) vykdo asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, su kuriais sudarė sutartis dėl išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, priežiūrą, vertindama asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, atitiktį teisės aktų reikalavimams ir jų apmokėjimo teisėtumą, taip pat vaistų, medicinos pagalbos priemonių, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, bei medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, išrašymo ir išdavimo teisėtumą bei su tuo susijusią asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų veiklą; ^c76d4d87646a92bb73c343e3
+7) sudaro su vaistinio preparato registruotojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją, gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis, kuriose numatoma, kad jie į Privalomojo sveikatos draudimo fondą grąžina šiose sutartyse nurodyto dydžio lėšas, gautas už kompensuojamuosius vaistinius preparatus; ^37d73860c47a19d7afee107e
 
 
-9) sveikatos apsaugos ministro nustatyta tvarka atlieka finansinę ir ekonominę Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo analizę; ^aa3f2a219c83d5f5a2465513
+8) vykdo asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, su kuriais sudarė sutartis dėl išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, priežiūrą, vertindama asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto, atitiktį teisės aktų reikalavimams ir jų apmokėjimo teisėtumą, taip pat vaistų, medicinos pagalbos priemonių, I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, bei medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, išrašymo ir išdavimo teisėtumą bei su tuo susijusią asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų veiklą; ^b2143fe9f1647503a5031322
 
 
-10) vertina Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų prieinamumą, kiekį, struktūrą ir jų pokyčius; ^e0bc21862dfdb6371fc096b8
+9) sveikatos apsaugos ministro nustatyta tvarka atlieka finansinę ir ekonominę Privalomojo sveikatos draudimo fondo biudžeto lėšų naudojimo analizę; ^9917926399406d14d953890c
 
 
-11) įgyvendina Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas privalomojo sveikatos draudimo srityje; ^2a6f58ea0c43d303a34bf6eb
+10) vertina Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų prieinamumą, kiekį, struktūrą ir jų pokyčius; ^78e22a72a38d8c66f3adf3ec
 
 
-12) šio Įstatymo nustatyta tvarka kompensuoja tarpvalstybinės sveikatos priežiūros išlaidas; ^36a43a20c0c5a968a96981b0
+11) įgyvendina Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas privalomojo sveikatos draudimo srityje; ^0ad9349beb08755a60f418df
 
 
-13) atlieka šio Įstatymo [[#^9888e6236f5fad18bf5a599f|15 straipsnio 5 dalyje]] nurodytas valstybės deleguotas funkcijas; ^806cf6a548f2dbf9e2d30436
+12) šio Įstatymo nustatyta tvarka kompensuoja tarpvalstybinės sveikatos priežiūros išlaidas; ^8cb72b63f0fed095c80d7a93
 
 
-14) Valstybinės ligonių kasos interneto svetainėje skelbia informaciją apie savo veiklą, informuoja apie Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą, jos teikimo sąlygas ir tvarką; ^e82d29d377e1af0b5d474850
+13) atlieka šio Įstatymo [[#^9888e6236f5fad18bf5a599f|15 straipsnio 5 dalyje]] nurodytas valstybės deleguotas funkcijas; ^f88aa07844801f381fc14f88
 
 
-15) konsultuoja apdraustuosius ir draudžiamuosius privalomojo sveikatos draudimo klausimais; ^9edb09315438660de0cb2e0a
+14) Valstybinės ligonių kasos interneto svetainėje skelbia informaciją apie savo veiklą, informuoja apie Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą, jos teikimo sąlygas ir tvarką; ^ac66876557d2c415c72dfa18
 
 
-16) atlieka kitas šiame Įstatyme, Valstybinės ligonių kasos nuostatuose ir kituose teisės aktuose nustatytas funkcijas. ^db3f59b01d6fe8f6260ef5b0
+15) konsultuoja apdraustuosius ir draudžiamuosius privalomojo sveikatos draudimo klausimais; ^a41357095335ca08e65d2ff2
+
+
+16) atlieka kitas šiame Įstatyme, Valstybinės ligonių kasos nuostatuose ir kituose teisės aktuose nustatytas funkcijas. ^cfe1cb7e4f7de92c2ddd3ad9
 
 
 Straipsnio pakeitimai:
@@ -1820,37 +1816,37 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 31 straipsnis. Valstybinės ligonių kasos teisės
 
 
-1. Valstybinė ligonių kasa turi teisę: ^5bb6c1c5782b57d9fab251b1
+1. Valstybinė ligonių kasa turi teisę: ^685346e45513503d80eccd1f
 
 
-1) įstatymų ir kitų teisės aktų, reglamentuojančių Privalomojo sveikatos draudimo fondo biudžeto sudarymą, vykdymą bei atskaitomybę, nustatyta tvarka naudoti jai perduotas Privalomojo sveikatos draudimo fondo biudžeto lėšas, kitas teisėtai įgytas lėšas ir turtą; ^5c628c9d79a947df3339146f
+1) įstatymų ir kitų teisės aktų, reglamentuojančių Privalomojo sveikatos draudimo fondo biudžeto sudarymą, vykdymą bei atskaitomybę, nustatyta tvarka naudoti jai perduotas Privalomojo sveikatos draudimo fondo biudžeto lėšas, kitas teisėtai įgytas lėšas ir turtą; ^0aad3a5dbbbbc00c61353938
 
 
-2) įstatymų ir kitų teisės aktų, reglamentuojančių sutarčių sudarymą, nustatyta tvarka sudaryti sutartis; ^9924c7c7042859a8a3bb6207
+2) įstatymų ir kitų teisės aktų, reglamentuojančių sutarčių sudarymą, nustatyta tvarka sudaryti sutartis; ^8106c329f6a25b4fef06987b
 
 
-3) tikrinti, ar teisingai išrašomos asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytų ūkio subjektų sąskaitos, ir su tuo susijusius finansinės apskaitos bei kitus dokumentus; ^22130e224917a7ac531923db
+3) tikrinti, ar teisingai išrašomos asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytų ūkio subjektų sąskaitos, ir su tuo susijusius finansinės apskaitos bei kitus dokumentus; ^c2e1a708261b34ed94f6e17c
 
 
-4) reikalauti grąžinti neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas ir (ar) išieškoti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, inter alia, žalą, atsiradusią tais atvejais, kai už sveikatos priežiūros paslaugas, suteiktas apdraustajam dėl fizinių ar juridinių asmenų jo sveikatai padarytos žalos, sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. Privalomojo sveikatos draudimo fondo biudžetui padaryta žala pripažįstama mažareikšme ir neišieškoma, jeigu jos išieškojimo išlaidos yra didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką ir mažareikšmės žalos dydį nustato sveikatos apsaugos ministras; ^1d4b4621cc8b22b4653dc088
+4) reikalauti grąžinti neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas ir (ar) išieškoti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, inter alia, žalą, atsiradusią tais atvejais, kai už sveikatos priežiūros paslaugas, suteiktas apdraustajam dėl fizinių ar juridinių asmenų jo sveikatai padarytos žalos, sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. Privalomojo sveikatos draudimo fondo biudžetui padaryta žala pripažįstama mažareikšme ir neišieškoma, jeigu jos išieškojimo išlaidos yra didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką ir mažareikšmės žalos dydį nustato sveikatos apsaugos ministras; ^bec740cf4980b30fbc4d0efc
 
 
-5) įstatymų, reglamentuojančių vertybinių popierių valdymą ir disponavimą jais, nustatyta tvarka valdyti vertybinius popierius ir jais disponuoti; ^802c82df684a2dc6922a520b
+5) įstatymų, reglamentuojančių vertybinių popierių valdymą ir disponavimą jais, nustatyta tvarka valdyti vertybinius popierius ir jais disponuoti; ^e0979c616650fecb6ad6967f
 
 
-6) tvarkyti draudžiamųjų privalomuoju sveikatos draudimu asmens duomenis, įskaitant specialiųjų kategorijų asmens duomenis, privalomojo sveikatos draudimo vykdymo tikslais; ^de09a83f3354323829d1356b
+6) tvarkyti draudžiamųjų privalomuoju sveikatos draudimu asmens duomenis, įskaitant specialiųjų kategorijų asmens duomenis, privalomojo sveikatos draudimo vykdymo tikslais; ^a0131780f81ca88bdf4337b3
 
 
-7) įstatymų ir kitų teisės aktų, reglamentuojančių informacijos teikimą, nustatyta tvarka nemokamai gauti iš ministerijų, Vyriausybės įstaigų, savivaldybių institucijų, Valstybinio socialinio draudimo fondo administravimo įstaigų, asmens sveikatos priežiūros įstaigų, kitų įmonių, įstaigų bei organizacijų informaciją, būtiną Valstybinės ligonių kasos funkcijoms atlikti. Tokios informacijos sąrašas nustatomas Valstybinės ligonių kasos nuostatuose; ^f632fd3efae4ebb3e73f51f6
+7) įstatymų ir kitų teisės aktų, reglamentuojančių informacijos teikimą, nustatyta tvarka nemokamai gauti iš ministerijų, Vyriausybės įstaigų, savivaldybių institucijų, Valstybinio socialinio draudimo fondo administravimo įstaigų, asmens sveikatos priežiūros įstaigų, kitų įmonių, įstaigų bei organizacijų informaciją, būtiną Valstybinės ligonių kasos funkcijoms atlikti. Tokios informacijos sąrašas nustatomas Valstybinės ligonių kasos nuostatuose; ^5867daf8aeb4aec199257875
 
 
-8) Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka teikti ieškinius; ^c2b57cfc77562b47a0ef5384
+8) Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka teikti ieškinius; ^3a3f5a87300abf7d78fa15cd
 
 
-9) teikti siūlymus Sveikatos apsaugos ministerijai, Privalomojo sveikatos draudimo tarybai ir kitoms institucijoms dėl privalomojo sveikatos draudimo organizavimo, šį draudimą reglamentuojančių teisės aktų tobulinimo. ^fedea0612a503efb00ba7ead
+9) teikti siūlymus Sveikatos apsaugos ministerijai, Privalomojo sveikatos draudimo tarybai ir kitoms institucijoms dėl privalomojo sveikatos draudimo organizavimo, šį draudimą reglamentuojančių teisės aktų tobulinimo. ^97f6f08943d3719a70860bf4
 
 
-2. Valstybinė ligonių kasa turi ir kitų teisių, kurios nustatytos įstatymuose, Valstybinės ligonių kasos nuostatuose ir kituose teisės aktuose. ^ff086a5d32e56cfd2d7c2078
+2. Valstybinė ligonių kasa turi ir kitų teisių, kurios nustatytos įstatymuose, Valstybinės ligonių kasos nuostatuose ir kituose teisės aktuose. ^0cac708201ae2ae042fbe194
 
 
 Straipsnio pakeitimai:
@@ -1861,40 +1857,40 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 311 straipsnis. Valstybinės ligonių kasos direktoriaus sprendimai, priimami vykdant asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa, veiklos priežiūrą
 
 
-1. Valstybinės ligonių kasos direktorius, vykdydamas asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytas sutartis su Valstybine ligonių kasa, veiklos priežiūrą, priima šiuos sprendimus dėl poveikio priemonių taikymo: ^b5629409d5ec9b769e5b1c7c
+1. Valstybinės ligonių kasos direktorius, vykdydamas asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytas sutartis su Valstybine ligonių kasa, veiklos priežiūrą, priima šiuos sprendimus dėl poveikio priemonių taikymo: ^d8fdff1eb50ca0167efc8288
 
 
-1) sustabdyti sutarties vykdymą arba nutraukti sutartį su asmens sveikatos priežiūros įstaiga dėl tų asmens sveikatos priežiūros paslaugų, dėl kurių sustabdytas ar panaikintas licencijos asmens sveikatos priežiūros veiklai galiojimas, sustabdyti sutarties vykdymą arba nutraukti sutartį su vaistine, jeigu sustabdomas ar panaikinamas vaistinės veiklos licencijos galiojimas (sutarties vykdymas stabdomas iki atitinkamos licencijos galiojimo sustabdymo panaikinimo dienos); ^f976eb4b6260ed0443dfdae9
+1) sustabdyti sutarties vykdymą arba nutraukti sutartį su asmens sveikatos priežiūros įstaiga dėl tų asmens sveikatos priežiūros paslaugų, dėl kurių sustabdytas ar panaikintas licencijos asmens sveikatos priežiūros veiklai galiojimas, sustabdyti sutarties vykdymą arba nutraukti sutartį su vaistine, jeigu sustabdomas ar panaikinamas vaistinės veiklos licencijos galiojimas (sutarties vykdymas stabdomas iki atitinkamos licencijos galiojimo sustabdymo panaikinimo dienos); ^c67655feab62694ec90d9c04
 
 
-2) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui pašalinti įstatymų ir (arba) kitų teisės aktų pažeidimus; ^b7316bf863e3aaecc0d252d1
+2) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui pašalinti įstatymų ir (arba) kitų teisės aktų pažeidimus; ^dfd62d1f1b39ac2b3246a04e
 
 
-3) įpareigoti grąžinti asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas; ^5cae7980fa972b0dfa088a9a
+3) įpareigoti grąžinti asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas; ^0e11dfcc0a6d5da5f42afaf4
 
 
-4) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui grąžinti apdraustajam neteisėtai paimtą iš jo mokestį už asmens sveikatos priežiūros paslaugas, vaistus, medicinos pagalbos priemones ir medicinos priemones, jeigu asmens sveikatos priežiūros paslaugas ir (arba) vaistus, medicinos pagalbos priemones ir (arba) medicinos priemones jis turėjo gauti nemokamai; ^98754cc379cc6fb7cec232f5
+4) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui grąžinti apdraustajam neteisėtai paimtą iš jo mokestį už asmens sveikatos priežiūros paslaugas, vaistus, medicinos pagalbos priemones ir medicinos priemones, jeigu asmens sveikatos priežiūros paslaugas ir (arba) vaistus, medicinos pagalbos priemones ir (arba) medicinos priemones jis turėjo gauti nemokamai; ^f7d9f6610c5e75c3f7a33150
 
 
-5) 30 kalendorinių dienų sustabdyti sutarties arba jos dalies vykdymą dėl tų asmens sveikatos priežiūros paslaugų, vaistų, medicinos pagalbos priemonių ar medicinos priemonių nuomos, dėl kurių priimtas šios dalies 2–[[#^98754cc379cc6fb7cec232f5|4 punktuose]] nurodytas sprendimas nebuvo įvykdytas per 30 kalendorinių dienų nuo jo priėmimo dienos, o neįvykdžius šio sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos, nutraukti sutartį arba jos dalį. ^348b8207006eda4e40330d73
+5) 30 kalendorinių dienų sustabdyti sutarties arba jos dalies vykdymą dėl tų asmens sveikatos priežiūros paslaugų, vaistų, medicinos pagalbos priemonių ar medicinos priemonių nuomos, dėl kurių priimtas šios dalies 2–[[#^f7d9f6610c5e75c3f7a33150|4 punktuose]] nurodytas sprendimas nebuvo įvykdytas per 30 kalendorinių dienų nuo jo priėmimo dienos, o neįvykdžius šio sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos, nutraukti sutartį arba jos dalį. ^01cae60394de5f530ceca718
 
 
-2. Nustačius įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimo faktą, kuris vertintinas kaip mažareikšmis teisės aktų reikalavimų pažeidimas, Valstybinės ligonių kasos direktoriaus [[#^348b8207006eda4e40330d73|šio straipsnio 1 dalies 5 punkte]] nurodytas sprendimas nutraukti sutartį arba jos dalį neįvykdžius šios dalies 2–4 punktuose nurodyto sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos negali būti priimamas. Jei mažareikšmį teisės aktų reikalavimų pažeidimą galima ištaisyti nedelsiant, dalyvaujant asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, tokio pažeidimo tyrimas nutraukiamas, įstatymų numatytos kitos poveikio priemonės neskiriamos, o ūkio subjektui pareiškiama žodinė pastaba. Tais atvejais, kai mažareikšmio teisės aktų reikalavimų pažeidimo nedelsiant, dalyvaujant ūkio subjektų veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, ištaisyti negalima, ūkio subjektui pateikiamas rašytinis nurodymas pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą ir nustatomas protingas pažeidimo pašalinimo terminas, kuris gali būti pratęstas vieną kartą. Įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimų, kurie laikomi mažareikšmiais, kriterijų aprašą, taip pat šių pažeidimų pašalinimo terminus tvirtina sveikatos apsaugos ministras ar jo įgaliota institucija. ^ae7dd82e5203719cd527fa9d
+2. Nustačius įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimo faktą, kuris vertintinas kaip mažareikšmis teisės aktų reikalavimų pažeidimas, Valstybinės ligonių kasos direktoriaus [[#^01cae60394de5f530ceca718|šio straipsnio 1 dalies 5 punkte]] nurodytas sprendimas nutraukti sutartį arba jos dalį neįvykdžius šios dalies 2–4 punktuose nurodyto sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos negali būti priimamas. Jei mažareikšmį teisės aktų reikalavimų pažeidimą galima ištaisyti nedelsiant, dalyvaujant asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, tokio pažeidimo tyrimas nutraukiamas, įstatymų numatytos kitos poveikio priemonės neskiriamos, o ūkio subjektui pareiškiama žodinė pastaba. Tais atvejais, kai mažareikšmio teisės aktų reikalavimų pažeidimo nedelsiant, dalyvaujant ūkio subjektų veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, ištaisyti negalima, ūkio subjektui pateikiamas rašytinis nurodymas pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą ir nustatomas protingas pažeidimo pašalinimo terminas, kuris gali būti pratęstas vieną kartą. Įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimų, kurie laikomi mažareikšmiais, kriterijų aprašą, taip pat šių pažeidimų pašalinimo terminus tvirtina sveikatos apsaugos ministras ar jo įgaliota institucija. ^8bafc7029b11f1868d399a2b
 
 
-3. Valstybinės ligonių kasos direktoriaus [[#^b5629409d5ec9b769e5b1c7c|šio straipsnio 1 dalies]] 2–5 punktuose nurodyti sprendimai turi būti priimti ne vėliau kaip per 3 mėnesius nuo asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir 262 nurodytas sutartis su Valstybine ligonių kasa, veiklos patikrinimo atlikimo dienos. Valstybinės ligonių kasos direktoriaus [[#^f976eb4b6260ed0443dfdae9|šio straipsnio 1 dalies 1 punkte]] nurodytas sprendimas priimamas ne vėliau kaip per 5 darbo dienas nuo informacijos apie licencijos galiojimo sustabdymą ar panaikinimą gavimo dienos. ^30d48ea5e846ac5025adb57c
+3. Valstybinės ligonių kasos direktoriaus [[#^d8fdff1eb50ca0167efc8288|šio straipsnio 1 dalies]] 2–5 punktuose nurodyti sprendimai turi būti priimti ne vėliau kaip per 3 mėnesius nuo asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir 262 nurodytas sutartis su Valstybine ligonių kasa, veiklos patikrinimo atlikimo dienos. Valstybinės ligonių kasos direktoriaus [[#^c67655feab62694ec90d9c04|šio straipsnio 1 dalies 1 punkte]] nurodytas sprendimas priimamas ne vėliau kaip per 5 darbo dienas nuo informacijos apie licencijos galiojimo sustabdymą ar panaikinimą gavimo dienos. ^badf927addcef9575bdb9dce
 
 
-4. Valstybinės ligonių kasos direktorius, prieš priimdamas [[#^b5629409d5ec9b769e5b1c7c|šio straipsnio 1 dalies]] 2–5 punktuose nurodytus sprendimus, nustato tikrintai asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui 14 dienų terminą paaiškinimams pateikti. ^0289d0f96c106b949698d804
+4. Valstybinės ligonių kasos direktorius, prieš priimdamas [[#^d8fdff1eb50ca0167efc8288|šio straipsnio 1 dalies]] 2–5 punktuose nurodytus sprendimus, nustato tikrintai asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui 14 dienų terminą paaiškinimams pateikti. ^5926f4fdb3dc7557fcec94e2
 
 
-5. Asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto įgaliotų asmenų paaiškinimų nepateikimas ar neatvykimas į svarstymą, apie kurį asmens sveikatos priežiūros įstaiga, vaistinė ar kitas ūkio subjektas buvo tinkamai informuoti, netrukdo priimti [[#^b5629409d5ec9b769e5b1c7c|šio straipsnio 1 dalyje]] nurodytų sprendimų. ^04971b0d2cf6a3e8a7837429
+5. Asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto įgaliotų asmenų paaiškinimų nepateikimas ar neatvykimas į svarstymą, apie kurį asmens sveikatos priežiūros įstaiga, vaistinė ar kitas ūkio subjektas buvo tinkamai informuoti, netrukdo priimti [[#^d8fdff1eb50ca0167efc8288|šio straipsnio 1 dalyje]] nurodytų sprendimų. ^1cdda86f68dcedc46424e095
 
 
-6. Valstybinės ligonių kasos direktoriaus priimti [[#^b5629409d5ec9b769e5b1c7c|šio straipsnio 1 dalyje]] nurodyti sprendimai ne vėliau kaip per 3 darbo dienas nuo jų priėmimo dienos pateikiami asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui. ^aeb7f440868fb27576ff16e9
+6. Valstybinės ligonių kasos direktoriaus priimti [[#^d8fdff1eb50ca0167efc8288|šio straipsnio 1 dalyje]] nurodyti sprendimai ne vėliau kaip per 3 darbo dienas nuo jų priėmimo dienos pateikiami asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui. ^7f75cca04257163719f0b3cd
 
 
-7. Valstybinės ligonių kasos direktoriaus [[#^b5629409d5ec9b769e5b1c7c|šio straipsnio 1 dalyje]] nurodyti sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Apskundimas nesustabdo šių sprendimų vykdymo. ^aa258b8a9f78ecd3900b63d5
+7. Valstybinės ligonių kasos direktoriaus [[#^d8fdff1eb50ca0167efc8288|šio straipsnio 1 dalyje]] nurodyti sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Apskundimas nesustabdo šių sprendimų vykdymo. ^afe7d61708e24ca1381cc95e
 
 
 Papildyta straipsniu:
@@ -1949,107 +1945,107 @@ APDRAUSTŲJŲ TEISĖS IR ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ, VAISTINIŲ IR 
 Apdraustieji turi teisę:
 
 
-1) asmens sveikatos priežiūros paslaugų teikimą reglamentuojančių įstatymų nustatyta tvarka pasirinkti asmens sveikatos priežiūros įstaigą, su kuria Valstybinė ligonių kasa yra sudariusi sutartį; ^25cc3954335e8ffdf1c754cf
+1) asmens sveikatos priežiūros paslaugų teikimą reglamentuojančių įstatymų nustatyta tvarka pasirinkti asmens sveikatos priežiūros įstaigą, su kuria Valstybinė ligonių kasa yra sudariusi sutartį; ^1557fa23654c99daaa72944b
 
 
-2) šio Įstatymo nustatyta tvarka ir pagrindais gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą; ^6ad8faaae02cb74713e43e54
+2) šio Įstatymo nustatyta tvarka ir pagrindais gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą; ^334b98d64ce679a1bc1b3b07
 
 
-3) Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse, Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje ar Šveicarijos Konfederacijoje; ^e257bf21c3b6215ef9bc3ef9
+3) Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamą sveikatos priežiūrą kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse, Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje ar Šveicarijos Konfederacijoje; ^e9d78eb432ce5ccda6673f8f
 
 
-4) šio Įstatymo nustatyta tvarka gauti tarpvalstybinės sveikatos priežiūros išlaidų kompensaciją iš Privalomojo sveikatos draudimo fondo biudžeto; ^49e76c77d9a025cc9e8ced6f
+4) šio Įstatymo nustatyta tvarka gauti tarpvalstybinės sveikatos priežiūros išlaidų kompensaciją iš Privalomojo sveikatos draudimo fondo biudžeto; ^34cba362220b6131a36a3299
 
 
-5) gauti iš asmens sveikatos priežiūros įstaigos, su kuria Valstybinė ligonių kasa yra sudariusi sutartį, informaciją apie teikiamų asmens sveikatos priežiūros paslaugų mastą, teikimo sąlygas ir vietą; ^2db6487bb48bdf14a234caf8
+5) gauti iš asmens sveikatos priežiūros įstaigos, su kuria Valstybinė ligonių kasa yra sudariusi sutartį, informaciją apie teikiamų asmens sveikatos priežiūros paslaugų mastą, teikimo sąlygas ir vietą; ^3b27bd1fc3f7061a37f28074
 
 
-6) susipažinti su šio Įstatymo 26, 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytomis sutartimis; ^d6ff0f8c59abf489a89ff4c4
+6) susipažinti su šio Įstatymo 26, 261 ir [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsniuose]] nurodytomis sutartimis; ^5e9a9053ab97aad1580071c1
 
 
-7) kreiptis į Valstybinę ligonių kasą, teismą dėl įstatymų ar kitų teisės aktų, reguliuojančių privalomąjį sveikatos draudimą, pažeidimų. ^5586eb2aecbde86c091b6c4c
+7) kreiptis į Valstybinę ligonių kasą, teismą dėl įstatymų ar kitų teisės aktų, reguliuojančių privalomąjį sveikatos draudimą, pažeidimų. ^482f7e5ae90448313a9713de
 
 
 
 ### 39 straipsnis. Asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa, pareigos
 
 
-1. Asmens sveikatos priežiūros įstaigos, sudariusios sutartis su Valstybine ligonių kasa, privalo: ^71f35dc091088fad8eb99f9b
+1. Asmens sveikatos priežiūros įstaigos, sudariusios sutartis su Valstybine ligonių kasa, privalo: ^e7e1f48eef0a3e6149db24dd
 
 
-1) užtikrinti apdraustiesiems privalomojo sveikatos draudimo garantuojamų asmens sveikatos priežiūros paslaugų teikimą, jų kokybę ir prieinamumą; ^ffaf92e338fe849282a1efaf
+1) užtikrinti apdraustiesiems privalomojo sveikatos draudimo garantuojamų asmens sveikatos priežiūros paslaugų teikimą, jų kokybę ir prieinamumą; ^811e6d515ebbf1d8dac6443b
 
 
-2) užtikrinti informacijos apie asmens sveikatą konfidencialumą, išskyrus pacientų teises ir asmens duomenų tvarkymą reglamentuojančiuose teisės aktuose nustatytus atvejus; ^07d91f71945b23c999bffd5e
+2) užtikrinti informacijos apie asmens sveikatą konfidencialumą, išskyrus pacientų teises ir asmens duomenų tvarkymą reglamentuojančiuose teisės aktuose nustatytus atvejus; ^8f8cd9963c73b5e6e2b13ae9
 
 
-3) garantuoti, kad visi apdraustieji turėtų lygias teises, kai jiems teikiamos asmens sveikatos priežiūros paslaugos; ^516379a32c3885d810027a07
+3) garantuoti, kad visi apdraustieji turėtų lygias teises, kai jiems teikiamos asmens sveikatos priežiūros paslaugos; ^554d2249df60bdf6000ed2de
 
 
-4) laiku teikti Valstybinės ligonių kasos direktoriaus nustatytą informaciją Valstybinei ligonių kasai; ^03e7a4ab2d938883138154ee
+4) laiku teikti Valstybinės ligonių kasos direktoriaus nustatytą informaciją Valstybinei ligonių kasai; ^01e923ed458bfcdf4bec9ac1
 
 
-5) teikti informaciją apdraustiesiems apie nekompensuojamas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų asmens sveikatos priežiūros paslaugas, jų teikimo sąlygas ir tvarką; ^ccbecf5e3192b80eea423082
+5) teikti informaciją apdraustiesiems apie nekompensuojamas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų asmens sveikatos priežiūros paslaugas, jų teikimo sąlygas ir tvarką; ^2dc66a9b5f5161e3daa3d372
 
 
-6) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl netinkamai suteiktų asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ar pateiktų neteisingų duomenų dėl asmens sveikatos priežiūros paslaugų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis; ^c6f554a09481b24fa3be496e
+6) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl netinkamai suteiktų asmens sveikatos priežiūros paslaugų, apmokamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ar pateiktų neteisingų duomenų dėl asmens sveikatos priežiūros paslaugų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis; ^d727dac56d3167da80ab2986
 
 
-7) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^c7f57f3344de1d8cfdc68e44
+7) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^709f74ae21d8d436a03e86f9
 
 
-2. Vaistinės, sudariusios sutartis su Valstybine ligonių kasa, privalo: ^5dfdfb3a3481522c9409f0c8
+2. Vaistinės, sudariusios sutartis su Valstybine ligonių kasa, privalo: ^389925c4b33b641f5964639e
 
 
-1) užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamaisiais vaistais ir medicinos pagalbos priemonėmis sveikatos apsaugos ministro nustatyta tvarka ir terminais; ^c4f245a181ca91650628f20d
+1) užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamaisiais vaistais ir medicinos pagalbos priemonėmis sveikatos apsaugos ministro nustatyta tvarka ir terminais; ^3724e28bfa3a720d1a6edf5d
 
 
-2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai ataskaitas ir informaciją apie kompensuojamųjų vaistų ir medicinos pagalbos priemonių išdavimą (pardavimą); ^f2061a64402bfce4159a3ea5
+2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai ataskaitas ir informaciją apie kompensuojamųjų vaistų ir medicinos pagalbos priemonių išdavimą (pardavimą); ^127ebaf812fb2c5cf76db65b
 
 
-3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti vaistinių priežiūrą vertinant vaistų ir medicinos pagalbos priemonių, kompensuojamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, išdavimo teisėtumą; ^5926fb00a266de958fac2bfc
+3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti vaistinių priežiūrą vertinant vaistų ir medicinos pagalbos priemonių, kompensuojamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, išdavimo teisėtumą; ^8c9593c562516fab6bfa2618
 
 
-4) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl neteisėtai išduotų (parduotų) vaistų ar medicinos pagalbos priemonių ar pateiktų neteisingų duomenų dėl vaistų ar medicinos pagalbos priemonių apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis; ^c75ed7630283f5deabcee6bc
+4) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl neteisėtai išduotų (parduotų) vaistų ar medicinos pagalbos priemonių ar pateiktų neteisingų duomenų dėl vaistų ar medicinos pagalbos priemonių apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis; ^e0555df2a2f221449276444e
 
 
-5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^78646ed7d6e47c10bd91e93c
+5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^2887c84d939c2e6b3f70d6e3
 
 
-3. Šio Įstatymo [[#261 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo|261 straipsnyje]] nurodyti ūkio subjektai, sudarę sutartis su Valstybine ligonių kasa, privalo: ^79618fc604178fa1aea265a1
+3. Šio Įstatymo [[#261 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo|261 straipsnyje]] nurodyti ūkio subjektai, sudarę sutartis su Valstybine ligonių kasa, privalo: ^df0c26c029ea8465c50f10f3
 
 
-1) sveikatos apsaugos ministro nustatyta tvarka ir terminais užtikrinti apdraustųjų aprūpinimą medicinos priemonėmis, kurios būtinos jų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^8a26c952262e62742cfbcdbf
+1) sveikatos apsaugos ministro nustatyta tvarka ir terminais užtikrinti apdraustųjų aprūpinimą medicinos priemonėmis, kurios būtinos jų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^892825106bd1d57061d51c7b
 
 
-2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai informaciją apie medicinos priemones, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^e8a2094d567e9100145f9eba
+2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai informaciją apie medicinos priemones, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^21b7aeaa502fdee5c1400566
 
 
-3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti ūkio subjektų priežiūrą vertinant medicinos priemonių, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, išdavimo teisėtumą; ^cc2e2e3c75e4c59bcdfacbba
+3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti ūkio subjektų priežiūrą vertinant medicinos priemonių, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, išdavimo teisėtumą; ^c21c377109b59df64949ea9b
 
 
-4) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl neteisėtai išduotų medicinos priemonių, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuotos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ar pateiktų neteisingų duomenų dėl nuomos išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis; ^9eebb66529dac7ac7703a015
+4) atlyginti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, jeigu ji atsirado dėl neteisėtai išduotų medicinos priemonių, kurios būtinos apdraustųjų sveikatos priežiūrai namuose užtikrinti ir kurių nuomos išlaidos kompensuotos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ar pateiktų neteisingų duomenų dėl nuomos išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis; ^3258f4215a1626951c905af3
 
 
-5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^8ee0503ffec956d3baa3571e
+5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^58e099a97ce9235485f0aa38
 
 
-4. Šio Įstatymo [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsnyje]] nurodyti ūkio subjektai, sudarę sutartis su Valstybine ligonių kasa, privalo: ^2ecf9124bdfec17171d10b66
+4. Šio Įstatymo [[#262 straipsnis. Valstybinės ligonių kasos sutartys su ūkio subjektais dėl medicinos pagalbos priemonių apmokėjimo|262 straipsnyje]] nurodyti ūkio subjektai, sudarę sutartis su Valstybine ligonių kasa, privalo: ^3f97449d38b2aaf4fa127675
 
 
-1) sveikatos apsaugos ministro nustatyta tvarka ir terminais užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamomis I klasės medicinos priemonėmis ir in vitro diagnostikos priemonėmis, skirtomis savikontrolei; ^73d92f8b457489134bc945d5
+1) sveikatos apsaugos ministro nustatyta tvarka ir terminais užtikrinti apdraustųjų aprūpinimą iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamomis I klasės medicinos priemonėmis ir in vitro diagnostikos priemonėmis, skirtomis savikontrolei; ^ed064dcccb68f30eab6b01c3
 
 
-2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai ataskaitas ir informaciją apie iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimą (pardavimą); ^594ba9deef785cd1fab63496
+2) sutartyje su Valstybine ligonių kasa nurodytais terminais teikti Valstybinei ligonių kasai ataskaitas ir informaciją apie iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimą (pardavimą); ^0521f2f2aa8df7a70811212d
 
 
-3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti ūkio subjektų priežiūrą vertinant iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimo teisėtumą; ^11d200e0ed97298f08170512
+3) sudaryti sąlygas Valstybinei ligonių kasai vykdyti ūkio subjektų priežiūrą vertinant iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, išdavimo teisėtumą; ^3c28a7d28e878dfd46163831
 
 
-4) atlyginti žalą Privalomojo sveikatos draudimo fondo biudžetui, jeigu ji buvo padaryta dėl neteisėtai išduotų (parduotų) iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, ar pateiktų neteisingų duomenų dėl I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^78d629fc5949b960be94d7a6
+4) atlyginti žalą Privalomojo sveikatos draudimo fondo biudžetui, jeigu ji buvo padaryta dėl neteisėtai išduotų (parduotų) iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamų I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, ar pateiktų neteisingų duomenų dėl I klasės medicinos priemonių ir in vitro diagnostikos priemonių, skirtų savikontrolei, apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto lėšų; ^63cf66e82cf22c2c46e2ad2b
 
 
-5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^c43bcd47712e9d9f07640494
+5) vykdyti Valstybinės ligonių kasos direktoriaus pagal kompetenciją priimtus sprendimus. ^4c49747fd52b74d5991b1500
 
 
 Skyriaus pakeitimai:
@@ -2102,14 +2098,14 @@ Papildomojo (savanoriškojo) sveikatos draudimo institucijos yra draudimo įmon�
 ### 43 straipsnis. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai
 
 
-1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotos papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytos ligos, sveikatos sutrikimai ar sveikatos būklės, kurie yra pagrindas teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas. ^4a2cc9983a1fe2c9dc12463f
+1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotos papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytos ligos, sveikatos sutrikimai ar sveikatos būklės, kurie yra pagrindas teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas. ^c88b824189e25ebbf700981c
 Straipsnio dalies pakeitimai:
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 Nr. XIV-2194, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20774
 
 
 
-2. Papildomojo (savanoriškojo) sveikatos draudimo lėšomis apmokamos sveikatos priežiūros paslaugų išlaidos, taip pat išlaidos kompensuojamiesiems vaistams, kurių neapmoka Privalomojo sveikatos draudimo fondo biudžetas, valstybės ar savivaldybių biudžetai. Papildomojo (savanoriškojo) sveikatos draudimo lėšomis gali būti apmokama ir ta sveikatos priežiūros paslaugų ar išlaidų kompensuojamiesiems vaistams dalis, kuri neapmokama Privalomojo sveikatos draudimo fondo biudžeto, valstybės ar savivaldybių biudžetų lėšomis. ^0740ff6018fc34f12b3b8cb8
+2. Papildomojo (savanoriškojo) sveikatos draudimo lėšomis apmokamos sveikatos priežiūros paslaugų išlaidos, taip pat išlaidos kompensuojamiesiems vaistams, kurių neapmoka Privalomojo sveikatos draudimo fondo biudžetas, valstybės ar savivaldybių biudžetai. Papildomojo (savanoriškojo) sveikatos draudimo lėšomis gali būti apmokama ir ta sveikatos priežiūros paslaugų ar išlaidų kompensuojamiesiems vaistams dalis, kuri neapmokama Privalomojo sveikatos draudimo fondo biudžeto, valstybės ar savivaldybių biudžetų lėšomis. ^ea6e31f0b703166e7b0265dc
 
 
 
@@ -2147,18 +2143,20 @@ priedas
 
 
 
-1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46). ^2d83b3d44fbd803647d91702
+1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46). ^822a48792a2303288136cba4
 
 
-2. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45). ^ef4df3bb727ac8b6cecc8064
+2. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45). ^cc6e1954f1ba7b30918ebdbc
 
 
-3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/95/ES dėl trečiųjų šalių piliečių ar asmenų be pilietybės priskyrimo prie tarptautinės apsaugos gavėjų, vienodo statuso pabėgėliams arba papildomą apsaugą galintiems gauti asmenims ir suteikiamos apsaugos pobūdžio reikalavimų (OL 2011 L 337, p. 9). ^a69125807aecf7d669219b27
+3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/95/ES dėl trečiųjų šalių piliečių ar asmenų be pilietybės priskyrimo prie tarptautinės apsaugos gavėjų, vienodo statuso pabėgėliams arba papildomą apsaugą galintiems gauti asmenims ir suteikiamos apsaugos pobūdžio reikalavimų (OL 2011 L 337, p. 9). ^a2454f0f387ba2c5e748bfb0
 
 
-4. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1). ^18441bc79338e43062aa1bcc
+4. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1233 dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių. ^0739bc504dc11b7a7a3eded7
 Papildyta punktu:
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
+Punkto pakeitimai:
+Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
 
 
 
@@ -2237,14 +2235,14 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1219, 2002-12-03, Žin., 2002, Nr. 123-5512 (2002-12-24)
 SVEIKATOS DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus šiame straipsnyje numatytas išimtis.
-Sveikatos draudimo įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 1, 5 ir 6 dalyse numatytų privalomojo sveikatos draudimo įmokų administravimas pagal to paties įstatymo [[#^94257ee2265a95f3e511356a|8 straipsnio 1 dalį]] ir [[#^96acbaf9fe4221c57a3af01f|18 straipsnio 3 dalį]] Valstybinei mokesčių inspekcijai perduodamas nuo 2004 m. sausio 1 d.
-Iki [[#^ef4df3bb727ac8b6cecc8064|šio straipsnio 2 dalyje]] nurodytų įmokų administravimo perdavimo Valstybinei mokesčių inspekcijai:
-1) Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai tikrina, ar yra sumokėtos Sveikatos draudimo įstatymo [[#^e830453f93a6db3499b1f14e|17 straipsnio 1 dalyje]] numatytos privalomojo sveikatos draudimo įmokos, ir teikia Valstybinei ligonių kasai bei teritorinėms ligonių kasoms reikalingą informaciją apie atskirų įmonių, organizacijų ir fizinių asmenų sumokėtas ir nesumokėtas privalomojo sveikatos draudimo įmokas, taip pat, jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 MGL, tos teritorinės ligonių kasos teikimu tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas; ^ab1e49e8c0304b7afc9b258b
-2) Valstybinio socialinio draudimo fondo valdyba, mokėdama Sveikatos draudimo įstatymo [[#^e830453f93a6db3499b1f14e|17 straipsnio 1 dalyje]] numatytas įmokas, centralizuotai kas 3 dienas perveda lėšas iš Valstybinio socialinio draudimo fondo biudžeto sąskaitos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą; ^01d5d932755c56fc8dbcf0ee
-3) vadovaudamiesi Valstybinio socialinio draudimo įstatymu ir kitais teisės aktais, Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai ne ginčo tvarka išieško Valstybinio socialinio draudimo fondui priklausančias įmokas, delspinigius, baudas ir 3 procentus išieškotų sumų perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą; ^d8841331b099b1a1a09821fb
-4) jeigu Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai laiku neperveda surinktų privalomojo sveikatos draudimo įmokų į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą, jie moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą. ^9aa225742bbecd4f99753557
-Sveikatos draudimo įstatymo [[#^f04cca06f0aaae0f8dea5a37|9 straipsnio 3 dalies 4 punktas]], [[#^278b8fc9e01e96bd5255cca5|16 straipsnio 2 dalis]] ir [[#^33c1fcc58059057956c19d5c|21 straipsnio 1 dalies 5 punktas]] įsigalioja 2004 m. sausio 1 d.
-Sveikatos draudimo įstatymo [[#^4d5c4897e06504266f52acd8|17 straipsnio 3 dalyje]] nustatytos privalomojo sveikatos draudimo įmokos už 2002 metus apskaičiuojamos tokia pat tvarka kaip už 2001 metus.
+Sveikatos draudimo įstatymo [[#17 straipsnis. Privalomojo sveikatos draudimo įmokos|17 straipsnio]] 1, 5 ir 6 dalyse numatytų privalomojo sveikatos draudimo įmokų administravimas pagal to paties įstatymo [[#^2788c89ab824c64b362b378b|8 straipsnio 1 dalį]] ir [[#^818cea6b10c59bdde210550b|18 straipsnio 3 dalį]] Valstybinei mokesčių inspekcijai perduodamas nuo 2004 m. sausio 1 d.
+Iki [[#^cc6e1954f1ba7b30918ebdbc|šio straipsnio 2 dalyje]] nurodytų įmokų administravimo perdavimo Valstybinei mokesčių inspekcijai:
+1) Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai tikrina, ar yra sumokėtos Sveikatos draudimo įstatymo [[#^64f83fd1fd6cd7febedad784|17 straipsnio 1 dalyje]] numatytos privalomojo sveikatos draudimo įmokos, ir teikia Valstybinei ligonių kasai bei teritorinėms ligonių kasoms reikalingą informaciją apie atskirų įmonių, organizacijų ir fizinių asmenų sumokėtas ir nesumokėtas privalomojo sveikatos draudimo įmokas, taip pat, jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 MGL, tos teritorinės ligonių kasos teikimu tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas; ^43faacdd7dd2f9e528bd37e8
+2) Valstybinio socialinio draudimo fondo valdyba, mokėdama Sveikatos draudimo įstatymo [[#^64f83fd1fd6cd7febedad784|17 straipsnio 1 dalyje]] numatytas įmokas, centralizuotai kas 3 dienas perveda lėšas iš Valstybinio socialinio draudimo fondo biudžeto sąskaitos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą; ^1de77cddcdf9ad69f52beb8c
+3) vadovaudamiesi Valstybinio socialinio draudimo įstatymu ir kitais teisės aktais, Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai ne ginčo tvarka išieško Valstybinio socialinio draudimo fondui priklausančias įmokas, delspinigius, baudas ir 3 procentus išieškotų sumų perveda į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą; ^d6c05a6679abe70d3d7392be
+4) jeigu Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai laiku neperveda surinktų privalomojo sveikatos draudimo įmokų į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą, jie moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčio mokėjimą. ^3548267a332a68d0fe1d478b
+Sveikatos draudimo įstatymo [[#^f04cca06f0aaae0f8dea5a37|9 straipsnio 3 dalies 4 punktas]], [[#^e30e3e21da340eac91c570b3|16 straipsnio 2 dalis]] ir [[#^468c128cfde13393790f992e|21 straipsnio 1 dalies 5 punktas]] įsigalioja 2004 m. sausio 1 d.
+Sveikatos draudimo įstatymo [[#^45e1e6a8a1842abae883173b|17 straipsnio 3 dalyje]] nustatytos privalomojo sveikatos draudimo įmokos už 2002 metus apskaičiuojamos tokia pat tvarka kaip už 2001 metus.
 Nauja įstatymo redakcija
                 Pakeitimas:
 11.1.
@@ -2377,7 +2375,7 @@ SVEIKATOS DRAUDIMO ĮSTATYMO 6, 8, 17, 18, [[#19 straipsnis. Atsakomybė už pri
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-448, 2009-10-22, Žin., 2009, Nr. 130-5638 (2009-10-31)
 SVEIKATOS DRAUDIMO ĮSTATYMO 7, 30, 31, 33, [[#34 straipsnis. Neteko galios nuo 2025-07-01|34 STRAIPSNIŲ]] PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^ef4df3bb727ac8b6cecc8064|šio straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^cc6e1954f1ba7b30918ebdbc|šio straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d.
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2411,7 +2409,7 @@ SVEIKATOS DRAUDIMO ĮSTATYMO [[#16 straipsnis. Valstybės biudžeto įmokos į P
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1149, 2010-11-18, Žin., 2010, Nr. 142-7263 (2010-12-04)
 SVEIKATOS DRAUDIMO ĮSTATYMO [[#9 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojama sveikatos priežiūra|9 STRAIPSNIO]] PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^ef4df3bb727ac8b6cecc8064|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^cc6e1954f1ba7b30918ebdbc|šio straipsnio 2 dalį]], įsigalioja 2011 m. sausio 1 d.
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2466,7 +2464,7 @@ SVEIKATOS DRAUDIMO ĮSTATYMO 8, 17, [[#18 straipsnis. Privalomojo sveikatos drau
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-526, 2013-10-01, Žin., 2013, Nr. 107-5274 (2013-10-12)
 SVEIKATOS DRAUDIMO ĮSTATYMO 1, 2, 6, [[#21 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto išlaidos|21 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^200a0da9faeee833da075e58|7 straipsnio 2 dalį]], įsigalioja 2013 m. spalio 25 d.
+Šis įstatymas, išskyrus [[#^bf547d90459343961a220fd7|7 straipsnio 2 dalį]], įsigalioja 2013 m. spalio 25 d.
 
 49.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2478,13 +2476,13 @@ SVEIKATOS DRAUDIMO ĮSTATYMO 13(1) IR [[#14 straipsnis. Privalomojo sveikatos dr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-655, 2013-12-10, Žin., 2013, Nr. 132-6734 (2013-12-21)
 SVEIKATOS DRAUDIMO ĮSTATYMO [[#21 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto išlaidos|21 STRAIPSNIO]] PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^ef4df3bb727ac8b6cecc8064|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^cc6e1954f1ba7b30918ebdbc|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d.
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1001, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10432
 LIETUVOS RESPUBLIKOS SVEIKATOS DRAUDIMO ĮSTATYMO NR. I-1343 [[#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^ef4df3bb727ac8b6cecc8064|šio straipsnio 2 dalį]], įsigalioja 2015 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^cc6e1954f1ba7b30918ebdbc|šio straipsnio 2 dalį]], įsigalioja 2015 m. sausio 1 d.
 
 
 Konstitucinio Teismo nutarimai:
@@ -2805,15 +2803,10 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9, 10 ir [[#26 stra
 
 62.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XV-603, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20815
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 7 ir [[#30 straipsnis. Valstybinės ligonių kasos funkcijos|30 straipsnių]] pakeitimo įstatymas
+Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#6 straipsnis. Draudžiamieji ir apdraustieji privalomuoju sveikatos draudimu|6 straipsnio]] ir priedo pakeitimo įstatymas
 
 63.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XV-739, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00070
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#16 straipsnis. Valstybės biudžeto įmokos į Privalomojo sveikatos draudimo fondo|16 straipsnio]] pakeitimo įstatymas
-
-64.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-824, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06395
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#8 straipsnis. Privalomojo sveikatos draudimo galiojimas|8 straipsnio]] pakeitimo įstatymas

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.38B0127A21E8.md",
   "latest_revision": "1996-10-18",
-  "latest_sha256": "da21a9c15371aa7a80e57973c1834580e989915409a95be9ca005deb430eef44",
+  "latest_sha256": "08510bbe483fe75ae7220095871735de4f98b8d0092ccd0bbf62328c7f0b70a7",
   "metadata_path": "latest/TAR.38B0127A21E8.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos prekybinės laivybos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:07Z"
 }

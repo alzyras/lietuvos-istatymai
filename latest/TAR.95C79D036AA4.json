@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.95C79D036AA4.md",
   "latest_revision": "2003-07-16",
-  "latest_sha256": "a3d0aa35de3c3d12548aaac98fba56e77bfa1182bdb02604d7c0ac0cdcd591ad",
+  "latest_sha256": "cec56544bc25790702076e93f25e15e579049d281f6bee962cc1a4d5b6d67feb",
   "metadata_path": "latest/TAR.95C79D036AA4.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:34Z"
 }

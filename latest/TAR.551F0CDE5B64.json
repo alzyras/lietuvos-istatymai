@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.551F0CDE5B64.md",
   "latest_revision": "1999-06-09",
-  "latest_sha256": "22ef1c8d49a76d738862422521338e6a255db591f1e896a61a3c625d68955ec7",
+  "latest_sha256": "bf2ee07e06658cf2f507c1523044821fde2bbfc9bc0450cc64217c7c47484c21",
   "metadata_path": "latest/TAR.551F0CDE5B64.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:42Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.8FBB384266D1.md",
   "latest_revision": "2000-10-01",
-  "latest_sha256": "b1ebf9a3b500626db6e43752f46e43dcebce5b0ef039365cd42582b299fc6c10",
+  "latest_sha256": "745c8e4f8fd9b25d69ddc4b2ffe9f26f199759757da65998bab98b226d264ae3",
   "metadata_path": "latest/TAR.8FBB384266D1.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos saugios laivybos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:31Z"
 }

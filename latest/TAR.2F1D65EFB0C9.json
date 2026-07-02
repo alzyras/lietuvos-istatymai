@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.2F1D65EFB0C9.md",
   "latest_revision": "2000-04-28",
-  "latest_sha256": "470aa724df5025113cd112fa52c051c2b169fd7f9186b5c8f97b19f8b0db28d0",
+  "latest_sha256": "f6c00465d5e2cbb93c7793934005d881160fb7b986e855e63425a6bcc6099627",
   "metadata_path": "latest/TAR.2F1D65EFB0C9.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos standartizacijos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:42Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.199156E4E004.md",
   "latest_revision": "1991-12-15",
-  "latest_sha256": "160c9b5b767dd28bd9edbe93c1554929eb8d0d06f426f209ab2f56e925c076f2",
+  "latest_sha256": "d79babea0c9924988cd7ec3b49de635d312c5af640f019433c30d6b92d5dbc49",
   "metadata_path": "latest/TAR.199156E4E004.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:28Z"
 }

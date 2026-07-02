@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.42837E5A79DD.md",
   "latest_revision": "2004-04-30",
-  "latest_sha256": "5e9562e82e764f0fbbdd137c6aeff2ef7ef370a2cc1ed4c7f012cc2213630f00",
+  "latest_sha256": "407ef96794b6f0ced194e388ca027450e92dd7ea4c1061d8d7e86d6ba20324b9",
   "metadata_path": "latest/TAR.42837E5A79DD.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:52Z"
 }

@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/8b5a4a1088f711e8af589337bf1eb893.md",
   "latest_revision": "2019-01-01",
-  "latest_sha256": "6c3319f892ffe6b71e7810cec8763bcd78bc559c5c5c352c1ecc1fe07cd03300",
+  "latest_sha256": "7f24e2651039829608aadbf8433e5e66682864d0d7d6603bf2a90edc8d93085d",
   "metadata_path": "latest/8b5a4a1088f711e8af589337bf1eb893.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos bausmių vykdymo sistemos įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:25:52Z"
 }

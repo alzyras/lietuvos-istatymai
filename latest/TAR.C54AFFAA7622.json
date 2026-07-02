@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.C54AFFAA7622.md",
   "latest_revision": "1997-01-01",
-  "latest_sha256": "4ff1f9caa13a4904527dc899cdd024228166660f0761450d042cc03883816a3a",
+  "latest_sha256": "7c90bbd685c91b1892e41d946f43923400702645a71a65fda9c5a935a71cc875",
   "metadata_path": "latest/TAR.C54AFFAA7622.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos viešųjų pirkimų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

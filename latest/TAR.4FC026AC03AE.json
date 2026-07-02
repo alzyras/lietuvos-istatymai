@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.4FC026AC03AE.md",
   "latest_revision": "2003-05-01",
-  "latest_sha256": "b6e7c3c0cc8645fdeea5f02b0244ede9a3ad5b1dd20179331f6a01e6e5836e1c",
+  "latest_sha256": "46d92a41026ad70e08c5b11f2ebe5d694c07cd9b8b8f0078ac8ca81d48506ad4",
   "metadata_path": "latest/TAR.4FC026AC03AE.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:28Z"
 }

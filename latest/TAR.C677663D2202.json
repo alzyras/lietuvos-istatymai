@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.C677663D2202.md",
   "latest_revision": "2003-01-01",
-  "latest_sha256": "4a1610d5e49ca8c253248eea89b7536913743c14399b9c2a6887c68ede79f18e",
+  "latest_sha256": "3b1d3a19e91a4e9b7cb5ebbdb7dae3c5f027396beb8cc3e86e14677b2ca3f982",
   "metadata_path": "latest/TAR.C677663D2202.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }

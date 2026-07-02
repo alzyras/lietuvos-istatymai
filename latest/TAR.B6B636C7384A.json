@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.B6B636C7384A.md",
   "latest_revision": "2004-05-01",
-  "latest_sha256": "238d8950b6b4f8134bd59d3114d192ce51b673c7aa97baaf7c7c91756a90bf5b",
+  "latest_sha256": "2fef8f7dfc990f2a967a80e231a3c2518d8694cb38a2544822a95d9718af8783",
   "metadata_path": "latest/TAR.B6B636C7384A.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos bankų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:07Z"
 }

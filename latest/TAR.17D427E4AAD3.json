@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.17D427E4AAD3.md",
   "latest_revision": "1998-07-03",
-  "latest_sha256": "4090c0c5900b289d8d04dfa5c0b3e1f71c51d0ea27ca68c8145df9c70be53932",
+  "latest_sha256": "1b18dbd7c1686f2e45a3d61765f0cc408f20050196defc2d07dd1796cccaf436",
   "metadata_path": "latest/TAR.17D427E4AAD3.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos policijos rėmėjų įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:47Z"
+  "updated_from_source_at": "2026-07-02T19:26:25Z"
 }

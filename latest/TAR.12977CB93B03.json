@@ -9,7 +9,7 @@
   "is_national": true,
   "latest_path": "latest/TAR.12977CB93B03.md",
   "latest_revision": "1993-12-29",
-  "latest_sha256": "8910a35658e7d117a79c5f113fe31384fe0b7b0050a0f30e1a88c73a3cf0df2e",
+  "latest_sha256": "38c8fc8a9a16c981c904fa11186256aa397fefc77a653a56ce93f4e71b10d101",
   "metadata_path": "latest/TAR.12977CB93B03.json",
   "parser_version": "0.1.0",
   "revision_count": 0,
@@ -19,5 +19,5 @@
   "status": "galioja",
   "title": "Lietuvos Respublikos paramos mirties atveju įstatymas",
   "type": "Įstatymas",
-  "updated_from_source_at": "2026-05-13T18:52:31Z"
+  "updated_from_source_at": "2026-07-02T19:26:17Z"
 }
